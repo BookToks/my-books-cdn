@@ -1,0 +1,24 @@
+Die Kontradiktion ist die äussere Grenze der Sätze, die Tautologie ihr substanzloser Mittelpunkt.
+ 
+ 5.15 Ist W die Anzahl der Wahrheitsgründe des Satzes „r“, W die r rs Anzahl derjenigen Wahrheitsgründe des Satzes „s“, die zugleich Wahrheitsgründe von „r“ sind, dann nennen wir das Verhältnis: W : W das Mass der Wahrscheinlichkeit, welche der rs r Satz „r“ dem Satz „s“ gibt.
+ 
+ 5.151 Sei in einem Schema wie dem obigen in No. 5.101 W die Anzahl r der „W“ im Satze r; W die Anzahl derjenigen „W“ im Satze s, rs die in gleichen Kolonnen mit „W“ des Satzes r stehen. Der Satz r gibt dann dem Satze s die Wahrscheinlichkeit: W : W .
+ 
+ rs r 5.1511 Es gibt keinen besonderen Gegenstand, der den Wahrscheinlichkeitssätzen eigen wäre.
+ 
+ 5.152 Sätze, welche keine Wahrheitsargumente mit einander gemein haben, nennen wir von einander unabhängig.
+ 
+ Von einander unabhängige Sätze (z. B. irgend zwei Elementarsätze) geben einander die Wahrscheinlichkeit 1.
+ 
+ 2 Folgt p aus q, so gibt der Satz „q“ dem Satz „p“ die Wahrscheinlichkeit 1. Die Gewissheit des logischen Schlusses ist ein Grenzfall der Wahrscheinlichkeit.
+ 
+ (Anwendung auf Tautologie und Kontradiktion.) 5.153 EinSatzistansichwederwahrscheinlichnochunwahrscheinlich.
+ 
+ Ein Ereignis trifft ein, oder es trifft nicht ein, ein Mittelding gibt es nicht.
+ 
+ 5.154 In einer Urne seien gleichviel weisse und schwarze Kugeln (und keine anderen). Ich ziehe eine Kugel nach der anderen und lege sie wieder in die Urne zurück. Dann kann ich durch den Versuch feststellen, dass sich die Zahlen der gezogenen schwarzen und weissen Kugeln bei fortgesetztem Ziehen einander nähern.
+ 
+ Das ist also kein mathematisches Faktum.
+ 
+ Wenn ich nun sage: Es ist gleich wahrscheinlich, dass ich eine weisse Kugel wie eine schwarze ziehen werde, so heisst das: Alle mir bekannten Umstände (die hypothetisch angenommenen Naturgesetze mitinbegriffen) geben dem Eintreffen des einen Er128 LOGISCH-PHILOSOPHISCHE ABHANDLUNG eignisses nicht mehr Wahrscheinlichkeit als dem Eintreffen des anderen.
+ 

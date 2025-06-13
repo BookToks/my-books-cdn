@@ -1,0 +1,18 @@
+That precedent to which one would always appeal, must be present in the symbol itself.
+ 
+ 5.526 One can describe the world completely by completely generalized propositions, i.e. without from the outset co-ordinating any name with a definite object.
+ 
+ In order then to arrive at the customary way of expression we need simply say after an expression “there is one and only one x, which ....”: and this x is a.
+ 
+ 5.5261 A completely generalized proposition is like every other proposition composite. (This is shown by the fact that in “(∃x,φ).φx” we must mention “φ” and “x” separately. Both stand independentlyinsignifyingrelationstotheworldasintheungeneralized proposition.) A characteristic of a composite symbol: it has something in common with other symbols.
+ 
+ 5.5262 The truth or falsehood of every proposition alters something in the general structure of the world. And the range which is allowed to its structure by the totality of elementary propositions is exactly that which the completely general propositions delimit.
+ 
+ (If an elementary proposition is true, then, at any rate, there is one more elementary proposition true.) 5.53 Identity of the object I express by identity of the sign and not by meansofasignofidentity. Differenceoftheobjectsbydifference of the signs.
+ 
+ 5.5301 That identity is not a relation between objects is obvious. This becomes very clear if, for example, one considers the proposition “(x) : fx. ⊃ .x = a”. What this proposition says is simply that only a satisfies the function f, and not that only such things satisfy the function f which have a certain relation to a.
+ 
+ One could of course say that in fact only a has this relation to a, but in order to express this we should need the sign of identity itself.
+ 
+ 69 TRACTATUS LOGICO-PHILOSOPHICUS 5.
+ 

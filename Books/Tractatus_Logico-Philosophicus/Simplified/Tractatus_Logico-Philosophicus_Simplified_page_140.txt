@@ -1,0 +1,30 @@
+514 Ist eine Notation festgelegt, so gibt es in ihr eine Regel, nach der alle p verneinenden Sätze gebildet werden, eine Regel, nach der alle p bejahenden Sätze gebildet werden, eine Regel, nach der alle p oder q bejahenden Sätze gebildet werden, u. s. f. Diese Regeln sind den Symbolen äquivalent und in ihnen spiegelt sich ihr Sinn wider.
+ 
+ 5.515 Es muss sich an unseren Symbolen zeigen, dass das, was durch „∨“, „.“, etc. miteinander verbunden ist, Sätze sein müssen.
+ 
+ Und dies ist auch der Fall, denn das Symbol „p“ und „q“ setzt ja selbst das „∨“, „∼“, etc. voraus. Wenn das Zeichen „p“ in „p∨q“ nicht für ein komplexes Zeichen steht, dann kann es allein nicht Sinn haben; dann können aber auch die mit „p“ gleichsinnigen Zeichen „p∨p“, „p.p“, etc. keinen Sinn haben.
+ 
+ Wenn aber „p ∨ p“ keinen Sinn hat, dann kann auch „p ∨ q“ keinen Sinn haben.
+ 
+ 5.5151 Muss das Zeichen des negativen Satzes mit dem Zeichen des positiven gebildet werden? Warum sollte man den negativen Satz nicht durch eine negative Tatsache ausdrücken können.
+ 
+ (Etwa: Wenn „a“ nicht in einer bestimmten Beziehung zu „b“ steht, könnte das ausdrücken, dass aRb nicht der Fall ist.) Aber auch hier ist ja der negative Satz indirekt durch den positiven gebildet.
+ 
+ Der positive Satz muss die Existenz des negativen Satzes voraussetzen und umgekehrt.
+ 
+ 5.52 Sind die Werte von ξ sämtliche Werte einer Funktion fx für alle Werte von x, so wird N(ξ) = ∼(∃x).fx.
+ 
+ 5.521 Ich trenne den Begriff Alle von der Wahrheitsfunktion.
+ 
+ Frege und Russell haben die Allgemeinheit in Verbindung mit dem logischen Produkt oder der logischen Summe eingeführt. So wurde es schwer, die Sätze „(∃x).fx“ und „(x).fx“, in welchen beide Ideen beschlossen liegen, zu verstehen.
+ 
+ 5.522 Das Eigentümliche der Allgemeinheitsbezeichnung ist erstens, dass sie auf ein logisches Urbild hinweist, und zweitens, dass sie Konstante hervorhebt.
+ 
+ 5.523 Die Allgemeinheitsbezeichnung tritt als Argument auf.
+ 
+ 138 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 5.
+ 
+
+ 
+(Simplified)
+ 

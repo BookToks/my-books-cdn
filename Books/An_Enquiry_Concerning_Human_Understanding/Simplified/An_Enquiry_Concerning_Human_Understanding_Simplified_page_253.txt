@@ -1,0 +1,24 @@
+3.3 possible6: note 5in Beauchamp’s numbering system relates to text omitted from the 1777edition; please see Note on the Text, p. lviii, above.
+ 
+ For the wording of note 6in the 1772edition, see p. 182.
+ 
+ 3.3 compleat and entire: in all editions of the Enquiryprior to 1777, Section III continued with a discussion of the association of ideas in its application to literature: see Textual Variants, pp. 178‒83.
+ 
+ SECTION IV 4.1 Relations of Ideas, and Matters of Fact: a distinction commonly known asHume’s Fork: see §10of the Introduction, above.
+ 
+ 4.1 EUCLID: Greek mathematician who flourished in Alexandria around 300bc, and whose Elementsprovided the authoritative axiomatic treatment of geometry until the nineteenth century, when non-Euclidean geometries were discovered. Perhaps the most famous example of a proposition ‘demonstrated by Euclid’ is Pythagoras’ Theorem, that in any right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides—so for example a triangle whose sides are of lengths 3, 4, and 5metres will be right-angled, since 32+42=52(cf.12.27).
+ 
+ 4.2 The contrary . . . is still possible: Hume here states what is widely known as his Conceivability Principle, that any proposition which is distinctly conceivable is logically possible, implying no contradiction. The Principle has already been anticipated at 2.4, and will occur again at 4.18.
+ 
+ 4.6 reasonings à priori: reasonings are a priori if they do not rely on any empirical information, e.g. from observation or experience. However, Hume’s interest here is on what, if anything, can be inferred from our observations. So he uses the term ‘à priori’ in a slightly different way, to mean inference which does not rely on any rememberedempirical information(as opposed to immediate observation). See §10of the Introduction.
+ 
+ 4.6 ADAM: according to Genesis, the first book of the Hebrew Bible, Adam was the first man created by God. Here Hume imagines a thoughtexperiment in which Adam, newly created with ideal human faculties but no experience to call on, would be quite unable to predict the behaviour of natural objects.
+ 
+ 4.6 discovers: reveals. See the Glossary, below, for other words whose meaning is ambiguous or has changed since the eighteenth century.
+ 
+ 4.7 loadstone: a lodestone is a magnetized stone containing iron, which if suspended from a string can act as a compass by aligning itself with the Earth’s magnetic field.
+ 
+
+ 
+(Simplified)
+ 

@@ -1,0 +1,15 @@
+Communication, common knowledge, and decision making are important to understand. Let’s start by thinking about a simple case. Imagine a company with only one employee. That person writes and tests all the code, handles marketing and sales, and manages everything. She knows everything about the company, makes all the decisions, doesn’t need to talk to anyone else, and is completely on the same page with herself.
+
+As the company gets bigger, things will get harder in every way.
+
+But if the company doesn’t grow, it won’t become much of a company. So the challenge is to grow while keeping problems from getting worse too fast.
+
+A good example of this is American football. An offensive lineman’s job is to protect the quarterback from defensive players rushing at him. If the lineman just stands his ground, the defender will easily get around him and tackle the quarterback. So linemen are taught to lose slowly, stepping back only a little bit at a time.
+
+When your company grows, you also need to step back slowly. Specialization, organization, and processes make things more complicated. Using them can feel like you’re losing clear communication and shared knowledge. It’s like the lineman stepping back a little to stop the defender from breaking through.
+
+HOW TO DO IT  
+When adding new people feels like more work than the help they give, it means the defensive lineman has gotten past you. That’s when you need to start stepping back slowly.
+
+SPECIALIZATION  
+The first way to grow is by having people focus on specific tasks. In startups, everyone does a bit of everything. For example, engineers write code, manage the build system, test the product, and also deploy and run it.

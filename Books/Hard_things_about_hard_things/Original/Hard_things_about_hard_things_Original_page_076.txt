@@ -1,0 +1,16 @@
+“Just because we missed the intermediate milestones doesn’t mean we won’t hit our product schedule.” In engineering meetings where there is great pressure to ship on time—a customer commitment, a quarter that depends on it, or a competitive imperative—everybody hopes for good news. When the facts don’t align with the good news, a clever manager will find the narrative to make everybody feel better—until the next meeting.
+ 
+ “We have a very high churn rate, but as soon as we turn on email marketing to our user base, people will come back.” Yes, of course. The reason that people leave our service and don’t come back is that we have not been sending them enough spam. That makes total sense to me, too.
+ 
+ Where do lies come from?
+ 
+ To answer that question, I thought back to a conversation I had years ago with the incomparable Andy Grove.
+ 
+ Back at the tail end of the Great Internet Bubble in 2001, as all the big technology companies began missing their quarters by giant amounts, I found myself wondering how none of them saw it coming. One would think that after the dot-com crash of April 2000, companies like Cisco, Siebel, and HP would realize that they would soon face a slowdown as many of their customers hit the wall. But despite perhaps the most massive and public early warning system ever, each CEO reiterated strong guidance right up to the point where they dramatically whiffed their quarters.
+ 
+ I asked Andy why these great CEOs would lie about their impending fate.
+ 
+ He said they were not lying to investors, but rather, they were lying to themselves.
+ 
+ Andy explained that humans, particularly those who build things, only listen to leading indicators of good news. For example, if a CEO hears that engagement for her application increased an incremental 25 percent beyond the normal growth rate one month, she will be off to the races hiring more engineers to keep up with the impending tidal wave of demand. On the other hand, if engagement decreases 25 percent, she will be equally intense and urgent in explaining it away: “The site was slow that month, there were four holidays, and we made a UI change that caused all the problems. For gosh sakes, let’s not panic!” Both leading indicators may have been wrong, or both may have been right, but our hypothetical CEO—like almost every other CEO—only took action on the positive indicator and only looked for alternative explanations on the negative leading indicator.
+ 

@@ -1,0 +1,12 @@
+WHAT SHOULD YOU DO FIRST?
+ 
+ The best place to start is with the topic that is most relevant to your employees: the knowledge and skill that they need to do their job. I call this functional training. Functional training can be as simple as training a new employee on your expectations for them (see “Good Product Manager/Bad Product Manager”) and as complex as a multiweek engineering boot camp to bring new recruits completely up to speed on all of the historical architectural nuances of your product. The training courses should be tailored to the specific job. If you attempt the more complex-style course, be sure to enlist the best experts on the team as well as the manager. As a happy side effect, this type of effort will do more to build a powerful, positive company culture than a hundred culturebuilding strategic off-site meetings.
+ 
+ The other essential component of a company’s training program is management training. Management training is the best place to start setting expectations for your management team. Do you expect them to hold regular one-on-one meetings with their employees? Do you expect them to give performance feedback? Do you expect them to train their people? Do you expect them to agree on objectives with their team? If you do, then you’d better tell them, because the management state of the art in technology companies is extremely poor. Once you’ve set expectations, the next set of management courses has already been defined; they are the courses that teach your managers how to do the things you expect (how to write a performance review or how to conduct a one-on-one).
+ 
+ Once you have management training and functional training in place, there are other opportunities as well. One of the great things about building a tech company is the amazing people that you can hire. Take your best people and encourage them to share their most developed skills. Training in such topics as negotiating, interviewing, and finance will enhance your company’s competency in those areas as well as improve employee morale. Teaching can also become a badge of honor for employees who achieve an elite level of competence.
+ 
+ IMPLEMENTING YOUR TRAINING PROGRAM Now that we understand the value of the training and what to train on, how do we get our organization to do what we want? The first thing to recognize is that no startup has time to do optional things. Therefore, training must be mandatory.
+ 
+ The first two types of training (functional and management) can be easily
+ 

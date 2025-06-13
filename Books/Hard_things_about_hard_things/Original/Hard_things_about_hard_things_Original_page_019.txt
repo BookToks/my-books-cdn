@@ -1,0 +1,16 @@
+STARTING A COMPANY At the end of 1998 and under immense pressure from Microsoft, which used the full force of its operating system monopoly to subsidize free products in every category in which Netscape competed, we sold the company to America Online (AOL). In the short term, this was a big victory for Microsoft since it had driven its biggest threat into the arms of a far less threatening competitor. In the long term, however, Netscape inflicted irreparable damage on Microsoft’s stronghold on the computing industry: our work moved developers from Win32 API, Microsoft’s proprietary platform, to the Internet. Someone writing new functionality for computers no longer wrote for Microsoft’s proprietary platform.
+ 
+ Instead, they wrote to the Internet and World Wide Web’s standard interfaces.
+ 
+ Once Microsoft lost its grip on developers, it became only a matter of time before it lost its monopoly on operating systems. Along the way, Netscape invented many of the foundational technologies of the modern Internet, including JavaScript, SSL, and cookies.
+ 
+ Once inside AOL, I was assigned to run the e-commerce platform and Marc became the chief technology officer. After a few months, it became apparent to both of us that AOL saw itself as more of a media company than a technology company. Technology enabled great new media projects, but the strategy was a media strategy and the top executive, Bob Pittman, was a genius media executive. Media companies focused on things like creating great stories whereas technology companies focused on creating a better way of doing things.
+ 
+ We began to think about new ideas and about forming a new company.
+ 
+ In the process, we added two other potential cofounders to the discussion. Dr.
+ 
+ Timothy Howes was coinventor of the Lightweight Directory Access Protocol (LDAP), a masterful simplification of its byzantine X.500 predecessor. We hired Tim into Netscape in 1996 and together we successfully made LDAP the Internet directory standard. To this day, if a program is interested in information about a person, it accesses that information via LDAP. The fourth member of our team was In Sik Rhee, who had cofounded an application server company called Kiva Systems, which Netscape had acquired. He had been acting as CTO of the e-commerce division that I ran and, in particular, worked closely with the partner companies in making sure that they could handle the AOL scale.
+ 
+ As we discussed ideas, In Sik complained that every time we tried to connect an AOL partner on the AOL e-commerce platform, the partner’s site would crash, because it couldn’t handle the traffic load. Deploying software to scale to
+ 

@@ -1,0 +1,36 @@
+4.1274 Thequestionabouttheexistenceofaformalconceptissenseless.
+ 
+ For no proposition can answer such a question.
+ 
+ (For example, one cannot ask: “Are there unanalysable subject-predicate propositions?”) 4.128 The logical forms are anumerical.
+ 
+ Therefore there are in logic no pre-eminent numbers, and therefore there is no philosophical monism or dualism, etc.
+ 
+ 4.2 The sense of a proposition is its agreement and disagreement with the possibilities of the existence and non-existence of the atomic facts.
+ 
+ 4.21 The simplest proposition, the elementary proposition, asserts the existence of an atomic fact.
+ 
+ 4.211 It is a sign of an elementary proposition, that no elementary proposition can contradict it.
+ 
+ 4.22 The elementary proposition consists of names. It is a connexion, a concatenation, of names.
+ 
+ 4.221 It is obvious that in the analysis of propositions we must come toelementarypropositions, whichconsistofnamesinimmediate combination.
+ 
+ The question arises here, how the propositional connexion comes to be.
+ 
+ 4.2211 Eveniftheworldisinfinitelycomplex, sothateveryfactconsists of an infinite number of atomic facts and every atomic fact is composed of an infinite number of objects, even then there must be objects and atomic facts.
+ 
+ 4.23 The name occurs in the proposition only in the context of the elementary proposition.
+ 
+ 4.24 The names are the simple symbols, I indicate them by single letters (x, y, z).
+ 
+ The elementary proposition I write as function of the names, in the form “fx”, “φ(x,y)”, etc.
+ 
+ Or I indicate it by the letters p, q, r.
+ 
+ 49 TRACTATUS LOGICO-PHILOSOPHICUS 4.
+ 
+
+ 
+(Simplified)
+ 

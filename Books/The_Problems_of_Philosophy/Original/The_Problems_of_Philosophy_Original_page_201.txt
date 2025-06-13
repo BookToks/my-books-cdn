@@ -1,0 +1,6 @@
+Thus the actual occurrence, at the moment when Othello is entertaining his belief, is that the relation called "believing" is knitting together into one complex whole the four terms Othello, Desdemona, loving, and Cassio. What is called belief or judgment is nothing but this relation of believing or judging, which relates a mind to several things other than itself. An act of belief or of judgment is the occurrence between certain terms at some particular time, of the relation of believing or judging.
+ 
+ We are now in a position to understand what it is that distinguishes a true judgment from a false one. For this purpose we will adopt certain definitions. In every act of judgment there is a mind which judges, and there are terms concerning which it judges.
+ 
+ We will call the mind the subject in the judgment, and the remaining terms the objects. Thus, when Othello judges that Desdemona loves Cassio, Othello is the subject, 198 THE PROBLEMS OF PHILOSOPHY while the objects are Desdemona and loving and Cassio.
+ 

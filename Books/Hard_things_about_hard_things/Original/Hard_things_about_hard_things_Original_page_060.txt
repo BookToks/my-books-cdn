@@ -1,0 +1,12 @@
+In order to build a great technology company, you have to hire lots of incredibly smart people. It’s a total waste to have lots of big brains but not let them work on your biggest problems. A brain, no matter how big, cannot solve a problem it doesn’t know about. As the open-source community would explain it, “Given enough eyeballs, all bugs are shallow.” 3. A good culture is like the old RIP routing protocol: Bad news travels fast; good news travels slow.
+ 
+ If you investigate companies that have failed, you will find that many employees knew about the fatal issues long before those issues killed the company. If the employees knew about the deadly problems, why didn’t they say something?
+ 
+ Too often the answer is that the company culture discouraged the spread of bad news, so the knowledge lay dormant until it was too late to act.
+ 
+ A healthy company culture encourages people to share bad news. A company that discusses its problems freely and openly can quickly solve them. A company that covers up its problems frustrates everyone involved. The resulting action item for CEOs: Build a culture that rewards—not punishes—people for getting problems into the open where they can be solved.
+ 
+ As a corollary, beware of management maxims that stop information from flowing freely in your company. For example, consider the old management standard: “Don’t bring me a problem without bringing me a solution.” What if the employee cannot solve an important problem? For example, what if an engineer identifies a serious flaw in the way the product is being marketed? Do you really want him to bury that information? Management truisms like these may be good for employees to aspire to in the abstract, but they can also be the enemy of free-flowing information—which may be critical for the health of the company.
+ 
+ FINAL THOUGHT If you run a company, you will experience overwhelming psychological pressure to be overly positive. Stand up to the pressure, face your fear, and tell it like it is.
+ 

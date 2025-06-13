@@ -1,0 +1,32 @@
+633 Where in the world is a metaphysical subject to be noted?
+ 
+ You say that this case is altogether like that of the eye and the field of sight. But you do not really see the eye.
+ 
+ And from nothing in the field of sight can it be concluded that it is seen from an eye.
+ 
+ 5.6331 For the field of sight has not a form like this: 5.634 This is connected with the fact that no part of our experience is also a priori.
+ 
+ Everything we see could also be otherwise.
+ 
+ Everything we can describe at all could also be otherwise.
+ 
+ There is no order of things a priori.
+ 
+ 5.64 Here we see that solipsism strictly carried out coincides with pure realism. The I in solipsism shrinks to an extensionless point and there remains the reality co-ordinated with it.
+ 
+ 5.641 There is therefore really a sense in which in philosophy we can talk of a non-psychological I.
+ 
+ The I occurs in philosophy through the fact that the “world is my world”.
+ 
+ The philosophical I is not the man, not the human body or thehumansoulofwhichpsychologytreats, butthemetaphysical subject, the limit—not a part of the world.
+ 
+ 6 The general form of truth-function is: [p,ξ,N(ξ)].
+ 
+ This is the general form of proposition.
+ 
+ 6.001 Thissaysnothingelsethanthateverypropositionistheresultof successive applications of the operation N(cid:48)(ξ) to the elementary propositions.
+ 
+ 6.002 Ifwearegiventhegeneralformofthewayinwhichaproposition isconstructed, thentherebywearealsogiventhegeneralformof the way in which by an operation out of one proposition another can be created.
+ 
+ 75 TRACTATUS LOGICO-PHILOSOPHICUS 6.
+ 

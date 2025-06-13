@@ -1,0 +1,6 @@
+— CHAPTER 8 — FIRST RULE OF ENTREPRENEURSHIP: THERE ARE NO RULES “That the that the that that don’t kill me Can only make a me stronger I need you to hurry up now ’Cause I can’t wait much longer I know I got to be right now ’Cause I can’t get much wronger Man I been waitin’ all night now That’s how long I been on ya.” —KANYE WEST, “STRONGER” W hen we were in the process of selling Opsware, HP’s initial bid came in at $14 per share. BMC countered with $14.05. Then HP countered them with $14.25. John O’Farrell and I planned our strategy for closing the bidding process. We figured that if we executed correctly, the winning bid would come in at $15 per share or higher. Everybody was extremely excited.
+ 
+ Then disaster struck. Or more specifically, our auditor, Ernst & Young, nearly destroyed the deal.
+ 
+ During BMC’s diligence process, they discovered that we had accounted for three deals differently than they had. Specifically, each of our three deals contained something that had come to be known in the industry as the “CA clause” in honor of the infamous software company Computer Associates, or CA for short. The CA clause had come about as a result of some of CA’s business practices. Apparently CA had tricked their customers by selling them maintenance contracts that gave them rights to free upgrades forever for
+ 

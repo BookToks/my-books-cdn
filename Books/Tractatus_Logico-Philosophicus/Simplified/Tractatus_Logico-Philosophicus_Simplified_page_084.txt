@@ -1,0 +1,30 @@
+1271 It is clear that the number of “primitive propositions of logic” is arbitrary, for we could deduce logic from one primitive proposition by simply forming, for example, the logical product of Frege’s primitive propositions. (Frege would perhaps say that this would no longer be immediately self-evident. But it is remarkable that so exact a thinker as Frege should have appealed to the degree of self-evidence as the criterion of a logical proposition.) 6.13 Logic is not a theory but a reflexion of the world.
+ 
+ Logic is transcendental.
+ 
+ 6.2 Mathematics is a logical method.
+ 
+ The propositions of mathematics are equations, and therefore pseudo-propositions.
+ 
+ 6.21 Mathematical propositions express no thoughts.
+ 
+ 6.211 In life it is never a mathematical proposition which we need, but we use mathematical propositions only in order to infer from propositions which do not belong to mathematics to others which equally do not belong to mathematics.
+ 
+ (Inphilosophythequestion“Whydowereallyusethatword, that proposition?” constantly leads to valuable results.) 6.22 The logic of the world which the propositions of logic show in tautologies, mathematics shows in equations.
+ 
+ 6.23 If two expressions are connected by the sign of equality, this means that they can be substituted for one another. But whether this is the case must show itself in the two expressions themselves.
+ 
+ It characterizes the logical form of two expressions, that they can be substituted for one another.
+ 
+ 6.231 It is a property of affirmation that it can be conceived as double denial.
+ 
+ It is a property of “1+1+1+1” that it can be conceived as “(1+1)+(1+1)”.
+ 
+ 6.232 Frege says that these expressions have the same meaning but different senses.
+ 
+ But what is essential about equation is that it is not neces82 TRACTATUS LOGICO-PHILOSOPHICUS saryinordertoshowthatbothexpressions, whichareconnected by the sign of equality, have the same meaning: for this can be perceived from the two expressions themselves.
+ 
+
+ 
+(Simplified)
+ 

@@ -1,0 +1,32 @@
+22 In the proposition the name represents the object.
+ 
+ 3.221 ObjectsIcanonlyname. Signsrepresentthem. Icanonlyspeak of them. I cannot assert them. A proposition can only say how a thing is, not what it is.
+ 
+ 3.23 The postulate of the possibility of the simple signs is the postulate of the determinateness of the sense.
+ 
+ 3.24 A proposition about a complex stands in internal relation to the proposition about its constituent part.
+ 
+ A complex can only be given by its description, and this will either be right or wrong. The proposition in which there is mention of a complex, if this does not exist, becomes not nonsense but simply false.
+ 
+ That a propositional element signifies a complex can be seen from an indeterminateness in the propositions in which it occurs. We know that everything is not yet determined by this proposition. (The notation for generality contains a prototype.) The combination of the symbols of a complex in a simple symbol can be expressed by a definition.
+ 
+ 3.25 There is one and only one complete analysis of the proposition.
+ 
+ 3.251 The proposition expresses what it expresses in a definite and clearly specifiable way: the proposition is articulate.
+ 
+ 3.26 The name cannot be analysed further by any definition. It is a primitive sign.
+ 
+ 3.261 Every defined sign signifies via those signs by which it is defined, and the definitions show the way.
+ 
+ Two signs, one a primitive sign, and one defined by primitive signs, cannot signify in the same way. Names cannot be taken to pieces by definition (nor any sign which alone and independently has a meaning).
+ 
+ 3.262 What does not get expressed in the sign is shown by its application. What the signs conceal, their application declares.
+ 
+ 3.263 The meanings of primitive signs can be explained by elucidations. Elucidations are propositions which contain the primitive signs. They can, therefore, only be understood when the meanings of these signs are already known.
+ 
+ 33 TRACTATUS LOGICO-PHILOSOPHICUS 3.
+ 
+
+ 
+(Simplified)
+ 

@@ -1,0 +1,34 @@
+25 Es gibt eine und nur eine vollständige Analyse des Satzes.
+ 
+ 3.251 Der Satz drückt auf bestimmte, klar angebbare Weise aus, was er ausdrückt: Der Satz ist artikuliert.
+ 
+ 3.26 Der Name ist durch keine Definition weiter zu zergliedern: er ist ein Urzeichen.
+ 
+ 3.261 Jedes definierte Zeichen bezeichnet über jene Zeichen, durch welche es definiert wurde; und die Definitionen weisen den Weg.
+ 
+ Zwei Zeichen, ein Urzeichen, und ein durch Urzeichen definiertes, können nicht auf dieselbe Art und Weise bezeichnen.
+ 
+ Namen kann man nicht durch Definitionen auseinanderlegen.
+ 
+ (Kein Zeichen, welches allein, selbständig eine Bedeutung hat.) 3.262 Was in den Zeichen nicht zum Ausdruck kommt, das zeigt ihre Anwendung. Was die Zeichen verschlucken, das spricht ihre Anwendung aus.
+ 
+ 3.263 Die Bedeutungen von Urzeichen können durch Erläuterungen erklärt werden. Erläuterungen sind Sätze, welche die Urzeichen enthalten. Sie können also nur verstanden werden, wenn die Bedeutungen dieser Zeichen bereits bekannt sind.
+ 
+ 3.3 Nur der Satz hat Sinn; nur im Zusammenhange des Satzes hat ein Name Bedeutung.
+ 
+ 3.31 Jeden Teil des Satzes, der seinen Sinn charakterisiert, nenne ich einen Ausdruck (ein Symbol).
+ 
+ (Der Satz selbst ist ein Ausdruck.) Ausdruck ist alles, für den Sinn des Satzes wesentliche, was Sätze miteinander gemein haben können.
+ 
+ Der Ausdruck kennzeichnet eine Form und einen Inhalt.
+ 
+ 3.311 Der Ausdruck setzt die Formen aller Sätze voraus, in welchen er vorkommen kann. Er ist das gemeinsame charakteristische Merkmal einer Klasse von Sätzen.
+ 
+ 3.312 Er wird also dargestellt durch die allgemeine Form der Sätze, die er charakterisiert.
+ 
+ Und zwar wird in dieser Form der Ausdruck konstant und alles übrige variabel sein.
+ 
+ 3.313 Der Ausdruck wird also durch eine Variable dargestellt, deren Werte die Sätze sind, die den Ausdruck enthalten.
+ 
+ 102 LOGISCH-PHILOSOPHISCHE ABHANDLUNG (Im Grenzfall wird die Variable zur Konstanten, der Ausdruck zum Satz.
+ 

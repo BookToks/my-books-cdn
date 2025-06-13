@@ -1,0 +1,42 @@
+2.181 If the form of representation is the logical form, then the picture is called a logical picture.
+ 
+ 2.182 Every picture is also a logical picture. (On the other hand, for example, not every picture is spatial.) 2.19 The logical picture can depict the world.
+ 
+ 2.2 The picture has the logical form of representation in common with what it pictures.
+ 
+ 2.201 The picture depicts reality by representing a possibility of the existence and non-existence of atomic facts.
+ 
+ 2.202 The picture represents a possible state of affairs in logical space.
+ 
+ 2.203 The picture contains the possibility of the state of affairs which it represents.
+ 
+ 2.21 The picture agrees with reality or not; it is right or wrong, true or false.
+ 
+ 2.22 The picture represents what it represents, independently of its truth or falsehood, through the form of representation.
+ 
+ 2.221 What the picture represents is its sense.
+ 
+ 2.222 In the agreement or disagreement of its sense with reality, its truth or falsity consists.
+ 
+ 2.223 In order to discover whether the picture is true or false we must compare it with reality.
+ 
+ 2.224 It cannot be discovered from the picture alone whether it is true or false.
+ 
+ 2.225 There is no picture which is a priori true.
+ 
+ 3 The logical picture of the facts is the thought.
+ 
+ 3.001 “An atomic fact is thinkable”—means: we can imagine it.
+ 
+ 3.01 The totality of true thoughts is a picture of the world.
+ 
+ 3.02 The thought contains the possibility of the state of affairs which it thinks.
+ 
+ What is thinkable is also possible.
+ 
+ 30 TRACTATUS LOGICO-PHILOSOPHICUS 3.
+ 
+
+ 
+(Simplified)
+ 

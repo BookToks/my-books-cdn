@@ -1,0 +1,10 @@
+GENERAL PRINCIPLES 121 reason about it ; but we can avoid making use of any property which it does not share with all other triangles, and thus, from our particular case, we obtain a general result.
+ 
+ We do not, in fact, feel our certainty that two and two are four increased by fresh instances, because, as soon as we have seen the truth of this proposition, our certainty becomes so great as to be incapable of growing greater. IVIoreover, we feel some quality of necessity about the proposition " two and two are four," which is absent from even the best attested empirical generalisations. Such generalisations always remain mere facts : we feel that there might be a world in which they were false, though in the actual world they happen to be true. In any possible world, on the contrary, we feel that two and two would be four : this is not a mere fact, but a necessity to which everything actual and possible must conform.
+ 
+ The case may be made clearer by considering a g enuinely empirical generalisation, such as " All men are mortal." It is plain that we believe this proposition, in the first place, 122 THE PROBLEMS OF PHILOSOPHY because there is no known instance of men living beyond a certain age, and in the second place because there seem to be physiological grounds for thinking that an organism such as a man's body must sooner or later wear out.
+ 
+
+ 
+(Simplified)
+ 

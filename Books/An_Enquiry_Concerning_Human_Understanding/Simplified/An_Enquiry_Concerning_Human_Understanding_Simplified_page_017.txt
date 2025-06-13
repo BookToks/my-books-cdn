@@ -1,0 +1,14 @@
+Using his newly invented mathematical tool, the calculus, he proved that such a force, acting on bodies in accordance with his second law,8 would indeed generate elliptical orbital motion amongst bodies in space, and could also explain the parabolic flight and accelerating fall of projectiles near the Earth. Moreover the ‘constant of proportionality’ required in these two contexts turned out to coincide, strongly confirming both the theory itself and also Galileo’s once revolutionary claim that celestial and terrestrial bodies are subject to exactly the same laws.
+ 
+ Despite this success, Newton’s postulated gravitational force, acting at a distance and without any intermediate mechanical connexion, seemed to many to be deeply ‘unintelligible’ and even objectionably ‘occult’. Newton’s influential response to this objection, in the second edition of Principia, was to insist that he ‘feigned no hypotheses’ (i.e.
+ 
+ invented no speculations) about the causes of gravity, and felt no need to do so. If his equations correctly described the observed behaviour of objects, then his theory (including its postulated forces) should be deemed acceptable whatever the underlying reality might be, and speculation about the ultimate cause of gravitational attraction was both unnecessary and inappropriate, unless and until further empirical evidence emerged that might help to throw light on the matter.
+ 
+ This somewhat instrumentalistposition was later to make a deep impression on Hume, whose approach to the metaphysics of causation can be seen as generalizing it to all causes whatever.9 Amongst natural philosophers, however, although Newton’s theory triumphed owing to its sheer accuracy and predictive power, the quest for intelligibility 8 This law states that if a force Facts on a body of mass m, this causes the body to accelerate—i.e. to change its velocity—in the direction of F, the magnitude of that acceleration being Fdivided by m.
+ 
+ 9 Instrumentalism is the view that theoretical entities such as forces are to be thought of as useful instrumentsfor describing and predicting phenomena, whose value does not depend on their actually corresponding to anything in the real world. Strict instrumentalists (e.g. Berkeley) deny such entities’ reality. What we might call methodological instrumentalists(e.g. Newton in respect of gravity) see the primary criterion of a theory’s scientific adequacy as being independent of whether such entities exist. Hume’s position on powers and forces is methodologically instrumentalist in spirit, but with a semantic colouring that interprets what it meansfor a power to exist in terms of its instrumentalist adequacy.
+ 
+
+ 
+(Simplified)
+ 

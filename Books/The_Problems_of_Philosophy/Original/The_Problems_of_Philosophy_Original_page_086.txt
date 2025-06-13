@@ -1,0 +1,6 @@
+82 THE PROBLEMS OF PHILOSOPHY By a " description " I mean any phrase of the form " a so-and-so " or "the so-and-so." A phrase of the form " a so-and-so " I shall call an " ambiguous " description ; a phrase of the form " the so-and-so " (in the singular) I shall call a " definite " description. Thus " a man " is an ambiguous description, and " the man with the iron mask " is a definite description. There are various problems connected with ambiguous descriptions, but I pass them by, since they do not directly concern the matter we are discussing, which is the nature of our knowledge concerning objects in cases where we know that there is an object answering to a definite description, though we are not acquainted with any such object.
+ 
+ This is a matter which is concerned exclusively with definite descriptions. I s hall therefore, in the sequel, speak simply of " descriptions " when I mean " definite descriptions." Thus a description will mean any phrase of the form " the so-and-so " in the singular.
+ 
+ We shall say that an object is " known by description " when we know that it is " the so-and-so," i.e. when we know that there is ACQUAINTANCE AND DESCRIPTION 88 one object, and no more, having a certain property ; and it will generally be implied that we do not have knowledge of the same object by acquaintance.
+ 

@@ -1,0 +1,22 @@
+e. constructed). The general form of proposition is: Such and such is the case.
+ 
+ 4.51 Suppose all elementary propositions were given me: then we can simply ask: what propositions I can build out of them. And these are all propositions and so are they limited.
+ 
+ 4.52 The propositions are everything which follows from the totality of all elementary propositions (of course also from the fact that it is the totality of them all). (So, in some sense, one could say, that all propositions are generalizations of the elementary propositions.) 4.53 The general propositional form is a variable.
+ 
+ 5 Propositions are truth-functions of elementary propositions.
+ 
+ (An elementary proposition is a truth-function of itself.) 5.01 The elementary propositions are the truth-arguments of propositions.
+ 
+ 5.02 It is natural to confuse the arguments of functions with the indices of names. For I recognize the meaning of the sign containing it from the argument just as much as from the index.
+ 
+ In Russell’s “+ ”, for example, “c” is an index which indicates c that the whole sign is the addition sign for cardinal numbers.
+ 
+ But this way of symbolizing depends on arbitrary agreement, and one could choose a simple sign instead of “+ ”: but in “∼p” c “p” is not an index but an argument; the sense of “∼p” cannot be understood, unless the sense of “p” has previously been understood. (In the name Julius Cæsar, Julius is an index. The index is always part of a description of the object to whose name we attach it, e.g. The Cæsar of the Julian gens.) Theconfusionofargumentandindexis, ifIamnotmistaken, at the root of Frege’s theory of the meaning of propositions and functions. For Frege the propositions of logic were names and their arguments the indices of these names.
+ 
+ 5.1 The truth-functions can be ordered in series.
+ 
+ That is the foundation of the theory of probability.
+ 
+ 55 TRACTATUS LOGICO-PHILOSOPHICUS 5.
+ 

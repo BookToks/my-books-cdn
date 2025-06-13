@@ -1,0 +1,12 @@
+investigate the other companies before sizing the internal effort.
+ 
+ Surprisingly, among the four existing network automation players, the company that we thought had the best product architecture, Rendition Networks, had the lowest revenues. This made some of our businesspeople skeptical of our technical evaluation. However, if I’d learned anything it was that conventional wisdom had nothing to do with the truth and the efficient market hypothesis was deceptive. How else could one explain Opsware trading at half of the cash we had in the bank when we had a $20 million a year contract and fifty of the smartest engineers in the world? No, markets weren’t “efficient” at finding the truth; they were just very efficient at converging on a conclusion—often the wrong conclusion.
+ 
+ After confirming that acquiring would be superior to building, we negotiated a deal to buy Rendition Networks for $33 million. Within three months of completing the acquisition, John negotiated a deal with Cisco Systems—the world’s largest networking company—to resell our product. The deal included an agreement to prepay us $30 million for advanced licenses. As a result, the Cisco deal alone paid more than 90 percent of the acquisition costs.
+ 
+ Note to self: It’s a good idea to ask, “What am I not doing?” THE ULTIMATE DECISION As we fielded the broader product line, our momentum steadily grew. From the ashes, we’d built a software business that approached a $150 million revenue run rate. Along with our revenue, our stock price rose from its floor of $0.35 per share as well as we traded between $6 per share and $8 per share, sometimes trading at a market capitalization of more than $800 million.
+ 
+ Still, everything was not rosy. Every quarter was tough, and the competitive and the technology landscapes changed rapidly. A technology called virtualization was taking the market by storm and changing the way customers thought about automating their environments. In fact, it looked to me like virtualization might be the technological breakthrough that finally enabled the cloud computing business model to work. Beyond that, being a public company was still never going to get easy. At one point, a shareholder activist named Rachel Hyman decided that my ego was out of control, and she demanded that the board remove me and sell the company immediately. This was despite the fact that we were trading at $7 per share, which was ten times the original price of her shares.
+ 
+ Nonetheless, I was not looking for the exits. Whenever a potential acquirer
+ 

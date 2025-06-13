@@ -1,0 +1,38 @@
+132 Folgt p aus q, so kann ich von q auf p schliessen; p aus q folgern.
+ 
+ Die Art des Schlusses ist allein aus den beiden Sätzen zu entnehmen.
+ 
+ Nur sie selbst können den Schluss rechtfertigen.
+ 
+ „Schlussgesetze“, welche—wie bei Frege und Russell—die Schlüsse rechtfertigen sollen, sind sinnlos, und wären überflüssig.
+ 
+ 5.133 Alles Folgern geschieht a priori.
+ 
+ 5.134 Aus einem Elementarsatz lässt sich kein anderer folgern.
+ 
+ 5.135 Auf keine Weise kann aus dem Bestehen irgend einer Sachlage auf das Bestehen einer, von ihr gänzlich verschiedenen Sachlage geschlossen werden.
+ 
+ 5.136 Einen Kausalnexus, der einen solchen Schluss rechtfertigte, gibt es nicht.
+ 
+ 5.1361 Die Ereignisse der Zukunft können wir nicht aus den gegenwärtigen erschliessen.
+ 
+ Der Glaube an den Kausalnexus ist der Aberglaube.
+ 
+ 5.1362 Die Willensfreiheit besteht darin, dass zukünftige Handlungen jetzt nicht gewusst werden können. Nur dann könnten wir sie wissen, wenn die Kausalität eine innere Notwendigkeit wäre, wie die des logischen Schlusses.—Der Zusammenhang von Wissen und Gewusstem, ist der der logischen Notwendigkeit.
+ 
+ („A weiss, dass p der Fall ist“ ist sinnlos, wenn p eine Tautologie ist.) 5.1363 Wenn daraus, dass ein Satz uns einleuchtet, nicht folgt, dass er wahr ist, so ist das Einleuchten auch keine Rechtfertigung für unseren Glauben an seine Wahrheit.
+ 
+ 5.14 Folgt ein Satz aus einem anderen, so sagt dieser mehr als jener, jener weniger als dieser.
+ 
+ 5.141 Folgt p aus q und q aus p, so sind sie ein und derselbe Satz.
+ 
+ 5.142 Die Tautologie folgt aus allen Sätzen: sie sagt Nichts.
+ 
+ 5.143 DieKontradiktionistdasGemeinsamederSätze,was kein Satz mit einem anderen gemein hat. Die Tautologie ist das Gemeinsame aller Sätze, welche nichts miteinander gemein haben.
+ 
+ 127 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Die Kontradiktion verschwindet sozusagen ausserhalb, die Tautologie innerhalb aller Sätze.
+ 
+
+ 
+(Simplified)
+ 

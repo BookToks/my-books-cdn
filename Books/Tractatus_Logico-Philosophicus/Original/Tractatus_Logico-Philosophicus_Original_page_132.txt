@@ -1,0 +1,20 @@
+5.234 Die Wahrheitsfunktionen der Elementarsätze sind Resultate von Operationen,diedieElementarsätzealsBasenhaben.(Ichnenne diese Operationen Wahrheitsoperationen.) 5.2341 Der Sinn einer Wahrheitsfunktion von p ist eine Funktion des Sinnes von p.
+ 
+ Verneinung, logische Addition, logische Multiplikation, etc., etc. sind Operationen.
+ 
+ (Die Verneinung verkehrt den Sinn des Satzes.) 5.24 Die Operation zeigt sich in einer Variablen; sie zeigt, wie man von einer Form von Sätzen zu einer anderen gelangen kann.
+ 
+ Sie bringt den Unterschied der Formen zum Ausdruck.
+ 
+ (UnddasGemeinsamezwischendenBasenunddemResultat der Operation sind eben die Basen.) 5.241 Die Operation kennzeichnet keine Form, sondern nur den Unterschied der Formen.
+ 
+ 5.242 Dieselbe Operation, die „q“ aus „p“ macht, macht aus „q“ „r“ u. s. f. Dies kann nur darin ausgedrückt sein, dass „p“, „q“, „r“, etc. Variable sind, die gewisse formale Relationen allgemein zum Ausdruck bringen.
+ 
+ 5.25 Das Vorkommen der Operation charakterisiert den Sinn des Satzes nicht.
+ 
+ Die Operation sagt ja nichts aus, nur ihr Resultat, und dies hängt von den Basen der Operation ab.
+ 
+ (Operation und Funktion dürfen nicht miteinander verwechselt werden.) 5.251 Eine Funktion kann nicht ihr eigenes Argument sein, wohl aber kann das Resultat einer Operation ihre eigene Basis werden.
+ 
+ 5.252 Nur so ist das Fortschreiten von Glied zu Glied in einer Formenreihe (von Type zu Type in den Hierarchien Russells und Whiteheads) möglich. (Russell und Whitehead haben die Möglichkeit dieses Fortschreitens nicht zugegeben, aber immer wieder von ihr Gebrauch gemacht.) 5.2521 Die fortgesetzte Anwendung einer Operation auf ihr eigenes Resultat nenne ich ihre successive Anwendung („O(cid:48)O(cid:48)O(cid:48)a“ ist das 130 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Resultat der dreimaligen successiven Anwendung von „O(cid:48)ξ“ auf „a“).
+ 

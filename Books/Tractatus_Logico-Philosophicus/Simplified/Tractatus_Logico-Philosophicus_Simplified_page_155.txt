@@ -1,0 +1,30 @@
+(Frege würde vielleicht sagen, dass dieses Grundgesetz nun nicht mehr unmittelbar einleuchte. Aber es ist merkwürdig, dass ein so exakter Denker wie Frege sich auf den Grad des Einleuchtens als Kriterium des logischen Satzes berufen hat.) 6.13 Die Logik ist keine Lehre, sondern ein Spiegelbild der Welt.
+ 
+ Die Logik ist transcendental.
+ 
+ 6.2 Die Mathematik ist eine logische Methode.
+ 
+ Die Sätze der Mathematik sind Gleichungen also Scheinsätze.
+ 
+ 6.21 Der Satz der Mathematik drückt keinen Gedanken aus.
+ 
+ 6.211 Im Leben ist es ja nie der mathematische Satz, den wir brauchen, sondern wir benützen den mathematischen Satz nur, um aus Sätzen, welche nicht der Mathematik angehören, auf andere zu schliessen, welche gleichfalls nicht der Mathematik angehören.
+ 
+ (In der Philosophie führt die Frage „wozu gebrauchen wir eigentlich jenes Wort, jenen Satz“ immer wieder zu wertvollen Einsichten.) 6.22 Die Logik der Welt, die die Sätze der Logik in den Tautologien zeigen, zeigt die Mathematik in den Gleichungen.
+ 
+ 6.23 Wenn zwei Ausdrücke durch das Gleichheitszeichen verbunden werden, so heisst das, sie sind durch einander ersetzbar. Ob dies aber der Fall ist muss sich an den beiden Ausdrücken selbst zeigen.
+ 
+ Es charakterisiert die logische Form zweier Ausdrücke, dass sie durch einander ersetzbar sind.
+ 
+ 6.231 Es ist eine Eigenschaft der Bejahung, dass man sie als doppelte Verneinung auffassen kann.
+ 
+ Es ist eine Eigenschaft von „1+1+1+1“, dass man es als „(1+1)+(1+1)“ auffassen kann.
+ 
+ 6.232 Frege sagt, die beiden Ausdrücke haben dieselbe Bedeutung, aber verschiedenen Sinn.
+ 
+ Das Wesentliche an der Gleichung ist aber, dass sie nicht notwendig ist, um zu zeigen, dass die beiden Ausdrücke, die 153 LOGISCH-PHILOSOPHISCHE ABHANDLUNG das Gleichheitszeichen verbindet, dieselbe Bedeutung haben, da sich dies aus den beiden Ausdrücken selbst ersehen lässt.
+ 
+
+ 
+(Simplified)
+ 

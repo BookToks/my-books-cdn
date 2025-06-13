@@ -1,0 +1,18 @@
+43 Die Übereinstimmung mit den Wahrheitsmöglichkeiten können wir dadurch ausdrücken, indem wir ihnen im Schema etwa das Abzeichen „W“ (wahr) zuordnen.
+ 
+ DasFehlendiesesAbzeichensbedeutetdieNichtübereinstimmung.
+ 
+ 4.431 DerAusdruckderÜbereinstimmungundNichtübereinstimmung mit den Wahrheitsmöglichkeiten der Elementarsätze drückt die Wahrheitsbedingungen des Satzes aus.
+ 
+ Der Satz ist der Ausdruck seiner Wahrheitsbedingungen.
+ 
+ (Frege hat sie daher ganz richtig als Erklärung der Zeichen seiner Begriffsschrift vorausgeschickt. Nur ist die Erklärung des Wahrheitsbegriffes bei Frege falsch: Wären „das Wahre“ und „das Falsche“ wirklich Gegenstände und die Argumente in ∼p etc. dann wäre nach Frege’s Bestimmung der Sinn von „∼p“ keineswegs bestimmt.) 4.44 Das Zeichen, welches durch die Zuordnung jener Abzeichen „W“ und der Wahrheitsmöglichkeiten entsteht, ist ein Satzzeichen.
+ 
+ 4.441 Es ist klar, dass dem Komplex der Zeichen „F“ und „W“ kein Gegenstand (oder Komplex von Gegenständen) entspricht; so wenig, wie den horizontalen und vertikalen Strichen oder den Klammern.—„Logische Gegenstände“ gibt es nicht.
+ 
+ Analoges gilt natürlich für alle Zeichen, die dasselbe ausdrücken wie die Schemata der „W“ und „F“.
+ 
+ 4.442 Es ist z. B.: p q “ W W W F W W W F „ F F W ein Satzzeichen.
+ 
+ (Frege’s „Urteilsstrich“ „(cid:96)“ ist logisch ganz bedeutungslos; er zeigt bei Frege (und Russell) nur an, dass diese Autoren die so bezeichneten Sätze für wahr halten. „(cid:96)“ gehört daher ebenso wenig zum Satzgefüge, wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, dass er wahr ist.) Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema 121 LOGISCH-PHILOSOPHISCHE ABHANDLUNG durch eine Kombinationsregel ein für allemal festgesetzt, dann ist die letzte Kolonne allein schon ein Ausdruck der Wahrheitsbedingungen.
+ 

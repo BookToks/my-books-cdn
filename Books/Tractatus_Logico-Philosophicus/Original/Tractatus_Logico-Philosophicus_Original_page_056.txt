@@ -1,0 +1,18 @@
+Neither of them, therefore, can in any way determine reality.
+ 
+ 4.464 The truth of tautology is certain, of propositions possible, of contradiction impossible. (Certain, possible, impossible: here we have an indication of that gradation which we need in the theory of probability.) 4.465 The logical product of a tautology and a proposition says the same as the proposition. Therefore that product is identical with the proposition. For the essence of the symbol cannot be altered without altering its sense.
+ 
+ 4.466 To a definite logical combination of signs corresponds a definite logical combination of their meanings; every arbitrary combination only corresponds to the unconnected signs.
+ 
+ That is, propositions which are true for every state of affairs cannot be combinations of signs at all, for otherwise there could only correspond to them definite combinations of objects.
+ 
+ (And to no logical combination corresponds no combination of the objects.) Tautology and contradiction are the limiting cases of the combinations of symbols, namely their dissolution.
+ 
+ 4.4661 Of course the signs are also combined with one another in the tautology and contradiction, i.e. they stand in relations to one another, but these relations are meaningless, unessential to the symbol.
+ 
+ 4.5 Now it appears to be possible to give the most general form of proposition; i.e. to give a description of the propositions of some one sign language, so that every possible sense can be expressed by a symbol, which falls under the description, and so that every symbol which falls under the description can express a sense, if the meanings of the names are chosen accordingly.
+ 
+ It is clear that in the description of the most general form of proposition only what is essential to it may be described— otherwise it would not be the most general form.
+ 
+ That there is a general form is proved by the fact that there 54 TRACTATUS LOGICO-PHILOSOPHICUS cannotbeapropositionwhoseformcouldnothavebeenforeseen (i.
+ 

@@ -1,0 +1,14 @@
+B. „c“ ein Index, der darauf hinweist, c dass das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber diese Bezeichnung beruht auf willkürlicher Übereinkunft und man könnte statt „+ “ auch ein einfaches Zeichen c wählen; in „∼p“ aber ist „p“ kein Index, sondern ein Argument: der Sinn von „∼p“ kann nicht verstanden werden, ohne dass vorher der Sinn von „p“ verstanden worden wäre. (Im Namen Julius Cäsar ist „Julius“ ein Index. Der Index ist immer ein Teil einer Beschreibung des Gegenstandes, dessen Namen wir ihn anhängen. Z. B. Der Cäsar aus dem Geschlechte der Julier.) Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der Theorie Frege’s von der Bedeutung der Sätze und Funktionen zugrunde. Für Frege waren die Sätze der Logik Namen, und deren Argumente die Indices dieser Namen.
+ 
+ 5.1 Die Wahrheitsfunktionen lassen sich in Reihen ordnen.
+ 
+ Das ist die Grundlage der Wahrscheinlichkeitslehre.
+ 
+ 5.101 Die Wahrheitsfunktionen jeder Anzahl von Elementarsätzen lassen sich in einem Schema folgender Art hinschreiben: (WWWW)(p,q) Tautologie (Wenn p, so p; und wenn q, so q.) (p⊃p.q ⊃q) (F WWW)(p,q) in Worten: Nicht beides p und q. (∼(p.q)) (W F WW)(p,q) „ „ Wenn q, so p. (q ⊃p) (WW F W)(p,q) „ „ Wenn p, so q. (p⊃q) (WWW F)(p,q) „ „ p oder q. (p∨q) (F F WW)(p,q) „ „ Nicht q. (∼q) (F W F W)(p,q) „ „ Nicht p. (∼p) (F WW F)(p,q) „ „ p, oder q, aber nicht beide. (p.∼q :∨:q.∼p) (W F F W)(p,q) „ „ Wenn p, so q; und wenn q, so p. (p≡q) (W F W F)(p,q) „ „ p (WW F F)(p,q) „ „ q (F F F W)(p,q) „ „ Weder p noch q. (∼p.∼q) oder (p|q) (F F W F)(p,q) „ „ p und nicht q. (p.∼q) (F W F F)(p,q) „ „ q und nicht p. (q.∼p) (W F F F)(p,q) „ „ q und p. (q.p) (F F F F)(p,q) Kontradiktion (p und nicht p; und q und nicht q.) (p.∼p.q.∼q) Diejenigen Wahrheitsmöglichkeiten seiner Wahrheitsargumente, welche den Satz bewahrheiten, will ich seine Wahrheitsgründe nennen.
+ 
+ 5.11 Sind die Wahrheitsgründe, die einer Anzahl von Sätzen gemeinsam sind, sämtlich auch Wahrheitsgründe eines bestimmten Sat125 LOGISCH-PHILOSOPHISCHE ABHANDLUNG zes, so sagen wir, die Wahrheit dieses Satzes folge aus der Wahrheit jener Sätze.
+ 
+
+ 
+(Simplified)
+ 

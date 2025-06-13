@@ -1,0 +1,26 @@
+32 Alle Wahrheitsfunktionen sind Resultate der successiven Anwendung einer endlichen Anzahl von Wahrheitsoperationen auf die Elementarsätze.
+ 
+ 5.4 Hier zeigt es sich, dass es „logische Gegenstände“, „logische Konstante“ (im Sinne Freges und Russells) nicht gibt.
+ 
+ 5.41 Denn: Alle Resultate von Wahrheitsoperationen mit Wahrheitsfunktionen sind identisch, welche eine und dieselbe Wahrheitsfunktion von Elementarsätzen sind.
+ 
+ 5.42 Dass ∨, ⊃, etc. nicht Beziehungen im Sinne von rechts und links etc. sind, leuchtet ein.
+ 
+ Die Möglichkeit des kreuzweisen Definierens der logischen „Urzeichen“ Freges und Russells zeigt schon, dass dies keine Urzeichen sind, und schon erst recht, dass sie keine Relationen bezeichnen.
+ 
+ Und es ist offenbar, dass das „⊃“, welches wir durch „∼“ und „∨“ definieren, identisch ist mit dem, durch welches wir „∨“ mit „∼“ definieren und dass dieses „∨“ mit dem ersten identisch ist. U. s. w.
+ 
+ 5.43 Dass aus einer Tatsache p unendlich viele andere folgen sollten, nämlich ∼∼p, ∼∼∼∼p, etc., ist doch von vornherein kaum zu glauben. Und nicht weniger merkwürdig ist, dass die unendliche Anzahl der Sätze der Logik (der Mathematik) aus einem halben Dutzend „Grundgesetzen“ folgen.
+ 
+ Alle Sätze der Logik sagen aber dasselbe. Nämlich Nichts.
+ 
+ 5.44 Die Wahrheitsfunktionen sind keine materiellen Funktionen.
+ 
+ Wenn man z. B. eine Bejahung durch doppelte Verneinung erzeugen kann, ist dann die Verneinung—in irgend einem Sinn —in der Bejahung enthalten? Verneint „∼∼p“ ∼p, oder bejaht es p; oder beides?
+ 
+ Der Satz „∼∼p“ handelt nicht von der Verneinung wie von einem Gegenstand; wohl aber ist die Möglichkeit der Verneinung in der Bejahung bereits präjudiziert.
+ 
+ Und gäbe es einen Gegenstand, der „∼“ hiesse, so müsste „∼∼p“ etwas anderes sagen als „p“. Denn der eine Satz würde dann eben von ∼ handeln, der andere nicht.
+ 
+ 5.441 Dieses Verschwinden der scheinbaren logischen Konstanten tritt 132 LOGISCH-PHILOSOPHISCHE ABHANDLUNG auch ein, wenn „∼(∃x).
+ 

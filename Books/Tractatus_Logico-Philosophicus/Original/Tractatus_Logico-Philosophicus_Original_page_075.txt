@@ -1,0 +1,30 @@
+554 The enumeration of any special forms would be entirely arbitrary.
+ 
+ 5.5541 It should be possible to decide a priori whether, for example, I can get into a situation in which I need to symbolize with a sign of a 27-termed relation.
+ 
+ 5.5542 May we then ask this at all? Can we set out a sign form and not know whether anything can correspond to it?
+ 
+ Has the question sense: what must be in order that something can be the case?
+ 
+ 5.555 It is clear that we have a concept of the elementary proposition apart from its special logical form.
+ 
+ Where,however,wecanbuildsymbolsaccordingtoasystem, there this system is the logically important thing and not the single symbols.
+ 
+ And how would it be possible that I should have to deal with forms in logic which I can invent: but I must have to deal with that which makes it possible for me to invent them.
+ 
+ 5.556 Therecannotbeahierarchyoftheformsoftheelementarypropositions. Only that which we ourselves construct can we foresee.
+ 
+ 5.5561 Empirical reality is limited by the totality of objects. The boundary appears again in the totality of elementary propositions.
+ 
+ The hierarchies are and must be independent of reality.
+ 
+ 5.5562 If we know on purely logical grounds, that there must be elementary propositions, then this must be known by everyone who understands the propositions in their unanalysed form.
+ 
+ 5.5563 All propositions of our colloquial language are actually, just as they are, logically completely in order. That most simple thing which we ought to give here is not a simile of truth but the complete truth itself.
+ 
+ (Our problems are not abstract but perhaps the most concrete that there are.) 5.557 The application of logic decides what elementary propositions there are.
+ 
+ What lies in the application logic cannot anticipate.
+ 
+ 73 TRACTATUS LOGICO-PHILOSOPHICUS It is clear that logic may not collide with its application.
+ 

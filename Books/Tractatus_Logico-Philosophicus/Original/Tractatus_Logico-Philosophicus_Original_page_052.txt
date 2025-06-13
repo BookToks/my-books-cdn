@@ -1,0 +1,22 @@
+241 If I use two signs with one and the same meaning, I express this by putting between them the sign “=”.
+ 
+ “a = b” means then, that the sign “a” is replaceable by the sign “b”.
+ 
+ (If I introduce by an equation a new sign “b”, by determining that it shall replace a previously known sign “a”, I write the equation—definition—(like Russell) in the form “a = b Def.”. A definition is a symbolic rule.) 4.242 Expressions of the form “a = b” are therefore only expedients in presentation: They assert nothing about the meaning of the signs “a” and “b”.
+ 
+ 4.243 Can we understand two names without knowing whether they signify the same thing or two different things? Can we understand a proposition in which two names occur, without knowing if they mean the same or different things?
+ 
+ If I know the meaning of an English and a synonymous German word, it is impossible for me not to know that they are synonymous, it is impossible for me not to be able to translate them into one another.
+ 
+ Expressions like “a = a”, or expressions deduced from these are neither elementary propositions nor otherwise significant signs. (This will be shown later.) 4.25 If the elementary proposition is true, the atomic fact exists; if it is false the atomic fact does not exist.
+ 
+ 4.26 The specification of all true elementary propositions describes the world completely. The world is completely described by the specificationofallelementarypropositionsplusthespecification, which of them are true and which false.
+ 
+ 4.27 With regard to the existence of n atomic facts there are K = n n (cid:80) (cid:0)n(cid:1) possibilities.
+ 
+ ν ν=0 It is possible for all combinations of atomic facts to exist, and the others not to exist.
+ 
+ 4.28 To these combinations correspond the same number of possibilities of the truth—and falsehood—of n elementary propositions.
+ 
+ 4.3 The truth-possibilities of the elementary propositions mean the 50 TRACTATUS LOGICO-PHILOSOPHICUS possibilities of the existence and non-existence of the atomic facts.
+ 

@@ -1,0 +1,12 @@
+While not disputing Beauchamp’s general editorial principles and practice (which included properly consulting the 1777 text ‘for evidence of late authorial changes’, p. cv), I have reverted to the traditionally preferred 1777 edition, partly in accordance with Hume’s own expressed satisfaction with his final editorial changes (including the Section III deletion), and partly to remedy the lack hitherto of a genuinely reliable published text of that edition.
+ 
+ For this reason, the text here very carefully follows the 1777edition, with minimal editorial intervention except as explained below. My aim, in other words, has been to create not a critical edition, but an entirelyaccurateedition, of which no other currently exists except in facsimile (and very expensive) form. Hence in this so-called ‘diplomatic’ edition, even the inconsistencies in Hume’s original, for example in spellings or capitalization (e.g. between the table of contents and the chapter headings) have been preserved, as of potential interest to scholars and readers. Likewise the wording of the running headers has been retained, though here the font style—which in every case followed that of the chapter heading—has been modernized, and the terminating full stops removed. The full stops which originally followed all the headings within the text have also been removed.
+ 
+ Only in three cases have substantive changes been made, where typographical corrections were clearly required and could be identified by reference to other editions: these involve the insertion of ‘[is]’ within 3.3 n. 6, ‘[and]’ within endnote [B], and the substitution of ‘reasoning’ for ‘reasonings’ in the first line of endnote [H]. My text was prepared from the copy of the 1777 edition in the Brotherton Library at the University of Leeds, and checked also against the facsimile edition published by Thoemmes Press in 2002.
+ 
+ Treatment of Hume’s Notes In Hume’s editions, both footnotes and endnotes are indicated by symbols rather than numbers, typically* for the first on each page, then †, ‡ and § as necessary (e.g. in paragraph 3of Section III). Since Hume’s original pagination is almost never referenced by the secondary literature, and these symbols have no other significance, I have replaced them by numbers, so as to correspond with the footnote Note on the Text lix numbering in Beauchamp’s critical edition.
+ 
+
+ 
+(Simplified)
+ 

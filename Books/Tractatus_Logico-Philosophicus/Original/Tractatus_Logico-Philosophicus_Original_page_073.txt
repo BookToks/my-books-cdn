@@ -1,0 +1,20 @@
+(It is nonsense to place the hypothesis p ⊃ p before a proposition in order to ensure that its arguments have the right form, because the hypothesis for a non-proposition as argument becomes not false but meaningless, and because the proposition itself becomes senseless for arguments of the wrong kind, and thereforeitsurvivesthewrongargumentsnobetterandnoworse than the senseless hypothesis attached for this purpose.) 5.5352 Similarly it was proposed to express “There are no things” by “∼(∃x).x = x”. But even if this were a proposition—would it not be true if indeed “There were things”, but these were not identical with themselves?
+ 
+ 5.54 In the general propositional form, propositions occur in a proposition only as bases of the truth-operations.
+ 
+ 5.541 At first sight it appears as if there were also a different way in which one proposition could occur in another.
+ 
+ Especially in certain propositional forms of psychology, like “A thinks, that p is the case”, or “A thinks p”, etc.
+ 
+ Here it appears superficially as if the proposition p stood to the object A in a kind of relation.
+ 
+ (And in modern epistemology (Russell, Moore, etc.) those propositions have been conceived in this way.) 5.542 But it is clear that “A believes that p”, “A thinks p”, “A says p”, are of the form “‘p’ says p”: and here we have no co-ordination of a fact and an object, but a co-ordination of facts by means of a co-ordination of their objects.
+ 
+ 5.5421 This shows that there is no such thing as the soul—the subject, etc.—as it is conceived in contemporary superficial psychology.
+ 
+ A composite soul would not be a soul any longer.
+ 
+ 5.5422 The correct explanation of the form of the proposition “A judges p” mustshowthatitisimpossibletojudgeanonsense. (Russell’s theory does not satisfy this condition.) 5.5423 To perceive a complex means to perceive that its constituents are combined in such and such a way.
+ 
+ 71 TRACTATUS LOGICO-PHILOSOPHICUS This perhaps explains that the figure can be seen in two ways as a cube; and all similar phenomena.
+ 

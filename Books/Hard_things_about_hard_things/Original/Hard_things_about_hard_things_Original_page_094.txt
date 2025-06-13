@@ -1,0 +1,12 @@
+Or how many people have you fired? Or how would you go about firing someone? These are all fine questions, but often the right question is the one that isn’t asked: When you fired the person, how did you know with certainty that the employee both understood the expectations of the job and was still missing them? The best answer is that the manager clearly set expectations when she trained the employee for the job. If you don’t train your people, you establish no basis for performance management. As a result, performance management in your company will be sloppy and inconsistent.
+ 
+ 3. Product quality Often founders start companies with visions of elegant, beautiful product architectures that will solve so many of the nasty issues that they were forced to deal with in their previous jobs. Then, as their company becomes successful, they find that their beautiful product architecture has turned into a Frankenstein.
+ 
+ How does this happen? As success drives the need to hire new engineers at a rapid rate, companies neglect to train the new engineers properly. As the engineers are assigned tasks, they figure out how to complete them as best they can. Often this means replicating existing facilities in the architecture, which leads to inconsistencies in the user experience, performance problems, and a general mess. And you thought training was expensive.
+ 
+ 4. Employee retention During a time of particularly high attrition at Netscape, I decided to read all of the exit interviews for the entire company to better understand why people quit high-tech companies. After putting economics aside, I found that there were two primary reasons why people quit: They hated their manager; generally the employees were appalled by the lack of guidance, career development, and feedback they were receiving.
+ 
+ They weren’t learning anything: The company wasn’t investing resources in helping employees develop new skills.
+ 
+ An outstanding training program can address both issues head-on.
+ 

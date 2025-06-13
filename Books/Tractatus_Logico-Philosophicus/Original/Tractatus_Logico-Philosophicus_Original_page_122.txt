@@ -1,0 +1,14 @@
+4.28 Diesen Kombinationen entsprechen ebenso viele Möglichkeiten der Wahrheit—und Falschheit—von n Elementarsätzen.
+ 
+ 4.3 Die Wahrheitsmöglichkeiten der Elementarsätze bedeuten die Möglichkeiten des Bestehens und Nichtbestehens der Sachverhalte.
+ 
+ 4.31 Die Wahrheitsmöglichkeiten können wir durch Schemata folgender Art darstellen („W“ bedeutet „wahr“, „F“, „falsch“. Die Reihen der „W“ und „F“ unter der Reihe der Elementarsätze bedeuteninleichtverständlicherSymbolikderenWahrheitsmöglichkeiten): p q r p q p W W W W W W F W W F W F W F W W F W W F F F F F W F W F W F F F F F 4.4 Der Satz ist der Ausdruck der Übereinstimmung und NichtübereinstimmungmitdenWahrheitsmöglichkeitenderElementarsätze.
+ 
+ 4.41 Die Wahrheitsmöglichkeiten der Elementarsätze sind die Bedingungen der Wahrheit und Falschheit der Sätze.
+ 
+ 4.411 Es ist von vornherein wahrscheinlich, dass die Einführung der Elementarsätze für das Verständnis aller anderen Satzarten grundlegend ist. Ja, das Verständnis der allgemeinen Sätze hängt fühlbar von dem der Elementarsätze ab.
+ 
+ 4.42 Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es (cid:80) Kn (cid:0)Kn (cid:1) = L Möglichkeiten.
+ 
+ κ n κ=0 120 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 4.
+ 

@@ -1,0 +1,22 @@
+Denn, wenn es als Gleichheitszeichen auftritt, so symbolisiert es auf ganz andere Art und Weise—die bezeichnende Beziehung ist eine andere,—also ist auch das Symbol in beiden Fällen ganz verschieden; die beiden Symbole haben nur das Zeichen zufällig miteinander gemein.
+ 
+ 5.474 Die Anzahl der nötigen Grundoperationen hängt nur von unserer Notation ab.
+ 
+ 5.475 Es kommt nur darauf an, ein Zeichensystem von einer bestimmten Anzahl von Dimensionen—von einer bestimmten mathematischen Mannigfaltigkeit—zu bilden.
+ 
+ 5.476 Es ist klar, dass es sich hier nicht um eine Anzahl von Grundbegriffen handelt, die bezeichnet werden müssen, sondern um den Ausdruck einer Regel.
+ 
+ 5.5 Jede Wahrheitsfunktion ist ein Resultat der successiven Anwendung der Operation (– – – – –W)(ξ,....) auf Elementarsätze.
+ 
+ Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne sie die Negation dieser Sätze.
+ 
+ 5.501 Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich —wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist—durch ein Zeichen von der Form „(ξ)“ an. „ξ“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
+ 
+ (Hat also ξ etwa die 3 Werte P, Q, R, so ist (ξ) = (P, Q, R).) Die Werte der Variablen werden festgesetzt.
+ 
+ Die Festsetzung ist die Beschreibung der Sätze, welche die Variable vertritt.
+ 
+ Wie die Beschreibung der Glieder des Klammerausdruckes geschieht, ist unwesentlich.
+ 
+ Wir können drei Arten der Beschreibung unterscheiden: 1. Die direkte Aufzählung. In diesem Fall können wir statt der Variablen einfach ihre konstanten Werte setzen. 2. Die Angabe 136 LOGISCH-PHILOSOPHISCHE ABHANDLUNG einer Funktion fx, deren Werte für alle Werte von x die zu beschreibenden Sätze sind.
+ 

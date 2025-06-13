@@ -1,0 +1,20 @@
+4.1272 So ist der variable Name „x“ das eigentliche Zeichen des Scheinbegriffes Gegenstand.
+ 
+ Wo immer das Wort „Gegenstand“ („Ding“, „Sache“, etc.) richtig gebraucht wird, wird es in der Begriffsschrift durch den variablen Namen ausgedrückt.
+ 
+ Zum Beispiel in dem Satz „es gibt 2 Gegenstände, welche ...“ durch „(∃x,y) ...“.
+ 
+ Wo immer es anders, also als eigentliches Begriffswort gebraucht wird, entstehen unsinnige Scheinsätze.
+ 
+ So kann man z. B. nicht sagen „Es gibt Gegenstände“, wie man etwa sagt „Es gibt Bücher“. Und ebenso wenig „Es gibt 100 Gegenstände“, oder „Es gibt ℵ Gegenstände“.
+ 
+ 0 Und es ist unsinnig, von der Anzahl aller Gegenstände zu sprechen.
+ 
+ DasselbegiltvondenWorten„Komplex“,„Tatsache“,„Funktion“, „Zahl“, etc.
+ 
+ Sie alle bezeichnen formale Begriffe und werden in der BegriffsschriftdurchVariable,nichtdurchFunktionenoderKlassen dargestellt. (Wie Frege und Russell glaubten.) Ausdrücke wie „1 ist eine Zahl“, „es gibt nur Eine Null“ und alle ähnlichen sind unsinnig.
+ 
+ (Es ist ebenso unsinnig zu sagen „es gibt nur eine 1“, als es unsinnig wäre, zu sagen: 2+2 ist um 3 Uhr gleich 4.) 4.12721 DerformaleBegriffistmiteinemGegenstand,derunterihnfällt, bereits gegeben. Man kann also nicht Gegenstände eines formalen Begriffes und den formalen Begriff selbst als Grundbegriffe einführen. Man kann also z. B. nicht den Begriff der Funktion, und auch spezielle Funktionen (wie Russell) als Grundbegriffe einführen; oder den Begriff der Zahl und bestimmte Zahlen.
+ 
+ 4.1273 Wollen wir den allgemeinen Satz: „b ist ein Nachfolger von a“ in der Begriffsschrift ausdrücken, so brauchen wir hierzu einen Ausdruck für das allgemeine Glied der Formenreihe: aRb, (∃x) : aRx.xRb,(∃x,y) : aRx.xRy.yRb,... DasallgemeineGliedeiner FormenreihekannmannurdurcheineVariableausdrücken,denn 117 LOGISCH-PHILOSOPHISCHE ABHANDLUNG der Begriff: Glied dieser Formenreihe, ist ein formaler Begriff.
+ 

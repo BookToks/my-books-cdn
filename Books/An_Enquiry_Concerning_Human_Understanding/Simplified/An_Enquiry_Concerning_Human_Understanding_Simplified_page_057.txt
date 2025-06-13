@@ -1,0 +1,14 @@
+This causes one small complication: Beauchamp’s note 5 from the 1772 edition is absent from the 1777text followed here, and hence appears only in the textual variant of Section III: p. 179below.
+ 
+ Apart from the change of symbolic indicators, Hume’s original footnotesremain here in exactly their original form (including the placement of the indicators). The endnote references have, however, been slightly changed to ease navigation. Thus for example the bottom line of page 174in Hume’s 1777edition was ‘*See NOTE [Q].’, with the endnote itself, on page 486, being headed ‘NOTE [Q], p. 174.’ In this edition these two lines, on pages 120and131respectively, have been changed to: 35See endnote [Q], p. 131.
+ 
+ Endnote [Q] to 12.29, p. 12035 thus making cross-referring easier, and incorporating the Beauchamp note numbers as superscripts (in this case note 35, the last of the book).
+ 
+ In editions prior to 1770, all notes appeared as footnotes, and Beauchamp’s edition follows the same practice (unfortunately without indicating what form each note took in the subsequent editions).
+ 
+ That Hume took an interest in such matters is clear from his letters, notably to his printer William Strahan on 8April1776: I am very much taken with Mr Gibbon’s Roman History which came from your press . . . I intended to have given him my Advice with regard to the manner of printing it . . . One is . . . plagued with his Notes, according to the present Method of printing the Book: When a note is announced, you turn to the End of the Volume; and there you often find nothing but the Reference to an Authority. All these Authorities ought only to be printed at the Margin on the Bottom of the Page. I desire, that a Copy of my new Edition [i.e. the posthumous edition then in preparation] should be sent to Mr Gibbon, as wishing that a Gentleman, whom I so highly value, shoud peruse me in the form the least imperfect, to which I can bring my work. (HLii.313) In another letter to Strahan of 8June, Hume reports the seriousness of his illness, and makes some last requests concerning the printing of ‘My Own Life’ in his forthcoming edition, and the future publication of the Dialogues concerning Natural Religion. Here again he expresses enthusiasm for the quality of what would become the 1777 lx Note on the Text edition of the Essays and Treatises on Several Subjects(including the firstEnquiry), and the 1778edition of the History of England: I am glad to find, that you have been able to set about this New Edition in earnest.
+ 
+
+ 
+(Simplified)
+ 

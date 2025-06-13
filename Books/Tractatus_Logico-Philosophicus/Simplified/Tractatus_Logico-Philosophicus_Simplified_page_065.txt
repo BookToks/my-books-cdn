@@ -1,0 +1,28 @@
+44 Truth-functions are not material functions.
+ 
+ If e.g. an affirmation can be produced by repeated denial, is the denial—in any sense—contained in the affirmation?
+ 
+ Does “∼∼p” deny ∼p, or does it affirm p; or both?
+ 
+ The proposition “∼∼p” does not treat of denial as an object, but the possibility of denial is already prejudged in affirmation.
+ 
+ And if there was an object called “∼”, then “∼∼p” would have to say something other than “p”. For the one proposition would then treat of ∼, the other would not.
+ 
+ 5.441 This disappearance of the apparent logical constants also occurs if “∼(∃x).∼fx” says the same as “(x).fx”, or “(∃x).fx.x = a” the same as “fa”.
+ 
+ 5.442 If a proposition is given to us then the results of all truthoperations which have it as their basis are given with it.
+ 
+ 5.45 Iftherearelogicalprimitivesignsacorrectlogicmustmakeclear their position relative to one another and justify their existence.
+ 
+ The construction of logic out of its primitive signs must become clear.
+ 
+ 5.451 If logic has primitive ideas these must be independent of one another. If a primitive idea is introduced it must be introduced in all contexts in which it occurs at all. One cannot therefore introduce it for one context and then again for another. For example, if denial is introduced, we must understand it in propositions of theform“∼p”, justasinpropositionslike“∼(p∨q)”, “(∃x).∼fx” and others. We may not first introduce it for one class of cases and then for another, for it would then remain doubtful whether its meaning in the two cases was the same, and there would be no reason to use the same way of symbolizing in the two cases.
+ 
+ (In short, what Frege (“Grundgesetze der Arithmetik”) has saidabouttheintroductionofsignsbydefinitionsholds, mutatis mutandis, for the introduction of primitive signs also.) 5.452 The introduction of a new expedient in the symbolism of logic must always be an event full of consequences. No new symbol may be introduced in logic in brackets or in the margin—with, so to speak, an entirely innocent face.
+ 
+ (Thus in the “Principia Mathematica” of Russell and White63 TRACTATUS LOGICO-PHILOSOPHICUS head thereoccur definitions and primitivepropositions in words.
+ 
+
+ 
+(Simplified)
+ 

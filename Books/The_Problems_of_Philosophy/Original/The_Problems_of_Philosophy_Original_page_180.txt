@@ -1,0 +1,6 @@
+And the same holds for other logical principles. Their truth is evident to us, and we employ them in constructing demonstrations ; but they themselves, or at least some of them, are incapable of demonstration.
+ 
+ Self-evidence, however, is not confined to those among general principles which are incapable of proof. When a certain number of logical principles have been admitted, the rest can be deduced from them ; but the propositions deduced are often just as selfevident as those that were assumed without proof. All arithmetic, moreover, can be deduced from the general principles of logic, yet the simple propositions of arithmetic, such as " two and two are four," are just as self-evident as the principles of logic.
+ 
+ It would seem, also, though this is more disputable, that there are some self-evident ethical principles, such as " we ought to pursue what is good." It should be observed that, in all casei of general principles, particular instances, dealing ON INTUITIVE KNOWLEDGE 177 with familiar things, are more evident than the general principle.
+ 

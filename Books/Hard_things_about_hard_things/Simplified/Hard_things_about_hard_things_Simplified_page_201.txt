@@ -1,0 +1,15 @@
+There were products called “X.” CA would change the name from “X” to “Y” and then make customers pay for an upgrade they thought was free. It was smart but really unfair. To fight this, smart customers made software companies add “the CA clause” in their contracts. This clause said that if you release a new version of the software with all the old features plus new ones and a new name, it should still be covered by the old contract without extra charges.
+
+There were two ways to understand the CA clause. One way was to see it as a fix for CA’s bad behavior, and then you had to count all the money right away. The other way was to see it as a promise about future features, so you would count the money bit by bit over the contract time. Either way, the actual cash paid was the same.
+
+We knew about this confusion when we signed three deals with the clause. So, we asked our E&Y partner, Dave Price, to check the deals and tell us how to handle the money. Dave got what it meant and told us to count all the money right away for all three deals. But BMC’s E&Y partner thought the opposite and counted similar deals bit by bit.
+
+When BMC’s partner found out about the difference, they took the problem to Ernst & Young’s national office.
+
+Then, E&Y’s national audit partner called me and said he didn’t agree with his own partner anymore. He said we had to change our revenue numbers in the next 48 hours. I couldn’t believe it. Changing the numbers would crash our stock price and ruin the sale we were about to make. The accounting didn’t affect cash, and our way was based on E&Y’s original judgment. If they had done it their way from the start, the stock would be the same now. It was changing the numbers that would destroy us.
+
+What the heck?
+
+I took a deep breath and answered carefully.
+
+Ben: “The accounting should show what both we and our customers meant in the contract, right?” E&Y: “Right.” Ben: “So, why don’t we call all three customers and ask what they meant? If it matches what Dave Price said, we keep it as is. If it’s different, we’ll change the revenue.”

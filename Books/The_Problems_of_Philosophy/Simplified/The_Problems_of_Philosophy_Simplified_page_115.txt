@@ -1,0 +1,6 @@
+GENERAL PRINCIPLES 111 The same thing happens with logical principles. Suppose two men are discussing what day of the month it is. One of them says, " At least you will admit that if y esterday was the 15th to-day must be the 16th." "Yes," says the other, "I admit that." " And you know," the first continues, "that yesterday was the 15th, because you dined with Jones, and your diary will tell you that was on the 15th." " Yes," says the second ; " therefore to-day is the 16th." Now such an argument is not hard to follow ; and if it is granted that its premisses are true in fact, no one will deny that the conclusion must also be true. But it depends for its truth upon an instance of a general logical principle. The logical principle is as follows : " Suppose it known that if this is true, then that is true. Suppose it also known that this is true, then it follows that that is true." When it is the case that if this is true, that is true, we shall say that this " implies " that, and that that " follows from " this. Thus our principle states that if this implies that, and this is true, then that is true. In other 112 THE PROBLEMS OF PHILOSOPHY words, " anything implied by a true proposition ist rue," or " whatever follows from a true proposition is true.
+ 
+
+ 
+(Simplified)
+ 

@@ -1,0 +1,26 @@
+6.2321 Und, dass die Sätze der Mathematik bewiesen werden können, heisst ja nichts anderes, als dass ihre Richtigkeit einzusehen ist, ohne dass das, was sie ausdrücken, selbst mit den Tatsachen auf seine Richtigkeit hin verglichen werden muss.
+ 
+ 6.2322 Die Identität der Bedeutung zweier Ausdrücke lässt sich nicht behaupten. Denn um etwas von ihrer Bedeutung behaupten zu können, muss ich ihre Bedeutung kennen: und indem ich ihre Bedeutung kenne, weiss ich, ob sie dasselbe oder verschiedenes bedeuten.
+ 
+ 6.2323 Die Gleichung kennzeichnet nur den Standpunkt, von welchem ich die beiden Ausdrücke betrachte, nämlich vom Standpunkte ihrer Bedeutungsgleichheit.
+ 
+ 6.233 Die Frage, ob man zur Lösung der mathematischen Probleme die Anschauung brauche, muss dahin beantwortet werden, dass eben die Sprache hier die nötige Anschauung liefert.
+ 
+ 6.2331 Der Vorgang des Rechnens vermittelt eben diese Anschauung.
+ 
+ Die Rechnung ist kein Experiment.
+ 
+ 6.234 Die Mathematik ist eine Methode der Logik.
+ 
+ 6.2341 Das Wesentliche der mathematischen Methode ist es, mit Gleichungen zu arbeiten. Auf dieser Methode beruht es nämlich, dass jeder Satz der Mathematik sich von selbst verstehen muss.
+ 
+ 6.24 Die Methode der Mathematik, zu ihren Gleichungen zu kommen, ist die Substitutionsmethode.
+ 
+ Denn die Gleichungen drücken die Ersetzbarkeit zweier Ausdrücke aus und wir schreiten von einer Anzahl von Gleichungen zu neuen Gleichungen vor, indem wir, den Gleichungen entsprechend, Ausdrücke durch andere ersetzen.
+ 
+ 6.241 So lautet der Beweis des Satzes 2×2 = 4: (Ων)µ(cid:48)x = Ων×µ(cid:48)x Def.
+ 
+ Ω2×2(cid:48)x = (Ω2)2(cid:48)x = (Ω2)1+1(cid:48)x = Ω2(cid:48)Ω2(cid:48)x = Ω1+1(cid:48)Ω1+1(cid:48)x = (Ω(cid:48)Ω)(cid:48)(Ω(cid:48)Ω)(cid:48)x = Ω(cid:48)Ω(cid:48)Ω(cid:48)Ω(cid:48)x = Ω1+1+1+1(cid:48)x = Ω4(cid:48)x.
+ 
+ 154 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 6.
+ 

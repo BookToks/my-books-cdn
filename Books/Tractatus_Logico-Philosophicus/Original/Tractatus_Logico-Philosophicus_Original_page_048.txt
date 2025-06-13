@@ -1,0 +1,22 @@
+122 We can speak in a certain sense of formal properties of objects and atomic facts, or of properties of the structure of facts, and in the same sense of formal relations and relations of structures.
+ 
+ (InsteadofpropertyofthestructureIalsosay“internalproperty”; instead of relation of structures “internal relation”.
+ 
+ I introduce these expressions in order to show the reason for the confusion, very widespread among philosophers, between internal relations and proper (external) relations.) The holding of such internal properties and relations cannot, however, be asserted by propositions, but it shows itself in the propositions, which present the atomic facts and treat of the objects in question.
+ 
+ 4.1221 An internal property of a fact we also call a feature of this fact.
+ 
+ (In the sense in which we speak of facial features.) 4.123 A property is internal if it is unthinkable that its object does not possess it.
+ 
+ (This blue colour and that stand in the internal relation of brighter and darker eo ipso. It is unthinkable that these two objects should not stand in this relation.) (Here to the shifting use of the words “property” and “relation” there corresponds the shifting use of the word “object”.) 4.124 Theexistenceofaninternalpropertyofapossiblestateofaffairs is not expressed by a proposition, but it expresses itself in the proposition which presents that state of affairs, by an internal property of this proposition.
+ 
+ It would be as senseless to ascribe a formal property to a proposition as to deny it the formal property.
+ 
+ 4.1241 One cannot distinguish forms from one another by saying that one has this property but the other that: for this assumes that there is a sense in asserting either property of either form.
+ 
+ 4.125 The existence of an internal relation between possible states of affairs expresses itself in language by an internal relation between the propositions presenting them.
+ 
+ 4.1251 Here the disputed question “whether all relations are internal or external” disappears.
+ 
+ 46 TRACTATUS LOGICO-PHILOSOPHICUS 4.
+ 

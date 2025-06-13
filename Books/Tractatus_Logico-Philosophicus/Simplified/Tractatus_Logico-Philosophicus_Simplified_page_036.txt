@@ -1,0 +1,30 @@
+3 Only the proposition has sense; only in the context of a proposition has a name meaning.
+ 
+ 3.31 Every part of a proposition which characterizes its sense I call an expression (a symbol).
+ 
+ (The proposition itself is an expression.) Expressions are everything—essential for the sense of the proposition—that propositions can have in common with one another.
+ 
+ An expression characterizes a form and a content.
+ 
+ 3.311 An expression presupposes the forms of all propositions in which it can occur. It is the common characteristic mark of a class of propositions.
+ 
+ 3.312 Itisthereforerepresentedbythegeneralformofthepropositions which it characterizes.
+ 
+ And in this form the expression is constant and everything else variable.
+ 
+ 3.313 An expression is thus presented by a variable, whose values are the propositions which contain the expression.
+ 
+ (In the limiting case the variables become constants, the expression a proposition.) I call such a variable a “propositional variable”.
+ 
+ 3.314 Anexpressionhasmeaningonlyinaproposition. Everyvariable can be conceived as a propositional variable.
+ 
+ (Including the variable name.) 3.315 If we change a constituent part of a proposition into a variable, there is a class of propositions which are all the values of the resulting variable proposition. This class in general still depends onwhat, byarbitraryagreement, wemeanbypartsofthatproposition. But if we change all those signs, whose meaning was arbitrarily determined, into variables, there always remains such a class. But this is now no longer dependent on any agreement; it depends only on the nature of the proposition. It corresponds to a logical form, to a logical prototype.
+ 
+ 3.316 What values the propositional variable can assume is determined.
+ 
+ 34 TRACTATUS LOGICO-PHILOSOPHICUS The determination of the values is the variable.
+ 
+
+ 
+(Simplified)
+ 

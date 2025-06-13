@@ -1,0 +1,20 @@
+06 Propositions can be true or false only by being pictures of the reality.
+ 
+ 4.061 If one does not observe that propositions have a sense independent of the facts, one can easily believe that true and false are two relations between signs and things signified with equal rights.
+ 
+ One could then, for example, say that “p” signifies in the true way what “∼p” signifies in the false way, etc.
+ 
+ 4.062 Can we not make ourselves understood by means of false propositions as hitherto with true ones, so long as we know that they are meant to be false? No! For a proposition is true, if what we assert by means of it is the case; and if by “p” we mean ∼p, and what we mean is the case, then “p” in the new conception is true and not false.
+ 
+ 4.0621 That, however, the signs “p” and “∼p” can say the same thing is important, for it shows that the sign “∼” corresponds to nothing in reality.
+ 
+ That negation occurs in a proposition, is no characteristic of its sense (∼∼p = p).
+ 
+ The propositions “p” and “∼p” have opposite senses, but to them corresponds one and the same reality.
+ 
+ 4.063 An illustration to explain the concept of truth. A black spot on white paper; the form of the spot can be described by saying of each point of the plane whether it is white or black. To the fact that a point is black corresponds a positive fact; to the fact that a point is white (not black), a negative fact. If I indicate a point of the plane (a truth-value in Frege’s terminology), this corresponds to the assumption proposed for judgment, etc. etc.
+ 
+ But to be able to say that a point is black or white, I must firstknowunderwhatconditionsapointiscalledwhiteorblack; in order to be able to say “p” is true (or false) I must have determined under what conditions I call “p” true, and thereby I determine the sense of the proposition.
+ 
+ The point at which the simile breaks down is this: we can indicate a point on the paper, without knowing what white and blackare; buttoapropositionwithoutasensecorrespondsnothing at all, for it signifies no thing (truth-value) whose properties 43 TRACTATUS LOGICO-PHILOSOPHICUS are called “false” or “true”; the verb of the proposition is not “is true” or “is false”—as Frege thought—but that which “is true” must already contain the verb.
+ 

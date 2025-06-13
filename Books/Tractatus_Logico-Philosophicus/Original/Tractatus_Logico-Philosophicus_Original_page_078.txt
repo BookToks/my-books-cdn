@@ -1,0 +1,38 @@
+01 ThegeneralformoftheoperationΩ(cid:48)(η)istherefore: [ξ,N(ξ)](cid:48)(η) (= [η, ξ, N(ξ)]).
+ 
+ This is the most general form of transition from one proposition to another.
+ 
+ 6.02 And thus we come to numbers: I define x = Ω0(cid:48)x Def. and Ω(cid:48)Ων(cid:48)x = Ων+1(cid:48)x Def.
+ 
+ According, then, to these symbolic rules we write the series x, Ω(cid:48)x, Ω(cid:48)Ω(cid:48)x, Ω(cid:48)Ω(cid:48)Ω(cid:48)x.....
+ 
+ as: Ω0(cid:48)x,Ω0+1(cid:48)x,Ω0+1+1(cid:48)x,Ω0+1+1+1(cid:48)x.....
+ 
+ Therefore I write in place of “[x,ξ,Ω(cid:48)ξ]”, “[Ω0(cid:48)x,Ων(cid:48)x,Ων+1(cid:48)x]”.
+ 
+ And I define: 0+1 = 1 Def.
+ 
+ 0+1+1 = 2 Def.
+ 
+ 0+1+1+1 = 3 Def.
+ 
+ and so on.
+ 
+ 6.021 A number is the exponent of an operation.
+ 
+ 6.022 The concept number is nothing else than that which is common to all numbers, the general form of number.
+ 
+ The concept number is the variable number.
+ 
+ And the concept of equality of numbers is the general form of all special equalities of numbers.
+ 
+ 6.03 The general form of the cardinal number is: [0,ξ,ξ +1].
+ 
+ 6.031 The theory of classes is altogether superfluous in mathematics.
+ 
+ This is connected with the fact that the generality which we need in mathematics is not the accidental one.
+ 
+ 6.1 The propositions of logic are tautologies.
+ 
+ 76 TRACTATUS LOGICO-PHILOSOPHICUS 6.
+ 

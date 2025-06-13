@@ -1,0 +1,30 @@
+3. Die Angabe eines formalen Gesetzes, nach welchem jene Sätze gebildet sind. In diesem Falle sind die Glieder des Klammerausdrucks sämtliche Glieder einer Formenreihe.
+ 
+ 5.502 Ich schreibe also statt „(– – – – –W)(ξ,....)“ „N(ξ)“.
+ 
+ N(ξ) ist die Negation sämtlicher Werte der Satzvariablen ξ.
+ 
+ 5.503 Da sich offenbar leicht ausdrücken lässt, wie mit dieser Operation Sätze gebildet werden können und wie Sätze mit ihr nicht zu bilden sind, so muss dies auch einen exakten Ausdruck finden können.
+ 
+ 5.51 Hat ξ nur einen Wert, so ist N(ξ) = ∼p (nicht p), hat es zwei Werte, so ist N(ξ) = ∼p.∼q (weder p noch q).
+ 
+ 5.511 Wie kann die allumfassende, weltspiegelnde Logik so spezielle Haken und Manipulationen gebrauchen? Nur, indem sich alle diese zu einem unendlich feinen Netzwerk, zu dem grossen Spiegel, verknüpfen.
+ 
+ 5.512 „∼p“ ist wahr, wenn „p“ falsch ist. Also in dem wahren Satz „∼p“ ist „p“ ein falscher Satz. Wie kann ihn nun der Strich „∼“ mit der Wirklichkeit zum Stimmen bringen?
+ 
+ Das, was in „∼p“ verneint, ist aber nicht das „∼“, sondern dasjenige, was allen Zeichen dieser Notation, welche p verneinen, gemeinsam ist.
+ 
+ Also die gemeinsame Regel, nach welcher „∼p“, „∼∼∼p“, „∼p∨∼p“, „∼p.∼p“, etc. etc. (ad inf.) gebildet werden. Und dies Gemeinsame spiegelt die Verneinung wider.
+ 
+ 5.513 Man könnte sagen: Das Gemeinsame aller Symbole, die sowohl p als q bejahen, ist der Satz „p . q“. Das Gemeinsame aller Symbole, die entweder p oder q bejahen, ist der Satz „p∨q“.
+ 
+ Und so kann man sagen: Zwei Sätze sind einander entgegengesetzt, wenn sie nichts miteinander gemein haben, und: Jeder Satz hat nur ein Negativ, weil es nur einen Satz gibt, der ganz ausserhalb seiner liegt.
+ 
+ Es zeigt sich so auch in Russells Notation, dass „q : p∨∼p“ dasselbe sagt wie „q“; dass „p∨∼p“ nichts sagt.
+ 
+ 137 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 5.
+ 
+
+ 
+(Simplified)
+ 

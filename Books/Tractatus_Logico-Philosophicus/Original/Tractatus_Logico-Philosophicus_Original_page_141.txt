@@ -1,0 +1,24 @@
+524 Wenn die Gegenstände gegeben sind, so sind uns damit auch schon alle Gegenstände gegeben.
+ 
+ Wenn die Elementarsätze gegeben sind, so sind damit auch alle Elementarsätze gegeben.
+ 
+ 5.525 Es ist unrichtig, den Satz „(∃x).fx“—wie Russell dies tut—in Worten durch „fx ist möglich“ wiederzugeben.
+ 
+ Gewissheit, Möglichkeit oder Unmöglichkeit einer Sachlage wird nicht durch einen Satz ausgedrückt, sondern dadurch, dass ein Ausdruck eine Tautologie, ein sinnvoller Satz, oder eine Kontradiktion ist.
+ 
+ Jener Präzedenzfall, auf den man sich immer berufen möchte, muss schon im Symbol selber liegen.
+ 
+ 5.526 Man kann die Welt vollständig durch vollkommen verallgemeinerte Sätze beschreiben, das heisst also, ohne irgend einen Namen von vornherein einem bestimmten Gegenstand zuzuordnen.
+ 
+ Um dann auf die gewöhnliche Ausdrucksweise zu kommen, muss man einfach nach einem Ausdruck „es gibt ein und nur ein x, welches ....“ sagen: Und dies x ist a.
+ 
+ 5.5261 Ein vollkommen verallgemeinerter Satz ist, wie jeder andere Satz zusammengesetzt. (Dies zeigt sich daran, dass wir in „(∃x,φ).φx“ „φ“ und „x“ getrennt erwähnen müssen. Beide stehen unabhängig in bezeichnenden Beziehungen zur Welt, wie im unverallgemeinerten Satz.) Kennzeichen des zusammengesetzten Symbols: Es hat etwas mit anderen Symbolen gemeinsam.
+ 
+ 5.5262 Es verändert ja die Wahr- oder Falschheit jedes Satzes etwas am allgemeinen Bau der Welt. Und der Spielraum, welcher ihrem Bau durch die Gesamtheit der Elementarsätze gelassen wird, ist eben derjenige, welchen die ganz allgemeinen Sätze begrenzen.
+ 
+ (Wenn ein Elementarsatz wahr ist, so ist damit doch jedenfalls Ein Elementarsatz mehr wahr.) 5.53 Gleichheit des Gegenstandes drücke ich durch Gleichheit des Zeichens aus, und nicht mit Hilfe eines Gleichheitszeichens.
+ 
+ Verschiedenheit der Gegenstände durch Verschiedenheit der Zeichen.
+ 
+ 139 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 5.
+ 

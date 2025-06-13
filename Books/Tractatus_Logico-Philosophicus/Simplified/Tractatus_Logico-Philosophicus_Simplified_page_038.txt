@@ -1,0 +1,24 @@
+324 Thus there easily arise the most fundamental confusions (of which the whole of philosophy is full).
+ 
+ 3.325 In order to avoid these errors, we must employ a symbolism which excludes them, by not applying the same sign in different symbolsandbynotapplyingsignsinthesamewaywhichsignify in different ways. A symbolism, that is to say, which obeys the rules of logical grammar—of logical syntax.
+ 
+ (The logical symbolism of Frege and Russell is such a language, which, however, does still not exclude all errors.) 3.326 In order to recognize the symbol in the sign we must consider the significant use.
+ 
+ 3.327 The sign determines a logical form only together with its logical syntactic application.
+ 
+ 3.328 If a sign is not necessary then it is meaningless. That is the meaning of Occam’s razor.
+ 
+ (If everything in the symbolism works as though a sign had meaning, then it has meaning.) 3.33 In logical syntax the meaning of a sign ought never to play a rôle; it must admit of being established without mention being thereby made of the meaning of a sign; it ought to presuppose only the description of the expressions.
+ 
+ 3.331 From this observation we get a further view—into Russell’s Theory of Types. Russell’serrorisshownbythefactthatindrawing uphissymbolicruleshehastospeakofthemeaningofthesigns.
+ 
+ 3.332 No proposition can say anything about itself, because the propositional sign cannot be contained in itself (that is the “whole theory of types”).
+ 
+ 3.333 A function cannot be its own argument, because the functional sign already contains the prototype of its own argument and it cannot contain itself.
+ 
+ If, for example, we suppose that the function F(fx) could be its own argument, then there would be a proposition “F(F(fx))”, and in this the outer function F and the inner function F must have different meanings; for the inner has the form φ(fx), the outer the form ψ(φ(fx)). Common to 36 TRACTATUS LOGICO-PHILOSOPHICUS both functions is only the letter “F”, which by itself signifies nothing.
+ 
+
+ 
+(Simplified)
+ 

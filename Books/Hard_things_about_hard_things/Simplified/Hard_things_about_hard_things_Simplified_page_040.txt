@@ -1,0 +1,13 @@
+The project had stopped making progress and didn’t meet its goals because of many tough technical problems. EDS wanted to stop the deployment, end the contract, and get their money back. If we gave EDS their money back, Opsware would be finished. Fighting with a customer who gave us almost all our money would also mean the end of Opsware. We were in big trouble again.
+
+I called my two best team leaders on the account for a meeting.
+
+Jason Rosenthal was the very first person I hired and the best manager in the company. He graduated from Stanford and was amazing at remembering details and managing complicated projects. Jason was in charge of the EDS deployment.
+
+Anthony Wright grew up in a rough part of Pittsburgh. His dad was a famous street fighter, and Anthony had earned black belts in several martial arts. He was determined and never wanted to fail. Anthony was great at understanding people and what made them tick—someone on the team said he could “charm dogs off a meat truck.” Anthony managed the relationship with EDS.
+
+I started by asking what went wrong. It turned out, a lot of things.
+
+EDS’s setup was crazy and messy. They had networks and systems from every customer they ever signed and from different times. Their data centers were connected by super slow 56-kilobit links when other customers had speeds at least 20 times faster. They used old operating systems that didn’t support basic stuff like threads, so our software couldn’t run on them. Plus, their workers weren’t motivated—they’d even be caught sleeping in the data center in the afternoon. Our product wasn’t perfect either, and every bug was a reason to stop the deployment.
+
+I paused, rubbed my head, and then gave instructions. I chose my words carefully: “I know this is hard, and I really appreciate your effort. But I need to be clear about our situation. We can’t make excuses. We have to win. If EDS drops us, we’re done. The IPO, avoiding bankruptcy, all the layoffs and struggles will have been for nothing—because we’ll be finished. So, our only choice is to win. We can’t lose this one.”

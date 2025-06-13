@@ -1,0 +1,32 @@
+Das heisst, sie geben—wie aus den obigen Erklärungen leicht zu entnehmen ist—jedem die Wahrscheinlichkeit 1.
+ 
+ 2 Was ich durch den Versuch bestätige ist, dass das Eintreffen der beiden Ereignisse von den Umständen, die ich nicht näher kenne, unabhängig ist.
+ 
+ 5.155 Die Einheit des Wahrscheinlichkeitssatzes ist: Die Umstände— die ich sonst nicht weiter kenne—geben dem Eintreffen eines bestimmten Ereignisses den und den Grad der Wahrscheinlichkeit.
+ 
+ 5.156 So ist die Wahrscheinlichkeit eine Verallgemeinerung.
+ 
+ Sie involviert eine allgemeine Beschreibung einer Satzform.
+ 
+ NurinErmanglungderGewissheitgebrauchenwirdieWahrscheinlichkeit.—Wenn wir zwar eine Tatsache nicht vollkommen kennen, wohl aber etwas über ihre Form wissen.
+ 
+ (Ein Satz kann zwar ein unvollständiges Bild einer gewissen Sachlage sein, aber er ist immer ein vollständiges Bild.) DerWahrscheinlichkeitssatzistgleichsameinAuszugausanderen Sätzen.
+ 
+ 5.2 Die Strukturen der Sätze stehen in internen Beziehungen zu einander.
+ 
+ 5.21 Wir können diese internen Beziehungen dadurch in unserer Ausdrucksweise hervorheben, dass wir einen Satz als Resultat einer Operation darstellen, die ihn aus anderen Sätzen (den Basen der Operation) hervorbringt.
+ 
+ 5.22 Die Operation ist der Ausdruck einer Beziehung zwischen den Strukturen ihres Resultats und ihrer Basen.
+ 
+ 5.23 Die Operation ist das, was mit dem einen Satz geschehen muss, um aus ihm den anderen zu machen.
+ 
+ 5.231 Und das wird natürlich von ihren formalen Eigenschaften, von der internen Ähnlichkeit ihrer Formen abhängen.
+ 
+ 5.232 Die interne Relation, die eine Reihe ordnet, ist äquivalent mit derOperation,durchwelcheeinGliedausdemanderenentsteht.
+ 
+ 5.233 Die Operation kann erst dort auftreten, wo ein Satz auf logisch bedeutungsvolle Weise aus einem anderen entsteht. Also dort, 129 LOGISCH-PHILOSOPHISCHE ABHANDLUNG wo die logische Konstruktion des Satzes anfängt.
+ 
+
+ 
+(Simplified)
+ 

@@ -1,0 +1,34 @@
+5301 Dass die Identität keine Relation zwischen Gegenständen ist, leuchtet ein. Dies wird sehr klar, wenn man z. B. den Satz „(x) : fx. ⊃ .x = a“ betrachtet. Was dieser Satz sagt, ist einfach, dass nur a der Funktion f genügt, und nicht, dass nur solche Dinge der Funktion f genügen, welche eine gewisse Beziehung zu a haben.
+ 
+ Man könnte nun freilich sagen, dass eben nur a diese Beziehung zu a habe, aber um dies auszudrücken, brauchten wir das Gleichheitszeichen selber.
+ 
+ 5.5302 Russells Definition von „=“ genügt nicht; weil man nach ihr nicht sagen kann, dass zwei Gegenstände alle Eigenschaften gemeinsam haben. (Selbst wenn dieser Satz nie richtig ist, hat er doch Sinn.) 5.5303 Beiläufig gesprochen: Von zwei Dingen zu sagen, sie seien identisch, ist ein Unsinn, und von Einem zu sagen, es sei identisch mit sich selbst, sagt gar nichts.
+ 
+ 5.531 Ich schreibe also nicht „f(a,b).a = b“, sondern „f(a,a)“ (oder „f(b,b)“). Und nicht „f(a,b).∼a = b“, sondern „f(a,b)“.
+ 
+ 5.532 Und analog: Nicht „(∃x,y) . f(x,y) . x = y“, sondern „(∃x) .
+ 
+ f(x,x)“; und nicht „(∃x,y).f(x,y).∼x = y“, sondern „(∃x,y).
+ 
+ f(x,y)“.
+ 
+ (Also statt des Russell’schen „(∃x,y) . f(x,y)“: „(∃x,y) .
+ 
+ f(x,y).∨.(∃x).f(x,x)“.) 5.5321 Statt „(x) : fx ⊃ x = a“ schreiben wir also z. B. „(∃x).fx. ⊃ .fa : ∼(∃x,y).fx.fy“.
+ 
+ Und der Satz „nur Ein x befriedigt f()“ lautet: „(∃x).fx : ∼(∃x,y).fx.fy“.
+ 
+ 5.533 Das Gleichheitszeichen ist also kein wesentlicher Bestandteil der Begriffsschrift.
+ 
+ 5.534 Und nun sehen wir, dass Scheinsätze wie: „a = a“, „a = b.b = c. ⊃ a = c“, „(x) . x = x“, „(∃x) . x = a“, etc. sich in einer richtigen Begriffsschrift gar nicht hinschreiben lassen.
+ 
+ 5.535 Damit erledigen sich auch alle Probleme, die an solche Scheinsätze geknüpft waren.
+ 
+ Alle Probleme, die Russells „Axiom of Infinity“ mit sich bringt, sind schon hier zu lösen.
+ 
+ 140 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Das, was das Axiom of infinity sagen soll, würde sich in der Sprache dadurch ausdrücken, dass es unendlich viele Namen mit verschiedener Bedeutung gäbe.
+ 
+
+ 
+(Simplified)
+ 

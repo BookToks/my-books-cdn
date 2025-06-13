@@ -1,0 +1,12 @@
+Hume, however, considers this broad usage to be inappropriate, for it conflates together two quite distinct mental operations—namely the awareness of sensations or feelings, and the consideration of thoughts—and only the latter,in his opinion, can properly be called ‘ideas’ in the conventional sense.
+ 
+ He therefore restricts the scope of ‘idea’ to refer to thoughts alone, coining the new term ‘impression’ to refer to sensations and feelings, and the term ‘perception’ for the general class of objects of the mind, comprising impressions and ideas together (so Lockean ‘ideas’ become Humean ‘perceptions’). In general, impressions are more ‘forceful and vivacious’ than ideas, though this rule can break down if ‘the mind be disordered by disease or madness’ (E 2.1): a madman’s thoughts could be as vivid to him as his sensations, in which case he would presumably be unable to tell the difference.17 Some of Hume’s discussion suggests a distinction (again derived from Locke) which he had defined explicitly in the Treatise: Simple perceptions or impressions and ideas are such as admit of no distinction nor separation. The complex are the contrary of these, and may be distinguished into parts. Tho’ a particular colour, taste, and smell are qualities all united together in this apple,’tis easy to perceive they are not the same, but are at least distinguishable from each other. (T1.1.1.2) Presumably the particular ideas of colour, taste, etc. are understood to be simple ideas, while the idea of the apple is a complex idea that combines them, but in the EnquiryHume gives no such clear examples of complexes composed of simples. Instead he gives two instances of complex ideas, namely that of a golden mountain and that of a virtuous horse, each itself composed of two further complex ideas (E2.5).
+ 
+ This might suggest that he no longer wishes to commit himself to a view about which ideas, if any, are absolutely simple, though he later hints that ideas of colour seem to be (E2.8).
+ 
+ 17 ‘Force’ and ‘vivacity’ do not seem to be the best words to capture the distinction between sensory awareness or feelings on the one hand, and thoughts on the other, because thoughts can sometimes be very vivid (e.g. thinking about one’s sweetheart, noticing a vital step in a winning chess combination), while sensations can be very dull and boring (e.g. watching paint dry). Fortunately, very little in the Enquirydepends on exactly how ‘force and vivacity’ is interpreted.
+ 
+
+ 
+(Simplified)
+ 

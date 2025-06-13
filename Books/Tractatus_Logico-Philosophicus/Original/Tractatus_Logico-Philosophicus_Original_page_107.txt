@@ -1,0 +1,26 @@
+33 In der logischen Syntax darf nie die Bedeutung eines Zeichens eineRollespielen;siemusssichaufstellenlassen,ohnedassdabei vonder Bedeutung einesZeichensdieRedewäre,siedarf nur die Beschreibung der Ausdrücke voraussetzen.
+ 
+ 3.331 Von dieser Bemerkung sehen wir in Russell’s „Theory of types“ hinüber: Der Irrtum Russell’s zeigt sich darin, dass er bei der Aufstellung der Zeichenregeln von der Bedeutung der Zeichen reden musste.
+ 
+ 3.332 Kein Satz kann etwas über sichselbst aussagen, weil das Satzzeichen nicht in sich selbst enthalten sein kann, (das ist die ganze „Theory of types“).
+ 
+ 3.333 Eine Funktion kann darum nicht ihr eigenes Argument sein, weil das Funktionszeichen bereits das Urbild seines Arguments enthält und es sich nicht selbst enthalten kann.
+ 
+ Nehmen wir nämlich an, die Funktion F(fx) könnte ihr eigenes Argument sein; dann gäbe es also einen Satz: „F(F(fx))“ und in diesem müssen die äussere Funktion F und die innere Funktion F verschiedene Bedeutungen haben, denn die innere hat die Form φ(fx), die äussere, die Form ψ(φ(fx)). Gemeinsam ist den beiden Funktionen nur der Buchstabe „F“, der aber allein nichts bezeichnet.
+ 
+ Dies wird sofort klar, wenn wir statt „F(F(u))“ schreiben „(∃φ) : F(φu).φu = Fu“.
+ 
+ Hiermit erledigt sich Russell’s Paradox.
+ 
+ 3.334 Die Regeln der logischen Syntax müssen sich von selbst verstehen, wenn man nur weiss, wie ein jedes Zeichen bezeichnet.
+ 
+ 3.34 Der Satz besitzt wesentliche und zufällige Züge.
+ 
+ Zufällig sind die Züge, die von der besonderen Art der Hervorbringung des Satzzeichens herrühren. Wesentlich diejenigen, welche allein den Satz befähigen, seinen Sinn auszudrücken.
+ 
+ 3.341 Das Wesentliche am Satz ist also das, was allen Sätzen, welche den gleichen Sinn ausdrücken können, gemeinsam ist.
+ 
+ Und ebenso ist allgemein das Wesentliche am Symbol das, was alle Symbole, die denselben Zweck erfüllen können, gemeinsam haben.
+ 
+ 105 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 3.
+ 

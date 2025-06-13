@@ -1,0 +1,42 @@
+0272 The configuration of the objects forms the atomic fact.
+ 
+ 2.03 In the atomic fact objects hang one in another, like the members of a chain.
+ 
+ 2.031 In the atomic fact the objects are combined in a definite way.
+ 
+ 2.032 The way in which objects hang together in the atomic fact is the structure of the atomic fact.
+ 
+ 2.033 The form is the possibility of the structure.
+ 
+ 2.034 The structure of the fact consists of the structures of the atomic facts.
+ 
+ 2.04 The totality of existent atomic facts is the world.
+ 
+ 2.05 Thetotalityofexistentatomicfactsalsodetermineswhichatomic facts do not exist.
+ 
+ 2.06 The existence and non-existence of atomic facts is the reality.
+ 
+ (The existence of atomic facts we also call a positive fact, their non-existence a negative fact.) 2.061 Atomic facts are independent of one another.
+ 
+ 2.062 From the existence or non-existence of an atomic fact we cannot infer the existence or non-existence of another.
+ 
+ 2.063 The total reality is the world.
+ 
+ 2.1 We make to ourselves pictures of facts.
+ 
+ 2.11 The picture presents the facts in logical space, the existence and non-existence of atomic facts.
+ 
+ 2.12 The picture is a model of reality.
+ 
+ 2.13 To the objects correspond in the picture the elements of the picture.
+ 
+ 2.131 Theelementsofthepicturestand, inthepicture, fortheobjects.
+ 
+ 2.14 The picture consists in the fact that its elements are combined with one another in a definite way.
+ 
+ 2.141 The picture is a fact.
+ 
+ 2.15 That the elements of the picture are combined with one another in a definite way, represents that the things are so combined with one another.
+ 
+ 28 TRACTATUS LOGICO-PHILOSOPHICUS This connexion of the elements of the picture is called its structure, and the possibility of this structure is called the form of representation of the picture.
+ 

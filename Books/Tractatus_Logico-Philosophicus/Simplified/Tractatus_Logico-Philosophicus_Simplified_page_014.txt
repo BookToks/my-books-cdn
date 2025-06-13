@@ -1,0 +1,14 @@
+Other apparent exceptions would be such as “p is a very complex proposition” or “p is a proposition about Socrates.” Mr Wittgenstein maintains, however, for reasons which will appear presently, that such exceptions are only apparent, and that every function of a proposition is really a truth-function. It follows that if we can define truth-functions generally, we can obtain a general definition of all propositions in terms of the original set of atomic propositions. This Wittgenstein proceeds to do.
+ 
+ It has been shown by Dr Sheffer (Trans. Am. Math. Soc., Vol. XIV.
+ 
+ pp. 481–488) that all truth-functions of a given set of propositions can be constructed out of either of the two functions “not-p or not-q” or “not-p and not-q.” Wittgenstein makes use of the latter, assuming a knowledge of Dr Sheffer’s work. The manner in which other truth-functions are constructed out of “not-p and not-q” is easy to see. “Not-p and not-p” is equivalent to “not-p,” hence we obtain a definition of negation in terms of our primitive function: hence we can define “p or q,” since this is the negation of “not-p and not-q,” i.e. of our primitive function. The development of other truth-functions out of “not-p” and “p or q” is given in detail at the beginning of Principia Mathematica. This gives all that is wanted when the propositions which are arguments to our truth-function are given by enumeration. Wittgenstein, however, by a very interesting analysis succeeds in extending the process to general propositions, i.e. to cases where the propositions which are arguments to our truth-function are not given by enumeration but are given as all those satisfying some condition. Forexample, letfxbeapropositionalfunction(i.e.afunction whose values are propositions), such as “x is human”—then the various values of fx form a set of propositions. We may extend the idea “not-p and not-q” so as to apply to simultaneous denial of all the propositions which are values of fx. In this way we arrive at the proposition which is ordinarily represented in mathematical logic by the words “fx is false for all values of x.” The negation of this would be the proposition “there is at least one x for which fx is true” which is represented by “(∃x).fx.” If we had started with not-fx instead of fx we should have arrived at the proposition “fx is true for all values of x” which is represented by “(x).fx.” Wittgenstein’smethodofdealingwithgeneralpropositions[i.e.
+ 
+ “(x).fx” and “(∃x).fx”] differs from previous methods by the fact that the generality comes only in specifying the set of propositions concerned, and when this has been done the building up of truth-functions proceeds exactlyasitwouldinthecaseofafinitenumberofenumeratedarguments p, q, r....
+ 
+ 12 INTRODUCTION Mr Wittgenstein’s explanation of his symbolism at this point is not quite fully given in the text.
+ 
+
+ 
+(Simplified)
+ 

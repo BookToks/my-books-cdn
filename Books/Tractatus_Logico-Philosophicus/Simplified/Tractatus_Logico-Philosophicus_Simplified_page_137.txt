@@ -1,0 +1,30 @@
+Man könnte sagen: Die Eine logische Konstante ist das, was alle Sätze, ihrer Natur nach, mit einander gemein haben.
+ 
+ Das aber ist die allgemeine Satzform.
+ 
+ 5.471 Die allgemeine Satzform ist das Wesen des Satzes.
+ 
+ 5.4711 Das Wesen des Satzes angeben, heisst, das Wesen aller Beschreibung angeben, also das Wesen der Welt.
+ 
+ 5.472 Die Beschreibung der allgemeinsten Satzform ist die Beschreibung des einen und einzigen allgemeinen Urzeichens der Logik.
+ 
+ 5.473 Die Logik muss für sich selber sorgen.
+ 
+ Ein mögliches Zeichen muss auch bezeichnen können. Alles was in der Logik möglich ist, ist auch erlaubt. („Sokrates ist identisch“ heisst darum nichts, weil es keine Eigenschaft gibt, die „identisch“ heisst. Der Satz ist unsinnig, weil wir eine willkürliche Bestimmung nicht getroffen haben, aber nicht darum, weil das Symbol an und für sich unerlaubt wäre.) Wir können uns, in gewissem Sinne, nicht in der Logik irren.
+ 
+ 5.4731 Das Einleuchten, von dem Russell so viel sprach, kann nur dadurch in der Logik entbehrlich werden, dass die Sprache selbst jeden logischen Fehler verhindert.—Dass die Logik a priori ist, besteht darin, dass nicht unlogisch gedacht werden kann.
+ 
+ 5.4732 Wir können einem Zeichen nicht den unrechten Sinn geben.
+ 
+ 5.47321 Occams Devise ist natürlich keine willkürliche, oder durch ihren praktischen Erfolg gerechtfertigte, Regel: Sie besagt, dass unnötige Zeicheneinheiten nichts bedeuten.
+ 
+ Zeichen, die Einen Zweck erfüllen, sind logisch äquivalent, Zeichen, die keinen Zweck erfüllen, logisch bedeutungslos.
+ 
+ 5.4733 Frege sagt: Jeder rechtmässig gebildete Satz muss einen Sinn haben; und ich sage: Jeder mögliche Satz ist rechtmässig gebildet, und wenn er keinen Sinn hat, so kann das nur daran liegen, dass wir einigen seiner Bestandteile keine Bedeutung gegeben haben.
+ 
+ (Wenn wir auch glauben, es getan zu haben.) 135 LOGISCH-PHILOSOPHISCHE ABHANDLUNG So sagt „Sokrates ist identisch“ darum nichts, weil wir dem Wort „identisch“ als Eigenschaftswort keine Bedeutung gegeben haben.
+ 
+
+ 
+(Simplified)
+ 

@@ -1,0 +1,18 @@
+(Frege has therefore quite rightly put them at the beginning, as explaining the signs of his logical symbolism. Only Frege’s explanation of the truth-concept is false: if “the true” and “the false” were real objects and the arguments in ∼p, etc., then the sense of ∼p would by no means be determined by Frege’s determination.) 4.44 The sign which arises from the co-ordination of that mark “T” with the truth-possibilities is a propositional sign.
+ 
+ 4.441 It is clear that to the complex of the signs “F” and “T” no object (orcomplexofobjects)corresponds; anymorethantohorizontal and vertical lines or to brackets. There are no “logical objects”.
+ 
+ Something analogous holds of course for all signs, which express the same as the schemata of “T” and “F”.
+ 
+ 4.442 Thus e.g.
+ 
+ “ p q T T T F T T T F F F T ” is a propositional sign.
+ 
+ (Frege’sassertionsign“(cid:96)” islogicallyaltogethermeaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
+ 
+ “(cid:96)” belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.) Ifthesequenceofthetruth-possibilitiesintheschemaisonce for all determined by a rule of combination, then the last column is by itself an expression of the truth-conditions. If we write this columnasarowthepropositionalsignbecomes: “(TT–T)(p, q)”, or more plainly: “(TTFT)(p, q)”.
+ 
+ (The number of places in the left-hand bracket is determined by the number of terms in the right-hand bracket.) 4.45 For n elementary propositions there are L possible groups of n truth-conditions.
+ 
+ 52 TRACTATUS LOGICO-PHILOSOPHICUS The groups of truth-conditions which belong to the truthpossibilities of a number of elementary propositions can be ordered in a series.
+ 

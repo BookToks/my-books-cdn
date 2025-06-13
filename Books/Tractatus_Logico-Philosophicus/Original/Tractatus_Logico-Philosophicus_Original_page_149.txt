@@ -1,0 +1,30 @@
+....
+ 
+ so: Ω0(cid:48)x,Ω0+1(cid:48)x,Ω0+1+1(cid:48)x,Ω0+1+1+1(cid:48)x,.....
+ 
+ Also schreibe ich statt „[x,ξ,Ω(cid:48)ξ]“: „[Ω0(cid:48)x,Ων(cid:48)x,Ων+1(cid:48)x]“.
+ 
+ Und definiere: 0+1 = 1 Def.
+ 
+ 0+1+1 = 2 Def.
+ 
+ 0+1+1+1 = 3 Def.
+ 
+ (u. s. f.) 6.021 Die Zahl ist der Exponent einer Operation.
+ 
+ 6.022 Der Zahlbegriff ist nichts anderes, als das Gemeinsame aller Zahlen, die allgemeine Form der Zahl.
+ 
+ Der Zahlbegriff ist die variable Zahl.
+ 
+ Und der Begriff der Zahlengleichheit ist die allgemeine Form aller speziellen Zahlengleichheiten.
+ 
+ 6.03 Die allgemeine Form der ganzen Zahl ist: [0,ξ,ξ +1].
+ 
+ 6.031 Die Theorie der Klassen ist in der Mathematik ganz überflüssig.
+ 
+ Dies hängt damit zusammen, dass die Allgemeinheit, welche wir in der Mathematik brauchen, nicht die zufällige ist.
+ 
+ 6.1 Die Sätze der Logik sind Tautologien.
+ 
+ 6.11 Die Sätze der Logik sagen also Nichts. (Sie sind die analytischen Sätze.) 6.111 Theorien, die einen Satz der Logik gehaltvoll erscheinen lassen, sind immer falsch. Man könnte z. B. glauben, dass die Worte „wahr“ und „falsch“ zwei Eigenschaften unter anderen Eigenschaften bezeichnen, und da erschiene es als eine merkwürdige Tatsache, dass jeder Satz eine dieser Eigenschaften besitzt. Das scheint nun nichts weniger als selbstverständlich zu sein, ebensowenig selbstverständlich, wie etwa der Satz, „alle Rosen sind 147 LOGISCH-PHILOSOPHISCHE ABHANDLUNG entweder gelb oder rot“ klänge, auch wenn er wahr wäre.
+ 

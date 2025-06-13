@@ -1,0 +1,26 @@
+In einem ähnlichen Sinne rede ich von der successiven Anwendung mehrerer Operationen auf eine Anzahl von Sätzen.
+ 
+ 5.2522 Das allgemeine Glied einer Formenreihe a, O(cid:48)a, O(cid:48)O(cid:48)a, ....
+ 
+ schreibe ich daher so: „[a,x,O(cid:48)x]“. Dieser Klammerausdruck ist eine Variable. Das erste Glied des Klammerausdruckes ist der Anfang der Formenreihe, das zweite die Form eines beliebigen Gliedes x der Reihe und das dritte die Form desjenigen Gliedes der Reihe, welches auf x unmittelbar folgt.
+ 
+ 5.2523 Der Begriff der successiven Anwendung der Operation ist äquivalent mit dem Begriff „und so weiter“.
+ 
+ 5.253 Eine Operation kann die Wirkung einer anderen rückgängig machen. Operationen können einander aufheben.
+ 
+ 5.254 Die Operation kann verschwinden (z. B. die Verneinung in „∼∼p“, ∼∼p = p).
+ 
+ 5.3 Alle Sätze sind Resultate von Wahrheitsoperationen mit den Elementarsätzen.
+ 
+ Die Wahrheitsoperation ist die Art und Weise, wie aus den Elementarsätzen die Wahrheitsfunktion entsteht.
+ 
+ Nach dem Wesen der Wahrheitsoperation wird auf die gleicheWeise,wieausdenElementarsätzenihreWahrheitsfunktion, aus Wahrheitsfunktionen eine Neue. Jede Wahrheitsoperation erzeugt aus Wahrheitsfunktionen von Elementarsätzen wieder eine Wahrheitsfunktion von Elementarsätzen, einen Satz. Das Resultat jeder Wahrheitsoperation mit den Resultaten von Wahrheitsoperationen mit Elementarsätzen ist wieder das Resultat Einer Wahrheitsoperation mit Elementarsätzen.
+ 
+ Jeder Satz ist das Resultat von Wahrheitsoperationen mit Elementarsätzen.
+ 
+ 5.31 Die Schemata No. 4.31 haben auch dann eine Bedeutung, wenn „p“, „q“, „r“, etc. nicht Elementarsätze sind.
+ 
+ Und es ist leicht zu sehen, dass das Satzzeichen in No. 4.442, auch wenn „p“ und „q“ Wahrheitsfunktionen von Elementarsätzen sind, Eine Wahrheitsfunktion von Elementarsätzen ausdrückt.
+ 
+ 131 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 5.
+ 

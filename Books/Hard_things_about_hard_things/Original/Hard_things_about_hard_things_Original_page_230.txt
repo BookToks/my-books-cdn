@@ -1,0 +1,8 @@
+Metric Design Describe the key leading and lagging indicators for your organization.
+ 
+ Are they appropriately paired? For example, do you value time, but not quality?
+ 
+ Are there potentially negative side effects?
+ 
+ What was the process that you used to design them?
+ 

@@ -1,0 +1,24 @@
+The first of Priestley's works to appear in Gennan was apparently his History of tbe Corruptions of Cbristianity in 1782, so Kant presumably knew about his philosophical views from reviews when writing the Critique. However, Kant had already mentioned Priestley in R 502 I (1776-78, 18:63), characterizing him along with Locke as an empiricist.
+ 
+ 17 Here Kant first alludes to Hobbes's diagnosis of the state of nature as given in Leviathan, book I, chap. XIII (see also De Cive, chap. I, § XII) and to Hobbes's formulation of the second "Fundamental Law of Nature" in chap.
+ 
+ XIv, and then anticipates his own fonnulation of the "Universal Principle of Right" in the introduction to the "Doctrine of Right" in the Metaphysics of Morals, § C (6:230).
+ 
+ 18 To this section compare the long note R 5645 (1785-88? I 780-84?
+ 
+ 18:287-95).
+ 
+ 19 Hume's assertion that the principle of our causal inferences is "Custom or Habit" would have been best known to Kant from An Enquiry concerning Human Understanding, section V ("Skeptical Solution of these Doubts"), part 1. The Enquiry was first translated into German by J. G. Sulzer in 1755.
+ 
+ 20 For some comments on the necessary conditions for an hypothesis, see R 5560 (1778-81, 18:233-4) and R 5570 (1778-81, 18:236).
+ 
+ 2 I Here Kant may be alluding to his ironic attack on Swedenborgian spiritu­ alism in Dreams of a Spirit-Seer (1766), e.g., 2:332-4; in Theoretical Philoso­ phy, 1755-1770, pp. 319-21, as well as to his attack on the Leibnizian conception of substances as monads in the "Amphiboly of the Concepts of Reflection" above.
+ 
+ 2 2 Here Kant recapitulates his criticism of the inference from the simplicity of the representation of the self to the simplicity of the self as object in the second "Paralogism of Pure Reason"; see A 355-6 and B 407-8.
+ 
+ 23 See Kant's own proof in The New Elucidation of the First Principles of Meta­ physical Cognition, prop. VIII, 1:396; in Theoretical Philosophy, 1755-1770, P· 17· 24 Kant defines modus ponens in the Heschel Logic as inferring a positione an­ tecedens ad positionem consequentis, or inferring from the positing of the an­ tecedent to the positing of the consequence (Lectures on Logic, p. 405). This seems to be the same as the usual modern definition of modus ponens as the rule of inference that if p and p -> q then q. However, the modern formula­ tion is not understood to have the consequence that Kant imputes to it, namely that a proposition p can be known to be true only if all of its con­ sequences (q, r, . . . ) are known to be true.
+ 
+ 25 Here Kant's definition is incomplete but he does not seem to be departing from the customary interpretation of modus tollens. This is usually under­ stood as the rule of inference that if p -> q and not-q then not-p, which is precisely what Kant takes it to imply. Kant defines modus tollens as inferring a remotione consequentis ad remotionem antecedentis, i.e., from the removal (or denial) of the consequent to that of the antecedent, in Heschel Logic (Lec­ tures on Logic, p. 405).
+ 
+ �6 At this late stage in the book, the claim that reason may have a canon in its practical but not in its theoretical use may seem like an afterthought, but at 753 Notes to pages 675-684 least in the second edition Kant's preface reveals that one of the chief objec­ tives of the entire enterprise has been to prepare the ground for this claim (see B xxv).
+ 

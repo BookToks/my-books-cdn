@@ -1,0 +1,20 @@
+1272 Sothevariablename“x” isthepropersignofthepseudo-concept object.
+ 
+ Wherever the word “object” (“thing”, “entity”, etc.) is rightly used, it is expressed in logical symbolism by the variable name.
+ 
+ For example in the proposition “there are two objects which ...”, by “(∃x,y) ...”.
+ 
+ Wherever it is used otherwise, i.e. as a proper concept word, there arise senseless pseudo-propositions.
+ 
+ Soonecannot, e.g.say“Thereareobjects” asonesays“There are books”. Nor “There are 100 objects” or “There are ℵ ob0 jects”. And it is senseless to speak of the number of all objects.
+ 
+ The same holds of the words “Complex”, “Fact”, “Function”, “Number”, etc.
+ 
+ They all signify formal concepts and are presented in logical symbolism by variables, not by functions or classes (as Frege and Russell thought).
+ 
+ Expressions like “1 is a number”, “there is only one number nought”, and all like them are senseless.
+ 
+ (It is as senseless to say, “there is only one 1” as it would be to say: 2 + 2 is at 3 o’clock equal to 4.) 4.12721 The formal concept is already given with an object, which falls under it. One cannot, therefore, introduce both, the objects which fall under a formal concept and the formal concept itself, as primitive ideas. One cannot, therefore, e.g. introduce (as Russell does) the concept of function and also special functions as primitive ideas; or the concept of number and definite numbers.
+ 
+ 4.1273 If we want to express in logical symbolism the general proposition “b is a successor of a” we need for this an expression for the general term of the formal series: aRb, (∃x) : aRx . xRb, (∃x,y) : aRx.xRy.yRb, ... The general term of a formal series can only be expressed by a variable, for the concept symbolized by “term of this formal series” is a formal concept. (This Frege and Russell overlooked; the way in which they express general propositions like the above is, therefore, false; it contains a vicious circle.) We can determine the general term of the formal series by 48 TRACTATUS LOGICO-PHILOSOPHICUS giving its first term and the general form of the operation, which generates the following term out of the preceding proposition.
+ 

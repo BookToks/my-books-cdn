@@ -1,0 +1,20 @@
+WHEN EMPLOYEES MISINTERPRET MANAGERS Early on at Loudcloud, many people would do crazy things backed up by “Ben said.” Often I didn’t say any of it, but I definitely didn’t say it in the way they used it. The management principles I share here are connected to many of those experiences.
+ 
+ When I ran Opsware, we had the nonlinear quarter problem also known affectionately as the hockey stick. The hockey stick refers to the shape of the revenue graph over the course of a quarter. Our hockey stick was so bad that one quarter, we booked 90 percent of our new bookings on the last day of the quarter. Sales patterns like this make it difficult to plan the business and are particularly harrowing when you are, as we were, a public company.
+ 
+ Naturally, I was determined to straighten out the hockey stick and bring some sanity to the business. I designed an incentive for salespeople to close deals in the first two months of the quarter by issuing bonuses for deals in those months.
+ 
+ As a result, the next quarter became slightly more linear, and slightly smaller than anticipated—deals just moved from the third month to the first two of the following quarter.
+ 
+ When I ran a large engineering group at Netscape, I measured one of our engineering products on schedule, quality, and features. The team shipped a product with all the required features, on time and with very few bugs.
+ 
+ Unfortunately, the product was mediocre, because none of the features were that great.
+ 
+ When I was at HP, we ran all the businesses by the numbers with extremely strict revenue and margin targets. Some divisions made their numbers, but did so by underfunding R&D. They dramatically weakened their long-term competitive position and set themselves up for future disaster.
+ 
+ In all three cases, managers got what we asked for, but not what we wanted.
+ 
+ How did this happen? Let’s take a look.
+ 
+ FLATTENING OUT THE HOCKEY STICK: THE WRONG GOAL
+ 

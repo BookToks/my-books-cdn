@@ -1,0 +1,30 @@
+In this case the terms of the expression in brackets are all the terms of a formal series.
+ 
+ 5.502 Therefore I write instead of “(– – – – –T)(ξ,....)”, “N(ξ)”.
+ 
+ N(ξ) is the negation of all the values of the propositional variable ξ.
+ 
+ 5.503 As it is obviously easy to express how propositions can be constructed by means of this operation and how propositions are not to be constructed by means of it, this must be capable of exact expression.
+ 
+ 5.51 If ξ has only one value, then N(ξ) = ∼p (not p), if it has two values then N(ξ) = ∼p.∼q (neither p nor q).
+ 
+ 5.511 How can the all-embracing logic which mirrors the world use such special catches and manipulations? Only because all these areconnectedintoaninfinitelyfinenetwork, tothegreatmirror.
+ 
+ 5.512 “∼p” is true if “p” is false. Therefore in the true proposition “∼p” “p” is a false proposition. How then can the stroke “∼” bring it into agreement with reality?
+ 
+ Thatwhichdeniesin“∼p” ishowevernot“∼”,butthatwhich all signs of this notation, which deny p, have in common.
+ 
+ Hence the common rule according to which “∼p”, “∼∼∼p”, “∼p∨∼p”, “∼p.∼p”, etc. etc. (to infinity) are constructed. And this which is common to them all mirrors denial.
+ 
+ 5.513 We could say: What is common to all symbols, which assert both p and q, is the proposition “p.q”. What is common to all symbols, which assert either p or q, is the proposition “p∨q”.
+ 
+ And similarly we can say: Two propositions are opposed to one another when they have nothing in common with one another; and every proposition has only one negative, because there is only one proposition which lies altogether outside it.
+ 
+ Thus even in Russell’s notation it is evident that “q : p∨∼p” says the same as “q”; that “p∨∼p” says nothing.
+ 
+ 5.514 If a notation is fixed, there is in it a rule according to which all the propositions denying p are constructed, a rule according to which all the propositions asserting p are constructed, a rule 67 TRACTATUS LOGICO-PHILOSOPHICUS according to which all the propositions asserting p or q are constructed, and so on.
+ 
+
+ 
+(Simplified)
+ 

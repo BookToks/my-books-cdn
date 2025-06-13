@@ -1,0 +1,32 @@
+5302 Russell’s definition of “=” won’t do; because according to it one cannot say that two objects have all their properties in common. (Even if this proposition is never true, it is nevertheless significant.) 5.5303 Roughly speaking: to say of two things that they are identical is nonsense, and to say of one thing that it is identical with itself is to say nothing.
+ 
+ 5.531 I write therefore not “f(a,b).a = b”, but “f(a,a)” (or “f(b,b)”).
+ 
+ And not “f(a,b).∼a = b”, but “f(a,b)”.
+ 
+ 5.532 Andanalogously: not“(∃x,y).f(x,y).x = y”,but“(∃x).f(x,x)”; and not “(∃x,y).f(x,y).∼x = y”, but “(∃x,y).f(x,y)”.
+ 
+ (Therefore instead of Russell’s “(∃x,y) . f(x,y)”: “(∃x,y) .
+ 
+ f(x,y).∨.(∃x).f(x,x)”.) 5.5321 Insteadof“(x) : fx ⊃ x = a” wethereforewritee.g.“(∃x).fx. ⊃ .fa : ∼(∃x,y).fx.fy”.
+ 
+ And the proposition “only one x satisfies f()” reads: “(∃x).
+ 
+ fx : ∼(∃x,y).fx.fy”.
+ 
+ 5.533 The identity sign is therefore not an essential constituent of logical notation.
+ 
+ 5.534 And we see that apparent propositions like: “a = a”, “a = b.b = c. ⊃ a = c”, “(x).x = x”, “(∃x).x = a”, etc. cannot be written in a correct logical notation at all.
+ 
+ 5.535 So all problems disappear which are connected with such pseudo-propositions.
+ 
+ Thisistheplacetosolvealltheproblemswhicharisethrough Russell’s “Axiom of Infinity”.
+ 
+ What the axiom of infinity is meant to say would be expressed in language by the fact that there is an infinite number of names with different meanings.
+ 
+ 5.5351 There are certain cases in which one is tempted to use expressions of the form “a = a” or “p ⊃ p” and of that kind. And indeed this takes place when one would like to speak of the archetype Proposition, Thing, etc. So Russell in the Principles of Mathematics hasrenderedthenonsense“pisaproposition” in symbols by “p ⊃ p” and has put it as hypothesis before certain 70 TRACTATUS LOGICO-PHILOSOPHICUS propositions to show that their places for arguments could only be occupied by propositions.
+ 
+
+ 
+(Simplified)
+ 

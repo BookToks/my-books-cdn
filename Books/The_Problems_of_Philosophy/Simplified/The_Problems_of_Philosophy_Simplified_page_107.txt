@@ -1,0 +1,8 @@
+The principle we are examining may be called the principle of induction, and its two parts may be stated as follows : (a) When a thing of a certain sort A has been found to be associated with a thing of a certain other sort B, and has never been found dissociated from a thing of the sort B, the greater the number of cases in which A and B have been associated, the greater is the probability that they will be associated in a fresh case in which one of them is known to be present ; (6) Under the same circumstances, a sufficient number of cases of association will make the probability of a fresh association nearly a certainty, and will make it approach certainty without limit.
+ 
+ As just stated, the principle applies only to the verification of our expectation in a single fresh instance. But we want also to know that there is a probability in favour of the general law that things of the sort A are 104 THE PROBLEMS OF PHILOSOPHY always associated with things of the sort B, provided a sufficient number of cases of association are known, and no cases of failure of association are known.
+ 
+
+ 
+(Simplified)
+ 

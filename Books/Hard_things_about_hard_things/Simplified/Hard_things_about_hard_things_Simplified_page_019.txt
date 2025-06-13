@@ -1,0 +1,19 @@
+STARTING A COMPANY
+
+At the end of 1998, Microsoft was putting a lot of pressure on us. They used their huge control over operating systems to offer free products that competed with Netscape’s. Because of this, we decided to sell the company to America Online (AOL).
+
+At first, this seemed like a big win for Microsoft because they got rid of their biggest rival by pushing us into the hands of a smaller competitor. But in the long run, Netscape actually hurt Microsoft’s control over the computer world. We helped move developers away from Microsoft’s special platform and toward the Internet.
+
+Instead of making new programs just for Microsoft, people started making them for the Internet and the World Wide Web, which anyone could use.
+
+Once Microsoft lost the developers, it was only a matter of time before they lost control over operating systems too. Along the way, Netscape created many important parts of today’s Internet, like JavaScript, SSL, and cookies.
+
+After joining AOL, I was put in charge of the e-commerce platform, and Marc became the chief technology officer. After a few months, we realized AOL saw itself more as a media company than a tech company. Technology helped make cool media projects, but their main focus was on media. The top boss, Bob Pittman, was a very smart media executive. Media companies focus on telling great stories, while tech companies try to build better ways of doing things.
+
+We started thinking about new ideas and making plans to start a new company.
+
+We brought in two more people to help. Dr. Timothy Howes helped invent LDAP, which made a complicated system much simpler. We hired Tim in 1996, and together we made LDAP the standard way to look up info on the Internet. Even today, if a program wants info about a person, it uses LDAP.
+
+The fourth person was In Sik Rhee. He had started a company called Kiva Systems, which Netscape bought. He was the CTO of the e-commerce part I ran and worked closely with partners to make sure they could handle AOL’s huge traffic.
+
+As we talked about ideas, In Sik said that every time we connected an AOL partner to the e-commerce platform, the partner’s site would crash because it couldn’t handle so many visitors. Getting software ready to handle big traffic was a big problem.

@@ -1,0 +1,9 @@
+— CHAPTER 4 — WHEN THINGS FALL APART
+
+There are different ways to understand the idea of things being certain or uncertain. One way is to think about math: calculus versus statistics. In a world where everything is certain, calculus is the main tool. You can calculate exact answers and know exactly what will happen. For example, when you send a rocket to the moon, you have to know exactly where it is at all times. It’s not like a new company where you just try stuff and figure it out as you go. Will the rocket reach the moon? Or Jupiter? Or get lost in space? In the 1990s, many companies had big launch parties but no successful endings.
+
+But in a world that’s uncertain, probability and statistics are how we understand things. Bell curves and random walks show what the future might look like. Some people even say high schools should stop teaching calculus and focus more on statistics because it’s actually more useful. The idea is that thinking with statistics will be more important in the future.
+
+When I was trying to sell the cloud computing part of the Loudcloud business, I met with Bill Campbell to tell him how the deal was going. This deal was really important because without it, the company would probably go bankrupt.
+
+After I explained everything about talks with IBM and EDS, Bill stopped and looked me in the eyes. He said, “Ben, you need to do more than just work on this deal. You need to work on it by yourself with your lawyer. You have to get the company ready for what’s next.”

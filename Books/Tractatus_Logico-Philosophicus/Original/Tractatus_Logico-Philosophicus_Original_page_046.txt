@@ -1,0 +1,32 @@
+4.064 Every proposition must already have a sense; assertion cannot give it a sense, for what it asserts is the sense itself. And the same holds of denial, etc.
+ 
+ 4.0641 One could say, the denial is already related to the logical place determined by the proposition that is denied.
+ 
+ The denying proposition determines a logical place other than does the proposition denied.
+ 
+ The denying proposition determines a logical place, with the help of the logical place of the proposition denied, by saying that it lies outside the latter place.
+ 
+ That one can deny again the denied proposition, shows that what is denied is already a proposition and not merely the preliminary to a proposition.
+ 
+ 4.1 Apropositionpresentstheexistenceandnon-existenceofatomic facts.
+ 
+ 4.11 The totality of true propositions is the total natural science (or the totality of the natural sciences).
+ 
+ 4.111 Philosophy is not one of the natural sciences.
+ 
+ (The word “philosophy” must mean something which stands above or below, but not beside the natural sciences.) 4.112 The object of philosophy is the logical clarification of thoughts.
+ 
+ Philosophy is not a theory but an activity.
+ 
+ A philosophical work consists essentially of elucidations.
+ 
+ The result of philosophy is not a number of “philosophical propositions”, but to make propositions clear.
+ 
+ Philosophy should make clear and delimit sharply the thoughts which otherwise are, as it were, opaque and blurred.
+ 
+ 4.1121 Psychology is no nearer related to philosophy, than is any other natural science.
+ 
+ The theory of knowledge is the philosophy of psychology.
+ 
+ Does not my study of sign-language correspond to the study of thought processes which philosophers held to be so essential 44 TRACTATUS LOGICO-PHILOSOPHICUS to the philosophy of logic?
+ 

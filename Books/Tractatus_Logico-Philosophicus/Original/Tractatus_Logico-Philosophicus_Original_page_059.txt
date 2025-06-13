@@ -1,0 +1,32 @@
+Every proposition which contradicts another, denies it.
+ 
+ 5.13 That the truth of one proposition follows from the truth of other propositions, we perceive from the structure of the propositions.
+ 
+ 5.131 If the truth of one proposition follows from the truth of others, this expresses itself in relations in which the forms of these propositions stand to one another, and we do not need to put them in these relations first by connecting them with one another in a proposition; for these relations are internal, and exist as soon as, and by the very fact that, the propositions exist.
+ 
+ 5.1311 When we conclude from p∨q and ∼p to q the relation between the forms of the propositions “p∨q” and “∼p” is here concealed by the method of symbolizing. But if we write, e.g. instead of “p∨q” “p|q.|.p|q” and instead of “∼p” “p|p” (p|q = neither p nor q), then the inner connexion becomes obvious.
+ 
+ (The fact that we can infer fa from (x).fx shows that generality is present also in the symbol “(x).fx”.
+ 
+ 5.132 If p follows from q, I can conclude from q to p; infer p from q.
+ 
+ The method of inference is to be understood from the two propositions alone.
+ 
+ Only they themselves can justify the inference.
+ 
+ Laws of inference, which—as in Frege and Russell—are to justify the conclusions, are senseless and would be superfluous.
+ 
+ 5.133 All inference takes place a priori.
+ 
+ 5.134 From an elementary proposition no other can be inferred.
+ 
+ 5.135 In no way can an inference be made from the existence of one state of affairs to the existence of another entirely different from it.
+ 
+ 5.136 There is no causal nexus which justifies such an inference.
+ 
+ 5.1361 The events of the future cannot be inferred from those of the present.
+ 
+ Superstition is the belief in the causal nexus.
+ 
+ 5.1362 The freedom of the will consists in the fact that future actions 57 TRACTATUS LOGICO-PHILOSOPHICUS cannot be known now.
+ 

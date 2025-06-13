@@ -1,0 +1,28 @@
+25 The occurrence of an operation does not characterize the sense of a proposition.
+ 
+ For an operation does not assert anything; only its result does, and this depends on the bases of the operation.
+ 
+ (Operation and function must not be confused with one another.) 5.251 A function cannot be its own argument, but the result of an operation can be its own basis.
+ 
+ 5.252 Only in this way is the progress from term to term in a formal series possible (from type to type in the hierarchy of Russell and Whitehead). (Russell and Whitehead have not admitted the possibility of this progress but have made use of it all the same.) 5.2521 The repeated application of an operation to its own result I call itssuccessiveapplication(“O(cid:48)O(cid:48)O(cid:48)a” istheresultofthethreefold successive application of “O(cid:48)ξ” to “a”).
+ 
+ In a similar sense I speak of the successive application of several operations to a number of propositions.
+ 
+ 5.2522 The general term of the formal series a,O(cid:48)a,O(cid:48)O(cid:48)a, .... I write thus: “[a, x, O(cid:48)x]”. This expression in brackets is a variable. The first term of the expression is the beginning of the formal series, the second the form of an arbitrary term x of the series, and the third the form of that term of the series which immediately follows x.
+ 
+ 5.2523 The concept of the successive application of an operation is equivalent to the concept “and so on”.
+ 
+ 5.253 One operation can reverse the effect of another. Operations can cancel one another.
+ 
+ 5.254 Operations can vanish (e.g. denial in “∼∼p”, ∼∼p = p).
+ 
+ 5.3 All propositions are results of truth-operations on the elementary propositions.
+ 
+ The truth-operation is the way in which a truth-function arises from elementary propositions.
+ 
+ According to the nature of truth-operations, in the same way as out of elementary propositions arise their truth-functions, 61 TRACTATUS LOGICO-PHILOSOPHICUS from truth-functions arises a new one.
+ 
+
+ 
+(Simplified)
+ 

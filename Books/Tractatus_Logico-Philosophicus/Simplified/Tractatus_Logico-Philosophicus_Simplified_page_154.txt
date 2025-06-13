@@ -1,0 +1,22 @@
+Denn, ohne uns um einen Sinn und eine Bedeutung zu kümmern, bilden wir den logischen Satz aus anderen nach blossen Zeichenregeln.
+ 
+ Der Beweis der logischen Sätze besteht darin, dass wir sie aus anderen logischen Sätzen durch successive Anwendung gewisser Operationen entstehen lassen, die aus den ersten immer wieder Tautologien erzeugen. (Und zwar folgen aus einer Tautologie nur Tautologien.) Natürlich ist diese Art zu zeigen, dass ihre Sätze Tautologien sind, der Logik durchaus unwesentlich. Schon darum, weil die Sätze, von welchen der Beweis ausgeht, ja ohne Beweis zeigen müssen, dass sie Tautologien sind.
+ 
+ 6.1261 In der Logik sind Prozess und Resultat äquivalent. (Darum keine Überraschung.) 6.1262 Der Beweis in der Logik ist nur ein mechanisches Hilfsmittel zum leichteren Erkennen der Tautologie, wo sie kompliziert ist.
+ 
+ 6.1263 Es wäre ja auch zu merkwürdig, wenn man einen sinnvollen Satz logisch aus anderen beweisen könnte, und einen logischen Satz auch. Es ist von vornherein klar, dass der logische Beweis eines sinnvollen Satzes und der Beweis in der Logik zwei ganz verschiedene Dinge sein müssen.
+ 
+ 6.1264 Der sinnvolle Satz sagt etwas aus, und sein Beweis zeigt, dass es so ist; in der Logik ist jeder Satz die Form eines Beweises.
+ 
+ Jeder Satz der Logik ist ein in Zeichen dargestellter modus ponens. (Und den modus ponens kann man nicht durch einen Satz ausdrücken.) 6.1265 Immer kann man die Logik so auffassen, dass jeder Satz sein eigener Beweis ist.
+ 
+ 6.127 Alle Sätze der Logik sind gleichberechtigt, es gibt unter ihnen nicht wesentlich Grundgesetze und abgeleitete Sätze.
+ 
+ Jede Tautologie zeigt selbst, dass sie eine Tautologie ist.
+ 
+ 6.1271 Es ist klar, dass die Anzahl der „logischen Grundgesetze“ willkürlich ist, denn man könnte die Logik ja aus Einem Grundgesetz ableiten, indem man einfach z. B. aus Freges Grundgeset152 LOGISCH-PHILOSOPHISCHE ABHANDLUNG zen das logische Produkt bildet.
+ 
+
+ 
+(Simplified)
+ 

@@ -1,0 +1,6 @@
+When Othello believes that Desdemona loves Cassio, he must not have before his mind a single object, " Desdemona's love for Cassio," or " that Desdemona loves Cassio," for that would require that there should be objective falsehoods, which subsist independently of any minds ; and this, though not logically refutable, isa theory to be avoided if possible.
+ 
+ Thus it is easier to account for falsehood if we take judgment to be a relation in which the mind and the various objects concerned all occur severally ; that is to say, Desdemona and loving and Cassio must all be terms in the relation which subsists when Othello believes that Desdemona loves Cassio. This relation, therefore, is a relation of four terms, since Othello also is one of the terms of the relation. When we say that it is a relation of four terms, we do not mean that Othello has a certain relation to Desdemona, and has the same relation to loving and also to Cassio.
+ 
+ This may be true of some other relation than believing ; b ut believing, plainly, is not a relation which Othello has to each of the three TRUTH AND FALSEHOOD 197 terms concerned, but to all of them together : there is only one example of the relation of believing involved, but this one example knits together four terms.
+ 

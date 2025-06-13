@@ -1,0 +1,6 @@
+Thus space and time appear to be infinite in extent.
+ 
+ Again, if we take any two points on a line, it seems evident that there must be other points between them, however small the distance between them may be : every distance can be halved, and the halves can be halved again, and so on ad infinitum. In time, similarly, however little time may elapse between two moments, it seems evident that there will be other moments between them.
+ 
+ Thus space and time appear to be infinitely divisible. But as against these apparent facts — infinite extent and infiiiite divisibility — philosophers have advanced arguments tending to show that there could be no infinite collections of things, and that therefore the number of points in space, or of instants in time, must be finite. Thus a contradiction emerged between the apparent nature of space and time and the supposed impossibility of infinite collections.
+ 

@@ -1,0 +1,10 @@
+Take, for instance, the relation " between." So long as only two terms come in, the relation " between " is impossible :t hree terms are the smallest number that render it possible. York is between London and Edinburgh ; b ut if London and Edinburgh were the only places in the world, there could be nothing which was between one place and another. Similarly jealousy requires three people : there can be no such relation that does not involve three at least.
+ 
+ Such a proposition as " A wishes B to promote C's marriage with D " involves a relation of four terms ; that is to say, A and B and C and D all come in, and the relation involved cannot be expressed otherwise than in a form involving all f our. Instances might be multiplied indefinitely, but enough has been said to show that there are relations which require more than two terms before they can occur.
+ 
+ The relation involved in judging or believing must, if falsehood is to be duly allowed for, be taken to be a relation between several 196 THE PROBLEMS OF PHILOSOPHY terms, not between two.
+ 
+
+ 
+(Simplified)
+ 

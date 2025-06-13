@@ -1,0 +1,10 @@
+Langkau, and the Online Distributed Proofreading Team at http://www.pgdp.net TRANSCRIBER’S NOTE The original publication was a parallel translation; after the introduction, even pages contained the German original, odd pages the English translation.
+ 
+ This e-book has been reformatted to contain the English translation first and the German original after that. In the PDF file, the proposition numbers are linked back and forth between the languages.
+ 
+ The original used a lower-case ‘v’ for the logical or operator; it has been replaced with the correct ‘∨’ character.
+ 
+ In the German part of the original, variables were printed upright; they have been italicised in this e-book.
+ 
+ Every effort has been made to replicate the original text as faithfully as possible. Minortypesettingerrorshavebeencorrected; allchangesaredetailed in the LATEX source code.
+ 

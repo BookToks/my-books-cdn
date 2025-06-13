@@ -1,0 +1,10 @@
+It should be noted that probability is always relative to certain data. In our case, the data are merely the known cases of coexistence of A and B. There may be other data, which might be taken into account, which would gravely alter the probability.
+ 
+ For example, a man who had seen a great many white swans might argue, by our principle, that on the data it was probable that all swans were white, and this might be a perfectly sound argument. The argument is not disproved by the fact that some swans are black, because a thing may very well happen in spite of the fact that some data render it improbable. In the case of the swans, a man might know that colour is a very variable characteristic in many species of animals, and that, therefore, an induction as to colour is peculiarly liable to error.
+ 
+ But this knowledge would be a fresh datum, by no means proving that the probability relatively to our previous data had been wrongly estimated. The fact, therefore, that 106 THE PROBLEMS OF PHILOSOPHY things often fail to fulfil our expectations is no evidence that our expectations will not probably be fulfilled in a given case or a given class of cases.
+ 
+
+ 
+(Simplified)
+ 

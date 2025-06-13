@@ -1,0 +1,22 @@
+For we really see two different facts.
+ 
+ (If I fix my eyes first on the corners a and only glance at b, a appears in front and b behind, and vice versa.) 5.55 Wemustnowanswerapriorithequestionastoallpossibleforms of the elementary propositions.
+ 
+ The elementary proposition consists of names. Since we cannotgivethenumberofnameswithdifferentmeanings,wecannot give the composition of the elementary proposition.
+ 
+ 5.551 Our fundamental principle is that every question which can be decided at all by logic can be decided without further trouble.
+ 
+ (And if we get into a situation where we need to answer such a problem by looking at the world, this shows that we are on a fundamentally wrong track.) 5.552 The “experience” which we need to understand logic is not that such and such is the case, but that something is; but that is no experience.
+ 
+ Logic precedes every experience—that something is so.
+ 
+ It is before the How, not before the What.
+ 
+ 5.5521 And if this were not the case, how could we apply logic? We could say: if there were a logic, even if there were no world, how then could there be a logic, since there is a world?
+ 
+ 5.553 Russell said that there were simple relations between different numbers of things (individuals). But between what numbers?
+ 
+ And how should this be decided—by experience?
+ 
+ (There is no pre-eminent number.) 72 TRACTATUS LOGICO-PHILOSOPHICUS 5.
+ 

@@ -1,0 +1,8 @@
+— CHAPTER 4 — WHEN THINGS FALL APART “There are several different frameworks one could use to get a handle on the indeterminate vs. determinate question. The math version is calculus vs.
+ 
+ statistics. In a determinate world, calculus dominates. You can calculate specific things precisely and deterministically. When you send a rocket to the moon, you have to calculate precisely where it is at all times. It’s not like some iterative startup where you launch the rocket and figure things out step by step. Do you make it to the moon? To Jupiter? Do you just get lost in space? There were lots of companies in the ’90s that had launch parties but no landing parties.
+ 
+ “But the indeterminate future is somehow one in which probability and statistics are the dominant modality for making sense of the world. Bell curves and random walks define what the future is going to look like. The standard pedagogical argument is that high schools should get rid of calculus and replace it with statistics, which is really important and actually useful. There has been a powerful shift toward the idea that statistical ways of thinking are going to drive the future.” —PETER THIEL W hen I was attempting to sell the cloud computing services part of the Loudcloud business, I met with Bill Campbell to update him on where I was with the deal. The deal was critical, because without it, the company would almost certainly go bankrupt.
+ 
+ After I carefully briefed him on where we were with both interested parties, IBM and EDS, Bill paused for a moment. He looked me in the eyes and said, “Ben, you need to do something in addition to working on this deal. You need to do it alone with your general counsel. You need to prepare the company for
+ 

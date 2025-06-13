@@ -1,0 +1,4 @@
+The probabihty of the general law is obviously less than the probability of the particular case, since if the general law is true, the particular case must also be true, whereas the particular case may be true without the general law being true. Nevertheless the probability of the general law is increased by repetitions, just as the probability of the particular case is.
+ 
+ We may therefore repeat the two parts of our principle as regards the general law, thus : (a) The greater the number of cases in which a thing of the sort A has been found associated with a thing of the sort B, the more probable it is (if no cases of failure of association are known) that A is always associated with B ; {b) Under the same circumstances, a sufficient number of cases of the association of A with B will make it nearlv certain that A is always associated with B, and will make ON INDUCTION 105 this general law approach certainty without limit.
+ 

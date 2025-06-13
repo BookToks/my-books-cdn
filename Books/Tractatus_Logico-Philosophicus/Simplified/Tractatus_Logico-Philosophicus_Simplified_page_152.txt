@@ -1,0 +1,28 @@
+6.121 Die Sätze der Logik demonstrieren die logischen Eigenschaften der Sätze, indem sie sie zu nichtssagenden Sätzen verbinden.
+ 
+ Diese Methode könnte man auch eine Nullmethode nennen.
+ 
+ Im logischen Satz werden Sätze miteinander ins Gleichgewicht gebracht und der Zustand des Gleichgewichts zeigt dann an, wie diese Sätze logisch beschaffen sein müssen.
+ 
+ 6.122 Daraus ergibt sich, dass wir auch ohne die logischen Sätze auskommen können, da wir ja in einer entsprechenden Notation die formalen Eigenschaften der Sätze durch das blosse Ansehen dieser Sätze erkennen können.
+ 
+ 6.1221 Ergeben z. B. zwei Sätze „p“ und „q“ in der Verbindung „p ⊃ q“ eine Tautologie, so ist klar, dass q aus p folgt.
+ 
+ Dass z. B. „q“ aus „p ⊃ q .p“ folgt, ersehen wir aus diesen beiden Sätzen selbst, aber wir können es auch so zeigen, indem wir sie zu „p ⊃ q.p :⊃: q“ verbinden und nun zeigen, dass dies eine Tautologie ist.
+ 
+ 6.1222 Dies wirft ein Licht auf die Frage, warum die logischen Sätze nicht durch die Erfahrung bestätigt werden können, ebenso wenig, wie sie durch die Erfahrung widerlegt werden können.
+ 
+ Nicht nur muss ein Satz der Logik durch keine mögliche Erfahrung widerlegt werden können, sondern er darf auch nicht durch eine solche bestätigt werden können.
+ 
+ 6.1223 Nun wird klar, warum man oft fühlte, als wären die „logischen Wahrheiten“ von uns zu „fordern“: Wir können sie nämlich insofern fordern, als wir eine genügende Notation fordern können.
+ 
+ 6.1224 Es wird jetzt auch klar, warum die Logik die Lehre von den Formen und vom Schliessen genannt wurde.
+ 
+ 6.123 Es ist klar: Die logischen Gesetze dürfen nicht selbst wieder logischen Gesetzen unterstehen.
+ 
+ (Es gibt nicht, wie Russell meinte, für jede „Type“ ein ei150 LOGISCH-PHILOSOPHISCHE ABHANDLUNG genes Gesetz des Widerspruches, sondern Eines genügt, da es auf sich selbst nicht angewendet wird.
+ 
+
+ 
+(Simplified)
+ 

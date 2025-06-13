@@ -1,0 +1,30 @@
+453 Alle Zahlen der Logik müssen sich rechtfertigen lassen.
+ 
+ Oder vielmehr: Es muss sich herausstellen, dass es in der Logik keine Zahlen gibt.
+ 
+ Es gibt keine ausgezeichneten Zahlen.
+ 
+ 5.454 In der Logik gibt es kein Nebeneinander, kann es keine Klassifikation geben.
+ 
+ In der Logik kann es nicht Allgemeineres und Spezielleres geben.
+ 
+ 5.4541 Die Lösungen der logischen Probleme müssen einfach sein, denn sie setzen den Standard der Einfachheit.
+ 
+ Die Menschen haben immer geahnt, dass es ein Gebiet von Fragen geben müsse, deren Antworten—a priori—symmetrisch, und zu einem abgeschlossenen, regelmässigen Gebilde vereintliegen.
+ 
+ Ein Gebiet, in dem der Satz gilt: simplex sigillum veri.
+ 
+ 5.46 Wenn man die logischen Zeichen richtig einführte, so hätte man damit auch schon den Sinn aller ihrer Kombinationen eingeführt; also nicht nur „p ∨ q“ sondern auch schon „∼(p ∨ ∼q)“ etc. etc. Man hätte damit auch schon die Wirkung aller nur möglichen Kombinationen von Klammern eingeführt. Und damit wäre es klar geworden, dass die eigentlichen allgemeinen Urzeichen nicht die „p∨q“, „(∃x).fx“, etc. sind, sondern die allgemeinste Form ihrer Kombinationen.
+ 
+ 5.461 Bedeutungsvoll ist die scheinbar unwichtige Tatsache, dass die logischen Scheinbeziehungen, wie ∨ und ⊃, der Klammern bedürfen—im Gegensatz zu den wirklichen Beziehungen.
+ 
+ Die Benützung der Klammern mit jenen scheinbaren Urzeichen deutet ja schon darauf hin, dass diese nicht die wirklichen Urzeichen sind. Und es wird doch wohl niemand glauben, dass die Klammern eine selbständige Bedeutung haben.
+ 
+ 5.4611 Die logischen Operationszeichen sind Interpunktionen.
+ 
+ 5.47 Es ist klar, dass alles was sich überhaupt von vornherein über die Form aller Sätze sagen lässt, sich aufeinmal sagen lassen muss.
+ 
+ Sind ja schon im Elementarsatze alle logischen Operationen enthalten. Denn „fa“ sagt dasselbe wie „(∃x).fx.x = a“.
+ 
+ 134 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Wo Zusammengesetztheit ist, da ist Argument und Funktion, und wo diese sind, sind bereits alle logischen Konstanten.
+ 

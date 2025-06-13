@@ -1,0 +1,28 @@
+Schreiben wir diese Kolonne als Reihe hin, so wird das Satzzeichen zu: „(WW–W)(p, q)“ oder deutlicher „(WWFW)(p, q)“.
+ 
+ (Die Anzahl der Stellen in der linken Klammer ist durch die Anzahl der Glieder in der rechten bestimmt.) 4.45 Für n Elementarsätze gibt es L mögliche Gruppen von Wahrn heitsbedingungen.
+ 
+ Die Gruppen von Wahrheitsbedingungen, welche zu den Wahrheitsmöglichkeiten einer Anzahl von Elementarsätzen gehören, lassen sich in eine Reihe ordnen.
+ 
+ 4.46 Unter den möglichen Gruppen von Wahrheitsbedingungen gibt es zwei extreme Fälle.
+ 
+ In dem einen Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten der Elementarsätze wahr. Wir sagen, die Wahrheitsbedingungen sind tautologisch.
+ 
+ Im zweiten Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten falsch: Die Wahrheitsbedingungen sind kontradiktorisch.
+ 
+ Im ersten Fall nennen wir den Satz eine Tautologie, im zweiten Fall eine Kontradiktion.
+ 
+ 4.461 DerSatzzeigtwasersagt,dieTautologieunddieKontradiktion, dass sie nichts sagen.
+ 
+ Die Tautologie hat keine Wahrheitsbedingungen, denn sie ist bedingungslos wahr; und die Kontradiktion ist unter keiner Bedingung wahr.
+ 
+ Tautologie und Kontradiktion sind sinnlos.
+ 
+ (Wie der Punkt von dem zwei Pfeile in entgegengesetzter Richtung auseinandergehen.) (Ich weiss z. B. nichts über das Wetter, wenn ich weiss, dass es regnet oder nicht regnet.) 4.4611 Tautologie und Kontradiktion sind aber nicht unsinnig; sie gehören zum Symbolismus, und zwar ähnlich wie die „0“ zum Symbolismus der Arithmetik.
+ 
+ 122 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 4.
+ 
+
+ 
+(Simplified)
+ 

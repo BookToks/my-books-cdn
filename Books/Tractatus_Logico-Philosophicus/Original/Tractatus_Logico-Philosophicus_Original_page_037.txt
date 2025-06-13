@@ -1,0 +1,24 @@
+3.317 The determination of the values of the propositional variable is done by indicating the propositions whose common mark the variable is.
+ 
+ The determination is a description of these propositions.
+ 
+ The determination will therefore deal only with symbols not with their meaning.
+ 
+ And only this is essential to the determination, that it is only a description of symbols and asserts nothing about what is symbolized.
+ 
+ The way in which we describe the propositions is not essential.
+ 
+ 3.318 Iconceivetheproposition—likeFregeandRussell—asafunction of the expressions contained in it.
+ 
+ 3.32 The sign is the part of the symbol perceptible by the senses.
+ 
+ 3.321 Two different symbols can therefore have the sign (the written signorthesoundsign)incommon—theythensignifyindifferent ways.
+ 
+ 3.322 It can never indicate the common characteristic of two objects that we symbolize them with the same signs but by different methods of symbolizing. For the sign is arbitrary. We could therefore equally well choose two different signs and where then would be what was common in the symbolization.
+ 
+ 3.323 In the language of everyday life it very often happens that the same word signifies in two different ways—and therefore belongs to two different symbols—or that two words, which signify in different ways, are apparently applied in the same way in the proposition.
+ 
+ Thus the word “is” appears as the copula, as the sign of equality, and as the expression of existence; “to exist” as an intransitiveverblike“togo”; “identical” asanadjective; wespeak of something but also of the fact of something happening.
+ 
+ (In the proposition “Green is green”—where the first word is a proper name and the last an adjective—these words have not merely different meanings but they are different symbols.) 35 TRACTATUS LOGICO-PHILOSOPHICUS 3.
+ 

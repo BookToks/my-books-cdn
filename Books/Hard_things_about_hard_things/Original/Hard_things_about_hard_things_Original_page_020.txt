@@ -1,0 +1,8 @@
+millions of users was totally different from making it work for thousands. And it was extremely complicated.
+ 
+ Hmm, there ought to be a company that does all that for them.
+ 
+ As we expanded the idea, we landed on the concept of a computing cloud. The term cloud had been used previously in the telecommunications industry to describe the smart cloud that handled all the complexity of routing, billing, and the like, so that one could plug a dumb device into the smart cloud and get all the smart functionality for free. We thought the same concept was needed in computing, so that software developers wouldn’t have to worry about security, scaling, and disaster recovery. And if you are going to build a cloud, it should be big and loud, and that’s how Loudcloud was born. Interestingly, the most lasting remnant of Loudcloud is the name itself, as the word cloud hadn’t been previously used to describe a computing platform.
+ 
+ We incorporated the company and set out to raise money. It was 1999.
+ 

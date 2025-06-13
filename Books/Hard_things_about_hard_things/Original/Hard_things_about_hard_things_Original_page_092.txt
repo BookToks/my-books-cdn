@@ -1,0 +1,10 @@
+WHY STARTUPS SHOULD TRAIN THEIR PEOPLE I learned about why startups should train their people when I worked at Netscape. People at McDonald’s get trained for their positions, but people with far more complicated jobs don’t. It makes no sense. Would you want to stand on the line of the untrained person at McDonald’s? Would you want to use the software written by the engineer who was never told how the rest of the code worked? A lot of companies think their employees are so smart that they require no training. That’s silly.
+ 
+ When I first became a manager, I had mixed feelings about training.
+ 
+ Logically, training for high-tech companies made sense, but my personal experience with training programs at the companies where I had worked was underwhelming. The courses were taught by outside firms who didn’t really understand our business and were teaching things that weren’t relevant. Then I read chapter 16 of Andy Grove’s management classic, High Output Management, titled “Why Training Is the Boss’s Job,” and it changed my career.
+ 
+ Grove wrote, “Most managers seem to feel that training employees is a job that should be left to others. I, on the other hand, strongly believe that the manager should do it himself.” When I was director of product management at Netscape, I was feeling frustrated by how little value most product managers added to the business.
+ 
+ Based on Andy’s guidance, I wrote a short document called “Good Product Manager/Bad Product Manager,” which I used to train the team on my basic expectations. (That document follows on page 111.) I was shocked by what happened next. The performance of my team instantly improved. Product managers whom I had almost written off as hopeless became effective. Pretty soon I was managing the highest-performing team in the company. Based on this experience, after starting Loudcloud, I heavily invested in training. I credit that investment with much of our eventual success. And the whole thing started with a simple decision to train my people and an even simpler training document. So, I will now pay forward my debt to Andy Grove and explain why, what, and how
+ 

@@ -1,0 +1,20 @@
+Ja, jener Satz bekommt nun ganz den Charakter eines naturwissenschaftlichen Satzes und dies ist das sichere Anzeichen dafür, dass er falsch aufgefasst wurde.
+ 
+ 6.112 Die richtige Erklärung der logischen Sätze muss ihnen eine einzigartige Stellung unter allen Sätzen geben.
+ 
+ 6.113 Es ist das besondere Merkmal der logischen Sätze, dass man am Symbol allein erkennen kann, dass sie wahr sind, und diese Tatsache schliesst die ganze Philosophie der Logik in sich. Und so ist es auch eine der wichtigsten Tatsachen, dass sich die Wahrheit oder Falschheit der nicht-logischen Sätze nicht am Satz allein erkennen lässt.
+ 
+ 6.12 Dass die Sätze der Logik Tautologien sind, das zeigt die formalen—logischen—Eigenschaften der Sprache, der Welt.
+ 
+ Dass ihre Bestandteile so verknüpft eine Tautologie ergeben, das charakterisiert die Logik ihrer Bestandteile.
+ 
+ Damit Sätze, auf bestimmte Art und Weise verknüpft, eine Tautologie ergeben, dazu müssen sie bestimmte Eigenschaften der Struktur haben. Dass sie so verbunden eine Tautologie ergeben, zeigt also, dass sie diese Eigenschaften der Struktur besitzen.
+ 
+ 6.1201 Dass z. B. die Sätze „p“ und „∼p“ in der Verbindung „∼(p.∼p)“ eine Tautologie ergeben, zeigt, dass sie einander widersprechen.
+ 
+ Dass die Sätze „p ⊃ q“, „p“ und „q“ in der Form „(p ⊃ q).(p) :⊃: (q)“ miteinander verbunden eine Tautologie ergeben, zeigt, dass q aus p und p ⊃ q folgt. Dass „(x).fx :⊃: fa“ eine Tautologie ist, dass fa aus (x).fx folgt. etc. etc.
+ 
+ 6.1202 Es ist klar, dass man zu demselben Zweck statt der Tautologien auch die Kontradiktionen verwenden könnte.
+ 
+ 6.1203 Um eine Tautologie als solche zu erkennen, kann man sich, in den Fällen, in welchen in der Tautologie keine Allgemeinheitsbezeichnung vorkommt, folgender anschaulichen Methode bedienen: Ich schreibe statt „p“, „q“, „r“ etc. „WpF“, „WqF“, „WrF“ etc. Die Wahrheitskombinationen drücke ich durch Klammern aus. z. B.: 148 LOGISCH-PHILOSOPHISCHE ABHANDLUNG und die Zuordnung der Wahr- oder Falschheit des ganzen Satzes und der Wahrheitskombinationen der Wahrheitsargumente durch Striche auf folgende Weise: Dies Zeichen würde also z.
+ 

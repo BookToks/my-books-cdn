@@ -1,0 +1,26 @@
+We can in fact postulate them in so far as we can postulate an adequate notation.
+ 
+ 6.1224 It also becomes clear why logic has been called the theory of forms and of inference.
+ 
+ 6.123 It is clear that the laws of logic cannot themselves obey further logical laws.
+ 
+ (There is not, as Russell supposed, for every “type” a special law of contradiction; but one is sufficient, since it is not applied to itself.) 6.1231 The mark of logical propositions is not their general validity.
+ 
+ To be general is only to be accidentally valid for all things.
+ 
+ An ungeneralized proposition can be tautologous just as well as a generalized one.
+ 
+ 6.1232 Logical general validity, we could call essential as opposed to accidental general validity, e.g. of the proposition “all men are mortal”. Propositions like Russell’s “axiom of reducibility” are not logical propositions, and this explains our feeling that, if true, they can only be true by a happy chance.
+ 
+ 6.1233 We can imagine a world in which the axiom of reducibility is not valid. But it is clear that logic has nothing to do with the question whether our world is really of this kind or not.
+ 
+ 6.124 The logical propositions describe the scaffolding of the world, or rather they present it. They “treat” of nothing. They presuppose that names have meaning, and that elementary propositions have sense. And this is their connexion with the world.
+ 
+ It is clear that it must show something about the world that certain combinations of symbols—which essentially have a definite character—are tautologies. Herein lies the decisive point.
+ 
+ We said that in the symbols which we use much is arbitrary, much not. In logic only this expresses: but this means that in logic it is not we who express, by means of signs, what we want, but in logic the nature of the essentially necessary signs itself asserts. That is to say, if we know the logical syntax of any sign language, then all the propositions of logic are already given.
+ 
+ 6.125 It is possible, even in the old logic, to give at the outset a description of all “true” logical propositions.
+ 
+ 80 TRACTATUS LOGICO-PHILOSOPHICUS 6.
+ 

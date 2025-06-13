@@ -1,0 +1,12 @@
+plenty risky, but there’s not much reward if you succeed. If someone missed a result, did she take obviously stupid risks that she just neglected to consider, or were they excellent risks that just did not pan out?
+ 
+ REVISITING THE OPENING PROBLEM So looking back at the opening problem, here are some things to consider: 1. How senior is she? If she’s your chief architect, you’ll need her to get better at scoping her work or she’s going to trash the organization. If she is more junior, this should be more a teaching moment than a scolding moment.
+ 
+ 2. How hard was it? If it was a miracle that you ever made that piece of crap scale, then you shouldn’t yell at her. In fact, you should thank her. If it was a relatively trivial project that just took too long, then you need to address that.
+ 
+ 3. Was the original risk the right one to take? Would the product really have run out of scale in the short-to-medium term? If the answer is yes, then whether it took three months or nine months, it was the right risk to take and if faced with the same situation again, you probably should not change any of your actions. You shouldn’t be wringing your hands about that.
+ 
+ FINAL POINT In the technology business, you rarely know everything up front. The difference between being mediocre and magical is often the difference between letting people take creative risk and holding them too tightly accountable.
+ 
+ Accountability is important, but it’s not the only thing that’s important.
+ 

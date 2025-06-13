@@ -1,0 +1,2 @@
+B. den Satz p ⊃ q darstellen. Nun will ich z. B. den Satz ∼(p . ∼p) (Gesetz des Widerspruchs) daraufhin untersuchen, ob er eine Tautologie ist. Die Form „∼ξ“ wird in unserer Notation geschrieben; die Form „ξ .η“ so: Daher lautet der Satz ∼(p.∼q) so: 149 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Setzen wir hier statt „q“ „p“ ein und untersuchen die Verbindung der äussersten W und F mit den innersten, so ergibt sich, dass die Wahrheit des ganzen Satzes allen Wahrheitskombinationen seines Argumentes, seine Falschheit keiner der Wahrheitskombinationen zugeordnet ist.
+ 

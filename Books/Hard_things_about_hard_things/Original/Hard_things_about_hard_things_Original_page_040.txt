@@ -1,0 +1,14 @@
+had stalled out and not met its goals as they had run into multiple difficult technical issues. EDS wanted to cancel the deployment, end the contract, and get their money back. Giving EDS their money back would mean the end of Opsware. Getting into a big dispute with a customer that accounted for all but 10 percent of our revenue would also mean the end of Opsware. We were doomed again.
+ 
+ I called my top two lieutenants on the account in for a meeting.
+ 
+ Jason Rosenthal was the very first employee I had hired and the best manager in the company. A Stanford graduate with an impeccable memory and a genius mind for managing all the details of a complex project, Jason was in charge of the EDS deployment.
+ 
+ Anthony Wright grew up in the tough part of Pittsburgh, the son of legendary street fighter Joe Wright, and had earned a black belt in several martial arts himself. Self-made, super-determined, and unwilling to fail, Anthony had an uncanny ability to quickly gain deep insight into people’s character and motivations—“able to charm dogs off a meat truck,” is how another guy on the team described it. Anthony was the relationship manager for EDS.
+ 
+ I began with an assessment: What happened? It turned out, a lot of things.
+ 
+ EDS’s environment was insane and chaotic. They had inherited networks and infrastructure from every customer they’d ever signed and from every era in which they had signed them. They had data centers connected by 56-kilobit links at a time when no other customer connected at speeds even twenty times that slow. EDS ran versions of operating systems that were so old that they didn’t support basic technologies like threads, which meant our software wouldn’t run on them. And the people were not our people. We’d find them sleeping in the data center at two o’clock in the afternoon; they were not motivated and generally not very happy. Beyond that, our product was far from perfect and every one of the many bugs and shortcomings was a reason to stop the deployment.
+ 
+ I took a long pause, rubbed my head, and then began to give instructions. I chose my words carefully: “I appreciate the difficulties and more than that, I thank you deeply for the effort. However, I do not think that I’ve made myself clear on the situation that we’re in. This is not a scenario where an excuse will do. This is a must win. If EDS drops us, we’re fucked and it’s over. The IPO, avoiding the Loudcloud bankruptcy, all the layoffs and pain will have been for nothing—because we’re dead. So, our only option is to win. We cannot lose this one.
+ 

@@ -1,0 +1,13 @@
+Helping each other improve skills can close the skills gap fast. But, you’ll pay a big price for this.
+
+First, it makes every engineer’s job harder.
+
+If an engineer needs a decision, which boss does she ask? If one boss decides, can the other boss change it? If the decision needs a meeting, do both heads of engineering have to come? Who decides the company’s direction? Will the direction even get decided if it takes too many meetings?
+
+Also, no one is really responsible anymore. If deadlines are missed, who’s to blame? If engineering slows down, who’s responsible? If one boss is responsible for deadlines and the other for work quality, what happens if the deadline boss pressures engineers so much that quality drops? How would you know? The worst part is these problems get worse over time. At first, extra meetings or clear roles might help. But when things get busy, those clear roles disappear and the company falls apart. In the end, you either make a tough choice and pick one boss or your engineering team will always struggle.
+
+OVERPAYING A KEY WORKER BECAUSE SHE GOT ANOTHER JOB OFFER
+
+A great engineer wants to leave because she has a better offer. You were paying her less before, but the new offer is higher than anyone else’s salary in your company. She’s not your best engineer, but she’s working on an important project and you can’t lose her. So, you match the offer. You save the project but create a big problem.
+
+Here’s why this will backfire. You might think your counteroffer is a secret because she promised to keep it private. But it’s not. She talks to her friends at work. When she got the other offer, she asked her friends what to do. One friend told her to take the new job. When she decided to stay, she had to explain why to her friend or lose trust. So, she told him and asked him to keep it secret. He agreed but was really upset that...

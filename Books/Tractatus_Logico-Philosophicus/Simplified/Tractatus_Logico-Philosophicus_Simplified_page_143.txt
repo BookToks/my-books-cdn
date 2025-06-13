@@ -1,0 +1,20 @@
+5.5351 Es gibt gewisse Fälle, wo man in Versuchung gerät, Ausdrücke von der Form „a = a“ oder „p ⊃ p“ u. dgl. zu benützen.
+ 
+ Und zwar geschieht dies, wenn man von dem Urbild: Satz, Ding, etc. reden möchte. So hat Russell in den „Principles of Mathematics“ den Unsinn „p ist ein Satz“ in Symbolen durch „p ⊃ p“ wiedergegeben und als Hypothese vor gewisse Sätze gestellt, damit deren Argumentstellen nur von Sätzen besetzt werden könnten.
+ 
+ (Es ist schon darum Unsinn, die Hypothese p ⊃ p vor einen Satz zu stellen, um ihm Argumente der richtigen Form zu sichern, weil die Hypothese für einen Nicht-Satz als Argument nicht falsch, sondern unsinnig wird, und weil der Satz selbst durch die unrichtige Gattung von Argumenten unsinnig wird, also sich selbst ebenso gut, oder so schlecht, vor den unrechten Argumenten bewahrt, wie die zu diesem Zweck angehängte sinnlose Hypothese.) 5.5352 Ebenso wollte man „Es gibt keine Dinge“ ausdrücken durch „∼(∃x).x = x“. Aber selbst wenn dies ein Satz wäre,—wäre er nicht auch wahr, wenn es zwar „Dinge gäbe“, aber diese nicht mit sich selbst identisch wären?
+ 
+ 5.54 In der allgemeinen Satzform kommt der Satz im Satze nur als Basis der Wahrheitsoperationen vor.
+ 
+ 5.541 Auf den ersten Blick scheint es, als könne ein Satz in einem anderen auch auf andere Weise vorkommen.
+ 
+ Besonders in gewissen Satzformen der Psychologie, wie „A glaubt, dass p der Fall ist“, oder „A denkt p“, etc.
+ 
+ Hier scheint es nämlich oberflächlich, als stünde der Satz p zu einem Gegenstand A in einer Art von Relation.
+ 
+ (Und in der modernen Erkenntnistheorie (Russell, Moore, etc.) sind jene Sätze auch so aufgefasst worden.) 5.542 Es ist aber klar, dass „A glaubt, dass p“, „A denkt p“, „A sagt p“ von der Form „‚p‘ sagt p“ sind: Und hier handelt es sich nicht um eine Zuordnung von einer Tatsache und einem 141 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Gegenstand, sondern um die Zuordnung von Tatsachen durch Zuordnung ihrer Gegenstände.
+ 
+
+ 
+(Simplified)
+ 

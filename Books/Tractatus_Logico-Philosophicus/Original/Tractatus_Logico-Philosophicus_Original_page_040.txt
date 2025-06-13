@@ -1,0 +1,24 @@
+344 What signifies in the symbol is what is common to all those symbols by which it can be replaced according to the rules of logical syntax.
+ 
+ 3.3441 We can, for example, express what is common to all notations for the truth-functions as follows: It is common to them that they all, for example, can be replaced by the notations of “∼p” (“not p”) and “p∨q” (“p or q”).
+ 
+ (Herewith is indicated the way in which a special possible notation can give us general information.) 3.3442 Thesignofthecomplexisnotarbitrarilyresolvedintheanalysis, in such a way that its resolution would be different in every propositional structure.
+ 
+ 3.4 The proposition determines a place in logical space: the existence of this logical place is guaranteed by the existence of the constituent parts alone, by the existence of the significant proposition.
+ 
+ 3.41 The propositional sign and the logical co-ordinates: that is the logical place.
+ 
+ 3.411 The geometrical and the logical place agree in that each is the possibility of an existence.
+ 
+ 3.42 Although a proposition may only determine one place in logical space, the whole logical space must already be given by it.
+ 
+ (Otherwise denial, the logical sum, the logical product, etc., would always introduce new elements—in co-ordination.) (Thelogicalscaffoldingroundthepicturedeterminesthelogical space. The proposition reaches through the whole logical space.) 3.5 The applied, thought, propositional sign is the thought.
+ 
+ 4 The thought is the significant proposition.
+ 
+ 4.001 The totality of propositions is the language.
+ 
+ 4.002 Man possesses the capacity of constructing languages, in which every sense can be expressed, without having an idea how and whateachwordmeans—justasonespeakswithoutknowinghow the single sounds are produced.
+ 
+ 38 TRACTATUS LOGICO-PHILOSOPHICUS Colloquial language is a part of the human organism and is not less complicated than it.
+ 

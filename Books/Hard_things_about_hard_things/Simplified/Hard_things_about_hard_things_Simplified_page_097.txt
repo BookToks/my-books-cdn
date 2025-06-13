@@ -1,0 +1,17 @@
+A product manager knows the situation from the start (like the company, money, competition, and more) and takes charge of making a great plan and making it happen (no excuses).
+
+Bad product managers make lots of excuses. Not enough money, the engineering manager is dumb, Microsoft has way more engineers, I’m too busy, I don’t get enough instructions. Our CEO doesn’t make excuses, and neither should the product manager.
+
+Good product managers don’t waste all their time dealing with different groups that need to work together to build the right product at the right time. They don’t run every meeting or manage every little task. They aren’t just helpers for engineering. They don’t just belong to the product team; they lead the product team. Engineering teams see good product managers as equals to the engineering manager.
+
+Good product managers clearly explain what the goal is (“what” to do, not “how” to do it) and make sure it gets done. Bad product managers like to focus on figuring out “how” to do things. Good product managers communicate clearly with engineering, both by talking and writing. They don’t give directions casually, but they do collect information casually.
+
+Good product managers create helpful stuff like FAQs, presentations, and papers that salespeople, marketing, and bosses can use.
+
+Bad product managers complain that they spend all day answering questions from sales and feel overwhelmed. Good product managers expect big problems with the product and make real solutions. Bad product managers just put out fires all day.
+
+Good product managers write down their opinions on tough issues (like competition, hard technical choices, product decisions, and which markets to go after or avoid). Bad product managers just say their opinions out loud and complain that the bosses won’t listen. When bad product managers fail, they say they knew it would happen.
+
+Good product managers keep the team focused on making money and helping customers. Bad product managers focus on how many features competitors are adding. Good product managers plan good products that can be built with strong effort. Bad product managers plan good products that can’t be built or let engineering do whatever they want (especially the hardest problems).
+
+My name is Sandeep Gautam.

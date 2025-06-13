@@ -1,0 +1,8 @@
+For example, it is known that if we draw perpendiculars to the sides of a triangle from the opposite angles, all three perpendiculars meet in a point. It would be quite possible to be first led to this proposition by actually drawing perpendiculars in many cases, and finding that they always met in a point ; this experience might lead us to look for the general proof and find it. Such cases are common in the experience of every mathematician.
+ 
+ The other point is more interesting, and of more philosophical importance. It is, that we may sometimes know a general proposition in cases where we do not know a single instance ofi t. Take such a case as the following : We know that any two numbers can be multiplied together, and will give a third called their product. We know that all pairs of integers the product of which is less than 100 have been actually multiplied together, and the value of the product recorded in the multiplication table. But we also know that the number of integers is infinite, and that only a finite number of pairs of integers ever ON KNOWLEDGE OF UNIVERSALS 169 have been or ever will be thought of by human beings.
+ 
+
+ 
+(Simplified)
+ 

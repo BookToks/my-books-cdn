@@ -1,0 +1,14 @@
+have found the “The Basics of Production,” the first chapter of Andy Grove’s High Output Management, to be particularly helpful. For new companies, here are a few things to keep in mind: Focus on the output first. What should the process produce? In the case of the interview process, an outstanding employee. If that’s the goal, what’s the process to get there?
+ 
+ Figure out how you’ll know if you are getting what you want at each step.
+ 
+ Are you getting enough candidates? Are you getting the right candidates?
+ 
+ Will your interview process find the right person for the job? Once you select the person, will they accept the job? Once they accept the job, will they become productive? Once they become productive, will they stay with your company? How will you measure each step?
+ 
+ Engineer accountability into the system. Which organization and which individual is responsible for each step? What can you do to increase the visibility of their performance?
+ 
+ FINAL THOUGHT The process of scaling a company is not unlike the process of scaling a product.
+ 
+ Different sizes of company impose different requirements on the company’s architecture. If you address those requirements too early, your company will seem heavy and sluggish. If you address those requirements too late, your company may melt down under the pressure. Be mindful of your company’s true growth rate as you add architectural components. It’s good to anticipate growth, but it’s bad to overanticipate growth.
+ 

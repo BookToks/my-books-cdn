@@ -1,0 +1,32 @@
+(Dies haben Frege und Russell übersehen; die Art und Weise wie sie allgemeine Sätze, wie den obigen ausdrücken wollen ist daher falsch; sie enthält einen circulus vitiosus.) Wir können das allgemeine Glied der Formenreihe bestimmen, indem wir ihr erstes Glied angeben und die allgemeine Form der Operation, welche das folgende Glied aus dem vorhergehenden Satz erzeugt.
+ 
+ 4.1274 DieFragenachderExistenzeinesformalenBegriffesistunsinnig.
+ 
+ Denn kein Satz kann eine solche Frage beantworten.
+ 
+ (Man kann also z. B. nicht fragen: „Gibt es unanalysierbare Subjekt-Prädikatsätze?“) 4.128 Die logischen Formen sind zahllos.
+ 
+ DarumgibtesinderLogikkeineausgezeichnetenZahlenund darumgibteskeinenphilosophischenMonismusoderDualismus, etc.
+ 
+ 4.2 Der Sinn des Satzes ist seine Übereinstimmung, und Nichtübereinstimmung mit den Möglichkeiten des Bestehens und Nichtbestehens der Sachverhalte.
+ 
+ 4.21 Der einfachste Satz, der Elementarsatz, behauptet das Bestehen eines Sachverhaltes.
+ 
+ 4.211 Ein Zeichen des Elementarsatzes ist es, dass kein Elementarsatz mit ihm in Widerspruch stehen kann.
+ 
+ 4.22 Der Elementarsatz besteht aus Namen. Er ist ein Zusammenhang, eine Verkettung, von Namen.
+ 
+ 4.221 Es ist offenbar, dass wir bei der Analyse der Sätze auf Elementarsätze kommen müssen, die aus Namen in unmittelbarer Verbindung bestehen.
+ 
+ Es frägt sich hier, wie kommt der Satzverband zustande.
+ 
+ 4.2211 AuchwenndieWeltunendlichkomplexist,sodassjedeTatsache aus unendlich vielen Sachverhalten besteht und jeder Sachverhalt aus unendlich vielen Gegenständen zusammengesetzt ist, auch dann müsste es Gegenstände und Sachverhalte geben.
+ 
+ 4.23 Der Name kommt im Satz nur im Zusammenhange des Elementarsatzes vor.
+ 
+ 118 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 4.
+ 
+
+ 
+(Simplified)
+ 

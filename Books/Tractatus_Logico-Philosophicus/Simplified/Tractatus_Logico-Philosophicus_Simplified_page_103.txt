@@ -1,0 +1,32 @@
+1432 Nicht: „Das komplexe Zeichen ‚aRb‘ sagt, dass a in der Beziehung R zu b steht“, sondern: Dass „a“ in einer gewissen Beziehung zu „b“ steht, sagt, dass aRb.
+ 
+ 3.144 Sachlagen kann man beschreiben, nicht benennen.
+ 
+ (Namen gleichen Punkten, Sätze Pfeilen, sie haben Sinn.) 3.2 ImSatzekannderGedankesoausgedrücktsein,dassdenGegenständen des Gedankens Elemente des Satzzeichens entsprechen.
+ 
+ 3.201 Diese Elemente nenne ich „einfache Zeichen“ und den Satz „vollständig analysiert“.
+ 
+ 3.202 Die im Satze angewandten einfachen Zeichen heissen Namen.
+ 
+ 3.203 Der Name bedeutet den Gegenstand. Der Gegenstand ist seine Bedeutung. („A“ ist dasselbe Zeichen wie „A“.) 3.21 Der Konfiguration der einfachen Zeichen im Satzzeichen entspricht die Konfiguration der Gegenstände in der Sachlage.
+ 
+ 3.22 Der Name vertritt im Satz den Gegenstand.
+ 
+ 3.221 Die Gegenstände kann ich nur nennen. Zeichen vertreten sie.
+ 
+ Ich kann nur von ihnen sprechen, sie aussprechen kann ich nicht. Ein Satz kann nur sagen, wie ein Ding ist, nicht was es ist.
+ 
+ 3.23 Die Forderung der Möglichkeit der einfachen Zeichen ist die Forderung der Bestimmtheit des Sinnes.
+ 
+ 3.24 Der Satz, welcher vom Komplex handelt, steht in interner Beziehung zum Satze, der von dessen Bestandteil handelt.
+ 
+ Der Komplex kann nur durch seine Beschreibung gegeben sein, und diese wird stimmen oder nicht stimmen. Der Satz, in welchem von einem Komplex die Rede ist, wird, wenn dieser nicht existiert, nicht unsinnig, sondern einfach falsch sein.
+ 
+ Dass ein Satzelement einen Komplex bezeichnet, kann man aus einer Unbestimmtheit in den Sätzen sehen, worin es vorkommt. Wir wissen, durch diesen Satz ist noch nicht alles bestimmt. (Die Allgemeinheitsbezeichnung enthält ja ein Urbild.) Die Zusammenfassung des Symbols eines Komplexes in ein einfaches Symbol kann durch eine Definition ausgedrückt werden.
+ 
+ 101 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 3.
+ 
+
+ 
+(Simplified)
+ 

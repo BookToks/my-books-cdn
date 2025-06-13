@@ -1,0 +1,20 @@
+(Statt Eigenschaft der Struktur sage ich auch „interne Eigenschaft“; statt Relation der Strukturen „interne Relation“.
+ 
+ Ich führe diese Ausdrücke ein, um den Grund der, bei den Philosophen sehr verbreiteten Verwechslung zwischen den internen Relationen und den eigentlichen (externen) Relationen zu zeigen.) Das Bestehen solcher interner Eigenschaften und Relationen kann aber nicht durch Sätze behauptet werden, sondern es zeigt sich in den Sätzen, welche jene Sachverhalte darstellen und von jenen Gegenständen handeln.
+ 
+ 4.1221 Eine interne Eigenschaft einer Tatsache können wir auch einen Zug dieser Tatsache nennen. (In dem Sinn, in welchem wir etwa von Gesichtszügen sprechen.) 4.123 Eine Eigenschaft ist intern, wenn es undenkbar ist, dass ihr Gegenstand sie nicht besitzt.
+ 
+ (Diese blaue Farbe und jene stehen in der internen Relation von heller und dunkler eo ipso. Es ist undenkbar, dass diese beiden Gegenstände nicht in dieser Relation stünden.) (HierentsprichtdemschwankendenGebrauchderWorte„Eigenschaft“ und „Relation“ der schwankende Gebrauch des Wortes „Gegenstand“.) 4.124 Das Bestehen einer internen Eigenschaft einer möglichen Sachlage wird nicht durch einen Satz ausgedrückt, sondern es drückt sichindemsiedarstellendenSatz,durcheineinterneEigenschaft dieses Satzes aus.
+ 
+ Es wäre ebenso unsinnig, dem Satze eine formale Eigenschaft zuzusprechen, als sie ihm abzusprechen.
+ 
+ 4.1241 Formen kann man nicht dadurch von einander unterscheiden, dass man sagt, die eine habe diese, die andere aber jene Eigenschaft; denn dies setzt voraus, dass es einen Sinn habe, beide Eigenschaften von beiden Formen auszusagen.
+ 
+ 4.125 Das Bestehen einer internen Relation zwischen möglichen SachlagendrücktsichsprachlichdurcheineinterneRelationzwischen den sie darstellenden Sätzen aus.
+ 
+ 115 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 4.
+ 
+
+ 
+(Simplified)
+ 

@@ -1,0 +1,16 @@
+∼q) runs thus:— Ifhereweput“p” insteadof“q” andexaminethecombination of the outermost T and F with the innermost, it is seen that the truth of the whole proposition is co-ordinated with all the truth-combinations of its argument, its falsity with none of the truth-combinations.
+ 
+ 6.121 The propositions of logic demonstrate the logical properties of propositions, by combining them into propositions which say nothing.
+ 
+ This method could be called a zero-method. In a logical proposition propositions are brought into equilibrium with one another, andthestateofequilibriumthenshowshowthesepropositions must be logically constructed.
+ 
+ 6.122 Whence it follows that we can get on without logical propositions, for we can recognize in an adequate notation the formal properties of the propositions by mere inspection.
+ 
+ 6.1221 If for example two propositions “p” and “q” give a tautology in the connexion “p ⊃ q”, then it is clear that q follows from p.
+ 
+ E.g. that “q” follows from “p ⊃ q .p” we see from these two propositions themselves, but we can also show it by combining themto“p ⊃ q.p :⊃: q” andthenshowingthatthisisatautology.
+ 
+ 6.1222 This throws light on the question why logical propositions can no more be empirically established than they can be empirically refuted. Not only must a proposition of logic be incapable of being contradicted by any possible experience, but it must also be incapable of being established by any such.
+ 
+ 6.1223 Itnowbecomesclearwhyweoftenfeelasthough“logicaltruths” 79 TRACTATUS LOGICO-PHILOSOPHICUS must be “postulated” by us.
+ 

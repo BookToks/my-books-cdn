@@ -1,0 +1,12 @@
+At Opsware, we started in the server automation market. When we received our first inquiries and offers for the server automation company, we had fewer than fifty customers. I believed that there were at least ten thousand target customers and that we had a decent shot at being number one. In addition, although I knew the market would be redefined, I thought that we could expand to networks and storage (data center automation) faster than the competition and win that market as well. Therefore, assuming 30 percent market share, somebody would have had to pay sixty times what we were worth in forward credit to buy out our potential. You won’t be surprised to find that nobody was willing to pay that.
+ 
+ Once we grew to several hundred customers and expanded into data center automation, we were still number one and were more valuable stand-alone than any of the prior acquisition offers. At that point both Opsware and our main competitor, BladeLogic, had developed into full-fledged companies (worldwide sales forces, built-out professional services, etc.). This was significant, because it meant that a large company could buy one of us and potentially execute successfully (big enterprise companies can’t generally succeed with small acquisitions, because too much of the important intellectual property is the sales methodology, and big companies can’t build that).
+ 
+ At this point, it became clear that BMC was going to buy either Opsware or BladeLogic. As a result, the calculus, or whether Opsware was going to be number one in the market, needed to be redefined as follows: 1. We had to be number one in the systems and network management market rather than the data center automation market, because like the word processor market, the data center automation market was going to be subsumed by a larger market that contained it.
+ 
+ 2. In order to be number one, we had to beat BMC and BladeLogic together, which was a significantly more difficult opponent than either company stand-alone.
+ 
+ Finally, the market itself was transforming due to an underlying technological shift: virtualization. Virtualization meant that the entire market needed to be retooled, so we were embarking on a new R&D race to build the best management for virtualized environments. This meant deferring earnings for a very long time.
+ 
+ Based on all these factors, it made sense for us to at least consider the
+ 

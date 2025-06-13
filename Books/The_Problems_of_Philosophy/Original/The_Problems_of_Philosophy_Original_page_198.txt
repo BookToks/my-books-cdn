@@ -1,0 +1,6 @@
+This may be made clear by examples. Othello believes falsely that Desdemona loves Cassio. We cannot say that this belief consists in a relation to a single object, " Desdemona's love for Cassio," for if there were such an object, the belief would be true. There is in fact no such object, and therefore Othello cannot have any relation to such an object. Hence his belief cannot possibly consist in a relation to this object.
+ 
+ It might be said that his belief is a relation to a different object, namely " that Desdemona loves Cassio " ; but it is almost as difficult to suppose that there is such an object as this, when Desdemona does not love Cassio, as it was to suppose that there is " Desdemona's love for Cassio." Hence it will be better to seek for a theory of belief which does not make it consist in a relation of the mind to a single object.
+ 
+ It is common to think of relations as though they always held between two terms, but in fact this is not always the case. Some re- TRUTH AND FALSEHOOD 195 lations demand three terms, some four, and so on.
+ 

@@ -1,0 +1,13 @@
+At first, things work well because everyone knows everything, so there’s less need to talk a lot. There aren’t any tricky handoffs since there’s no one else to pass work to. But as the company gets bigger, it becomes harder to add new engineers because they have to learn a lot. Teaching a new engineer can start to take more time than just doing the work yourself. That’s when you need people to focus on specific jobs.
+
+When you have teams working on things like building the software, testing it, and running operations, it creates some problems. There can be handoffs between groups, different goals, and people knowing only their own stuff instead of everything. To fix this, you need to think about how to organize the company and set up processes.
+
+ORGANIZATIONAL DESIGN The first rule of organizing a company is that no design is perfect.
+
+Every way you set up the company will help some parts communicate better but make it harder for other parts. For example, if product management is part of the engineering team, they’ll talk to engineers more easily but might talk less with marketing. So, when you change the organization, people will find problems and they’ll be right.
+
+Still, you can’t keep one huge group forever. You’ll need to split into smaller teams as you grow. At first, you might give each team its own manager, like a QA manager. After that, it gets trickier. Should client engineering and server engineering be separate teams? Or should teams be based on projects that include all technical parts? When the company gets really big, you’ll have to decide if you want to organize by functions (like sales, marketing, engineering) or by missions—teams that handle everything for a specific business area.
+
+Your goal is to pick the option that causes the least problems. Think of the company’s setup as how people talk to each other. If you want people to communicate, the best way is to have them report to the same manager. The farther apart people are in the company chart, the less they’ll talk. The company’s setup also affects how it talks to the outside world.
+
+My name is Sandeep Gautam.

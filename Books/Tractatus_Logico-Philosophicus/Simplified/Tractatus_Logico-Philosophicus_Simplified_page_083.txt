@@ -1,0 +1,26 @@
+1251 Hence there can never be surprises in logic.
+ 
+ 6.126 Whether a proposition belongs to logic can be determined by determining the logical properties of the symbol.
+ 
+ And this we do when we prove a logical proposition. For without troubling ourselves about a sense and a meaning, we form the logical propositions out of others by mere symbolic rules.
+ 
+ We prove a logical proposition by creating it out of other logicalpropositionsbyapplyinginsuccessioncertainoperations, which again generate tautologies out of the first. (And from a tautology only tautologies follow.) Naturally this way of showing that its propositions are tautologies is quite unessential to logic. Because the propositions, from which the proof starts, must show without proof that they are tautologies.
+ 
+ 6.1261 In logic process and result are equivalent. (Therefore no surprises.) 6.1262 Proof in logic is only a mechanical expedient to facilitate the recognition of tautology, where it is complicated.
+ 
+ 6.1263 Itwouldbetooremarkable, ifonecouldproveasignificantproposition logically from another, and a logical proposition also. It is clear from the beginning that the logical proof of a significant proposition and the proof in logic must be two quite different things.
+ 
+ 6.1264 The significant proposition asserts something, and its proof shows that it is so; in logic every proposition is the form of a proof.
+ 
+ Every proposition of logic is a modus ponens presented in signs. (And the modus ponens can not be expressed by a proposition.) 6.1265 Logic can always be conceived to be such that every proposition is its own proof.
+ 
+ 6.127 All propositions of logic are of equal rank; there are not some which are essentially primitive and others deduced from these.
+ 
+ Every tautology itself shows that it is a tautology.
+ 
+ 81 TRACTATUS LOGICO-PHILOSOPHICUS 6.
+ 
+
+ 
+(Simplified)
+ 

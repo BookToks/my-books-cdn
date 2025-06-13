@@ -1,0 +1,14 @@
+ACCOUNTABILITY FOR EFFORT This is the easy one. To be a world-class company, you need world-class effort.
+ 
+ If somebody isn’t giving it to you, they must be checked.
+ 
+ ACCOUNTABILITY FOR PROMISES A lot of good-running organizations have statements like “make a commitment, keep a commitment.” It’s true that if you sign up for something and you don’t do it, you let everyone in the organization down. This type of letdown can be contagious. Holding people accountable for their promises is a critical factor in getting things done. This changes as the degree of difficulty in fulfilling the promise increases. Promising to complete a piece of marketing collateral or send an email is different from promising to meet an engineering schedule that involves solving some fundamentally hard computer science problem. You must hold people accountable for the former; the latter is more complicated and relates to results.
+ 
+ ACCOUNTABILITY FOR RESULTS This is where things get complicated. If someone fails to deliver the result she promised, as in the opening story, must you hold her accountable? Should you hold her accountable? The answer is that it depends. It depends upon: Seniority of the employee You should expect experienced people to be able to forecast their results more accurately than junior people.
+ 
+ Degree of difficulty Some things are just plain hard. Making your sales number when your product is inferior to the competition and a recession hits midquarter is hard. Building a platform that automatically and efficiently takes serial programs and parallelizes them, so that they can scale out, is hard. It’s hard to make a good prediction and hard to meet that prediction. When deciding the consequence of missing a result, you must take into account the degree of difficulty.
+ 
+ Amount of stupid risk While you don’t want to punish people for taking good risks, not all risks are good. While there is no reward without risk, there is certainly risk with little or no chance of corresponding reward.
+ 
+ Drinking a bottle of Jack Daniel’s then getting behind the wheel of a car is
+ 

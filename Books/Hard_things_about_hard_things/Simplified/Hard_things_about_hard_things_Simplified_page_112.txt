@@ -1,0 +1,23 @@
+WHEN EMPLOYEES GET MANAGERS WRONG
+
+Early on at Loudcloud, people would do crazy things and say, “Ben said so.” A lot of times, I didn’t actually say those things, or I didn’t mean them the way they took them. The management ideas I’m sharing come from experiences like this.
+
+When I ran Opsware, we had a problem called the hockey stick. The hockey stick is the shape of our sales graph during a quarter—it was very uneven. One quarter, 90% of our sales happened on the last day! This made it really hard to plan the business, especially since we were a public company.
+
+I wanted to fix the hockey stick and make things more normal. So, I made a plan to give bonuses to salespeople who closed deals in the first two months of the quarter.
+
+After that, the sales were a bit more even, but total sales were lower than expected. Deals just moved from the last month of one quarter to the first two months of the next.
+
+When I led a big engineering team at Netscape, we measured a product by schedule, quality, and features. The team delivered the product on time, with all features, and few bugs.
+
+But the product was just okay because the features weren’t very good.
+
+At HP, we ran businesses with strict goals for revenue and profit. Some teams met their goals by spending less on research and development. This hurt their ability to compete later and caused big problems for the future.
+
+In all these cases, managers did what we asked, but not what we really wanted.
+
+How did this happen? Let’s find out.
+
+FLATTENING OUT THE HOCKEY STICK: THE WRONG GOAL
+
+My name is Sandeep Gautam.

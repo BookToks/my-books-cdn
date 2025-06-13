@@ -1,0 +1,16 @@
+31 The so-called law of induction cannot in any case be a logical law, for it is obviously a significant proposition.—And therefore it cannot be a law a priori either.
+ 
+ 6.32 The law of causality is not a law but the form of a law.∗ 6.321 “Law of Causality” is a class name. And as in mechanics there are, for instance, minimum-laws, such as that of least action, so in physics there are causal laws, laws of the causality form.
+ 
+ 6.3211 Men had indeed an idea that there must be a “law of least action”, before they knew exactly how it ran. (Here, as always, the a priori certain proves to be something purely logical.) 6.33 We do not believe a priori in a law of conservation, but we know a priori the possibility of a logical form.
+ 
+ 6.34 Allpropositions, suchasthelawofcausation, thelawofcontinuity in nature, the law of least expenditure in nature, etc. etc., all these are a priori intuitions of possible forms of the propositions of science.
+ 
+ 6.341 Newtonian mechanics, for example, brings the description of the universe to a unified form. Let us imagine a white surface with irregular black spots. We now say: Whatever kind of picture these make I can always get as near as I like to its description, if I cover the surface with a sufficiently fine square network and now say of every square that it is white or black. In this way I shall have brought the description of the surface to a unified form. This form is arbitrary, because I could have applied with equal success a net with a triangular or hexagonal mesh. It can happen that the description would have been simpler with the aid of a triangular mesh; that is to say we might have described the surface more accurately with a triangular, and coarser, than with the finer square mesh, or vice versa, and so on. To the different networks correspond different systems of describing the world. Mechanics determine a form of description by saying: All propositionsinthedescriptionoftheworldmustbeobtainedina given way from a number of given propositions—the mechanical axioms. It thus provides the bricks for building the edifice of science, and says: Whatever building thou wouldst erect, thou ∗I.e. not the form of one particular law, but of any law of a certain sort (B.R.).
+ 
+ 84 TRACTATUS LOGICO-PHILOSOPHICUS shalt construct it in some manner with these bricks and these alone.
+ 
+
+ 
+(Simplified)
+ 
