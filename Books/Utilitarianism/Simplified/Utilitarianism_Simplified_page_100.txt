@@ -1,8 +1,5 @@
-We are continually informed that Utility is an uncertain standard, which every different person interprets differently, and that there is no safety but in the immutable, ineffaceable, and unmistakeable dictates of Justice, which carry their evidence in themselves, and are independent of the fluctuations of opinion. One would suppose from this that on questions of justice there could be no controversy; that if we take that for our rule, its application to any given case could leave us in as little doubt as a mathematical demonstration. So far is this from being the fact, that there is as much difference of opinion, and as fierce discussion, about what is just, as about what is useful to society. Not only have different nations and individuals different notions of justice, but, in the mind of one and the same individual, justice is not some one rule, principle, or maxim, but many, which do not always coincide in their dictates, and in choosing between which, he is guided either by some extraneous standard, or by his own personal predilections.
- 
- 99 For instance, there are some who say, that it is unjust to punish any one for the sake of example to others; that punishment is just, only when intended for the good of the sufferer himself.
- 
+We often hear that Utility (what’s useful) is unclear because everyone understands it differently. People say the only sure thing is Justice, which is unchanging and obvious, and doesn’t depend on what people think at different times. You might think that because of this, questions about justice wouldn’t cause arguments, and applying justice to any situation would be as clear as solving a math problem.
 
- 
-(Simplified)
- 
+But that’s not true at all. There are just as many arguments and strong opinions about what is fair and just as there are about what is useful for society. Different countries and people have different ideas about justice. Even one person can have many ideas about what’s fair, which sometimes don’t match up. When deciding between these ideas, they might use outside rules or just their own personal likes and dislikes.
+
+For example, some people believe it’s wrong to punish someone just to set an example for others. They think punishment is only fair if it helps the person being punished.

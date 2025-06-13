@@ -1,26 +1,19 @@
-122 We can speak in a certain sense of formal properties of objects and atomic facts, or of properties of the structure of facts, and in the same sense of formal relations and relations of structures.
- 
- (InsteadofpropertyofthestructureIalsosay“internalproperty”; instead of relation of structures “internal relation”.
- 
- I introduce these expressions in order to show the reason for the confusion, very widespread among philosophers, between internal relations and proper (external) relations.) The holding of such internal properties and relations cannot, however, be asserted by propositions, but it shows itself in the propositions, which present the atomic facts and treat of the objects in question.
- 
- 4.1221 An internal property of a fact we also call a feature of this fact.
- 
- (In the sense in which we speak of facial features.) 4.123 A property is internal if it is unthinkable that its object does not possess it.
- 
- (This blue colour and that stand in the internal relation of brighter and darker eo ipso. It is unthinkable that these two objects should not stand in this relation.) (Here to the shifting use of the words “property” and “relation” there corresponds the shifting use of the word “object”.) 4.124 Theexistenceofaninternalpropertyofapossiblestateofaffairs is not expressed by a proposition, but it expresses itself in the proposition which presents that state of affairs, by an internal property of this proposition.
- 
- It would be as senseless to ascribe a formal property to a proposition as to deny it the formal property.
- 
- 4.1241 One cannot distinguish forms from one another by saying that one has this property but the other that: for this assumes that there is a sense in asserting either property of either form.
- 
- 4.125 The existence of an internal relation between possible states of affairs expresses itself in language by an internal relation between the propositions presenting them.
- 
- 4.1251 Here the disputed question “whether all relations are internal or external” disappears.
- 
- 46 TRACTATUS LOGICO-PHILOSOPHICUS 4.
- 
+We can talk about certain formal qualities of objects and simple facts, or about the qualities of how facts are put together. In the same way, we can talk about formal connections and connections in structures.
 
- 
-(Simplified)
- 
+Instead of saying “property of the structure,” I also say “internal property.” Instead of “relation of structures,” I say “internal relation.” I use these words to explain why many philosophers get confused between internal and external (or proper) relations. 
+
+These internal qualities and connections can’t be directly stated in sentences, but they show up in the sentences that describe the simple facts and objects.
+
+An internal quality of a fact is also called a feature of that fact, like how we talk about facial features.
+
+A property is internal if you can’t imagine its object not having it. For example, a lighter blue and a darker blue are in the internal connection of brighter and darker automatically. You can’t think of these two without that connection. When the words “property” and “relation” change meaning, the word “object” changes meaning too.
+
+The existence of an internal property in a possible situation isn’t said directly by a sentence, but it shows itself in the sentence that describes that situation, through an internal quality of the sentence.
+
+It makes no sense to say a sentence has or doesn’t have a formal property because that property is part of what the sentence is.
+
+You can’t tell forms apart by saying one has this property and the other has that, because that would mean it makes sense to say either property about either form.
+
+If there is an internal connection between possible situations, this shows up in language as an internal connection between the sentences that describe them.
+
+This way, the argument about whether all connections are internal or external disappears.

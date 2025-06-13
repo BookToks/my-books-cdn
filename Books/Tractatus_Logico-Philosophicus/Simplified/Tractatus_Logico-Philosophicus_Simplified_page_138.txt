@@ -1,26 +1,21 @@
-Denn, wenn es als Gleichheitszeichen auftritt, so symbolisiert es auf ganz andere Art und Weise—die bezeichnende Beziehung ist eine andere,—also ist auch das Symbol in beiden Fällen ganz verschieden; die beiden Symbole haben nur das Zeichen zufällig miteinander gemein.
- 
- 5.474 Die Anzahl der nötigen Grundoperationen hängt nur von unserer Notation ab.
- 
- 5.475 Es kommt nur darauf an, ein Zeichensystem von einer bestimmten Anzahl von Dimensionen—von einer bestimmten mathematischen Mannigfaltigkeit—zu bilden.
- 
- 5.476 Es ist klar, dass es sich hier nicht um eine Anzahl von Grundbegriffen handelt, die bezeichnet werden müssen, sondern um den Ausdruck einer Regel.
- 
- 5.5 Jede Wahrheitsfunktion ist ein Resultat der successiven Anwendung der Operation (– – – – –W)(ξ,....) auf Elementarsätze.
- 
- Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne sie die Negation dieser Sätze.
- 
- 5.501 Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich —wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist—durch ein Zeichen von der Form „(ξ)“ an. „ξ“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
- 
- (Hat also ξ etwa die 3 Werte P, Q, R, so ist (ξ) = (P, Q, R).) Die Werte der Variablen werden festgesetzt.
- 
- Die Festsetzung ist die Beschreibung der Sätze, welche die Variable vertritt.
- 
- Wie die Beschreibung der Glieder des Klammerausdruckes geschieht, ist unwesentlich.
- 
- Wir können drei Arten der Beschreibung unterscheiden: 1. Die direkte Aufzählung. In diesem Fall können wir statt der Variablen einfach ihre konstanten Werte setzen. 2. Die Angabe 136 LOGISCH-PHILOSOPHISCHE ABHANDLUNG einer Funktion fx, deren Werte für alle Werte von x die zu beschreibenden Sätze sind.
- 
+When the equal sign is used, it means something different—it shows a different kind of relationship. So, the symbol means different things in each case; the two symbols only happen to look the same by chance.
 
- 
-(Simplified)
- 
+The number of basic steps needed depends only on how we write things down.
+
+What matters is creating a system of signs with a certain number of dimensions—a specific kind of mathematical space.
+
+It’s clear that this isn’t about naming basic ideas, but about expressing a rule.
+
+Every truth function comes from applying the operation (– – – – –W)(ξ,....) step by step to simple sentences.
+
+This operation denies all the sentences inside the right bracket, and I call it the negation of those sentences.
+
+A bracket expression, whose parts are sentences, is shown—if the order of parts doesn’t matter—by a symbol like “(ξ)”. “ξ” is a variable whose values are the parts inside the bracket; the line over the variable shows that it stands for all its values inside the bracket.
+
+(So if ξ has the three values P, Q, R, then (ξ) = (P, Q, R).) The values of the variable are fixed.
+
+Fixing the values means describing the sentences the variable stands for.
+
+How we describe the parts inside the bracket doesn’t really matter.
+
+We can describe them in three ways: 1. By listing them directly. In this case, we just use their fixed values instead of the variable. 2. By giving a function fx, whose values for every x are the sentences we want to describe.

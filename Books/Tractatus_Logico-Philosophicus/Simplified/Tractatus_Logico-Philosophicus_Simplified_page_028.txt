@@ -1,28 +1,23 @@
-Logic treats of every possibility, and all possibilities are its facts.) Just as we cannot think of spatial objects at all apart from space, or temporal objects apart from time, so we cannot think of any object apart from the possibility of its connexion with other things.
- 
- If I can think of an object in the context of an atomic fact, I cannot think of it apart from the possibility of this context.
- 
- 2.0122 The thing is independent, in so far as it can occur in all possible circumstances, but this form of independence is a form of connexion with the atomic fact, a form of dependence. (It is impossible for words to occur in two different ways, alone and in the proposition.) 2.0123 If I know an object, then I also know all the possibilities of its occurrence in atomic facts.
- 
- (Every such possibility must lie in the nature of the object.) A new possibility cannot subsequently be found.
- 
- 2.01231 In order to know an object, I must know not its external but all its internal qualities.
- 
- 2.0124 If all objects are given, then thereby are all possible atomic facts also given.
- 
- 2.013 Every thing is, as it were, in a space of possible atomic facts. I can think of this space as empty, but not of the thing without the space.
- 
- 2.0131 A spatial object must lie in infinite space. (A point in space is a place for an argument.) A speck in a visual field need not be red, but it must have a colour; it has, so to speak, a colour space round it. A tone must have a pitch, the object of the sense of touch a hardness, etc.
- 
- 2.014 Objects contain the possibility of all states of affairs.
- 
- 2.0141 The possibility of its occurrence in atomic facts is the form of the object.
- 
- 2.02 The object is simple.
- 
- 2.0201 Every statement about complexes can be analysed into a state26 TRACTATUS LOGICO-PHILOSOPHICUS ment about their constituent parts, and into those propositions which completely describe the complexes.
- 
+Logic deals with every possibility, and all possibilities are its facts. Just like we can’t think about things in space without space, or things in time without time, we can’t think about any object without thinking about how it might connect to other things.
 
- 
-(Simplified)
- 
+If I think about an object as part of a basic fact, I can’t think about it without thinking about that possibility.
+
+A thing is independent because it can happen in any situation, but this kind of independence is still a kind of connection to the basic fact, so it also depends on it. (Words can’t appear in two different ways at the same time, alone and in a sentence.) If I know an object, I also know all the ways it can happen in basic facts.
+
+All these possibilities are part of the object’s nature. You can’t find a new possibility later.
+
+To understand an object, I have to know all its inner qualities, not just what’s on the outside.
+
+If I know all objects, then I also know all possible basic facts.
+
+Every thing exists in a space of possible basic facts. I can imagine this space as empty, but I can’t imagine the thing without this space.
+
+A thing in space must exist in endless space. (A point in space is like a place for an argument.) A tiny spot in what you see doesn’t have to be red, but it must have some color; it’s like there’s a color space around it. A sound has a pitch, something you touch has hardness, and so on.
+
+Objects have the possibility of all different situations.
+
+The way an object can happen in basic facts is its form.
+
+An object is simple.
+
+Every statement about complex things can be broken down into statements about their parts, and into those sentences that fully describe the complex things.

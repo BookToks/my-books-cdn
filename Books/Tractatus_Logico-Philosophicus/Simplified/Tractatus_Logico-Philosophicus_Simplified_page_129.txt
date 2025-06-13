@@ -1,38 +1,37 @@
-132 Folgt p aus q, so kann ich von q auf p schliessen; p aus q folgern.
- 
- Die Art des Schlusses ist allein aus den beiden Sätzen zu entnehmen.
- 
- Nur sie selbst können den Schluss rechtfertigen.
- 
- „Schlussgesetze“, welche—wie bei Frege und Russell—die Schlüsse rechtfertigen sollen, sind sinnlos, und wären überflüssig.
- 
- 5.133 Alles Folgern geschieht a priori.
- 
- 5.134 Aus einem Elementarsatz lässt sich kein anderer folgern.
- 
- 5.135 Auf keine Weise kann aus dem Bestehen irgend einer Sachlage auf das Bestehen einer, von ihr gänzlich verschiedenen Sachlage geschlossen werden.
- 
- 5.136 Einen Kausalnexus, der einen solchen Schluss rechtfertigte, gibt es nicht.
- 
- 5.1361 Die Ereignisse der Zukunft können wir nicht aus den gegenwärtigen erschliessen.
- 
- Der Glaube an den Kausalnexus ist der Aberglaube.
- 
- 5.1362 Die Willensfreiheit besteht darin, dass zukünftige Handlungen jetzt nicht gewusst werden können. Nur dann könnten wir sie wissen, wenn die Kausalität eine innere Notwendigkeit wäre, wie die des logischen Schlusses.—Der Zusammenhang von Wissen und Gewusstem, ist der der logischen Notwendigkeit.
- 
- („A weiss, dass p der Fall ist“ ist sinnlos, wenn p eine Tautologie ist.) 5.1363 Wenn daraus, dass ein Satz uns einleuchtet, nicht folgt, dass er wahr ist, so ist das Einleuchten auch keine Rechtfertigung für unseren Glauben an seine Wahrheit.
- 
- 5.14 Folgt ein Satz aus einem anderen, so sagt dieser mehr als jener, jener weniger als dieser.
- 
- 5.141 Folgt p aus q und q aus p, so sind sie ein und derselbe Satz.
- 
- 5.142 Die Tautologie folgt aus allen Sätzen: sie sagt Nichts.
- 
- 5.143 DieKontradiktionistdasGemeinsamederSätze,was kein Satz mit einem anderen gemein hat. Die Tautologie ist das Gemeinsame aller Sätze, welche nichts miteinander gemein haben.
- 
- 127 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Die Kontradiktion verschwindet sozusagen ausserhalb, die Tautologie innerhalb aller Sätze.
- 
+If p follows from q, then I can conclude p from q; this is called inferring p from q.
 
- 
-(Simplified)
- 
+The way you make this conclusion comes only from the two sentences themselves.
+
+Only these sentences can justify the conclusion.
+
+“Rules of inference,” like those Frege and Russell talked about, that are supposed to justify conclusions, don’t make sense and aren’t needed.
+
+All reasoning happens before experience.
+
+You can’t infer one elementary sentence from another.
+
+You can never conclude that one completely different situation exists just because another situation exists.
+
+There is no cause-and-effect link that can justify such a conclusion.
+
+We can’t figure out future events just from what’s happening now.
+
+Believing in cause-and-effect like this is a superstition.
+
+Free will means that future actions can’t be known right now. We could only know them if cause-and-effect was as necessary as logical conclusions are.
+
+The connection between knowing and what is known is like logical necessity.
+
+Saying “A knows that p is true” makes no sense if p is always true no matter what.
+
+If something seems obvious to us but that doesn’t mean it’s true, then that obviousness doesn’t justify believing it.
+
+If one sentence follows from another, the second sentence says more than the first, and the first says less than the second.
+
+If p follows from q and q follows from p, then p and q are actually the same sentence.
+
+A tautology follows from all sentences but says nothing.
+
+A contradiction is what all sentences have in common that no sentence shares with another. The tautology is what all sentences share that nothing else shares.
+
+The contradiction is kind of outside all sentences, while the tautology is inside all sentences.

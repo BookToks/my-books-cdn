@@ -1,28 +1,25 @@
-25 The occurrence of an operation does not characterize the sense of a proposition.
- 
- For an operation does not assert anything; only its result does, and this depends on the bases of the operation.
- 
- (Operation and function must not be confused with one another.) 5.251 A function cannot be its own argument, but the result of an operation can be its own basis.
- 
- 5.252 Only in this way is the progress from term to term in a formal series possible (from type to type in the hierarchy of Russell and Whitehead). (Russell and Whitehead have not admitted the possibility of this progress but have made use of it all the same.) 5.2521 The repeated application of an operation to its own result I call itssuccessiveapplication(“O(cid:48)O(cid:48)O(cid:48)a” istheresultofthethreefold successive application of “O(cid:48)ξ” to “a”).
- 
- In a similar sense I speak of the successive application of several operations to a number of propositions.
- 
- 5.2522 The general term of the formal series a,O(cid:48)a,O(cid:48)O(cid:48)a, .... I write thus: “[a, x, O(cid:48)x]”. This expression in brackets is a variable. The first term of the expression is the beginning of the formal series, the second the form of an arbitrary term x of the series, and the third the form of that term of the series which immediately follows x.
- 
- 5.2523 The concept of the successive application of an operation is equivalent to the concept “and so on”.
- 
- 5.253 One operation can reverse the effect of another. Operations can cancel one another.
- 
- 5.254 Operations can vanish (e.g. denial in “∼∼p”, ∼∼p = p).
- 
- 5.3 All propositions are results of truth-operations on the elementary propositions.
- 
- The truth-operation is the way in which a truth-function arises from elementary propositions.
- 
- According to the nature of truth-operations, in the same way as out of elementary propositions arise their truth-functions, 61 TRACTATUS LOGICO-PHILOSOPHICUS from truth-functions arises a new one.
- 
+An operation happening doesn’t tell us what a statement means.
 
- 
-(Simplified)
- 
+An operation by itself doesn’t say anything; only what it produces does, and that depends on what the operation is done to.
+
+(Operations and functions are not the same thing.) A function can’t use itself as an input, but an operation’s result can be used again as the starting point.
+
+This is how we can move step by step in a formal sequence (like moving up levels in a system Russell and Whitehead made). They didn’t really admit this kind of step-by-step move, but they used it anyway. 
+
+When you apply an operation again and again to its own result, I call that successive application (like doing “O(O(O(a)))”, which means applying “O” three times to “a”).
+
+You can also apply several operations one after another to different statements.
+
+The general form for this kind of sequence looks like this: “[a, x, O(x)]”. This means: “a” is the start, “x” is any term in the sequence, and “O(x)” is the next term after “x”.
+
+Saying you apply an operation over and over is the same as saying “and so on.”
+
+One operation can undo what another one does. Operations can cancel each other out.
+
+Sometimes operations disappear, like when you deny something twice in a row (“not not p” is the same as “p”).
+
+All statements come from applying truth-operations to basic statements.
+
+A truth-operation is how we get new true or false statements from basic ones.
+
+Just like you can make new truth-functions from basic statements, you can also make new truth-functions from other truth-functions.

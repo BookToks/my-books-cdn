@@ -1,36 +1,33 @@
-But logic must have contact with its application.
- 
- Therefore logic and its application may not overlap one another.
- 
- 5.5571 If I cannot give elementary propositions a priori then it must lead to obvious nonsense to try to give them.
- 
- 5.6 The limits of my language mean the limits of my world.
- 
- 5.61 Logic fills the world: the limits of the world are also its limits.
- 
- We cannot therefore say in logic: This and this there is in the world, that there is not.
- 
- For that would apparently presuppose that we exclude certain possibilities, and this cannot be the case since otherwise logic must get outside the limits of the world: that is, if it could consider these limits from the other side also.
- 
- What we cannot think, that we cannot think: we cannot therefore say what we cannot think.
- 
- 5.62 Thisremarkprovidesakeytothequestion, towhatextentsolipsism is a truth.
- 
- In fact what solipsism means, is quite correct, only it cannot be said, but it shows itself.
- 
- That the world is my world, shows itself in the fact that the limits of the language (the language which only I understand) mean the limits of my world.
- 
- 5.621 The world and life are one.
- 
- 5.63 I am my world. (The microcosm.) 5.631 The thinking, presenting subject; there is no such thing.
- 
- If I wrote a book “The world as I found it”, I should also have therein to report on my body and say which members obey my will and which do not, etc. This then would be a method of isolating the subject or rather of showing that in an important sense there is no subject: that is to say, of it alone in this book mention could not be made.
- 
- 5.632 The subject does not belong to the world but it is a limit of the world.
- 
- 74 TRACTATUS LOGICO-PHILOSOPHICUS 5.
- 
+But logic has to connect with how we actually use it.
 
- 
-(Simplified)
- 
+So, logic and its use can’t be exactly the same thing.
+
+If I can’t explain basic ideas before experience, trying to do so just leads to nonsense.
+
+The limits of my language are the limits of my world.
+
+Logic fills the world, and the world’s limits are also logic’s limits.
+
+Because of this, in logic we can’t say: “This is in the world, but that isn’t.”
+
+That would mean we’re leaving out some possibilities, which we can’t do because logic can’t go beyond the world’s limits.
+
+If we can’t think something, then we just can’t think it; so we can’t talk about what we can’t think.
+
+This idea helps answer the question of how true solipsism is.
+
+Solipsism (the idea that only my mind is sure to exist) is actually right, but it can’t be said in words—it only shows itself.
+
+The fact that the world is my world is shown by the fact that my language’s limits (the language only I understand) are the limits of my world.
+
+The world and my life are one.
+
+I am my world. (Like a tiny universe.)
+
+The thinking, presenting “I” doesn’t really exist.
+
+If I wrote a book called “The world as I found it,” I’d have to talk about my body and which parts listen to me and which don’t.
+
+This would show that there isn’t really a separate “I”; in fact, the “I” can’t even be mentioned alone in the book.
+
+The “I” isn’t part of the world but is the limit of the world.

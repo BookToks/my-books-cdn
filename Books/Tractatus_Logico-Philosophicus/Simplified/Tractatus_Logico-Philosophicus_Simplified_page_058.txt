@@ -1,22 +1,49 @@
-101 The truth-functions of every number of elementary propositions can be written in a schema of the following kind: (TTTT)(p,q) Tautology (if p then p, and if q then q) [p⊃p.q ⊃q] (FTTT)(p,q) in words: Not both p and q. [∼(p.q)] (TFTT)(p,q) „ „ If q then p. [q ⊃p] (TTFT)(p,q) „ „ If p then q. [p⊃q] (TTTF)(p,q) „ „ p or q. [p∨q] (FFTT)(p,q) „ „ Not q. [∼q] (FTFT)(p,q) „ „ Not p. [∼p] (FTTF)(p,q) „ „ p or q, but not both. [p.∼q :∨:q.∼p] (TFFT)(p,q) „ „ If p, then q; and if q, then p. [p≡q] (TFTF)(p,q) „ „ p (TTFF)(p,q) „ „ q (FFFT)(p,q) „ „ Neither p nor q. [∼p.∼q or p|q] (FFTF)(p,q) „ „ p and not q. [p.∼q] (FTFF)(p,q) „ „ q and not p. [q.∼p] (TFFF)(p,q) „ „ p and q. [p.q] (FFFF)(p,q) Contradiction (p and not p; and q and not q.) [p.∼p.q.∼q] Those truth-possibilities of its truth-arguments, which verify the proposition, I shall call its truth-grounds.
- 
- 5.11 If the truth-grounds which are common to a number of propositions are all also truth-grounds of some one proposition, we say that the truth of this proposition follows from the truth of those propositions.
- 
- 5.12 In particular the truth of a proposition p follows from that of a proposition q, if all the truth-grounds of the second are truthgrounds of the first.
- 
- 5.121 The truth-grounds of q are contained in those of p; p follows from q.
- 
- 5.122 If p follows from q, the sense of “p” is contained in that of “q”.
- 
- 5.123 Ifagodcreatesaworldinwhichcertainpropositionsaretrue, he creates thereby also a world in which all propositions consequent on them are true. And similarly he could not create a world in which the proposition “p” is true without creating all its objects.
- 
- 5.124 A proposition asserts every proposition which follows from it.
- 
- 5.1241 “p.q” is one of the propositions which assert “p” and at the same time one of the propositions which assert “q”.
- 
- 56 TRACTATUS LOGICO-PHILOSOPHICUS Two propositions are opposed to one another if there is no significant proposition which asserts them both.
- 
+Every possible way to combine simple statements can be shown using a pattern like this: (TTTT)(p,q) means both p and q are true. This is called a tautology, like saying “if p then p” and “if q then q.”  
 
- 
-(Simplified)
- 
+(FTTT)(p,q) means not both p and q are true. This is written as “not (p and q).”  
+
+(TFTT)(p,q) means “if q then p.”  
+
+(TTFT)(p,q) means “if p then q.”  
+
+(TTTF)(p,q) means “p or q.”  
+
+(FFTT)(p,q) means “not q.”  
+
+(FTFT)(p,q) means “not p.”  
+
+(FTTF)(p,q) means “p or q, but not both.”  
+
+(TFFT)(p,q) means “if p then q, and if q then p.”  
+
+(TFTF)(p,q) means “p.”  
+
+(TTFF)(p,q) means “q.”  
+
+(FFFT)(p,q) means “neither p nor q.”  
+
+(FFTF)(p,q) means “p and not q.”  
+
+(FTFF)(p,q) means “q and not p.”  
+
+(TFFF)(p,q) means “p and q.”  
+
+(FFFF)(p,q) means a contradiction, like “p and not p, and q and not q.”  
+
+The ways that make a statement true are called its truth-grounds.  
+
+If the truth-grounds shared by several statements are all also truth-grounds for another statement, we say the truth of that last statement follows from the truth of the others.  
+
+Specifically, the truth of p follows from q if every truth-ground of q is also a truth-ground of p.  
+
+This means the truth-grounds of q are included in those of p, so p follows from q.  
+
+If p follows from q, then the meaning of p is included in the meaning of q.  
+
+If a god made a world where certain statements are true, then all statements that follow from them are also true in that world. Also, the god couldn’t make a world where a statement p is true without also creating everything that p talks about.  
+
+A statement claims every statement that follows from it.  
+
+For example, “p and q” claims both “p” and “q.”  
+
+Two statements go against each other if there is no meaningful statement that claims both of them at once.

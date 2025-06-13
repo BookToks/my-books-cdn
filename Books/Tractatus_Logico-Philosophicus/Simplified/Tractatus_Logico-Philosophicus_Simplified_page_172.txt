@@ -1,16 +1,15 @@
-Information about the Project Gutenberg Literary Archive Foundation The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Its 501(c)(3) letter is posted at http://pglaf.org/fundraising. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.
- 
- The Foundation’s principal office is located at 4557 Melan Dr. S.
- 
- Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations. Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org. Email contact links and up to date contact information can be found at the Foundation’s web site and official page at http://pglaf.org For additional contact information: Dr. Gregory B. Newby Chief Executive and Director gbnewby@pglaf.org Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
- 
- The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
- 
- International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.
- 
- Please check the Project Gutenberg Web pages for current donation f methods and addresses.
- 
+About the Project Gutenberg Literary Archive Foundation
 
- 
-(Simplified)
- 
+The Project Gutenberg Literary Archive Foundation is a non-profit group that helps people learn. It is set up under Mississippi state laws and has special tax-free status from the IRS. Its tax ID number is 64-6221541. You can find its tax-exempt letter at http://pglaf.org/fundraising. When you donate to this Foundation, you can usually get a tax deduction by law.
+
+The Foundation’s main office is at 4557 Melan Dr. S., Fairbanks, AK, 99712. But volunteers and workers are spread out in many places. The business office is at 809 North 1500 West, Salt Lake City, UT 84116. You can call (801) 596-1887 or email business@pglaf.org. For more contact info, visit http://pglaf.org. You can also contact Dr. Gregory B. Newby, the Chief Executive and Director, at gbnewby@pglaf.org.
+
+About Donations to the Project Gutenberg Literary Archive Foundation
+
+Project Gutenberg depends on donations from the public to keep going. These donations help increase the number of free books and works available in digital form, so lots of people can read them, even on old devices. Small donations from $1 to $5,000 are very important to keep the Foundation’s tax-free status.
+
+The Foundation follows all charity laws in every state in the U.S. These laws are different in each state and require a lot of work and paperwork. The Foundation only asks for donations in states where it has official approval. To send donations or check if they can ask for donations in your state, visit http://pglaf.org. They don’t ask for donations in states where they don’t have permission but will accept donations if someone offers without being asked.
+
+They also accept donations from other countries but can’t say how those donations affect taxes outside the U.S. Their small team focuses mostly on U.S. rules.
+
+For the latest ways to donate and mailing addresses, check the Project Gutenberg website.

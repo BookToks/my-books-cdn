@@ -1,26 +1,23 @@
-4.0031 Alle Philosophie ist „Sprachkritik“. (Allerdings nicht im Sinne Mauthners.) Russell’s Verdienst ist es, gezeigt zu haben, dass die scheinbare logische Form des Satzes nicht seine wirkliche sein muss.
- 
- 4.01 Der Satz ist ein Bild der Wirklichkeit.
- 
- Der Satz ist ein Modell der Wirklichkeit, so wie wir sie uns denken.
- 
- 4.011 Auf den ersten Blick scheint der Satz—wie er etwa auf dem Papier gedruckt steht—kein Bild der Wirklichkeit zu sein, von der er handelt. Aber auch die Notenschrift scheint auf den ersten Blick kein Bild der Musik zu sein, und unsere Lautzeichen(Buchstaben-)Schrift kein Bild unserer Lautsprache.
- 
- Und doch erweisen sich diese Zeichensprachen auch im gewöhnlichen Sinne als Bilder dessen, was sie darstellen.
- 
- 4.012 Offenbar ist, dass wir einen Satz von der Form „aRb“ als Bild empfinden. Hier ist das Zeichen offenbar ein Gleichnis des Bezeichneten.
- 
- 4.013 Und wenn wir in das Wesentliche dieser Bildhaftigkeit eindringen, so sehen wir, dass dieselbe durch scheinbare Unregelmässigkeiten (wie die Verwendung der (cid:93) und (cid:91) in der Notenschrift) nicht gestört wird.
- 
- Denn auch diese Unregelmässigkeiten bilden das ab, was sie ausdrücken sollen; nur auf eine andere Art und Weise.
- 
- 4.014 Die Grammophonplatte, der musikalische Gedanke, die Notenschrift, die Schallwellen, stehen alle in jener abbildenden internen Beziehung zu einander, die zwischen Sprache und Welt besteht.
- 
- Ihnen allen ist der logische Bau gemeinsam.
- 
- (Wie im Märchen die zwei Jünglinge, ihre zwei Pferde und ihre Lilien. Sie sind alle in gewissem Sinne Eins.) 4.0141 Dass es eine allgemeine Regel gibt, durch die der Musiker aus der Partitur die Symphonie entnehmen kann, durch welche man aus der Linie auf der Grammophonplatte die Symphonie und 108 LOGISCH-PHILOSOPHISCHE ABHANDLUNG nach der ersten Regel wieder die Partitur ableiten kann, darin besteht eben die innere Ähnlichkeit dieser scheinbar so ganz verschiedenen Gebilde.
- 
+All philosophy is about understanding language better. But it’s not like what Mauthner thought. Russell showed that the way a sentence looks doesn’t always match how it really works.
 
- 
-(Simplified)
- 
+A sentence is like a picture of reality.
+
+It’s a model of the world as we imagine it.
+
+At first, a sentence—like one you see printed on paper—doesn’t seem like a picture of the real world it talks about. But music notes don’t look like music either, and letters don’t look exactly like the sounds we say.
+
+Still, these sign systems can be seen as pictures of what they represent.
+
+We clearly see a sentence like “aRb” as a kind of picture. The sign is like a symbol of what it means.
+
+If we look deeper, we see that small odd parts—like the special marks in music notes—don’t ruin this picture.
+
+Those odd parts still show what they mean, just in a different way.
+
+A record, a musical idea, music notes, and sound waves all have a special connection, like the one between language and the world.
+
+They all share the same basic logical structure.
+
+(Like in a fairy tale, two young men, their two horses, and their lilies are all connected. In some way, they are one.)
+
+There’s a general rule that lets a musician read a symphony from music notes, and also get the music back from the record’s line. This shows the deep similarity between these very different things.

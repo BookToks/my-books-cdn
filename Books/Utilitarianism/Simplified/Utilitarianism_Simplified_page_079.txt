@@ -1,14 +1,9 @@
-If we find the former to be the case, we shall, in resolving this question, have resolved also the main problem: if the latter, we shall have to seek for some other mode of investigating it.
- 
- * To find the common attributes of a variety of objects, it is necessary to begin, by surveying the objects themselves in the concrete. Let us therefore advert successively to the various modes of action, and arrangements of human affairs, which are classed, by universal or widely spread opinion, as Just or as Unjust.
- 
- The things well known to excite the sentiments associated with those names, are of a very multifarious character. I shall pass them rapidly in review, without studying any particular arrangement.
- 
- In the first place, it is mostly considered unjust to deprive any one of his personal liberty, his property, or any other thing which belongs to him by law. Here, therefore, is one instance of the application of the terms just and unjust in a perfectly definite sense, namely, that it is just to respect, unjust to violate, the legal rights of any one.
- 
- But this judgment admits of several exceptions, arising 78 from the other forms in which the notions of justice and injustice present themselves.
- 
+If we find the first option is true, then by solving this question, we will also solve the main problem. But if the second option is true, we will need to find another way to look into it.
 
- 
-(Simplified)
- 
+To find what things have in common, we first need to look closely at the actual things themselves. So, let’s look at different actions and ways people behave that most people agree are either fair (just) or unfair (unjust).
+
+The things that make people feel something is fair or unfair are very different. I will quickly go through them without putting them in any special order.
+
+First, most people think it is unfair to take away someone’s freedom, their stuff, or anything that belongs to them by law. So, here is one clear example: it is fair to respect people’s legal rights and unfair to break them.
+
+But this idea has some exceptions because justice and injustice can show up in other ways too.

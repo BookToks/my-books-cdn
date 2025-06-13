@@ -1,14 +1,9 @@
-A geometrical figure may be projected in many ways: each of these ways corresponds to a different language, but the projective properties of the original figure remain unchanged whichever of these ways may be adopted.
- 
- These projective properties correspond to that which in his theory the proposition and the fact must have in common, if the proposition is to assert the fact.
- 
- In certain elementary ways this is, of course, obvious. It is impossible, for example, to make a statement about two men (assuming for the moment that the men may be treated as simples), without employing two names, and if you are going to assert a relation between the two men it will be necessary that the sentence in which you make the assertion shall establish a relation between the two names. If we say “Plato loves Socrates,” the word “loves” which occurs between the word “Plato” and the word “Socrates” establishes a certain relation between these two words, and it is owing to this fact that our sentence is able to assert a relation between the person’s name by the words “Plato” and “Socrates.” “We must not say, the complex sign ‘aRb’ says ‘a stands in a certain relation R to b’; but we must say, that ‘a’ stands in a certain relation to ‘b’ says that aRb” (3.1432).
- 
- Mr Wittgenstein begins his theory of Symbolism with the statement (2.1): “We make to ourselves pictures of facts.” A picture, he says, is a model of the reality, and to the objects in the reality correspond the elements of the picture: the picture itself is a fact. The fact that things have a certain relation to each other is represented by the fact that in the picture its elements have a certain relation to one another. “In the picture and the pictured there must be something identical in order that the one can be a picture of the other at all. What the picture must have in common with reality in order to be able to represent it after its manner—rightly or falsely—is its form of representation” (2.161, 2.17).
- 
- We speak of a logical picture of a reality when we wish to imply only so much resemblance as is essential to its being a picture in any sense, that is to say, when we wish to imply no more than identity of logical form. The logical picture of a fact, he says, is a Gedanke. A picture can correspond or not correspond with the fact and be accordingly true or false, but in both cases it shares the logical form with the fact. The sense in which he speaks of pictures is illustrated by his statement: “The gramophone record, the musical thought, the score, the waves of sound, all stand to one another in that pictorial internal relation which holds 9 INTRODUCTION between language and the world.
- 
+A shape can be shown in many different ways. Each way is like a different language, but the important parts of the shape stay the same no matter how you show it.
 
- 
-(Simplified)
- 
+These important parts are like what a sentence and the fact it talks about have in common. If a sentence is true, it must share something with the fact.
+
+This is easy to see sometimes. For example, if you talk about two people, you need to use two names. If you want to say how they are connected, the sentence has to show a connection between the two names. If we say “Plato loves Socrates,” the word “loves” connects “Plato” and “Socrates.” Because of this, the sentence can show the relationship between these two people. We shouldn’t say the sentence just says the relation; instead, it says that Plato stands in that relation to Socrates.
+
+Mr. Wittgenstein starts his idea about symbols by saying: “We make pictures of facts.” A picture is like a model of real life. The things in real life match parts of the picture, and the picture itself is a fact. The fact that things relate to each other is shown by how the parts of the picture relate to each other. For a picture to represent reality, it must share something with reality. What they share is the way the picture shows things.
+
+When we say “logical picture of reality,” we mean that the picture looks like the fact only in the way it’s built, not in any other way. Wittgenstein calls a logical picture of a fact a "Gedanke" (thought). A picture can match the fact and be true, or not match and be false, but in both cases, the picture has the same logical form as the fact. He explains this by saying things like a record, the music it plays, the written music, and the sound waves all have a special connection, like the connection between language and the world.

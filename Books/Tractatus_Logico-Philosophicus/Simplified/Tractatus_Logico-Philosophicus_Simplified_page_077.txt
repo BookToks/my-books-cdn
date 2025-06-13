@@ -1,36 +1,31 @@
-633 Where in the world is a metaphysical subject to be noted?
- 
- You say that this case is altogether like that of the eye and the field of sight. But you do not really see the eye.
- 
- And from nothing in the field of sight can it be concluded that it is seen from an eye.
- 
- 5.6331 For the field of sight has not a form like this: 5.634 This is connected with the fact that no part of our experience is also a priori.
- 
- Everything we see could also be otherwise.
- 
- Everything we can describe at all could also be otherwise.
- 
- There is no order of things a priori.
- 
- 5.64 Here we see that solipsism strictly carried out coincides with pure realism. The I in solipsism shrinks to an extensionless point and there remains the reality co-ordinated with it.
- 
- 5.641 There is therefore really a sense in which in philosophy we can talk of a non-psychological I.
- 
- The I occurs in philosophy through the fact that the “world is my world”.
- 
- The philosophical I is not the man, not the human body or thehumansoulofwhichpsychologytreats, butthemetaphysical subject, the limit—not a part of the world.
- 
- 6 The general form of truth-function is: [p,ξ,N(ξ)].
- 
- This is the general form of proposition.
- 
- 6.001 Thissaysnothingelsethanthateverypropositionistheresultof successive applications of the operation N(cid:48)(ξ) to the elementary propositions.
- 
- 6.002 Ifwearegiventhegeneralformofthewayinwhichaproposition isconstructed, thentherebywearealsogiventhegeneralformof the way in which by an operation out of one proposition another can be created.
- 
- 75 TRACTATUS LOGICO-PHILOSOPHICUS 6.
- 
+Where can we find a metaphysical topic to talk about?
 
- 
-(Simplified)
- 
+You say this is like the eye and what it sees. But you don’t actually see the eye itself.
+
+And from anything in the field of sight, you can’t say it is seen by an eye.
+
+The field of sight doesn’t have a shape like this.
+
+This is because nothing we experience is known for sure before we see it.
+
+Everything we see could be different.
+
+Everything we can describe could also be different.
+
+There is no fixed order of things that we know for sure before experience.
+
+Here, we see that if solipsism is taken all the way, it is the same as pure realism. The “I” in solipsism becomes just a single point, and all that’s left is the reality connected to it.
+
+So, in philosophy, we can talk about an “I” that is not about the mind or feelings.
+
+The “I” in philosophy comes from the idea that “the world is my world.”
+
+This philosophical “I” is not a person, not the human body or soul that psychology studies, but a metaphysical subject, a limit—not a part of the world.
+
+The general form of a truth-function is: [p, ξ, N(ξ)].
+
+This is the general form of a proposition.
+
+This just means that every proposition comes from applying the operation N(ξ) step by step to simple propositions.
+
+If we know the general form of how a proposition is made, then we also know the general way to make a new proposition from an old one.

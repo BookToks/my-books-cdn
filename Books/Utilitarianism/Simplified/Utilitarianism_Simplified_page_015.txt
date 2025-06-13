@@ -1,10 +1,5 @@
-By happiness is intended pleasure, and the absence of pain; by unhappiness, pain, and the privation of pleasure. To give a clear view of the moral standard set up by the theory, much more requires to be said; in particular, what things it includes in the ideas of pain and pleasure; and to what extent this is left an open question.
- 
- But these supplementary explanations do not affect the theory of life on which this theory of morality is grounded—namely, that pleasure, and freedom from pain, are the only things desirable as ends; and that all desirable things (which are as numerous in the utilitarian as in any other scheme) are desirable either for the pleasure inherent in themselves, or as means to the promotion of pleasure and the prevention of pain.
- 
- Now, such a theory of life excites in many minds, and among them in some of the most estimable in feeling and purpose, inveterate dislike. To suppose that life has (as they express it) no higher end than pleasure—no better and nobler object of desire and pursuit—they designate as utterly mean and grovelling; as a doctrine worthy only of swine, to whom the followers of Epicurus were, at a very early period, contemptuously likened; and modern 14 holders of the doctrine are occasionally made the subject of equally polite comparisons by its German, French, and English assailants.
- 
+Happiness means feeling pleasure and not feeling pain. Unhappiness means feeling pain and not having pleasure. To really understand the moral ideas behind this, we need to explain more, especially what counts as pain and pleasure, and how much is still unclear.
 
- 
-(Simplified)
- 
+But these extra details don’t change the main idea about life that this moral theory is based on—pleasure and not feeling pain are the only things worth wanting. Everything else people want is either because it brings pleasure or helps avoid pain.
+
+Many people, even some very kind and thoughtful ones, don’t like this idea. They think it’s wrong to say life’s only goal is pleasure. They call this idea low and unworthy, like something only animals would believe. A long time ago, followers of the philosopher Epicurus were insulted this way, and even today, people from Germany, France, and England sometimes say rude things about those who believe this.

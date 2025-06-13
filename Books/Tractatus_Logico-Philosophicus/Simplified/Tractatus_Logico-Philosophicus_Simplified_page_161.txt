@@ -1,30 +1,29 @@
-3751 Dass z. B. zwei Farben zugleich an einem Ort des Gesichtsfeldes sind, ist unmöglich und zwar logisch unmöglich, denn es ist durch die logische Struktur der Farbe ausgeschlossen.
- 
- Denken wir daran, wie sich dieser Widerspruch in der Physik darstellt: Ungefähr so, dass ein Teilchen nicht zu gleicher Zeit zwei Geschwindigkeiten haben kann; das heisst, dass es nicht zu gleicher Zeit an zwei Orten sein kann; das heisst, dass Teilchen an verschiedenen Orten zu Einer Zeit nicht identisch sein können.
- 
- (Es ist klar, dass das logische Produkt zweier Elementarsätze weder eine Tautologie noch eine Kontradiktion sein kann.
- 
- Die Aussage, dass ein Punkt des Gesichtsfeldes zu gleicher Zeit zwei verschiedene Farben hat, ist eine Kontradiktion.) 6.4 Alle Sätze sind gleichwertig.
- 
- 6.41 Der Sinn der Welt muss ausserhalb ihrer liegen. In der Welt ist alles wie es ist und geschieht alles wie es geschieht; es gibt in ihr keinen Wert—und wenn es ihn gäbe, so hätte er keinen Wert.
- 
- Wenn es einen Wert gibt, der Wert hat, so muss er ausserhalb alles Geschehens und So-Seins liegen. Denn alles Geschehen und So-Sein ist zufällig.
- 
- Was es nicht-zufällig macht, kann nicht in der Welt liegen, denn sonst wäre dies wieder zufällig.
- 
- Es muss ausserhalb der Welt liegen.
- 
- 6.42 Darum kann es auch keine Sätze der Ethik geben.
- 
- Sätze können nichts Höheres ausdrücken.
- 
- 6.421 Es ist klar, dass sich die Ethik nicht aussprechen lässt.
- 
- Die Ethik ist transcendental.
- 
- (Ethik und Aesthetik sind Eins.) 6.422 Der erste Gedanke bei der Aufstellung eines ethischen Gesetzes von der Form „du sollst ....“ ist: Und was dann, wenn ich es nicht tue? Es ist aber klar, dass die Ethik nichts mit Strafe und Lohn im gewöhnlichen Sinne zu tun hat. Also muss diese Frage nach den Folgen einer Handlung belanglos sein.—Zum Mindesten dürfen diese Folgen nicht Ereignisse sein. Denn etwas muss doch an jener Fragestellung richtig sein. Es muss 159 LOGISCH-PHILOSOPHISCHE ABHANDLUNG zwar eine Art von ethischem Lohn und ethischer Strafe geben, aber diese müssen in der Handlung selbst liegen.
- 
+It’s impossible for two colors to be in the same spot in your field of vision at the same time. This is not just a fact but something that makes sense logically because the way color works doesn’t allow it.
 
- 
-(Simplified)
- 
+Think about how this kind of problem shows up in physics: A particle can’t have two different speeds at once. That means it can’t be in two places at the same time. So, particles in different places at the same time can’t be the same particle.
+
+It’s clear that a statement combining two opposite facts can’t be both true and false.
+
+Saying that one point in your vision has two different colors at the same time is a contradiction.
+
+All statements are equally important.
+
+The meaning of the world must be outside the world. Everything in the world is just how it is and happens how it happens; there’s no real value in it—and if there were, that value wouldn’t mean anything.
+
+If there is a real value, it has to exist outside everything that happens and everything that is. Because everything that happens is random.
+
+What makes something not random can’t be part of the world, or else it would be random too.
+
+So, it has to be outside the world.
+
+That’s why there can’t be real ethical statements.
+
+Statements can’t express anything higher than facts.
+
+It’s clear that ethics can’t be fully put into words.
+
+Ethics is beyond what we can say.
+
+(Ethics and beauty are the same thing.)
+
+When we think of an ethical rule like “you should...,” the first question is: What if I don’t follow it? But ethics isn’t about punishment or rewards in the usual way. So, asking about what happens if you don’t follow the rule doesn’t really matter—at least, the results can’t be regular events. Because there must be something right about this question. There has to be some kind of ethical reward or punishment, but it has to be part of the action itself.

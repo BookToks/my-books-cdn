@@ -1,30 +1,27 @@
-36311 That the sun will rise to-morrow, is an hypothesis; and that means that we do not know whether it will rise.
- 
- 6.37 A necessity for one thing to happen because another has happened does not exist. There is only logical necessity.
- 
- 6.371 At the basis of the whole modern view of the world lies the illusion that the so-called laws of nature are the explanations of natural phenomena.
- 
- 6.372 So people stop short at natural laws as at something unassailable, as did the ancients at God and Fate.
- 
- And they both are right and wrong. But the ancients were clearer, insofarastheyrecognizedoneclearconclusion, whereas inthemodernsystemitshouldappearasthougheverything were explained.
- 
- 6.373 The world is independent of my will.
- 
- 6.374 Even if everything we wished were to happen, this would only be, so to speak, a favour of fate, for there is no logical connexion between will and world, which would guarantee this, and the assumed physical connexion itself we could not again will.
- 
- 6.375 As there is only a logical necessity, so there is only a logical impossibility.
- 
- 6.3751 For two colours, e.g. to be at one place in the visual field, is impossible, logically impossible, for it is excluded by the logical structure of colour.
- 
- Let us consider how this contradiction presents itself in physics. Somewhat as follows: That a particle cannot at the same time have two velocities, i.e. that at the same time it cannot be in two places, i.e. that particles in different places at the same time cannot be identical.
- 
- (It is clear that the logical product of two elementary propositions can neither be a tautology nor a contradiction. The assertion that a point in the visual field has two different colours at the same time, is a contradiction.) 6.4 All propositions are of equal value.
- 
- 6.41 The sense of the world must lie outside the world. In the world everything is as it is and happens as it does happen. In it there is no value—and if there were, it would be of no value.
- 
- 87 TRACTATUS LOGICO-PHILOSOPHICUS If there is a value which is of value, it must lie outside all happening and being-so.
- 
+That the sun will rise tomorrow is just a guess; it means we don’t actually know if it will.
 
- 
-(Simplified)
- 
+There’s no rule that one thing has to happen just because something else did. Only logical rules are necessary.
+
+The whole modern way of seeing the world is based on the wrong idea that natural laws explain everything that happens.
+
+People treat natural laws like they can’t be questioned, just like ancient people treated God and Fate.
+
+Both ideas are partly right and partly wrong. But ancient people were clearer because they accepted one simple truth, while modern people act like everything is explained.
+
+The world doesn’t depend on what I want.
+
+Even if everything we wished for happened, it would be like a lucky chance, because there’s no real link between what we want and what actually happens. And we can’t control that link even if it existed.
+
+Just like there are logical rules that must happen, there are also things that are logically impossible.
+
+For example, two colors can’t be in the same exact place at the same time because the idea doesn’t make sense logically.
+
+In physics, this appears as: a particle can’t have two speeds at once, or be in two places at once, and two particles in different places can’t be the same particle.
+
+It’s clear that two statements combined can’t be both always true or always false. Saying a spot in your vision has two different colors at once is a contradiction.
+
+All statements have the same importance.
+
+The meaning of the world must be outside the world. Inside the world, everything just is and happens as it does. There are no values inside the world – and even if there were, they wouldn’t matter.
+
+If there is something truly valuable, it has to be beyond everything that happens and exists.

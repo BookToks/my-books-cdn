@@ -1,14 +1,9 @@
-Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
- 
- 1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
- 
- 1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.
- 
- If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
- 
- 1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
- 
+Even though Project Gutenberg™ tries hard, their electronic books and the devices or files they use might have problems. These problems can include missing or wrong parts, mistakes from typing, copyright issues, broken disks, computer viruses, or codes that don’t work with your device.
 
- 
-(Simplified)
- 
+1.F.2. LIMITED WARRANTY, NO PROMISES ABOUT DAMAGES – Besides the “Right of Replacement or Refund” in paragraph 1.F.3, Project Gutenberg™, the trademark owner, and anyone sharing these books aren’t responsible for any damage, costs, or legal fees you might have. YOU AGREE THAT YOU CAN’T HOLD THEM RESPONSIBLE FOR NEGLIGENCE, BROKEN PROMISES, OR CONTRACT ISSUES EXCEPT AS SAID IN 1.F.3. THEY WON’T PAY FOR ANY KIND OF DAMAGE, EVEN IF YOU WARN THEM IT COULD HAPPEN.
+
+1.F.3. LIMITED RIGHT TO REPLACE OR REFUND – If you find a problem with the electronic book within 90 days of getting it, you can ask for your money back by writing to whoever gave you the book. If you got it on a physical disk or drive, you have to send that back too. The person who gave you the book can choose to give you a new copy instead of a refund.
+
+If you got the book online, they might let you download it again instead of giving a refund. If the second copy is also bad, then you can ask for a refund without any more chances to fix it.
+
+1.F.4. Except for the replacement or refund right in 1.F.3, the book is given to you ‘AS-IS’, meaning there are no other promises about how good it is or if it will work for what you want.

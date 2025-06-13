@@ -1,14 +1,15 @@
-Howridiculousthentolookfor theseinthemapoftheheavens,inwhichtheimperfectionofmattercomesin everywhere as a disturbing element, marring the symmetry of day and night, of months and years, of the sun and stars in their courses. Only by problems canweplaceastronomyonatrulyscientificbasis. Lettheheavensalone, and exerttheintellect.
- 
- Still, mathematics admit of other applications, as the Pythagoreans say, and we agree. There is a sister science of harmonical motion, adapted to the ear as astronomy is to the eye, and there may be other applications also. Let us inquire of the Pythagoreans about them, not forgetting that we have an aim higherthantheirs,whichistherelationofthesesciencestotheideaofgood.The errorwhichpervadesastronomyalsopervadesharmonics. Themusiciansput theirearsintheplaceoftheirminds. ’Yes,’repliedGlaucon,’Iliketoseethem laying their ears alongside of their neighbours’ faces–some saying, "That’s a newnote,"othersdeclaringthatthetwonotesarethesame.’ Yes,Isaid;butyou meantheempiricswhoarealwaystwistingandtorturingthestringsofthelyre, and quarrelling about the tempers of the strings; I am referring rather to the Pythagoreanharmonists,whoarealmostequallyinerror. Fortheyinvestigate onlythenumbersoftheconsonanceswhichareheard,andascendnohigher,– of the true numerical harmony which is unheard, and is only to be found in problems, they have not even a conception. ’That last,’ he said, ’must be a marvellous thing.’ A thing, I replied, which is only useful if pursued with a viewtothegood.
- 
- All these sciences are the prelude of the strain, and are profitable if they are regarded in their natural relations to one another. ’I dare say, Socrates,’ said Glaucon; ’but such a study will be an endless business.’ What study do you mean–of the prelude, or what? For all these things are only the prelude, and you surely do not suppose that a mere mathematician is also a dialectician?
- 
- ’Certainlynot. Ihavehardlyeverknownamathematicianwhocouldreason.’ And yet, Glaucon, is not true reasoning that hymn of dialectic which is the musicoftheintellectualworld,andwhichwasbyuscomparedtotheeffortof sight, when from beholding the shadows on the wall we arrived at last at the imageswhichgavetheshadows? Evensothedialecticalfacultywithdrawing fromsensearrivesbythepureintellectatthecontemplationoftheideaofgood, andneverrestsbutattheveryendoftheintellectualworld. Andtheroyalroad outofthecaveintothelight,andtheblinkingoftheeyesatthesunandturning to contemplate the shadows of reality, not the shadows of an image only–this progress and gradual acquisition of a new faculty of sight by the help of the mathematical sciences, is the elevation of the soul to the contemplation of the highestidealofbeing.
- 
- ’So far, I agree with you. But now, leaving the prelude, let us proceed to the hymn. What,then,isthenatureofdialectic,andwhatarethepathswhichlead http://www.idph.net IDPH 83 thither?
- 
+Isn’t it silly to try to find these things in the sky, where everything is messy and imperfect? The stars, the sun, the days and nights—they don’t follow perfect patterns. The only way to make astronomy truly scientific is by solving problems. So, forget about the sky for now and use your mind instead.
 
- 
-(Simplified)
- 
+Math can be used for other things too, like the Pythagoreans said, and I agree. There’s a science about musical harmony that works with the ear, just like astronomy works with the eye. There might be other uses as well. Let’s ask the Pythagoreans about these, but remember, our goal is bigger than theirs—it’s about connecting these sciences to the idea of what’s good. The same mistake made in astronomy happens in music too. Musicians listen with their ears, not their minds. 
+
+“Yes,” said Glaucon, "I like to see them putting their ears next to their neighbors’ faces—some say, ‘That’s a new note,’ others say the two notes are the same.” Yes, I said, but you mean the practical musicians who keep twisting and pulling the strings and arguing about tuning. I’m talking about the Pythagorean musicians, who are also wrong. They only study the numbers of the sounds they hear, and never look for the deeper, true harmony that we can’t hear and that only exists in problems. They don’t even know that exists.
+
+“That last thing must be amazing,” he said. It is, I replied, but it only helps if you use it to aim for what’s good.
+
+All these sciences are just the warm-up, and they are useful if you see how they connect to each other. “I bet, Socrates,” said Glaucon, “but this kind of study would never end.” What study do you mean—the warm-up, or what comes next? Because all these things are just the warm-up, and you don’t really think every mathematician is also a thinker, do you?
+
+“Definitely not. I hardly know any mathematician who can really think well.” And yet, Glaucon, isn’t true thinking like a song of reasoning that’s the music of the mind? It’s like when we stopped looking at shadows on the wall and finally saw the real objects that made those shadows. Thinking like this, using pure intelligence and going beyond what the senses show, leads us to understand the idea of good, and it never stops until it reaches the highest level.
+
+The path out of the cave into the light, blinking in the sun, and learning to see real things, not just shadows, is helped by math and science. This is how the soul rises to see the greatest idea of all—the highest reality.
+
+“So far, I agree with you. But now, leaving the warm-up, let’s get to the main part. What exactly is dialectic, and how do we get there?”

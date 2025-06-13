@@ -1,14 +1,13 @@
-The symbol he uses is (p,ξ,N(ξ)). The following is the explanation of this symbol: p stands for all atomic propositions.
- 
- ξ stands for any set of propositions.
- 
- N(ξ) stands for the negation of all the propositions making up ξ.
- 
- The whole symbol (p,ξ,N(ξ)) means whatever can be obtained by taking any selection of atomic propositions, negating them all, then taking any selection of the set of propositions now obtained, together with any of the originals—and so on indefinitely. This is, he says, the general truth-function and also the general form of proposition. What is meant is somewhat less complicated than it sounds. The symbol is intended to describe a process by the help of which, given the atomic propositions, all others can be manufactured. The process depends upon: (a) Sheffer’s proof that all truth-functions can be obtained out of simultaneous negation, i.e. out of “not-p and not-q”; (b) Mr Wittgenstein’s theory of the derivation of general propositions from conjunctions and disjunctions; (c) The assertion that a proposition can only occur in another proposition as argument to a truth-function. Given these three foundations, it follows that all propositions which are not atomic can be derived from such as are, by a uniform process, and it is this process which is indicated by Mr Wittgenstein’s symbol.
- 
- From this uniform method of construction we arrive at an amazing simplification of the theory of inference, as well as a definition of the sort of propositions that belong to logic. The method of generation which has just been described, enables Wittgenstein to say that all propositions can beconstructedintheabovemannerfromatomicpropositions, andinthis way the totality of propositions is defined. (The apparent exceptions which we mentioned above are dealt with in a manner which we shall consider later.) Wittgenstein is enabled to assert that propositions are all that follows from the totality of atomic propositions (together with the fact that it is the totality of them); that a proposition is always a truth-function of atomic propositions; and that if p follows from q the meaning of p is contained in the meaning of q, from which of course it results that nothing can be deduced from an atomic proposition. All the 13 INTRODUCTION propositions of logic, he maintains, are tautologies, such, for example, as “p or not p.
- 
+The symbol he uses is (p, ξ, N(ξ)). Here’s what it means: p stands for all basic statements called atomic propositions.
 
- 
-(Simplified)
- 
+ξ stands for any group of statements.
+
+N(ξ) means the opposite (negation) of all the statements in ξ.
+
+The whole symbol (p, ξ, N(ξ)) means you start with some basic statements, then you make all of them opposite, then you pick any group from these new statements, mix them with some of the original ones, and keep doing this over and over. He says this is the general way to build any statement and also the general form of a statement.
+
+It’s not as complicated as it sounds. The symbol shows a process where, starting from basic statements, you can make all other statements. This process is based on three ideas: (a) Sheffer proved that all truth functions can come from saying “not-p and not-q” at the same time; (b) Wittgenstein’s idea that general statements come from combining statements with “and” or “or”; (c) The idea that a statement can only be part of another statement as an input to a truth function. 
+
+Because of these, all statements that aren’t basic can be made from the basic ones by one simple process. This is what Wittgenstein’s symbol shows.
+
+Using this method, the theory of how we make logical conclusions becomes much simpler. Wittgenstein says all statements can be made this way from basic statements, and this defines all statements. (There are some exceptions, but we will talk about them later.) He also says that statements are just truth-functions of basic statements, and if one statement follows from another, its meaning is inside the other one. This means you can’t get new facts from a basic statement. All logical statements, he says, are tautologies, like “p or not p.”

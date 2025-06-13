@@ -1,36 +1,31 @@
-Und jene Regel ist das Gesetz der Projektion, welches die Symphonie in die Notensprache projiziert.
- 
- Sie ist die Regel der Übersetzung der Notensprache in die Sprache der Grammophonplatte.
- 
- 4.015 Die Möglichkeit aller Gleichnisse, der ganzen Bildhaftigkeit unserer Ausdrucksweise, ruht in der Logik der Abbildung.
- 
- 4.016 Um das Wesen des Satzes zu verstehen, denken wir an die Hieroglyphenschrift, welche die Tatsachen die sie beschreibt abbildet.
- 
- Und aus ihr wurde die Buchstabenschrift, ohne das Wesentliche der Abbildung zu verlieren.
- 
- 4.02 Dies sehen wir daraus, dass wir den Sinn des Satzzeichens verstehen, ohne dass er uns erklärt wurde.
- 
- 4.021 Der Satz ist ein Bild der Wirklichkeit: Denn ich kenne die von ihm dargestellte Sachlage, wenn ich den Satz verstehe. Und den Satz verstehe ich, ohne dass mir sein Sinn erklärt wurde.
- 
- 4.022 Der Satz zeigt seinen Sinn.
- 
- Der Satz zeigt, wie es sich verhält, wenn er wahr ist. Und er sagt, dass es sich so verhält.
- 
- 4.023 Die Wirklichkeit muss durch den Satz auf ja oder nein fixiert sein.
- 
- Dazu muss sie durch ihn vollständig beschrieben werden.
- 
- Der Satz ist die Beschreibung eines Sachverhaltes.
- 
- Wie die Beschreibung einen Gegenstand nach seinen externen Eigenschaften, so beschreibt der Satz die Wirklichkeit nach ihren internen Eigenschaften.
- 
- Der Satz konstruiert eine Welt mit Hilfe eines logischen Gerüstes und darum kann man am Satz auch sehen, wie sich alles Logische verhält, wenn er wahr ist. Man kann aus einem falschen Satz Schlüsse ziehen.
- 
- 4.024 Einen Satz verstehen, heisst, wissen was der Fall ist, wenn er wahr ist.
- 
- (Man kann ihn also verstehen, ohne zu wissen, ob er wahr ist.) 109 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Man versteht ihn, wenn man seine Bestandteile versteht.
- 
+And that rule is the law of projection, which turns a symphony into written music notes.
 
- 
-(Simplified)
- 
+It’s the rule that changes music notes into the language of a record.
+
+4.015 All our comparisons and pictures in how we express things come from the logic of showing images.
+
+4.016 To understand a sentence, think about hieroglyphs, which show the facts they describe.
+
+From hieroglyphs, we got letters, but they still keep the idea of showing something.
+
+4.02 We know what a sentence means without someone having to explain it to us.
+
+4.021 A sentence is like a picture of reality: I understand what it talks about when I get the sentence. And I get it without anyone explaining its meaning.
+
+4.022 The sentence shows its meaning.
+
+It shows how things are if it’s true. And it says that things are like that.
+
+4.023 Reality has to be fixed as yes or no by the sentence.
+
+To do that, the sentence must describe everything completely.
+
+A sentence is a description of a situation.
+
+Just like a description talks about the outside of an object, a sentence describes reality by its inside parts.
+
+A sentence builds a world using logic, so you can see how all logic works if the sentence is true. You can also make conclusions from a false sentence.
+
+4.024 To understand a sentence means to know what would be true if the sentence is true.
+
+(So you can understand it without knowing if it’s actually true.) You understand it when you know its parts.

@@ -1,32 +1,29 @@
-5302 Russell’s definition of “=” won’t do; because according to it one cannot say that two objects have all their properties in common. (Even if this proposition is never true, it is nevertheless significant.) 5.5303 Roughly speaking: to say of two things that they are identical is nonsense, and to say of one thing that it is identical with itself is to say nothing.
- 
- 5.531 I write therefore not “f(a,b).a = b”, but “f(a,a)” (or “f(b,b)”).
- 
- And not “f(a,b).∼a = b”, but “f(a,b)”.
- 
- 5.532 Andanalogously: not“(∃x,y).f(x,y).x = y”,but“(∃x).f(x,x)”; and not “(∃x,y).f(x,y).∼x = y”, but “(∃x,y).f(x,y)”.
- 
- (Therefore instead of Russell’s “(∃x,y) . f(x,y)”: “(∃x,y) .
- 
- f(x,y).∨.(∃x).f(x,x)”.) 5.5321 Insteadof“(x) : fx ⊃ x = a” wethereforewritee.g.“(∃x).fx. ⊃ .fa : ∼(∃x,y).fx.fy”.
- 
- And the proposition “only one x satisfies f()” reads: “(∃x).
- 
- fx : ∼(∃x,y).fx.fy”.
- 
- 5.533 The identity sign is therefore not an essential constituent of logical notation.
- 
- 5.534 And we see that apparent propositions like: “a = a”, “a = b.b = c. ⊃ a = c”, “(x).x = x”, “(∃x).x = a”, etc. cannot be written in a correct logical notation at all.
- 
- 5.535 So all problems disappear which are connected with such pseudo-propositions.
- 
- Thisistheplacetosolvealltheproblemswhicharisethrough Russell’s “Axiom of Infinity”.
- 
- What the axiom of infinity is meant to say would be expressed in language by the fact that there is an infinite number of names with different meanings.
- 
- 5.5351 There are certain cases in which one is tempted to use expressions of the form “a = a” or “p ⊃ p” and of that kind. And indeed this takes place when one would like to speak of the archetype Proposition, Thing, etc. So Russell in the Principles of Mathematics hasrenderedthenonsense“pisaproposition” in symbols by “p ⊃ p” and has put it as hypothesis before certain 70 TRACTATUS LOGICO-PHILOSOPHICUS propositions to show that their places for arguments could only be occupied by propositions.
- 
+Russell’s way of defining “equals” (=) doesn’t work because, by his definition, you can’t say that two things share all their properties. Even if this is never actually true, it’s still an important idea.
 
- 
-(Simplified)
- 
+Basically, saying two things are exactly the same is nonsense, and saying something is the same as itself doesn’t say anything new.
+
+So, instead of writing “f(a,b).a = b”, I write “f(a,a)” or “f(b,b)”.
+
+And instead of “f(a,b). not a = b”, I just write “f(a,b)”.
+
+Similarly, instead of “there exist x and y such that f(x,y) and x = y”, I write “there exists x such that f(x,x)”; and instead of “there exist x and y such that f(x,y) and not x = y”, I write “there exist x and y such that f(x,y)”.
+
+So, instead of Russell’s “there exist x and y such that f(x,y)”, I write “there exist x and y such that f(x,y) or there exists x such that f(x,x)”.
+
+Also, instead of “for all x, if fx then x = a”, I write something like “if there exists x such that fx, then fa, and there do not exist x and y with fx and fy”.
+
+The statement “only one x satisfies f” means “there exists x with fx and there are no x and y both satisfying f”.
+
+Therefore, the equals sign (=) isn’t really needed in logical notation.
+
+We also see that statements like “a = a”, “if a = b and b = c then a = c”, “for all x, x = x”, or “there exists x such that x = a” can’t be written properly in logical notation.
+
+Because of this, all problems that come from these kinds of fake statements go away.
+
+This is the place to solve all problems that come from Russell’s “Axiom of Infinity”.
+
+What the axiom of infinity is really about is saying that there are infinitely many names with different meanings.
+
+Sometimes people want to use expressions like “a = a” or “if p then p”. This happens when talking about basic ideas like “Proposition” or “Thing”.
+
+Russell, in his *Principles of Mathematics*, used the nonsense “p is a proposition” as “p implies p” in symbols. He put this as a starting point before some statements to show that the places where arguments go can only be filled by propositions.

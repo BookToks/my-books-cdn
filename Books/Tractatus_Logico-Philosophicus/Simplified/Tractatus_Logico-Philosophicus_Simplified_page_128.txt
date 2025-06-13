@@ -1,28 +1,23 @@
-5.12 Insbesondere folgt die Wahrheit eines Satzes „p“ aus der Wahrheit eines anderen „q“, wenn alle Wahrheitsgründe des zweiten Wahrheitsgründe des ersten sind.
- 
- 5.121 Die Wahrheitsgründe des einen sind in denen des anderen enthalten; p folgt aus q.
- 
- 5.122 Folgt p aus q, so ist der Sinn von „p“ im Sinne von „q“ enthalten.
- 
- 5.123 Wenn ein Gott eine Welt erschafft, worin gewisse Sätze wahr sind,soschaffterdamitauchschoneineWelt,inwelcheralleihre Folgesätze stimmen. Und ähnlich könnte er keine Welt schaffen, worin der Satz „p“ wahr ist, ohne seine sämtlichen Gegenstände zu schaffen.
- 
- 5.124 Der Satz bejaht jeden Satz der aus ihm folgt.
- 
- 5.1241 „p.q“ ist einer der Sätze, welche „p“ bejahen und zugleich einer der Sätze, welche „q“ bejahen.
- 
- Zwei Sätze sind einander entgegengesetzt, wenn es keinen sinnvollen Satz gibt, der sie beide bejaht.
- 
- Jeder Satz der einem anderen widerspricht, verneint ihn.
- 
- 5.13 Dass die Wahrheit eines Satzes aus der Wahrheit anderer Sätze folgt, ersehen wir aus der Struktur der Sätze.
- 
- 5.131 Folgt die Wahrheit eines Satzes aus der Wahrheit anderer, so drückt sich dies durch Beziehungen aus, in welchen die Formen jener Sätze zu einander stehen; und zwar brauchen wir sie nicht erst in jene Beziehungen zu setzen, indem wir sie in einem Satze miteinander verbinden, sondern diese Beziehungen sind intern und bestehen, sobald, und dadurch dass, jene Sätze bestehen.
- 
- 5.1311 Wenn wir von p∨q und ∼p auf q schliessen, so ist hier durch die BezeichnungsweisedieBeziehungderSatzformenvon„p∨q“ und „∼p“ verhüllt. Schreiben wir aber z. B. statt „p∨q“ „p|q.|.p|q“ und statt „∼p“ „p|p“ (p|q = weder p, noch q), so wird der innere Zusammenhang offenbar.
- 
- (Dass man aus (x).fx auf fa schliessen kann, das zeigt, dass die Allgemeinheit auch im Symbol „(x).fx“ vorhanden ist.) 126 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 5.
- 
+5.12 A sentence "p" is true because another sentence "q" is true when all the reasons that make "q" true also make "p" true.
 
- 
-(Simplified)
- 
+5.121 The reasons that make one sentence true are included in the reasons that make the other true; so, "p" follows from "q."
+
+5.122 If "p" follows from "q," then the meaning of "p" is part of the meaning of "q."
+
+5.123 If a god creates a world where some sentences are true, then he also creates a world where all the sentences that follow from those are true. Similarly, he couldn’t create a world where "p" is true without creating everything that "p" talks about.
+
+5.124 A sentence agrees with every sentence that follows from it.
+
+5.1241 The sentence "p.q" agrees with both "p" and "q."
+
+Two sentences are opposite if there is no meaningful sentence that agrees with both of them.
+
+Every sentence that contradicts another denies it.
+
+5.13 We can see that the truth of a sentence comes from the truth of other sentences by looking at how the sentences are built.
+
+5.131 When the truth of one sentence comes from others, this shows in the way their forms relate to each other. We don’t have to put them together in one sentence to see this; the relationship exists inside them just by them existing.
+
+5.1311 For example, if we conclude "q" from "p or q" and "not p," the way these sentence forms relate is hidden by how we write them. But if we write "p or q" as "p|q.|.p|q" and "not p" as "p|p" (where "p|q" means neither p nor q), then the connection becomes clear.
+
+If we can conclude "fa" from "(x).fx," it shows that the idea of "all" is already inside the symbol "(x).fx."

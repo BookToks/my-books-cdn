@@ -1,16 +1,13 @@
-The science of arithmetic first suggests such distinctions.
- 
- Thefollowinordertheothersciencesofplainandsolidgeometry,andofsolids inmotion,onebranchofwhichisastronomyortheharmonyofthespheres,–to thisisappendedthesisterscienceoftheharmonyofsounds. Platoseemsalso to hint at the possibility of other applications of arithmetical or mathematical proportions, such as we employ in chemistry and natural philosophy, such as thePythagoreansandevenAristotlemakeuseofinEthicsandPolitics,e.g. his distinctionbetweenarithmeticalandgeometricalproportionintheEthics(Book V),orbetweennumericalandproportionalequalityinthePolitics.
- 
- ThemodernmathematicianwillreadilysympathisewithPlato’sdelightinthe propertiesofpuremathematics.Hewillnotbedisinclinedtosaywithhim:–Let alonetheheavens,andstudythebeautiesofnumberandfigureinthemselves.
- 
- He too will be apt to depreciate their application to the arts. He will observe that Plato has a conception of geometry, in which figures are to be dispensed with; thusinadistantandshadowywayseemingtoanticipatethepossibility ofworkinggeometricalproblemsbyamoregeneralmodeofanalysis. Hewill remarkwithinterestonthebackwardstateofsolidgeometry,which,alas! was notencouragedbytheaidoftheStateintheageofPlato;andhewillrecognize the grasp of Plato’s mind in his ability to conceive of one science of solids in motionincludingtheearthaswellastheheavens,–notforgettingtonoticethe intimation to which allusion has been already made, that besides astronomy andharmonicsthescienceofsolidsinmotionmayhaveotherapplications.Still morewillhebestruckwiththecomprehensivenessofviewwhichledPlato,ata timewhenthesescienceshardlyexisted,tosaythattheymustbestudiedinrelationtooneanother,andtotheideaofgood,orcommonprincipleoftruthand being. Buthewillalsosee(andperhapswithoutsurprise)thatinthatstageof physicalandmathematicalknowledge,Platohasfallenintotheerrorofsupposingthathecanconstructtheheavensaprioribymathematicalproblems,and determine the principles of harmony irrespective of the adaptation of sounds tothehumanear. Theillusionwasanaturaloneinthatageandcountry. The simplicity and certainty of astronomy and harmonics seemed to contrast with thevariationandcomplexityoftheworldofsense;hencethecircumstancethat there was some elementary basis of fact, some measurement of distance or time or vibrations on which they must ultimately rest, was overlooked by him.
- 
- The modern predecessors of Newton fell into errors equally great; and Plato can hardly be said to have been very far wrong, or may even claim a sort of propheticinsightintothesubject,whenweconsiderthatthegreaterpartofastronomyatthepresentdayconsistsofabstractdynamics,bythehelpofwhich mostastronomicaldiscoverieshavebeenmade.
- 
- The metaphysical philosopher from his point of view recognizes mathematics asaninstrumentofeducation,–whichstrengthensthepowerofattention,devehttp://www.idph.net IDPH 87 lopesthesenseoforderandthefacultyofconstruction,andenablesthemind to grasp under simple formulae the quantitative differences of physical phenomena.
- 
+Arithmetic, or basic math, is the first science that helps us see different kinds of things clearly.
 
- 
-(Simplified)
- 
+After that come other sciences like simple and solid geometry, and the study of solids in motion. One part of this is astronomy, which looks at the harmony of the planets and stars. Related to this is the study of the harmony of sounds. Plato also suggested that math could be used in other areas, like chemistry and natural philosophy. Even Aristotle used math ideas in Ethics and Politics, like when he talked about different types of proportions and equality.
+
+Modern mathematicians usually agree with Plato’s love for pure math. They might say, like him, that we should forget about the heavens for a moment and just enjoy the beauty of numbers and shapes by themselves.
+
+They might also think that using math in the arts isn’t as important. Plato had an idea of geometry where shapes might not even be needed, which is like predicting future ways to solve geometry problems using more general methods. They would notice that solid geometry was not very advanced in Plato’s time because the government didn’t support it much. They would admire how Plato thought about one science that studies solids moving, including both the Earth and the heavens. They’d also see that Plato hinted that studying solids in motion could have other uses besides astronomy and music. What’s really impressive is how Plato believed these sciences should be studied together and connected to the idea of good or truth.
+
+But modern thinkers also see that Plato made a mistake. He thought he could explain the heavens just by solving math problems and find harmony rules without thinking about how humans actually hear sounds. This mistake was natural back then because astronomy and music seemed simple and certain, unlike the confusing world we sense around us. So, Plato missed the fact that these sciences must be based on real facts like measurements of distance, time, or vibrations.
+
+Later scientists before Newton made big mistakes too. Still, Plato wasn’t very wrong and maybe even had some amazing ideas, since most astronomy now uses abstract math to make discoveries.
+
+Philosophers today see math as a tool for learning. It helps people focus, understand order, build ideas, and explain physical differences in the world using simple formulas.

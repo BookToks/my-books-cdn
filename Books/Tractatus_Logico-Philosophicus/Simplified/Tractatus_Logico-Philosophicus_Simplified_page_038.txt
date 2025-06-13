@@ -1,24 +1,19 @@
-324 Thus there easily arise the most fundamental confusions (of which the whole of philosophy is full).
- 
- 3.325 In order to avoid these errors, we must employ a symbolism which excludes them, by not applying the same sign in different symbolsandbynotapplyingsignsinthesamewaywhichsignify in different ways. A symbolism, that is to say, which obeys the rules of logical grammar—of logical syntax.
- 
- (The logical symbolism of Frege and Russell is such a language, which, however, does still not exclude all errors.) 3.326 In order to recognize the symbol in the sign we must consider the significant use.
- 
- 3.327 The sign determines a logical form only together with its logical syntactic application.
- 
- 3.328 If a sign is not necessary then it is meaningless. That is the meaning of Occam’s razor.
- 
- (If everything in the symbolism works as though a sign had meaning, then it has meaning.) 3.33 In logical syntax the meaning of a sign ought never to play a rôle; it must admit of being established without mention being thereby made of the meaning of a sign; it ought to presuppose only the description of the expressions.
- 
- 3.331 From this observation we get a further view—into Russell’s Theory of Types. Russell’serrorisshownbythefactthatindrawing uphissymbolicruleshehastospeakofthemeaningofthesigns.
- 
- 3.332 No proposition can say anything about itself, because the propositional sign cannot be contained in itself (that is the “whole theory of types”).
- 
- 3.333 A function cannot be its own argument, because the functional sign already contains the prototype of its own argument and it cannot contain itself.
- 
- If, for example, we suppose that the function F(fx) could be its own argument, then there would be a proposition “F(F(fx))”, and in this the outer function F and the inner function F must have different meanings; for the inner has the form φ(fx), the outer the form ψ(φ(fx)). Common to 36 TRACTATUS LOGICO-PHILOSOPHICUS both functions is only the letter “F”, which by itself signifies nothing.
- 
+324 Confusions happen a lot, especially in philosophy.
 
- 
-(Simplified)
- 
+3.325 To avoid these mistakes, we need to use symbols carefully. We shouldn’t use the same sign to mean different things, and we should follow clear rules for how symbols work together. This is called logical grammar or logical syntax.
+
+(The logical symbols used by Frege and Russell are an example of this kind of language, but even they don’t avoid all mistakes.) 3.326 To understand a symbol, we have to look at how it’s used.
+
+3.327 A sign only shows its logical form when used with the right rules.
+
+3.328 If a sign isn’t needed, then it doesn’t mean anything. This idea is called Occam’s razor.
+
+(If everything in the system acts like a sign has meaning, then it really does.) 3.33 In logical syntax, the meaning of a sign shouldn’t be the main focus; we should be able to understand the rules without talking about what the signs mean, just by looking at how the expressions are written.
+
+3.331 From this, we learn more about Russell’s Theory of Types. Russell made a mistake because when he created his rules, he had to talk about what the signs mean.
+
+3.332 No statement can talk about itself, because a statement can’t include itself. This is the main idea of the Theory of Types.
+
+3.333 A function can’t use itself as an input, because it already has a model of its input and can’t include itself.
+
+For example, if we imagine a function F(fx) using itself as input, we get something like “F(F(fx))”. Here, the outside F and the inside F have to mean different things. The inside is like φ(fx), and the outside is like ψ(φ(fx)). The only thing they share is the letter “F”, which by itself doesn’t mean anything.

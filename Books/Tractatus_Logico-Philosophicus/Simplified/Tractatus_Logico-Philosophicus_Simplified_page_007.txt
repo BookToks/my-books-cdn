@@ -1,10 +1,7 @@
-NOTE In rendering Mr Wittgenstein’s TractatusLogico-Philosophicus available for English readers, the somewhat unusual course has been adopted of printing the original side by side with the translation. Such a method of presentation seemed desirable both on account of the obvious difficulties raised by the vocabulary and in view of the peculiar literary character of the whole. As a result, a certain latitude has been possible in passages to which objection might otherwise be taken as over-literal.
- 
- The proofs of the translation and the version of the original which appeared in the final number of Ostwald’s Annalen der Naturphilosophie (1921) have been very carefully revised by the author himself; and the Editor further desires to express his indebtedness to Mr F. P. Ramsey, of Trinity College, Cambridge, for assistance both with the translation and in the preparation of the book for the press.
- 
- C. K. O.
- 
+NOTE When making Mr. Wittgenstein’s Tractatus Logico-Philosophicus available for English readers, we decided to show the original text side by side with the translation. This way was chosen because the vocabulary is pretty hard and the writing style is unusual.
 
- 
-(Simplified)
- 
+Because of this, we could be a bit flexible with some parts that might seem too literal if translated exactly.
+
+The author himself carefully checked the proofs of the translation and the original version that came out in the last issue of Ostwald’s Annalen der Naturphilosophie in 1921. The editor also wants to thank Mr. F. P. Ramsey from Trinity College, Cambridge, for helping with the translation and getting the book ready to print.
+
+C. K. O.

@@ -1,8 +1,7 @@
-But though in science the particular truths precede the general theory, the contrary might be expected to be the case with a practical art, such as morals or legislation. All action is for the sake of some end, and rules of action, it seems natural to suppose, must take their whole character and colour from the end to which they are subservient. When we engage in a pursuit, a clear and precise conception of what we are pursuing would seem to be the first thing we need, instead of the last we are to look forward to. A test of right and wrong must be the means, one would think, of ascertaining what is right or wrong, and not a consequence of having already ascertained it.
- 
- The difficulty is not avoided by having recourse to the popular theory of a natural faculty, a sense or instinct, informing us of right and wrong. For—besides that the existence of such a moral instinct is itself one of the matters in dispute—those believers in it who have any pretensions to philosophy, have been obliged to abandon the idea that it discerns what is right or wrong in the particular case in hand, as our other senses discern the sight or sound actually present. Our moral faculty, according to all those of its interpreters who are entitled to the name of thinkers, supplies us only with the general principles of moral judgments; it is a branch of our reason, not of our sensitive faculty; and must be looked 6 to for the abstract doctrines of morality, not for perception of it in the concrete.
- 
+In science, we usually find specific facts first, then figure out the general theory. But in practical things like morals or laws, you might expect the opposite. Every action has a goal, and the rules we follow should come from that goal.
 
- 
-(Simplified)
- 
+When we try to do something, it makes sense that we should clearly understand what we want from the start, not figure it out at the end. We would think that a way to tell right from wrong should help us find out what is right or wrong, not be something we get after already knowing it.
+
+The problem doesn’t go away if we say we have a natural sense or instinct that tells us right from wrong. First, some people don’t even agree that this moral instinct exists. Also, those who believe in it and think carefully have had to admit that this instinct doesn’t tell us what is right or wrong in each specific situation, like our eyes or ears do with what we see or hear.
+
+Instead, our moral sense, according to serious thinkers, only gives us general ideas about morals. It is part of our reason, not like our senses. So, it helps us understand the big ideas about right and wrong, but not the details in real-life cases.

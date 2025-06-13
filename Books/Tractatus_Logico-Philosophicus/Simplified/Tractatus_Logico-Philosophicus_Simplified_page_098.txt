@@ -1,42 +1,35 @@
-024 Die Substanz ist das, was unabhängig von dem was der Fall ist, besteht.
- 
- 2.025 Sie ist Form und Inhalt.
- 
- 2.0251 Raum, Zeit und Farbe (Färbigkeit) sind Formen der Gegenstände.
- 
- 2.026 Nur wenn es Gegenstände gibt, kann es eine feste Form der Welt geben.
- 
- 2.027 Das Feste, das Bestehende und der Gegenstand sind Eins.
- 
- 2.0271 Der Gegenstand ist das Feste, Bestehende; die Konfiguration ist das Wechselnde, Unbeständige.
- 
- 2.0272 Die Konfiguration der Gegenstände bildet den Sachverhalt.
- 
- 2.03 ImSachverhalthängendieGegenständeineinander,wiedieGlieder einer Kette.
- 
- 2.031 Im Sachverhalt verhalten sich die Gegenstände in bestimmter Art und Weise zueinander.
- 
- 2.032 Die Art und Weise, wie die Gegenstände im Sachverhalt zusammenhängen, ist die Struktur des Sachverhaltes.
- 
- 2.033 Die Form ist die Möglichkeit der Struktur.
- 
- 2.034 Die Struktur der Tatsache besteht aus den Strukturen der Sachverhalte.
- 
- 2.04 Die Gesamtheit der bestehenden Sachverhalte ist die Welt.
- 
- 2.05 Die Gesamtheit der bestehenden Sachverhalte bestimmt auch, welche Sachverhalte nicht bestehen.
- 
- 2.06 DasBestehenundNichtbestehenvonSachverhaltenistdieWirklichkeit.
- 
- (Das Bestehen von Sachverhalten nennen wir auch eine positive, das Nichtbestehen eine negative Tatsache.) 2.061 Die Sachverhalte sind von einander unabhängig.
- 
- 2.062 Aus dem Bestehen oder Nichtbestehen eines Sachverhaltes kann nicht auf das Bestehen oder Nichtbestehen eines anderen geschlossen werden.
- 
- 2.063 Die gesamte Wirklichkeit ist die Welt.
- 
- 96 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 2.
- 
+Substance is what exists no matter what is happening.
 
- 
-(Simplified)
- 
+It is both shape and content.
+
+Space, time, and color are ways objects show their form.
+
+Only if objects exist can the world have a solid shape.
+
+The solid, the real, and the object are all the same.
+
+The object is the solid, real thing; the arrangement is what changes and is not fixed.
+
+How objects are arranged makes up a fact.
+
+In a fact, objects depend on each other like links in a chain.
+
+In a fact, objects relate to each other in a certain way.
+
+The way objects connect in a fact is called the structure of that fact.
+
+Form is the possibility of structure.
+
+The structure of a fact is made up of the structures of smaller facts.
+
+All the facts that exist together make up the world.
+
+All the facts that exist also decide which facts do not exist.
+
+Whether facts exist or not is reality.
+
+(When a fact exists, we call it a positive fact; when it does not, a negative fact.) Facts are independent of each other.
+
+Just because one fact exists or doesn’t exist, we can’t say anything for sure about another fact.
+
+All of reality together is the world.

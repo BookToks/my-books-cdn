@@ -1,34 +1,29 @@
-These rules are equivalent to the symbols and in them their sense is mirrored.
- 
- 5.515 It must be recognized in our symbols that what is connected by “∨”, “.”, etc., must be propositions.
- 
- And this is the case, for the symbols “p” and “q” presuppose “∨”, “∼”, etc. If the sign “p” in “p ∨ q” does not stand for a complex sign, then by itself it cannot have sense; but then also the signs “p∨p”, “p.p”, etc. which have the same sense as “p” have no sense. If, however, “p∨p” has no sense, then also “p∨q” can have no sense.
- 
- 5.5151 Must the sign of the negative proposition be constructed by means of the sign of the positive? Why should one not be able to express the negative proposition by means of a negative fact?
- 
- (Like: if “a” does not stand in a certain relation to “b”, it could express that aRb is not the case.) But here also the negative proposition is indirectly constructed with the positive.
- 
- The positive proposition must presuppose the existence of the negative proposition and conversely.
- 
- 5.52 If the values of ξ are the total values of a function fx for all values of x, then N(ξ) = ∼(∃x).fx.
- 
- 5.521 I separate the concept all from the truth-function.
- 
- Frege and Russell have introduced generality in connexion with the logical product or the logical sum. Then it would be difficult to understand the propositions “(∃x).fx” and “(x).fx” in which both ideas lie concealed.
- 
- 5.522 That which is peculiar to the “symbolism of generality” is firstly, that it refers to a logical prototype, and secondly, that it makes constants prominent.
- 
- 5.523 The generality symbol occurs as an argument.
- 
- 5.524 If the objects are given, therewith are all objects also given.
- 
- If the elementary propositions are given, then therewith all elementary propositions are also given.
- 
- 5.525 It is not correct to render the proposition “(∃x).fx”—as Russell does—in words “fx is possible”.
- 
- 68 TRACTATUS LOGICO-PHILOSOPHICUS Certainty, possibility or impossibility of a state of affairs are notexpressedbyapropositionbutbythefactthatanexpression is a tautology, a significant proposition or a contradiction.
- 
+These rules are like symbols, and their meaning is reflected in them.
 
- 
-(Simplified)
- 
+5.515 We need to understand that the things connected by “∨”, “.”, and so on have to be statements.
+
+This is true because the symbols “p” and “q” assume “∨”, “∼”, and others. If “p” in “p ∨ q” doesn’t represent a complex sign, then “p” alone has no meaning. But then “p∨p”, “p.p”, and similar signs, which mean the same as “p”, would also have no meaning. If “p∨p” has no meaning, then “p∨q” can’t have meaning either.
+
+5.5151 Should the symbol for a negative statement be made from the symbol for a positive one? Why can’t a negative statement be shown by a negative fact?
+
+(For example, if “a” is not related to “b” in some way, that could mean aRb is not true.) But even here, the negative statement is actually built using the positive one.
+
+The positive statement needs the negative one to exist, and the negative one needs the positive one too.
+
+5.52 If the values of ξ are all the values of a function fx for every x, then N(ξ) means it’s not true that there is some x for which fx is true.
+
+5.521 I separate the idea of “all” from the truth-function.
+
+Frege and Russell connected generality with logical “and” or “or.” But then it’s hard to understand the statements “(∃x).fx” and “(x).fx,” which include both ideas.
+
+5.522 What’s special about “generality” symbols is first, that they point to a logical model, and second, that they focus on constants.
+
+5.523 The generality symbol can be used as an argument.
+
+5.524 If you have the objects, then you have all objects.
+
+If you have the basic statements, then you have all the basic statements.
+
+5.525 It’s wrong to say the statement “(∃x).fx” means “fx is possible,” like Russell says.
+
+Certainty, possibility, or impossibility of a situation aren’t shown by a statement but by the fact that an expression is always true (a tautology), makes sense, or is a contradiction.

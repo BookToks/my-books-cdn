@@ -1,8 +1,5 @@
-If there is any anterior principle implied, it can be no other than this, that the truths of arithmetic are applicable to the valuation of happiness, as of all other measurable quantities. (Mr.
- 
- Herbert Spencer, in a private communication on the subject of the preceding Note, objects to being considered an opponent of Utilitarianism; and states that he regards happiness as the ultimate end of morality; but deems that end only partially attainable by empirical generalizations from the observed results of conduct, and completely attainable only by deducing, from the laws of life and the conditions of existence, what kinds of action necessarily tend to produce happiness, and what kinds to produce unhappiness. With the exception of the word "necessarily," I have no dissent to express from this doctrine; and (omitting that word) I am not aware that any modern advocate of utilitarianism is of a different opinion. Bentham, certainly, to whom in the Social Statics Mr. Spencer particularly referred, is, least of all writers, chargeable with unwillingness to deduce the effect of actions on happiness from the laws of human nature and the universal conditions of human life. The common charge against him is of relying too exclusively upon such deductions, and declining altogether to be bound by the generalizations from specific experience which Mr. Spencer thinks that utilitarians generally 119 confine themselves to.
- 
+If there is any main idea here, it must be that the facts of math can be used to measure happiness, just like we measure anything else.
 
- 
-(Simplified)
- 
+Mr. Herbert Spencer wrote to say he doesn’t want to be seen as against Utilitarianism. He believes that happiness is the main goal of morality. But he thinks we can only partly reach this goal by looking at the results of people’s actions. To fully understand it, we need to figure out, based on how life works, which actions will definitely bring happiness and which will bring unhappiness.
+
+I agree with most of what he says, except for the word "definitely." Without that word, I don’t think any modern supporters of utilitarianism disagree. Bentham, who Mr. Spencer mentioned, is especially known for trying to figure out how actions affect happiness by understanding human nature and the conditions of life. People often say Bentham relies too much on these ideas and doesn’t pay enough attention to what we learn from real-life examples, which is what Mr. Spencer thinks utilitarians usually focus on.

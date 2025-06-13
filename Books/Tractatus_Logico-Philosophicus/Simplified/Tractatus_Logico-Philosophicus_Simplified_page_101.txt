@@ -1,38 +1,33 @@
-222 In der Übereinstimmung oder Nichtübereinstimmung seines SinnesmitderWirklichkeit,bestehtseineWahrheitoderFalschheit.
- 
- 2.223 Um zu erkennen, ob das Bild wahr oder falsch ist, müssen wir es mit der Wirklichkeit vergleichen.
- 
- 2.224 Aus dem Bild allein ist nicht zu erkennen, ob es wahr oder falsch ist.
- 
- 2.225 Ein a priori wahres Bild gibt es nicht.
- 
- 3 Das logische Bild der Tatsachen ist der Gedanke.
- 
- 3.001 „Ein Sachverhalt ist denkbar“ heisst: Wir können uns ein Bild von ihm machen.
- 
- 3.01 Die Gesamtheit der wahren Gedanken sind ein Bild der Welt.
- 
- 3.02 Der Gedanke enthält die Möglichkeit der Sachlage die er denkt.
- 
- Was denkbar ist, ist auch möglich.
- 
- 3.03 Wir können nichts Unlogisches denken, weil wir sonst unlogisch denken müssten.
- 
- 3.031 Man sagte einmal, dass Gott alles schaffen könne, nur nichts, was den logischen Gesetzen zuwider wäre.—Wir könnten nämlich von einer „unlogischen“ Welt nicht sagen, wie sie aussähe.
- 
- 3.032 Etwas „der Logik widersprechendes“ in der Sprache darstellen, kann man ebensowenig, wie in der Geometrie eine den Gesetzen des Raumes widersprechende Figur durch ihre Koordinaten darstellen; oder die Koordinaten eines Punktes angeben, welcher nicht existiert.
- 
- 3.0321 Wohl können wir einen Sachverhalt räumlich darstellen, welcher den Gesetzen der Physik, aber keinen, der den Gesetzen der Geometrie zuwiderliefe.
- 
- 3.04 Ein a priori richtiger Gedanke wäre ein solcher, dessen Möglichkeit seine Wahrheit bedingte.
- 
- 3.05 Nur so könnten wir a priori wissen, dass ein Gedanke wahr ist, wenn aus dem Gedanken selbst (ohne Vergleichsobjekt) seine Wahrheit zu erkennen wäre.
- 
- 3.1 Im Satz drückt sich der Gedanke sinnlich wahrnehmbar aus.
- 
- 3.11 Wir benützen das sinnlich wahrnehmbare Zeichen (Laut- oder 99 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Schriftzeichen etc.
- 
+222 A statement is true or false depending on whether it matches reality or not.  
 
- 
-(Simplified)
- 
+2.223 To know if an idea is true or false, we have to compare it to what’s real.  
+
+2.224 Just by looking at the idea itself, we can’t tell if it’s true or false.  
+
+2.225 There is no idea that is true without checking it first.  
+
+3 The logical picture of facts is called a thought.  
+
+3.001 Saying “a situation is thinkable” means we can imagine it.  
+
+3.01 All true thoughts together make a picture of the world.  
+
+3.02 A thought includes the possibility of the situation it describes.  
+
+If something can be imagined, it can also happen.  
+
+3.03 We can’t think something that doesn’t follow logic because then we’d be thinking in a way that doesn’t make sense.  
+
+3.031 People once said God can make anything except things that break the rules of logic—because we wouldn’t even know what an “illogical” world looked like.  
+
+3.032 You can’t show something that breaks logic in language, just like you can’t draw a shape that breaks the rules of space or give coordinates for a point that doesn’t exist.  
+
+3.0321 We can show a situation that breaks the laws of physics, but not one that breaks the laws of geometry.  
+
+3.04 A thought that is right without checking is one where its possibility guarantees it’s true.  
+
+3.05 We could only know a thought is true without checking if its truth comes from the thought itself.  
+
+3.1 A sentence shows a thought in a way we can sense.  
+
+3.11 We use sensory signs like sounds or writing to express thoughts.

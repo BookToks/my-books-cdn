@@ -1,24 +1,23 @@
-Denn das Zeichen ist ja willkürlich. Man könnte also auch zwei verschiedene Zeichen wählen, und wo bliebe dann das Gemeinsame in der Bezeichnung.
- 
- 3.323 In der Umgangssprache kommt es ungemein häufig vor, dass dasselbe Wort auf verschiedene Art und Weise bezeichnet—also verschiedenenSymbolenangehört—,oder,dasszweiWörter,die auf verschiedene Art und Weise bezeichnen, äusserlich in der gleichen Weise im Satze angewandt werden.
- 
- So erscheint das Wort „ist“ als Kopula, als Gleichheitszeichen und als Ausdruck der Existenz; „existieren“ als intransitives Zeitwort wie „gehen“; „identisch“ als Eigenschaftswort; wir reden von Etwas, aber auch davon, dass etwas geschieht.
- 
- (Im Satze „Grün ist grün“—wo das erste Wort ein Personenname, das letzte ein Eigenschaftswort ist—haben diese Worte nicht einfach verschiedene Bedeutung, sondern es sind verschiedene Symbole.) 3.324 So entstehen leicht die fundamentalsten Verwechslungen (deren die ganze Philosophie voll ist).
- 
- 3.325 Um diesen Irrtümern zu entgehen, müssen wir eine Zeichensprache verwenden, welche sie ausschliesst, indem sie nicht das gleiche Zeichen in verschiedenen Symbolen, und Zeichen, welche auf verschiedene Art bezeichnen, nicht äusserlich auf die gleiche Art verwendet. Eine Zeichensprache also, die der logischen Grammatik—der logischen Syntax—gehorcht.
- 
- (Die Begriffsschrift Frege’s und Russell’s ist eine solche Sprache, die allerdings noch nicht alle Fehler ausschliesst.) 3.326 Um das Symbol am Zeichen zu erkennen, muss man auf den sinnvollen Gebrauch achten.
- 
- 3.327 Das Zeichen bestimmt erst mit seiner logisch-syntaktischen Verwendung zusammen eine logische Form.
- 
- 3.328 Wird ein Zeichen nicht gebraucht, so ist es bedeutungslos.
- 
- Das ist der Sinn der Devise Occams.
- 
- (Wenn sich alles so verhält als hätte ein Zeichen Bedeutung, dann hat es auch Bedeutung.) 104 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 3.
- 
+A sign is random. You could use two different signs, so then what would be the common meaning?
 
- 
-(Simplified)
- 
+In everyday language, it happens a lot that the same word is used in different ways—so it belongs to different symbols—or that two different words, which mean different things, are used in the same way in a sentence.
+
+For example, the word "is" can act as a link, like an equals sign, or show that something exists; "exist" is a verb like "go"; "identical" is an adjective; we talk about things, but also about things happening.
+
+In the sentence "Green is green"—where the first word is a name and the last word is an adjective—these words don’t just have different meanings, they are actually different symbols.
+
+This causes basic confusions, and philosophy is full of them.
+
+To avoid these mistakes, we need a sign language that stops them by not using the same sign for different symbols, and not using signs that mean different things in the same way. A sign language that follows logical grammar—logical syntax.
+
+Frege’s and Russell’s concept script is such a language, but it still doesn’t stop all mistakes.
+
+To understand a symbol, you have to pay attention to how it is used in a meaningful way.
+
+A sign only creates a logical form when it’s used with its logical-syntactical rules.
+
+If a sign is not used, it has no meaning.
+
+This is the idea behind Occam’s rule.
+
+(If everything acts like a sign has meaning, then it does have meaning.)

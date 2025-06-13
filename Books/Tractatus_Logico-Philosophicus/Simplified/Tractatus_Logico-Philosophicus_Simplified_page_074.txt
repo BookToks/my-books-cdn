@@ -1,26 +1,25 @@
-For we really see two different facts.
- 
- (If I fix my eyes first on the corners a and only glance at b, a appears in front and b behind, and vice versa.) 5.55 Wemustnowanswerapriorithequestionastoallpossibleforms of the elementary propositions.
- 
- The elementary proposition consists of names. Since we cannotgivethenumberofnameswithdifferentmeanings,wecannot give the composition of the elementary proposition.
- 
- 5.551 Our fundamental principle is that every question which can be decided at all by logic can be decided without further trouble.
- 
- (And if we get into a situation where we need to answer such a problem by looking at the world, this shows that we are on a fundamentally wrong track.) 5.552 The “experience” which we need to understand logic is not that such and such is the case, but that something is; but that is no experience.
- 
- Logic precedes every experience—that something is so.
- 
- It is before the How, not before the What.
- 
- 5.5521 And if this were not the case, how could we apply logic? We could say: if there were a logic, even if there were no world, how then could there be a logic, since there is a world?
- 
- 5.553 Russell said that there were simple relations between different numbers of things (individuals). But between what numbers?
- 
- And how should this be decided—by experience?
- 
- (There is no pre-eminent number.) 72 TRACTATUS LOGICO-PHILOSOPHICUS 5.
- 
+We actually notice two different things.
 
- 
-(Simplified)
- 
+If I look closely at corner a and just glance at b, a seems closer and b farther away, and if I do the opposite, b seems closer and a farther.
+
+Now, we need to answer questions about all possible forms of simple sentences.
+
+A simple sentence is made up of names. But since we can’t say how many names with different meanings there are, we can’t explain how a simple sentence is put together.
+
+Our main idea is that any question that logic can answer can be solved easily without extra trouble.
+
+If we have to check the real world to answer such a problem, it means we are thinking about it the wrong way.
+
+The “experience” needed to understand logic isn’t about knowing that something is true; it’s just about knowing that something exists—but that isn’t really an experience.
+
+Logic comes before any experience—before we know that something is true.
+
+It happens before we ask how something is true, not before we ask what is true.
+
+If this wasn’t true, how could we use logic? We might say: if logic existed even without the world, then how could logic exist just because the world exists?
+
+Russell said there are simple connections between different numbers of things (individuals). But which numbers?
+
+And how could we figure this out—by experience?
+
+There isn’t a most important number.

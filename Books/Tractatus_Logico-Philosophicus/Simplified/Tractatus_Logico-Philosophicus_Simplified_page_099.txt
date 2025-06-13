@@ -1,42 +1,35 @@
-1 Wir machen uns Bilder der Tatsachen.
- 
- 2.11 Das Bild stellt die Sachlage im logischen Raume, das Bestehen und Nichtbestehen von Sachverhalten vor.
- 
- 2.12 Das Bild ist ein Modell der Wirklichkeit.
- 
- 2.13 Den Gegenständen entsprechen im Bilde die Elemente des Bildes.
- 
- 2.131 Die Elemente des Bildes vertreten im Bild die Gegenstände.
- 
- 2.14 Das Bild besteht darin, dass sich seine Elemente in bestimmter Art und Weise zu einander verhalten.
- 
- 2.141 Das Bild ist eine Tatsache.
- 
- 2.15 Dass sich die Elemente des Bildes in bestimmter Art und Weise zu einander verhalten stellt vor, dass sich die Sachen so zu einander verhalten.
- 
- Dieser Zusammenhang der Elemente des Bildes heisse seine Struktur und ihre Möglichkeit seine Form der Abbildung.
- 
- 2.151 Die Form der Abbildung ist die Möglichkeit, dass sich die Dinge so zu einander verhalten, wie die Elemente des Bildes.
- 
- 2.1511 Das Bild ist so mit der Wirklichkeit verknüpft; es reicht bis zu ihr.
- 
- 2.1512 Es ist wie ein Massstab an die Wirklichkeit angelegt.
- 
- 2.15121 Nur die äussersten Punkte der Teilstriche berühren den zu messenden Gegenstand.
- 
- 2.1513 Nach dieser Auffassung gehört also zum Bilde auch noch die abbildende Beziehung, die es zum Bild macht.
- 
- 2.1514 DieabbildendeBeziehungbestehtausdenZuordnungenderElemente des Bildes und der Sachen.
- 
- 2.1515 Diese Zuordnungen sind gleichsam die Fühler der Bildelemente, mit denen das Bild die Wirklichkeit berührt.
- 
- 2.16 Die Tatsache muss um Bild zu sein, etwas mit dem Abgebildeten gemeinsam haben.
- 
- 2.161 In Bild und Abgebildetem muss etwas identisch sein, damit das eine überhaupt ein Bild des anderen sein kann.
- 
- 97 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 2.
- 
+We make pictures of facts.
 
- 
-(Simplified)
- 
+A picture shows the situation in a logical space, showing what exists and what doesn’t.
+
+The picture is a model of reality.
+
+The things in the picture match the parts of the picture.
+
+The parts of the picture stand for the things in the picture.
+
+A picture is made when its parts relate to each other in a certain way.
+
+A picture is a fact.
+
+The way the parts of the picture relate to each other shows how the things relate to each other.
+
+This connection of parts in the picture is called its structure, and the way it can be arranged is its form of representation.
+
+The form of representation is the possibility that things relate to each other like the parts of the picture.
+
+The picture is connected to reality; it reaches up to it.
+
+It is like a ruler placed against reality.
+
+Only the outer points of the parts touch the thing being measured.
+
+So, the picture also includes the relationship that makes it a picture.
+
+This relationship is made by matching the parts of the picture to the things.
+
+These matches are like the feelers of the picture’s parts, touching reality.
+
+For something to be a picture, it must share something with what it shows.
+
+There must be something the same in both the picture and what it shows for one to be a picture of the other.

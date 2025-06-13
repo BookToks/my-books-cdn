@@ -1,20 +1,15 @@
-Den verschiedenen Netzen entsprechen verschiedene Systeme der Weltbeschreibung. Die Mechanik bestimmt eine Form der Weltbeschreibung, indem sie sagt: Alle Sätze der Weltbeschreibung müssen aus einer Anzahl gegebener Sätze—den mechanischen Axiomen—auf eine gegebene Art und Weise erhalten werden. Hierdurch liefert sie die Bausteine zum Bau des wissenschaftlichen Gebäudes und sagt: Welches Gebäude immer du aufführen willst, jedes musst du irgendwie mit diesen und nur diesen Bausteinen zusammenbringen.
- 
- (Wie man mit dem Zahlensystem jede beliebige Anzahl, so muss man mit dem System der Mechanik jeden beliebigen Satz der Physik hinschreiben können.) 6.342 Und nun sehen wir die gegenseitige Stellung von Logik und Mechanik. (Man könnte das Netz auch aus verschiedenartigen Figuren etwa aus Dreiecken und Sechsecken bestehen lassen.) Dass sich ein Bild, wie das vorhin erwähnte, durch ein Netz von gegebener Form beschreiben lässt, sagt über das Bild nichts aus. (Denn dies gilt für jedes Bild dieser Art.) Das aber charakterisiert das Bild, dass es sich durch ein bestimmtes Netz von bestimmter Feinheit vollständig beschreiben lässt.
- 
- So auch sagt es nichts über die Welt aus, dass sie sich durch die Newtonsche Mechanik beschreiben lässt; wohl aber, dass sie sich so durch jene beschreiben lässt, wie dies eben der Fall ist. Auch das sagt etwas über die Welt, dass sie sich durch die eine Mechanik einfacher beschreiben lässt, als durch die andere.
- 
- 6.343 Die Mechanik ist ein Versuch, alle wahren Sätze, die wir zur Weltbeschreibung brauchen, nach Einem Plane zu konstruieren.
- 
- 6.3431 Durch den ganzen logischen Apparat hindurch sprechen die physikalischen Gesetze doch von den Gegenständen der Welt.
- 
- 6.3432 Wir dürfen nicht vergessen, dass die Weltbeschreibung durch die Mechanik immer die ganz allgemeine ist. Es ist in ihr z. B.
- 
- nie von bestimmten materiellen Punkten die Rede, sondern immer nur von irgend welchen.
- 
- 6.35 Obwohl die Flecke in unserem Bild geometrische Figuren sind, 156 LOGISCH-PHILOSOPHISCHE ABHANDLUNG so kann doch selbstverständlich die Geometrie gar nichts über ihre tatsächliche Form und Lage sagen.
- 
+Different systems of describing the world match different kinds of networks. Mechanics gives one way to describe the world by saying: All the sentences that describe the world have to come from a certain set of basic sentences—called mechanical axioms—in a specific way. This gives us the building blocks to create scientific knowledge and says: No matter what you want to build, you must use these blocks and only these blocks.
 
- 
-(Simplified)
- 
+Just like how you can write any number using the number system, you should be able to write any physics sentence using the system of mechanics.
+
+Now, let's look at how logic and mechanics relate to each other. (You could imagine a network made of different shapes, like triangles and hexagons.) Saying that a picture can be described by a network of a certain kind doesn’t tell us anything special about the picture. (This is true for any picture like that.) What really defines the picture is that it can be fully described by a certain network with a certain level of detail.
+
+In the same way, it doesn’t say much about the world just because it can be described by Newtonian mechanics. What matters is that the world can be described by that mechanics in the way that it actually happens. It also says something about the world that it can be described more easily by one kind of mechanics than by another.
+
+Mechanics is an attempt to build all the true sentences we need to describe the world following one plan.
+
+All through logic, the laws of physics talk about things in the world.
+
+We must remember that describing the world with mechanics is always very general. For example, mechanics never talks about specific material points but only about some points in general.
+
+Even though the spots in our picture are geometric shapes, geometry can’t really say anything about their actual shape or position.

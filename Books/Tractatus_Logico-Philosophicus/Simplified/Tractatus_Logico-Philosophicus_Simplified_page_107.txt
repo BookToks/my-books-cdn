@@ -1,30 +1,23 @@
-33 In der logischen Syntax darf nie die Bedeutung eines Zeichens eineRollespielen;siemusssichaufstellenlassen,ohnedassdabei vonder Bedeutung einesZeichensdieRedewäre,siedarf nur die Beschreibung der Ausdrücke voraussetzen.
- 
- 3.331 Von dieser Bemerkung sehen wir in Russell’s „Theory of types“ hinüber: Der Irrtum Russell’s zeigt sich darin, dass er bei der Aufstellung der Zeichenregeln von der Bedeutung der Zeichen reden musste.
- 
- 3.332 Kein Satz kann etwas über sichselbst aussagen, weil das Satzzeichen nicht in sich selbst enthalten sein kann, (das ist die ganze „Theory of types“).
- 
- 3.333 Eine Funktion kann darum nicht ihr eigenes Argument sein, weil das Funktionszeichen bereits das Urbild seines Arguments enthält und es sich nicht selbst enthalten kann.
- 
- Nehmen wir nämlich an, die Funktion F(fx) könnte ihr eigenes Argument sein; dann gäbe es also einen Satz: „F(F(fx))“ und in diesem müssen die äussere Funktion F und die innere Funktion F verschiedene Bedeutungen haben, denn die innere hat die Form φ(fx), die äussere, die Form ψ(φ(fx)). Gemeinsam ist den beiden Funktionen nur der Buchstabe „F“, der aber allein nichts bezeichnet.
- 
- Dies wird sofort klar, wenn wir statt „F(F(u))“ schreiben „(∃φ) : F(φu).φu = Fu“.
- 
- Hiermit erledigt sich Russell’s Paradox.
- 
- 3.334 Die Regeln der logischen Syntax müssen sich von selbst verstehen, wenn man nur weiss, wie ein jedes Zeichen bezeichnet.
- 
- 3.34 Der Satz besitzt wesentliche und zufällige Züge.
- 
- Zufällig sind die Züge, die von der besonderen Art der Hervorbringung des Satzzeichens herrühren. Wesentlich diejenigen, welche allein den Satz befähigen, seinen Sinn auszudrücken.
- 
- 3.341 Das Wesentliche am Satz ist also das, was allen Sätzen, welche den gleichen Sinn ausdrücken können, gemeinsam ist.
- 
- Und ebenso ist allgemein das Wesentliche am Symbol das, was alle Symbole, die denselben Zweck erfüllen können, gemeinsam haben.
- 
- 105 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 3.
- 
+In logic, the meaning of a sign should never matter when setting up the rules; we have to do it without thinking about what the sign means. We should only describe how expressions look.
 
- 
-(Simplified)
- 
+Russell’s "Theory of Types" doesn’t follow this rule. He made a mistake because he talked about the meaning of signs when creating the rules.
+
+No sentence can say something about itself because the sentence’s sign can’t be inside itself. This is the main idea of the "Theory of Types."
+
+A function can’t be its own argument because the function’s sign already includes a picture of its argument, and it can’t include itself.
+
+For example, if we think the function F(fx) could be its own argument, we get a sentence like "F(F(fx))." In this sentence, the outer F and the inner F must mean different things. The inner one looks like φ(fx), and the outer one looks like ψ(φ(fx)). The only thing they share is the letter "F," which by itself doesn’t mean anything.
+
+This becomes clearer if we write "F(F(u))" as "(∃φ) : F(φu).φu = Fu."
+
+This way, Russell’s Paradox is solved.
+
+The rules of logical syntax should make sense on their own if you know what each sign means.
+
+A sentence has important parts and random parts.
+
+The random parts come from how the sentence’s signs were made. The important parts are what let the sentence express its meaning.
+
+So, the important part of a sentence is what all sentences with the same meaning have in common.
+
+And the important part of a symbol is what all symbols that serve the same purpose share.

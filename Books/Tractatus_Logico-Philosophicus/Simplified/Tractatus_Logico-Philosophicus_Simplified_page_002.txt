@@ -1,14 +1,13 @@
-Langkau, and the Online Distributed Proofreading Team at http://www.pgdp.net TRANSCRIBER’S NOTE The original publication was a parallel translation; after the introduction, even pages contained the German original, odd pages the English translation.
- 
- This e-book has been reformatted to contain the English translation first and the German original after that. In the PDF file, the proposition numbers are linked back and forth between the languages.
- 
- The original used a lower-case ‘v’ for the logical or operator; it has been replaced with the correct ‘∨’ character.
- 
- In the German part of the original, variables were printed upright; they have been italicised in this e-book.
- 
- Every effort has been made to replicate the original text as faithfully as possible. Minortypesettingerrorshavebeencorrected; allchangesaredetailed in the LATEX source code.
- 
+Langkau and the Online Distributed Proofreading Team at http://www.pgdp.net
 
- 
-(Simplified)
- 
+TRANSCRIBER’S NOTE
+
+The original book was a side-by-side translation. After the introduction, the even pages showed the German text, and the odd pages showed the English translation.
+
+This e-book has been changed so the English translation comes first, followed by the German original. In the PDF, the proposition numbers link back and forth between the two languages.
+
+The original used a lowercase ‘v’ for the logical “or” symbol; it has now been changed to the correct ‘∨’ symbol.
+
+In the German part of the original, variables were printed straight up; in this e-book, they are italicized.
+
+We tried very hard to copy the original text exactly. Small typing mistakes were fixed, and all changes are explained in the LATEX source code.

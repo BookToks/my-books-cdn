@@ -1,24 +1,25 @@
-(It is nonsense to place the hypothesis p ⊃ p before a proposition in order to ensure that its arguments have the right form, because the hypothesis for a non-proposition as argument becomes not false but meaningless, and because the proposition itself becomes senseless for arguments of the wrong kind, and thereforeitsurvivesthewrongargumentsnobetterandnoworse than the senseless hypothesis attached for this purpose.) 5.5352 Similarly it was proposed to express “There are no things” by “∼(∃x).x = x”. But even if this were a proposition—would it not be true if indeed “There were things”, but these were not identical with themselves?
- 
- 5.54 In the general propositional form, propositions occur in a proposition only as bases of the truth-operations.
- 
- 5.541 At first sight it appears as if there were also a different way in which one proposition could occur in another.
- 
- Especially in certain propositional forms of psychology, like “A thinks, that p is the case”, or “A thinks p”, etc.
- 
- Here it appears superficially as if the proposition p stood to the object A in a kind of relation.
- 
- (And in modern epistemology (Russell, Moore, etc.) those propositions have been conceived in this way.) 5.542 But it is clear that “A believes that p”, “A thinks p”, “A says p”, are of the form “‘p’ says p”: and here we have no co-ordination of a fact and an object, but a co-ordination of facts by means of a co-ordination of their objects.
- 
- 5.5421 This shows that there is no such thing as the soul—the subject, etc.—as it is conceived in contemporary superficial psychology.
- 
- A composite soul would not be a soul any longer.
- 
- 5.5422 The correct explanation of the form of the proposition “A judges p” mustshowthatitisimpossibletojudgeanonsense. (Russell’s theory does not satisfy this condition.) 5.5423 To perceive a complex means to perceive that its constituents are combined in such and such a way.
- 
- 71 TRACTATUS LOGICO-PHILOSOPHICUS This perhaps explains that the figure can be seen in two ways as a cube; and all similar phenomena.
- 
+It doesn't make sense to add the idea "if p then p" before a statement just to make its arguments correct. This is because if the argument isn't a proper statement, it doesn't become false—it becomes meaningless. Also, the statement itself becomes confusing when used with the wrong kind of arguments. So, adding this idea doesn't help; it just makes things as confusing as before.
 
- 
-(Simplified)
- 
+Some people suggested saying "There are no things" as "There is no x such that x equals x." But even if this was a real statement, would it be true if things did exist but weren't the same as themselves?
+
+In general, statements only appear inside other statements as parts that affect their truth.
+
+At first, it looks like one statement could be inside another in a different way.
+
+This happens especially in sentences about psychology, like "A thinks that p is true" or "A thinks p."
+
+Here, it seems like the statement p is connected to the person A in some special way.
+
+And modern thinkers like Russell and Moore have thought about these statements this way.
+
+But actually, sentences like "A believes that p," "A thinks p," or "A says p" are more like "'p' says p." This means we are connecting facts by connecting their parts, not mixing facts with objects.
+
+This shows that ideas like the soul or the subject, as understood in today's simple psychology, don't really exist.
+
+If a soul had parts, it wouldn't be a soul anymore.
+
+The right way to understand "A judges p" must prove that it's impossible to judge something that doesn't make sense. (Russell's theory doesn't do this.)
+
+To understand something complex means to see how its parts fit together.
+
+This might explain why a figure can look like a cube in two different ways, and other similar things.

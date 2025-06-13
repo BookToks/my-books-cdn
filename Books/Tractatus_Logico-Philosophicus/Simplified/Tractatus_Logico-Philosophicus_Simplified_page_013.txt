@@ -1,12 +1,15 @@
-” It is not contended by Wittgenstein that we can actually isolate the simple or have empirical knowledge of it. It is a logical necessity demanded by theory, like an electron. His ground for maintaining that there must be simples is that every complex presupposes a fact. It is not necessarily assumed that the complexity of facts is finite; even if every fact consisted of an infinite number of atomic facts and if every atomic fact consisted of an infinite number of objects there would still be objects and atomic facts (4.2211). The assertion that there is a certain complex reduces to the assertion that its constituents are related in a certain way, which is the assertion of a fact: thus if we give a name to the complex the name only has meaning in virtue of the truth of a certain proposition, namely the proposition asserting the relatedness of the constituents of the complex. Thus the naming of complexes presupposes propositions, while propositions presupposes the naming of simples. In this way the naming of simples is shown to be what is logically first in logic.
- 
- The world is fully described if all atomic facts are known, together with the fact that these are all of them. The world is not described by merely naming all the objects in it; it is necessary also to know the atomic facts of which these objects are constituents. Given this total of atomic facts, every true proposition, however complex, can theoretically beinferred. Aproposition(trueorfalse)assertinganatomicfactiscalled an atomic proposition. All atomic propositions are logically independent of each other. No atomic proposition implies any other or is inconsistent with any other. Thus the whole business of logical inference is concerned with propositions which are not atomic. Such propositions may be called molecular.
- 
- Wittgenstein’stheoryofmolecularpropositionsturnsuponhistheory of the construction of truth-functions.
- 
- A truth-function of a proposition p is a proposition containing p and such that its truth or falsehood depends only upon the truth or falsehood of p, and similarly a truth-function of several propositions p, q, r...is one containing p, q, r...and such that its truth or falsehood depends only upon the truth or falsehood of p, q, r... It might seem at first sight as though there were other functions of propositions besides truthfunctions; such, for example, would be “A believes p,” for in general A will believe some true propositions and some false ones: unless he is an exceptionallygiftedindividual,wecannotinferthatpistruefromthefact that he believes it or that p is false from the fact that he does not believe 11 INTRODUCTION it.
- 
+Wittgenstein doesn’t say we can actually find or see the simplest parts of things, or have direct knowledge of them. Instead, he says that having these simple parts is something that logic requires, kind of like how scientists believe in electrons even if we can’t see them.
 
- 
-(Simplified)
- 
+He thinks there must be simple parts because every complicated thing depends on some basic fact. It’s not necessary to think that there are only a limited number of facts. Even if every fact had an endless number of smaller facts inside it, and every small fact had an endless number of objects, there would still be objects and small facts.
+
+Saying that a complex thing exists means saying its parts are connected in a certain way, which is a fact. So, if we give a name to a complex thing, that name only makes sense if a certain statement is true—specifically, the statement that says how the parts are connected. Naming complex things depends on statements, and statements depend on naming the simple parts. That’s why naming simple things comes first in logic.
+
+The world is completely described if we know all the smallest facts and know that these are all there are. Just naming all the objects in the world isn’t enough; we also need to know the smallest facts that these objects make up. If we know all these small facts, then in theory, we can figure out every true statement, no matter how complicated.
+
+A statement that says a small fact is true or false is called an atomic proposition. All atomic propositions don’t depend on each other—none of them prove or contradict another. So, logical reasoning deals with statements that aren’t atomic. These more complex statements are called molecular propositions.
+
+Wittgenstein’s idea about molecular propositions is based on his theory about truth-functions.
+
+A truth-function is a kind of statement that includes another statement (or several) and whose truth or falsehood depends only on the truth or falsehood of those statements. For example, a truth-function of one statement p depends only on whether p is true or false. If it involves several statements like p, q, r, then its truth depends only on whether p, q, and r are true or false.
+
+At first, it might seem like there are other kinds of functions of statements besides truth-functions. For example, “A believes p” is not a truth-function because a person can believe some true statements and some false ones. So, just because a person believes something doesn’t mean it’s true, and if they don’t believe it, that doesn’t mean it’s false either.

@@ -1,38 +1,31 @@
-2.021 Objects form the substance of the world. Therefore they cannot be compound.
- 
- 2.0211 If the world had no substance, then whether a proposition had sense would depend on whether another proposition was true.
- 
- 2.0212 It would then be impossible to form a picture of the world (true or false).
- 
- 2.022 It is clear that however different from the real one an imagined world may be, it must have something—a form—in common with the real world.
- 
- 2.023 This fixed form consists of the objects.
- 
- 2.0231 The substance of the world can only determine a form and not any material properties. For these are first presented by the propositions—first formed by the configuration of the objects.
- 
- 2.0232 Roughly speaking: objects are colourless.
- 
- 2.0233 Two objects of the same logical form are—apart from their external properties—only differentiated from one another in that they are different.
- 
- 2.02331 Either a thing has properties which no other has, and then one can distinguish it straight away from the others by a description and refer to it; or, on the other hand, there are several things which have the totality of their properties in common, and then it is quite impossible to point to any one of them.
- 
- For if a thing is not distinguished by anything, I cannot distinguish it—for otherwise it would be distinguished.
- 
- 2.024 Substance is what exists independently of what is the case.
- 
- 2.025 It is form and content.
- 
- 2.0251 Space, time and colour (colouredness) are forms of objects.
- 
- 2.026 Only if there are objects can there be a fixed form of the world.
- 
- 2.027 The fixed, the existent and the object are one.
- 
- 2.0271 The object is the fixed, the existent; the configuration is the changing, the variable.
- 
- 27 TRACTATUS LOGICO-PHILOSOPHICUS 2.
- 
+Objects make up everything in the world. So, they can’t be made of other things.
 
- 
-(Simplified)
- 
+If the world didn’t have any substance, then whether a statement made sense would depend on whether another statement was true.
+
+Because of that, it would be impossible to imagine a picture of the world that is either true or false.
+
+Even if an imagined world is very different from the real one, it still has to share something—a kind of shape or form—with the real world.
+
+This fixed form is made up of objects.
+
+The substance of the world can only decide the shape, not the material stuff. The material stuff shows up first in statements, which come from how objects are arranged.
+
+In simple terms: objects don’t have color by themselves.
+
+Two objects that have the same logical form are only different because they are not the same thing.
+
+Either a thing has unique features that let us describe and point to it, or many things share all their features, making it impossible to single one out.
+
+If something isn’t different in any way, I can’t tell it apart from others—because if I could, it would be different.
+
+Substance is what exists no matter what happens.
+
+It includes both form and content.
+
+Space, time, and color are all forms of objects.
+
+Only if there are objects can the world have a fixed form.
+
+The fixed, the real, and the object are all the same.
+
+The object is what stays the same; the way things are arranged can change.

@@ -1,30 +1,25 @@
-We could only know them if causality were an inner necessity, like that of logical deduction.—The connexion of knowledge and what is known is that of logical necessity.
- 
- (“A knows that p is the case” is senseless if p is a tautology.) 5.1363 If from the fact that a proposition is obvious to us it does not follow that it is true, then obviousness is no justification for our belief in its truth.
- 
- 5.14 If a proposition follows from another, then the latter says more than the former, the former less than the latter.
- 
- 5.141 If p follows from q and q from p then they are one and the same proposition.
- 
- 5.142 A tautology follows from all propositions: it says nothing.
- 
- 5.143 Contradiction is something shared by propositions, which no proposition has in common with another. Tautology is that which is shared by all propositions, which have nothing in common with one another.
- 
- Contradiction vanishes so to speak outside, tautology inside all propositions.
- 
- Contradiction is the external limit of the propositions, tautology their substanceless centre.
- 
- 5.15 If T is the number of the truth-grounds of the proposition “r”, r T the number of those truth-grounds of the proposition “s” rs which are at the same time truth-grounds of “r”, then we call the ratio T : T the measure of the probability which the proprs r osition “r” gives to the proposition “s”.
- 
- 5.151 Suppose in a schema like that above in No. 5.101 T is the numr ber of the “T”’s in the proposition r, T the number of those rs “T”’s in the proposition s, which stand in the same columns as “T”’s of the proposition r; then the proposition r gives to the proposition s the probability T : T .
- 
- rs r 5.1511 There is no special object peculiar to probability propositions.
- 
- 5.152 Propositions which have no truth-arguments in common with one another we call independent.
- 
- 58 TRACTATUS LOGICO-PHILOSOPHICUS Independent propositions (e.
- 
+We can only understand things if cause and effect are necessary, like how logical steps must follow each other.
 
- 
-(Simplified)
- 
+Knowing something and what we know are connected by logical rules.
+
+Saying "A knows that p is true" doesn’t make sense if p is always true no matter what.
+
+If something seems obvious to us, that doesn’t mean it’s actually true. Just being obvious isn’t a good reason to believe it.
+
+If one statement comes from another, then the second statement tells us more than the first.
+
+If one statement follows from another, and the second also follows from the first, then they are basically the same.
+
+A statement that’s always true (a tautology) follows from all statements but doesn’t tell us anything new.
+
+Contradiction is something that separates statements; no two statements share a contradiction. Tautology is what all statements share, even if they have nothing else in common.
+
+Contradiction is like the outside limit of statements, while tautology is like their empty center.
+
+If T is the number of reasons why a statement “r” is true, and T is the number of reasons why another statement “s” is true that also apply to “r,” then the ratio of these numbers shows how likely “r” makes “s” to be true.
+
+If we count the number of “T”s in statement r and the number of those same “T”s in statement s, then the chance that r gives to s is the ratio between these counts.
+
+There’s nothing special about statements that talk about probability.
+
+Statements that don’t share any reasons for being true are called independent.

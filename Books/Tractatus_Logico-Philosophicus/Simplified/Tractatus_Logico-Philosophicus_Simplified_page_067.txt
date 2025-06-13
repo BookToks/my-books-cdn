@@ -1,34 +1,29 @@
-47 It is clear that everything which can be said beforehand about the form of all propositions at all can be said on one occasion.
- 
- Foralllogicaloperationsarealreadycontainedintheelementary proposition. For “fa” says the same as “(∃x).fx.x = a”.
- 
- Where there is composition, there is argument and function, and where these are, all logical constants already are.
- 
- One could say: the one logical constant is that which all propositions, according to their nature, have in common with one another.
- 
- That however is the general form of proposition.
- 
- 5.471 The general form of proposition is the essence of proposition.
- 
- 5.4711 To give the essence of proposition means to give the essence of all description, therefore the essence of the world.
- 
- 5.472 The description of the most general propositional form is the description of the one and only general primitive sign in logic.
- 
- 5.473 Logic must take care of itself.
- 
- A possible sign must also be able to signify. Everything which is possible in logic is also permitted. (“Socrates is identical” means nothing because there is no property which is called “identical”. The proposition is senseless because we have not made some arbitrary determination, not because the symbol is in itself unpermissible.) In a certain sense we cannot make mistakes in logic.
- 
- 5.4731 Self-evidence, of which Russell has said so much, can only be discardedinlogicbylanguageitselfpreventingeverylogicalmistake. That logic is a priori consists in the fact that we cannot think illogically.
- 
- 5.4732 We cannot give a sign the wrong sense.
- 
- 5.47321 Occam’srazoris,ofcourse,notanarbitraryrulenoronejustified byitspracticalsuccess. Itsimplysaysthatunnecessary elements in a symbolism mean nothing.
- 
- Signs which serve one purpose are logically equivalent, signs which serve no purpose are logically meaningless.
- 
- 5.4733 Frege says: Every legitimately constructed proposition must have a sense; and I say: Every possible proposition is legit65 TRACTATUS LOGICO-PHILOSOPHICUS imately constructed, and if it has no sense this can only be because we have given no meaning to some of its constituent parts.
- 
+Everything that can be said about the form of all statements can be explained at once.
 
- 
-(Simplified)
- 
+All logical operations are already included in simple statements. For example, saying “fa” means the same as saying “There exists an x such that fx and x equals a.”
+
+Where there is a combination, there is an argument and a function, and where these exist, all logical constants are already there.
+
+You could say: the one logical constant is what all statements naturally share.
+
+That is the general form of a statement.
+
+The general form of a statement is the true nature of a statement.
+
+To explain the true nature of a statement is to explain the true nature of all descriptions, and therefore the true nature of the world.
+
+Describing the most general form of a statement means describing the one and only basic symbol in logic.
+
+Logic must take care of itself.
+
+A possible symbol must also be able to mean something. Everything that is possible in logic is allowed. For example, “Socrates is identical” means nothing because there is no property called “identical.” The statement makes no sense not because the symbol is wrong, but because we didn’t give it a clear meaning. In a way, we can’t make mistakes in logic.
+
+Self-evidence, which Russell talked a lot about, can only be rejected in logic if language itself stops any logical mistakes. Logic is a priori because we cannot think illogically.
+
+We cannot give a symbol the wrong meaning.
+
+Occam’s razor is not just a random rule or one that works by chance. It simply says that extra parts in a symbol system mean nothing.
+
+Symbols that serve a purpose are logically the same, while symbols that serve no purpose are meaningless in logic.
+
+Frege says: Every properly made statement must have a meaning. I say: Every possible statement is properly made, and if it has no meaning, it’s only because we didn’t give some of its parts a meaning.

@@ -1,36 +1,31 @@
-634 Das hängt damit zusammen, dass kein Teil unserer Erfahrung auch a priori ist.
- 
- Alles, was wir sehen, könnte auch anders sein.
- 
- Alles, was wir überhaupt beschreiben können, könnte auch anders sein.
- 
- Es gibt keine Ordnung der Dinge a priori.
- 
- 5.64 Hier sieht man, dass der Solipsismus, streng durchgeführt, mit dem reinen Realismus zusammenfällt. Das Ich des Solipsismus schrumpft zum ausdehnungslosen Punkt zusammen, und es bleibt die ihm koordinierte Realität.
- 
- 5.641 Es gibt also wirklich einen Sinn, in welchem in der Philosophie nicht-psychologisch vom Ich die Rede sein kann.
- 
- Das Ich tritt in die Philosophie dadurch ein, dass die „Welt meine Welt ist“.
- 
- Das philosophische Ich ist nicht der Mensch, nicht der menschliche Körper, oder die menschliche Seele, von der die Psychologie handelt, sondern das metaphysische Subjekt, die Grenze—nicht ein Teil der Welt.
- 
- 6 Die allgemeine Form der Wahrheitsfunktion ist: [p,ξ,N(ξ)].
- 
- Dies ist die allgemeine Form des Satzes.
- 
- 6.001 Dies sagt nichts anderes, als dass jeder Satz ein Resultat der successiven Anwendung der Operation N(cid:48)(ξ) auf die Elementarsätze ist.
- 
- 6.002 Ist die allgemeine Form gegeben, wie ein Satz gebaut ist, so ist damit auch schon die allgemeine Form davon gegeben, wie aus einem Satz durch eine Operation ein anderer erzeugt werden kann.
- 
- 6.01 Die allgemeine Form der Operation Ω(cid:48)(η) ist also: [ξ,N(ξ)](cid:48)(η) (= [η, ξ, N(ξ)]).
- 
- Das ist die allgemeinste Form des Überganges von einem Satz zum anderen.
- 
- 6.02 Und so kommen wir zu den Zahlen: Ich definiere x = Ω0(cid:48)x Def. und Ω(cid:48)Ων(cid:48)x = Ων+1(cid:48)x Def.
- 
- 146 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Nach diesen Zeichenregeln schreiben wir also die Reihe x, Ω(cid:48)x, Ω(cid:48)Ω(cid:48)x, Ω(cid:48)Ω(cid:48)Ω(cid:48)x, .
- 
+This is because no part of our experience is known before we have it.
 
- 
-(Simplified)
- 
+Everything we see could be different.
+
+Everything we can describe could also be different.
+
+There is no fixed order of things before we experience them.
+
+Here, you can see that solipsism, if taken strictly, is the same as pure realism. The "I" in solipsism shrinks to a single point, and what remains is the reality connected to it.
+
+So, there really is a way to talk about the "I" in philosophy that is not about the mind.
+
+The "I" comes into philosophy because “the world is my world.”
+
+The philosophical "I" is not a person, not a human body, or a human soul, which psychology studies, but the metaphysical subject, the boundary—not a part of the world.
+
+The general form of the truth function is: [p, ξ, N(ξ)].
+
+This is the general form of a sentence.
+
+This means that every sentence is the result of applying the operation N(ξ) step by step to simple sentences.
+
+If the general form shows how a sentence is built, then it also shows how one sentence can be changed into another by an operation.
+
+The general form of the operation Ω(0)(η) is: [ξ, N(ξ)](0)(η) (= [η, ξ, N(ξ)]).
+
+This is the most general way to move from one sentence to another.
+
+And now we come to numbers: I define x = Ω₀ x by definition, and Ω(0) Ων x = Ω(ν+1) x by definition.
+
+Following these rules, we write the sequence x, Ω x, Ω Ω x, Ω Ω Ω x, and so on.
