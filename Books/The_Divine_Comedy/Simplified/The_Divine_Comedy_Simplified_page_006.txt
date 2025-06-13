@@ -1,18 +1,13 @@
-http://creativecommons.org/licenses/by-nc/3.0/us/ Youarefree: toshare–tocopy,distribute,display,andperformthework; toremix–tomakederivativeworks.
- 
- Underthefollowingconditions: attribution–youmustattributetheworkinthemannerspecifiedbytheauthor orlicensor(butnotinanywaythatsuggeststhattheyendorseyouoryouruse ofthework); noncommercial–youmaynotusethisworkforcommercialpurposes.
- 
- Anyoftheaboveconditionscanbewaivedifyougetpermissionfrom thecopyrightholder.
- 
- EnglishtranslationandnotesbyH.W.Longfellowobtainedfrom http://dante.ilt.columbia.edu/new/comedy/.
- 
- ScansofillustrationsbyP.G.Dore´ obtainedfrom http://www.danshort.com/dc/,scannedbyDanShort,usedwith permission.
- 
- MIKTEX LATEXtypesettingbyJosefNygrin,inJan&Feb2008.
- 
- http://www.paskvil.com/ Somerightsreserved(cid:13)c 2008JosefNygrin
- 
+You are free to share this work by copying, distributing, showing, and performing it. You can also remix it to create new versions.
 
- 
-(Simplified)
- 
+But there are some rules: you must give credit to the author or the person who gave permission, in the way they say. You can’t make it look like they support you or how you use the work. Also, you can’t use this work to make money.
+
+If you want to break any of these rules, you need to get permission from the copyright owner.
+
+The English translation and notes by H.W. Longfellow were taken from a website about Dante’s work.
+
+The pictures by P.G. Doré were taken from another website, scanned by Dan Short, and used with permission.
+
+The typesetting using MIKTEX LATEX was done by Josef Nygrin in January and February 2008.
+
+Some rights are reserved by Josef Nygrin in 2008 on the website www.paskvil.com.

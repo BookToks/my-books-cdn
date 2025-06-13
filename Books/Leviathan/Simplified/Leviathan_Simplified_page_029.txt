@@ -1,20 +1,17 @@
-And therefore, 2. The second cause of absurd assertions, I ascribe to the giving of names of bodies to accidents; or of accidents to bodies; as they do that say, faith is infused, or inspired; when nothing can be poured, or breathed into anything, but body; and that extension is body; that phantasms are spirits, etc.
- 
- 3. The third I ascribe to the giving of the names of the accidents of bodies without us to the accidents of our own bodies; as they do that say, the colour is in the body; the sound is in the air, etc.
- 
- 4. The fourth, to the giving of the names of bodies to names, or speeches; as they do that say that there be things universal; that a living creature is genus, or a general thing, etc.
- 
- 5. The fifth, to the giving of the names of accidents to names and speeches; as they do that say, the nature of a thing is its definition; a man’s command is his will; and the like.
- 
- 6. The sixth, to the use of metaphors, tropes, and other rhetorical figures, instead of words proper. For though it be lawful to say, for example, in common speech, the way goeth, or leadeth hither, or thither; the proverb says this or that (whereas ways cannot go, nor proverbs speak); yet in reckoning, and seeking of truth, such speeches are not to be admitted.
- 
- 7. The seventh, to names that signify nothing, but are taken up and learned by rote from the Schools, as hypostatical, transubstantiate, consubstantiate, eternal-now, and the like canting of Schoolmen.
- 
- To him that can avoid these things, it is not easy to fall into any absurdity, unless it be by the length of an account; wherein he may perhaps forget what went before. For all men by nature reason alike, and well, when they have good principles. For who is so stupid as both to mistake in geometry, and also to persist in it, when another detects his error to him?
- 
- By this it appears that reason is not, as sense and memory, born with us; nor gotten by experience only, as prudence is; but attained by industry: first in apt imposing of names; and secondly by getting a good and orderly method in proceeding from the elements, which are names, to assertions made by connexion of one of them to another; and so to syllogisms, which are the connexions of one assertion to another, till we 30/Thomas Hobbes come to a knowledge of all the consequences of names appertaining to the subject in hand; and that is it, men call science.
- 
+Here are some reasons why people make silly or confusing statements.
 
- 
-(Simplified)
- 
+2. First, they mix up the names of things and their qualities. For example, some say faith is “put into” or “breathed into” someone, but only physical stuff can be poured or breathed in. Also, they say things like “phantasms are spirits,” which is confusing.
+
+3. Second, they confuse the qualities of things outside us with qualities inside our own bodies. Like saying color is inside an object, or sound is inside the air, when it’s really about how we see or hear them.
+
+4. Third, they use the names of real things to talk about ideas or words. For example, saying “a living creature” is a general kind of thing, like a group or category.
+
+5. Fourth, they give the names of qualities to words or ideas. For example, saying the nature of something is just its definition, or that a person’s order is the same as their will.
+
+6. Fifth, they use metaphors or figures of speech instead of clear words. Like saying “the road goes this way” or “the proverb says,” even though roads don’t move and proverbs don’t talk. These are okay in normal talk, but not when you really want to be accurate.
+
+7. Sixth, they use fancy, confusing words from schools that don’t really mean anything clear, like “hypostatical,” “transubstantiate,” or “eternal-now.”
+
+If someone can avoid these mistakes, it’s hard for them to say something really wrong, unless they forget what they were thinking about. Everyone can reason well if they start with good ideas. For example, no one is so dumb that they keep making the same math mistake after someone shows them the error.
+
+This shows that reason isn’t something we’re born with like our senses or memory, and it’s not just learned from experience like common sense. Instead, we get reason by working at it: first by using names carefully, then by learning a good way to connect ideas step by step. This leads to understanding all the results that come from those ideas, and that’s what people call science.

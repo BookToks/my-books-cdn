@@ -1,16 +1,15 @@
-Zu gliicklich, wenn sic noch die auflere Schale weist.
- 
- (No created spirit penetrates into the inner in nature. / It is already too much good luck if it knows the outer shell.) I I 2 In his Logic, Kant defines this as the rule that "VVhat belongs to or con­ tradicts the genus or species belongs to or contradicts all the objects that are contained under that genus or species," a rule which in turn he derives from the "Principle of categorical inferences of reason," namely "VVhat belongs to the mark of a thing belongs also to the thing itself; and what contradicts the mark of a thing contradicts also the thing itself" (Jasche Logic, § 63; in]. Michael Young, ed., Lectures on Logic [Cambridge: Cam­ bridge University Press, 1992], pp. 617-18). The inference from the gen­ eral principle of categorical inferences to the dictum de omni et nullo is based on the fact that a concept is a subset of the marks of an object, typ­ ically a proper subset since the Leibnizian idea of a complete concept of a particular is only an ideal of reason.
- 
- II3 See, e.g., Leibniz's Principles of Nature and Grace, § 2.
- 
- 114 Here Kant refers to the fact that Wolff's and Baumgarten's systems of general ontology begin by defining the distinction between the possible and the impossible, excluding from the sphere of the possible only that which is logically self-contradictory; see e.g. Baumgarten, Metaphysica, Pars I, Caput I, Sectio I, §§ 7-18, 17:24-30.
- 
- I 15 As noted above, there is a draft of the following material at R 5552 (177879? 178o-81? 18:218-21, at pp. 218-19). See also R 5726 (1785-89, 18:336-8, at p. 336).
- 
- Transcendental dialectic I Kant introduced very early the term "dialectic" as the title for "the theory of the subjective laws of the understanding, insofar as they are held to be ob­ jective" (see R 1579, 1 760-64? , 1769-70? 16:17-23 at p. 23). Kant appears to have discovered the antinomies of pure reason in particular, which he ex­ pounded in the middle of the three sections of the second book of the "Dialectic," "The Dialectical Inferences of Pure Reason," by 1769; see, for example, R 3922 (1769, 17=346-7), R 3928-9 (1769, 17:350-2), R 3936-7 (1769, 17=354-5), R 3942 (1769? 1764-8? 17=357), R 3954 (1769, 17=363), R 3974 (1769, 17:371-2), and R 3976 (1769, 17=372-3). It may be the dis­ covery of the antinomies that Kant refers when he later says that "the year '69 gave me great light," R 5307 (1776-78, 18:69)' However, in Kant's first published treatment of some of the material of the "Dialectic," §§ 23-9 of the inaugural dissertation of 1770, he argues that metaphysical error arises from unduly restricting pure reason by the conditions of sensibility rather than from failing to recognize that ideas of pure reason alone cannot give theoretical knowledge, as the notes of the 1769 and the comments ofR 5307 735 already suggest.
- 
+It’s already lucky if someone only knows the outside surface of something.
 
- 
-(Simplified)
- 
+No created spirit can truly understand the inner nature of things. In his book on Logic, Kant explains a rule: if something belongs to a group or contradicts it, then it also applies to everything in that group. This rule comes from the idea that if a feature belongs to a thing, it belongs to the thing itself, and if it contradicts that feature, it contradicts the thing too.
+
+This idea comes from the fact that a concept is like a smaller part of an object’s features. Usually, it’s just a part, because having a complete idea of something is more of a perfect goal than reality.
+
+For example, Leibniz talks about this in his Principles of Nature and Grace.
+
+Kant also mentions that philosophers Wolff and Baumgarten start by explaining the difference between what’s possible and impossible. They say something is impossible only if it contradicts itself logically.
+
+There are drafts of this idea written down by Kant in his notes from the late 1700s.
+
+Kant used the word "dialectic" early on to mean the study of how our understanding works when we think something is definitely true. Around 1769, he found what he called the "antinomies of pure reason," which are contradictions in thinking. He wrote about these in several notes and papers from that time. He even said that year gave him a lot of insight.
+
+But in his first big work in 1770, Kant said that mistakes in metaphysics happen because people try to limit pure reason by what they can sense, instead of realizing that ideas from pure reason alone can’t give us real knowledge. This is something he hinted at in his earlier notes and later writings.

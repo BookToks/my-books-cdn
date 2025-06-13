@@ -1,14 +1,11 @@
-Pc II. Div. L Bk. I. Ch. II subsequently proceeded quite consistently in declaring it to be impos­ sible to go beyond the boundary of experience with these concepts and the principles that they occasion. The empirical derivation,however, to B 128 which both of them resorted, cannot be reconciled with the reality of the scientific cognition priori that we possess, that namely of pure a mathematics and general natural science, and is therefore refuted by the fact.a The first of these two famous men opened the gates wide to enthu­ siasm, since reason, once it has authority on its side, will not be kept within limits by indeterminate recommendations of moderation; the second gave way entirely to skepticism, since he believed himself to have discovered in what is generally held to be reason a deception of our faculty of cognition. -We are now about to make an attempt to see whether we cannot successfully steer human reason between these two cliffs, assign its determinate boundaries, and still keep open the entire field of its purposive activity.
- 
- I will merely precede this with the explanation of the categories.
- 
- They are concepts of an object in general, by means of which its intu­ ition is regarded as determined with regard to one of the logical func­ tions for judgments.2o Thus, the function of the categorical judgment was that of the relationship of the subject to the predicate, e.g., "All bodies are divisible." Yet in regard to the merely logical use of the un­ derstanding it would remain undetermined which of these two concepts B 129 will be given the function of the subject and which will be given that of the predicate. For one can also say: "Something divisible is a body." Through the category of substance, however, if I bring the concept of a body under it, it is determined that its empirical intuition in experi­ ence must always be considered as subject, never as mere predicate; and likewise with all the other categories.> A95 The Deduction of the Pure Concepts of the Understanding Second Section bOn the priori grounds for the possibility a of experience.
- 
- It is entirely contradictory and impossible that a concept should be generated completely priori and be related to an object although it a a das Factum b What follows is the version of the "Transcendental Deduction" as it appeared in the first edition, where it is divided into the second and third sections of the present chap­ ter. In the second edition, these two sections will be replaced by a single second section, divided into subsections numbered from § IS to § 27. See B I29-69 below.
- 
- 226 Section II.
- 
+Pc II. Div. L Bk. I. Ch. II kept saying that it’s impossible to understand things beyond what we can experience using these ideas and rules. But the way they tried to explain it using experience doesn’t match with how we actually know things in math and science without needing experience first. So, their idea is proven wrong.
 
- 
-(Simplified)
- 
+The first thinker got really excited because once reason has power, it won’t stop itself just because someone says to be careful. The second thinker became very doubtful because he thought reason tricks us and makes us believe things that aren’t true. Now, we’re going to try to find a way to guide human reason between these two extremes, set clear limits for it, and still allow it to work fully and purposefully.
+
+Before we do that, I’ll explain what categories are.
+
+Categories are general ideas about an object that help us understand it in a specific way when we make judgments. For example, a categorical judgment connects a subject to a predicate, like “All bodies are divisible.” But just using logic alone doesn’t tell us which part is the subject and which is the predicate. For example, you could also say, “Something divisible is a body.” But when we use the category of substance, if we think about a body, we know its experience always has to be the subject, not just the predicate. The same goes for all other categories.
+
+It’s totally impossible for a concept to be made completely before experience and still relate to a real object. What comes next is the version of the "Transcendental Deduction" from the first edition. It was split into two parts there but combined differently in the second edition.
+
+Section II.

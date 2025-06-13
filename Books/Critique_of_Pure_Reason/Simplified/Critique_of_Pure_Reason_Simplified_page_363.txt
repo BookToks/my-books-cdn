@@ -1,18 +1,11 @@
-Pt. II. Div. 1. Bk. II. <A> cognition, then no cognition of any object at all remains; for through mere intuition nothing at all is thought, and that this affection of sen­ sibility is in me does not constitute any relation of such representation to any objecta at all. But if, on the contrary, I leave out all intuition, A254 then there still remains the form of thinking, i.e., the way of determin­ ing an object for the manifold of a possible intuition. Hence to this ex­ tent the categories extend further than sensible intuition, since they think objectsb in general without seeing to the particular manner (of sensibility) in which they might be given. But they do not thereby de­ termine a greater sphere of objects, since one cannot assume that such objects can be given without presupposing that another kind of intu­ ition than the sensible kind is possible, which, however, we are by no means justified in doing.
- 
- Bo310 I call a concept problematic that contains no contradiction but that is also, as a boundary for given concepts, connected with other cognitions, the objective reality of which can in no way be cognized. The concept of a noumenon,c i.e., of a thing that is not to be thought of as an ob­ ject of the senses but rather as a thing in itself (solely through a pure un­ derstanding), is not at all contradictory; for one cannot assert of sensibility that it is the only possible kind of intuition. Further, this con­ cept is necessary in order not to extend sensible intuition to things in themselves, and thus to limit the objective validity of sensible cognition A 2 55 (for the other things, to which sensibility does not reach, are called noumenad just in order to indicate that those cognitions cannot extend their domain to everything that the understanding thinks). In the end, however, we have no insight into the possibility of such noumena, e and the domain outside of the sphere of appearances is empty (for us), i.e., we have an understanding that extends farther than sensibility prob­ lematically, but no intuition, indeed not even the concept of a possible intuition, through which objects outside of the field of sensibility could be given, and about which the understanding could be employed as­ sertorically. The concept of a noumenonfis therefore merely a boundB 3 I I ary concept, in order to limit the pretension of sensibility, and therefore only of negative use. But it is nevertheless not invented arbi­ trarily, but is rather connected with the limitation of sensibility, yet without being able to posit anything positive outside of the domain of the latter.
- 
- The division of objects into phaenomena and nOllmena, and of the Object a Objecte b , Here Kant uses emphasis (boldface) rather than roman type.
- 
- d Not in roman type.
- 
- , Here Kant prints the Latin genitive nou1ftenoru1ft.
- 
- f Not in roman type.
- 
- 350 Chapter III.
- 
+If there is no way to know something through our senses, then we can't really know any object at all. Just feeling or sensing something doesn’t mean we are thinking about an actual object. When I only focus on thinking, without using my senses, there is still a way my mind organizes ideas to understand objects in general. This means my thinking can go beyond just what I sense.
 
- 
-(Simplified)
- 
+But thinking alone doesn’t mean I can know more objects. I can’t assume there are other ways to sense things besides what I already have, and we have no good reason to believe there are.
+
+I call a concept "problematic" if it doesn’t have any contradictions but connects to ideas we can’t really understand or prove. For example, the idea of a "noumenon" means something that isn’t sensed but exists on its own, known only by pure thought. This idea isn’t contradictory because we can’t say that sensing is the only way to know things.
+
+This idea is important because it stops us from thinking that our senses can explain everything. Things that our senses can’t reach are called noumena, meaning we can’t know everything about them just by sensing. However, we have no real way to understand if these noumena really exist. Our understanding goes beyond what we can sense, but without any way to actually sense or imagine these things, we can’t be certain about them.
+
+So, the idea of noumena is just a limit to remind us that our senses don’t explain everything. It doesn’t give us positive knowledge about things beyond our senses, but it helps us avoid making wrong assumptions.
+
+Kant divides objects into two groups: phenomena, which are things we can sense, and noumena, which are things beyond our senses.

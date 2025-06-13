@@ -1,20 +1,13 @@
-On the paralogisms of pure reason <A> all the properties that constitute the conditions under which alone we A 347 think them. Now 1 cannot have the least representation of a thinking being through an external experience, but only through self-consciousness. Thus such objects are nothing further than the transference of this consciousness of mine to other things, which can be represented as thinking beings only in this way. The proposition "I think" is, however, taken here only problematically; not insofar as it may contain a perception of an existence (the Cartesian cogito, ergo sum),a but only in its mere possibility, in order to see which properties might flow from so simple a proposition as this for its subject (whether or not such a thing might now exist).
- 
- If more than the cogitob were the ground of our pure rational cognition of thinking beings in general; if we also made use of observations about the play of our thoughts and the natural laws of the thinking self created from them: then an empirical psychology would arise, which would be a species of the physiology of inner sense, which would perhaps explain the appearances of inner sense, but could never serve to reveal such properties as do not belong to possible experience at all (as properties of the simple), nor could it serve to teach apodictically B406 about thinking beings in general something touching on their nature; thus it would be no rational psychology.
- 
- Now since the proposition I think (taken problematically) contains A348 the form of every judgment of understanding whatever and accompanies all categories as their vehicle, it is clear that the conclusions from this can contain a merely transcendental use of the understanding, which excludes every admixture of experience; and ofc whose progress, after what we have shown above, we can at the start form no advantageous concept. Thus we will follow it through all the predications of the pure doctrine of the soul with a critical eye.d First paralogism of substantiality.
- 
- That the representation of which is the absolute subject of our judg­ ments, and hence cannot be used as the determination of another thing, is substance.
- 
- I, as a thinking being, am the absolute subject of all my possible a I think, therefore I am.
- 
- I think.
- 
- b , In the first edition: "in." d From this point on, Kant completely rewrote the remainder of the chapter for the sec­ ond edition. The first-edition version follows immediately; the remainder of the chap­ ter as rewritten for the second edition follows below.
- 
- 415 Doctrine of Elements.
- 
+When we talk about the paralogisms of pure reason, we mean the ideas that shape how we think about things. I can’t imagine a thinking being by looking outside; I can only know about thinking through being aware of myself. So, when I imagine other thinking beings, I’m just projecting my own self-awareness onto them.
 
- 
-(Simplified)
- 
+The statement "I think" is used here in a special way. It doesn’t mean “I am” like Descartes said, but just the possibility that thinking could happen. This helps us explore what qualities might come from this simple idea, whether or not the thinker actually exists right now.
+
+If we tried to understand thinking beings by looking at how our thoughts work or by studying psychology based on experience, that would be like a science of the mind. This science might explain how we feel or think inside, but it can’t tell us about things that are beyond experience. So, it wouldn’t be a true, pure understanding of thinking beings.
+
+Since the phrase "I think" contains the basic form of all judgments and is part of all our ideas, what we learn from it must be based only on reason without mixing in experience. At first, we don’t have a clear idea of where this will lead, so we’ll carefully follow the reasoning through the main ideas about the soul.
+
+The first paralogism is about substance. Substance means something that is the main subject of our thoughts and can’t be just a property of something else.
+
+I, as a thinking being, am the main subject of all my thoughts.
+
+I think.

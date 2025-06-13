@@ -1,16 +1,5 @@
-II On pure reason as the seat of transcendental illusion A.
- 
- On reason in general.
- 
- All our cognition starts from the senses, goes from there to the under­ standing, and ends with reason, beyond which there is nothing higher to be found in us to work on the matter of intuition and bring it under the highest unity of thinking. Since I am now to give a definitiona of A299 this supreme faculty of cognition, I find myself in some embarrassment.
- 
- As in the case of the understanding, there is in the case of reason a merely formal, i.e., logical use, where reason abstracts from all content of cognition, but there is also a real use, since reason itself contains the origin of certain concepts and principles, which it derives neither from the senses nor from the understanding. The first faculty has obviously long since been defined by the logicians as that of drawing inferences mediately (as distinct from immediate inferences, consequentis immediatis); but from this we get no insight into the second faculty, which itself generates concepts.6 Now since a division of reason into a logical and a transcendental faculty occurs here, a higher concept of this source B 356 of cognition must be sought that comprehends both concepts under itself, while from the analogy with concepts of the understanding, we can expect both that the logical concept will put in our hands the key to the transcendental one and that the table of functions of the former will give us the family tree of the concepts of reason.
- 
- In the first part of our transcendental logic we defined the under­ standing as the faculty of rules; here we will distinguish reason from un­ derstanding by calling reason the faculty of principles.b The term "a principle" is ambiguous, and commonly signifies only a A 300 cognition that can be used as a principle even if in itself and as to its own origin it is not a principle.c Every universal proposition, even if it is a Erkliirung b Principien; in section II of this introduction, "principle" always translates Princip unless otherwise noted. In addition to the German term Grundsatz, Kant employs not only the Latin derivative Princip, but also occasionally the even more Latinate Principium, whose occurrence will be noted; the plural of both terms, however, is Principien, which will therefore be translated as "principles" with no note. Outside the present section, "principle" (without a note) always translates Grundsatz, and the Latin terms are always noted.
- 
- Principium C 387 Doctrine of Elements.
- 
+All the knowledge we get starts from our senses, then moves to understanding, and finally reaches reason. Reason is the highest part of our mind that works with what we sense and helps us think about everything as a whole. Now, I’m trying to explain what this top part of our thinking—reason—is, but it’s a bit tricky.
 
- 
-(Simplified)
- 
+Like understanding, reason can be used in two ways. One way is just logical, where reason works without caring about the actual information. The other way is real, because reason creates some ideas and rules that don’t come from what we see or understand directly. Logicians have already said that understanding helps us make guesses step by step, but this doesn’t explain how reason makes new ideas on its own. Since reason has both a logical side and a deeper, more creative side, we need a bigger idea that includes both parts. By looking at how understanding works, we can guess that the logical part of reason will help us understand the deeper part too, and the way understanding works will show us how reason’s ideas are connected.
+
+Earlier, we said understanding is about following rules. Now, we will say reason is about having principles. The word “principle” can mean different things, and usually it means an idea we can use as a rule, even if the idea itself isn’t the main source of the rule. Every general statement, even if it’s...

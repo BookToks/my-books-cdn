@@ -1,18 +1,13 @@
-So that a person is the same that an actor is, both on the stage and in common conversation; and to personate is to act or represent himself or another; and he that acteth another is said to bear his person, or act in his name (in which sense Cicero useth it where he says, Unus sustineo tres personas; mei, adversarii, et judicis—I bear three persons; my own, my adversary’s, and the judge’s), and is called in diverse occasions, diversely; as a representer, or representative, a lieutenant, a vicar, an attorney, a deputy, a procurator, an actor, and the like.
- 
- Of persons artificial, some have their words and actions owned by those whom they represent. And then the person is the actor, and he that owneth his words and actions is the author, in which case the actor acteth by authority. For that which in speaking of goods and possessions is called an owner, and in Latin dominus in Greek c(cid:218)rioj; speaking of actions, is called author. And as the right of possession is called dominion so the right of doing any action is called authority. So that by authority is always understood a right of doing any act; and done by authority, done by commission or license from him whose right it is.
- 
- From hence it followeth that when the actor maketh a covenant by authority, he bindeth thereby the author no less than if he had made it himself; and no less subjecteth him to all the consequences of the same.
- 
- And therefore all that hath been said formerly (Chapter XIV) of the nature of covenants between man and man in their natural capacity is true also when they are made by their actors, representers, or procurators, that have authority from them, so far forth as is in their commission, but no further.
- 
- And therefore he that maketh a covenant with the actor, or representer, not knowing the authority he hath, doth it at his own peril. For no man is obliged by a covenant whereof he is not author, nor consequently by a covenant made against or beside the authority he gave.
- 
- When the actor doth anything against the law of nature by command of the author, if he be obliged by former covenant to obey him, not he, but the author breaketh the law of nature: for though the action be against the law of nature, yet it is not his; but, contrarily, to refuse to do it is against the law of nature that forbiddeth breach of covenant.
- 
- And he that maketh a covenant with the author, by mediation of the 100/Thomas Hobbes actor, not knowing what authority he hath, but only takes his word; in case such authority be not made manifest unto him upon demand, is no longer obliged: for the covenant made with the author is not valid without his counter-assurance.
- 
+A person is like an actor, both on stage and in everyday life. To personate means to act or represent yourself or someone else. When someone acts for another, they are said to "bear their person" or act in their name. For example, Cicero said, "I bear three persons: myself, my opponent, and the judge." People who do this can be called different names like a representative, a deputy, an attorney, or an actor.
 
- 
-my name is sandeep gautam
- 
+Some people, called artificial persons, have their words and actions accepted by the people they represent. In this case, the actor is the one doing the action, but the person they represent is the author. The actor acts with the author’s authority. Just like owning something means you have rights over it, having authority means you have the right to do certain actions. When something is done by authority, it’s done with permission from the person who has the right.
+
+Because of this, when an actor makes an agreement with authority, they are legally binding the author as much as if the author made the agreement themselves. The author is responsible for all the results of that agreement.
+
+So, the rules about agreements between people are the same when those agreements are made by actors or representatives, but only as far as the actor has permission to act.
+
+If you make an agreement with an actor without knowing their authority, you take a risk. No one is bound by an agreement they didn’t agree to or that was made beyond the authority they gave.
+
+If the actor does something wrong because the author told them to, and the actor promised to obey the author, it’s the author who breaks the rules, not the actor. Even if the action is wrong, the actor must obey because breaking a promise to obey is against the natural law.
+
+If you make an agreement with the author through an actor but don’t know the actor’s authority and don’t ask for proof, you aren’t truly bound by the agreement. The agreement isn’t valid without the author’s clear approval.

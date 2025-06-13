@@ -1,22 +1,17 @@
-Numerous notes also reveal the important position of this claim: see, for example, R 4241 (177°-7I? 17:475-6), R 4459 (1772, 17:559-60), R 4461 (1772, ITS60-1), R 4849 (1776-78, 18:5-8, at p. 6), and R 5637 (1780-81, 18:268-78, especially p. 273). See also the series of notes from 1783-84 labeled by Kant "On moral theology" at R 6086-917 (18:445-60).
- 
- 27 On the different concepts of freedom, see Groundwork of the Metaphysics of Morals, section III (4:446-8), and R 4225-7 (1769-70, 1]:444-6), R 454850 (1772-75, 17:589-90), and R 6076-7 (1785-88, 18:443). On the claim that transcendental freedom is necessarily incomprehensible, which is of quite early origin, see R 4334 (1770-7I? 1769? 1773-75? 17:508-9) and R 4338 (1770-71? 1769? 1773-75? ITSI0-II).
- 
- 28 Of course, the content of the moral law will be discussed at length in the Groundwork of the Metaphysics of Morals, section II, and the Critique of Practical Reason, §§ 1-8. But see also the interesting notes at R 5445-6 (1776-78, 18:184).
- 
- 29 This will be discussed at length in Kant's subsequent works, including the "Dialectic" of the Critique of Practical Reason (5:107-141), the "Doctrine of Method" of the "Critique of Teleological Judgment" in the Critique of Judgment, §§ 83-4, 86-7, (5:429-36, 442-53), and Religion within the Boun­ daries of Pure Reason, preface (6:6-8n.). See also Kant's notes from 1783-89 at R 6108-9 (18:456-7), R 61 I 3 (18:459), R 6132-3 (18:464-5), and, from the 179os, R 6443 (19:718-19).
- 
- 30 Reich; usually translated as "kingdom," the translation by "realm" (or "em­ pire") better connotes the idea of a body of subjects who are themselves au­ tonomous under the leadership of a higher rules who does not undermine their autonomy.
- 
- 3 I Here Kant refers to Leibniz's essay On the Principles of Nature and Grace, based on Reason, written in 1714 and first published posthumously in the French journal L'Europe savante in 1718.
- 
- 32 Compare this definition of a maxim with that offered in the Groundwork, 4:420-Ill. The present definition makes it clearer than the Groundwork does that an agent can adopt an objectively valid law as his subjectively valid maxim, which any coherent interpretation of Kant's ethical theory requires.
- 
- 33 See R 4996 (1776-78, 18:55), R 5495 (1776-78, 18:198-9), and R 6314 (1790-91, 18:616-17).
- 
- 34 The anti-voluntarist argument expressed here was long a part of Kant's moral philosophy, and central to the conception of morality that he con­ veyed to his students in his lectures on ethics; see, for instance, Moralphilo­ sophie Collins, 2]:274-9; in Immanuel Kant, Lectures on Ethics, edited by Peter Heath and J. B. Schneewind (Cambridge: Cambridge University Press, 1997), pp. 65-69. The rejection of voluntarism, that is, the view that moral laws are such simply because they are willed by God rather than be­ cause of their inherent rationality, was a centerpiece of the Enlightenment in both Germany (where it was advanced by Christian Wolff) and Britain, where it was argued by Anthony Ashley Cooper, third earl of Shaftesbury, prior to 1699, when John Toland published a pirated edition of Shaftes754 Notes to pages 684-698 bury's An Inquiry Concerning Virtue, or Merit; see book I, part III, section II (in the edition by David Walford [Manchester: Manchester University Press, lin I], p.
- 
+Lots of notes show how important this idea is. For example, check out R 4241 (1770s), R 4459 (1772), R 4461 (1772), R 4849 (1776-78), and R 5637 (1780-81). Also, there are notes from 1783-84 called "On moral theology" at R 6086-917.
 
- 
-(Simplified)
- 
+About different ideas of freedom, see the Groundwork of the Metaphysics of Morals, section III, and notes R 4225-7 (1769-70), R 4548-50 (1772-75), and R 6076-7 (1785-88). The idea that transcendental freedom is impossible to fully understand comes from early notes like R 4334 and R 4338 (around 1770-75).
+
+The details of the moral law will be talked about a lot in the Groundwork, section II, and the Critique of Practical Reason, sections 1-8. There are also some interesting notes at R 5445-6 (1776-78).
+
+Kant discusses this more in later works, like the "Dialectic" part of the Critique of Practical Reason, the "Doctrine of Method" in the Critique of Judgment, and Religion within the Boundaries of Pure Reason. Also, see Kant’s notes from 1783-89 and the 1790s.
+
+The word Reich usually means "kingdom," but "realm" or "empire" is a better way to show a group of people who govern themselves under a higher ruler without losing their freedom.
+
+Kant talks about Leibniz’s essay On the Principles of Nature and Grace, based on Reason, written in 1714 and published after Leibniz died in 1718.
+
+Compare this idea of a maxim with the one in the Groundwork. This new definition makes it clearer that a person can choose a law that is valid for everyone as their own personal rule, which fits Kant’s ethics.
+
+See notes R 4996 (1776-78), R 5495 (1776-78), and R 6314 (1790-91) for more.
+
+Kant’s argument against voluntarism has been part of his moral philosophy for a long time. He taught this in his ethics lectures. Voluntarism is the idea that moral laws are rules just because God wills them, not because they are reasonable. This idea was rejected during the Enlightenment in Germany and Britain by thinkers like Christian Wolff and Anthony Ashley Cooper, before John Toland published a version of Shaftesbury’s work in 1699.

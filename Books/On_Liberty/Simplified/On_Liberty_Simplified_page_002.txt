@@ -1,6 +1,3 @@
-net Contents Chapter 1: Introductory.
- 
+Table of Contents
 
- 
-(Simplified)
- 
+Chapter 1: Introduction.

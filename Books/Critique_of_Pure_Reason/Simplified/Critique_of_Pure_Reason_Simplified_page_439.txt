@@ -1,16 +1,11 @@
-Pt. II. Div. Bk. II <kin the relation of perception to its cause, it always remains doubtful whether this cause is internal or external, thus whether all so-called outer perceptions are not a mere play of our inner sense, or whether they are related to actual external objects as their cause. At least the ex­ istence of the latter is only inferred, and runs the risk of all inferences; by contrast, the object of inner sense (I myself with all my representa­ tions) is immediately perceived, and its existence suffers no doubt at all.
- 
- Ey an idealist, therefore, one must understand not someone who de­ nies the existence of external objects of sense, but rather someone who only does not admit that it is cognized through immediate perception A 369 and infers from this that we can never be fully certain of their reality from any possible experience.
- 
- Now before I display our paralogism in its deceptive illusion, I must first remark that one would necessarily have to distinguish a twofold idealism. I understand by the transcendental idealism of all appear­ ances the doctrine a that they are all together to be regarded as mere representations and not as things in themselves, and accordingly that space and time are only sensible forms of our intuition, but not deter­ minations given for themselves or conditions of objectsb as things in themselves. To this idealism is opposed transcendental realism, which regards space and time as something given in themselves (independent of our sensibility). The transcendental realist therefore represents outer appearances (if their reality is conceded) as things in themselves, which would exist independently of us and our sensibility and thus would also be outside us according to pure concepts of the understanding. It is re­ ally this transcendental realist who afterwards plays the empirical ideal­ ist; and after he has falsely presupposed about objects of the senses that if they are to exist they must have their existence in themselves even apart from sense, he finds that from this point of view all our represen­ tations of sense are insufficient to make their reality certain.
- 
- A370 The transcendental idealist, on the contrary, can be an empirical realist, hence, as he is called, a dualist, i.e., he can concede the existence of matter without going beyond mere self-consciousness and assuming something more than the certainty of representations in me, hence the cogito, ergo sum.C For because he allows this matter and even its inner pos­ sibility to be valid only for appearance -which, separated from our sen­ sibility, is nothing -matter for him is only a species of representations (intuition), which are called external, not as if they related to objects that are external in themselves but because they relate perceptions to space, where all things are external to one another, but that space itself is in us.
- 
- Lehrbegriff a Objecte b , I think, therefore I am.
- 
- 426 Chapter I.
- 
+When we think about how we perceive things, it’s not always clear if the cause of what we see or feel is inside us or outside us. So, we can’t be sure if what we call "outer perceptions" are just something happening inside our minds, or if they come from real things outside of us. We only guess that these outside things exist, and guesses can be wrong. But the stuff inside us—like our own thoughts and feelings—we know for sure exists because we experience it directly.
 
- 
-(Simplified)
- 
+An idealist is not someone who says outside things don’t exist. Instead, an idealist says we don’t know for sure that outside things are real because we don’t experience them directly, only through our senses.
+
+Before explaining a tricky mistake people make, it’s important to know there are two types of idealism. One type, called transcendental idealism, says that everything we see or experience is just a kind of mental image or representation, not the actual things themselves. It also says that space and time are just ways our mind organizes what we experience, not things that exist on their own.
+
+The opposite view is transcendental realism. Realists believe space and time exist independently outside of us. They think that objects we see are real things that exist no matter if we sense them or not. But often, these realists end up acting like idealists because they realize our senses alone can’t prove these objects are definitely real.
+
+On the other hand, the transcendental idealist can still believe in the existence of matter and the outside world but only as something that appears to us through our senses. They don’t claim to know anything beyond what we experience in our minds. For them, matter is just a kind of mental representation called an "external" intuition—not because it relates to things that are truly outside, but because these perceptions are ordered in space, which itself is a part of our mind.
+
+In short, the idealist says: "I think, therefore I am," and everything else we perceive is connected to how our mind organizes experience, not necessarily how things really are outside of us.

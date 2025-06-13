@@ -1,22 +1,15 @@
-” (J. Ficiden: “The Curse of the Factory System,” Lond., 1836, p. I 1.) With reference to the labour of women, Saunders, the factory inspector, says in his report of 1844: “Amongst the female operatives there are some women who, for many weeks in succession, except for a few days, are employed from 6 a. m. till midnight, with less than 2 hours for meals, so that on 5 days of the week they have only 6 hours left out of the 24, for going to and from their homes and resting in bed.” 63 “Occasion... injury to the delicate moving parts of metallic mechanism by inaction.” (Ure, l.c., p.
- 
- 281.) 64 The Manchester Spinner (Times, 26th Nov., 1862) before referred to says in relation to this subject: “It (namely, the “allowance for deterioration of machinery") is also intended to cover the loss which is constantly arising from the superseding of machines before they are worn out, by others of a new and better construction.” 65 “It has been estimated, roughly, that the first individual of a newly-invented machine will cost about five times as much as the construction of the second.” (Babbage, l.c., p. 349.) 66 “The improvements which took place not long ago in frames for making patent net were so great that a machine in good repair which had cost £1,200, sold a few years after for £60 ... improvements succeeded each other so rapidly, that machines which had never been finished were abandoned in the hands of their makers, because new improvements had superseded their utility.” (Babbage, l.c., p.
- 
- 233.) In these stormy, go-ahead times, therefore, the tulle manufacturers soon extended the working day, by means of double sets of hands, from the original 8 hours to 24.
- 
- 67 “It is self-evident, that, amid the ebbings and flowings of the markets and the alternate expansions and contractions of demand, occasions will constantly recur, in which the manufacturer may employ additional floating capital without employing additional fixed capital... if additional quantities of raw material can be worked up without incurring an additional expense for buildings and machinery.” (R.
- 
- Torrens: “On Wages and Combination.” London, 1834, p. 64.) 68 This circumstance is mentioned only for the sake of completeness, for I shall not consider the rate of profit, i.e., the ratio of the surplus-value to the total capital advanced, until I come to the third book.
- 
- 69 Senior, “Letters on the Factory Act.” London, 1837, pp. 13, 14.
- 
- 70 “The great proportion of fixed to circulating capital ... makes long hours of work desirable.” With the increased use of machinery, &c., “the motives to long hours of work will become greater, as the only means by which a large proportion of fixed capital can be made profitable.” (l.c., pp. 11-13.) “There are certain expenses upon a mill which go on in the same proportion whether the mill be running short or full time, as, for instance, rent rates, and taxes, insurance against fire, wages of several permanent servants, deterioration of machinery, with various other charges upon a manufacturing establishment, the proportion of which to profits increases as the production decreases.” (“Rep. of Insp. of Fact. for 31st Oct., 1862,” p. 19.) 71 Why it is, that the capitalist, and also the political economists who are imbued with his views, are unconscious of this immanent contradiction, will appear from the first part of the third book.
- 
- 72 It is one of the greatest merits of Ricardo to have seen in machinery not only the means of producing commodities, but of creating a “redundant population.” 73 F. Biese. “Die Philosophie des Aristoteles,” Vol. 2. Berlin, 1842, p. 408.
- 
- 74 I give below the translation of this poem by Stolberg, because it brings into relief, quite in the spirit of former quotations referring to division of labour, the antithesis between the views of the ancients 337 Chapter 15 and the moderns.
- 
+In 1844, Saunders, a factory inspector, said that some women working in factories had to work from 6 a.m. until midnight for many weeks in a row. They only got less than 2 hours for meals. This meant that on five days each week, they only had 6 hours left to travel home and get some rest.
 
- 
-(Simplified)
- 
+Sometimes, machines get damaged if they are not used enough. Also, machines often get replaced by newer, better ones before they even wear out. For example, the first version of a new machine can cost about five times more than the second version.
+
+There were big improvements in machines used to make net fabric. One machine that cost £1,200 was sold a few years later for just £60 because better machines came out so quickly. Because of these fast changes, some machines were never finished and were left unused.
+
+During these busy times, tulle makers started having two shifts so their factories ran 24 hours a day instead of just 8 hours.
+
+Manufacturers sometimes use extra money to buy more raw materials without needing more buildings or machines. This helps them make more products when demand changes.
+
+There are always costs that don’t change whether the factory is working a little or a lot, like rent, taxes, insurance, and some workers’ wages. These fixed costs make it important for factories to run long hours to make enough profit.
+
+Some economists don’t realize how this creates problems for factory owners. Ricardo, a famous economist, understood that machines not only produce goods but can also create extra workers who aren’t needed.
+
+Lastly, a poem by Stolberg shows how old and modern ideas about work and machines are very different from each other.

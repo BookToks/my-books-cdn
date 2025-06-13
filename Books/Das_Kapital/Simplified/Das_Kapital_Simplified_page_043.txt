@@ -1,18 +1,13 @@
-In the second place, it is a many-coloured mosaic of disparate and independent expressions of value. And lastly, if, as must be the case, the relative value of each commodity in turn, becomes expressed in this expanded form, we get for each of them a relative value form, different in every case, and consisting of an interminable series of expressions of value. The defects of the expanded relative value form are reflected in the corresponding equivalent form. Since the bodily form of each single commodity is one particular equivalent form amongst numberless others, we have, on the whole, nothing but fragmentary equivalent forms, each excluding the others. In the same way, also, the special, concrete, useful kind of labour embodied in each particular equivalent, is presented only as a particular kind of labour, and therefore not as an exhaustive representative of human labour generally. The latter, indeed, gains adequate manifestation in the totality of its manifold, particular, concrete forms. But, in that case, its expression in an infinite series is ever incomplete and deficient in unity.
- 
- The expanded relative value form is, however, nothing but the sum of the elementary relative expressions or equations of the first kind, such as: 20 yards of linen = 1 coat 20 yards of linen = 10 lbs of tea, etc.
- 
- Each of these implies the corresponding inverted equation, 1 coat = 20 yards of linen 10 lbs of tea = 20 yards of linen, etc.
- 
- In fact, when a person exchanges his linen for many other commodities, and thus expresses its value in a series of other commodities, it necessarily follows, that the various owners of the latter exchange them for the linen, and consequently express the value of their various commodities in one and the same third commodity, the linen. If then, we reverse the series, 20 yards of linen = 1 coat or = 10 lbs of tea, etc., that is to say, if we give expression to the converse relation already implied in the series, we get, C. The General Form of Value 1 coat 10 lbs of tea 40 lbs of coffee 1 quarter of corn = 20 yards of linen 2 ounces of gold ½ a ton of iron x Commodity A, etc.
- 
- 1. The altered character of the form of value All commodities now express their value (1) in an elementary form, because in a single commodity; (2) with unity, because in one and the same commodity. This form of value is elementary and the same for all, therefore general.
- 
- The forms A and B were fit only to express the value of a commodity as something distinct from its use value or material form.
- 
- The first form, A, furnishes such equations as the following: – 1 coat = 20 yards of linen, 10 lbs of tea = ½ a ton of iron. The value of the coat is equated to linen, that of the tea to iron. But to be equated to linen, and again to iron, is to be as different as are linen and iron. This form, it is plain, 44 Chapter 1 occurs practically only in the first beginning, when the products of labour are converted into commodities by accidental and occasional exchanges.
- 
+Second, it’s like a colorful puzzle made up of many different and separate ways to show value. Finally, if each product’s value is shown this way, each one will have its own unique value form, with endless ways to express it. The problems with this expanded way of showing value also appear in the matching equivalent form. Since each product’s physical form is just one example among many others, we end up with many separate equivalent forms that don’t fit together. Also, the specific type of useful work in each equivalent form only shows one kind of labor, not all human work in general. The full meaning of labor only appears when you look at all its many different kinds together. But showing it as a never-ending series is always incomplete and not unified.
 
- 
-(Simplified)
- 
+The expanded way of showing relative value is just the sum of simple value comparisons like: 20 yards of linen = 1 coat, or 20 yards of linen = 10 pounds of tea.
+
+Each of these also means the reverse is true, like 1 coat = 20 yards of linen, or 10 pounds of tea = 20 yards of linen.
+
+When someone trades their linen for many other products, their value is shown in those products. At the same time, the owners of those products trade back for linen, showing their products’ value in linen. If we flip the series, like 20 yards of linen = 1 coat = 10 pounds of tea, we get the General Form of Value, where different things like coats, tea, coffee, corn, gold, iron, and others all equal 20 yards of linen.
+
+1. The changed way value is shown Now, all products show their value (1) in one simple form, using one product; (2) with unity, because they all use the same product. This form is simple and the same for all, so it’s general.
+
+The earlier forms, A and B, could only show a product’s value as something separate from its use or physical form.
+
+Form A gives equations like: 1 coat = 20 yards of linen, or 10 pounds of tea = ½ a ton of iron. The coat’s value equals linen, the tea’s equals iron. But being equal to linen, and also to iron, is confusing because linen and iron are so different. This form mostly happens at the very start, when products first become commodities through random trades.

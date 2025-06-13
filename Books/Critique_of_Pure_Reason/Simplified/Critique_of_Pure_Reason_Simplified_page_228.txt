@@ -1,18 +1,15 @@
-On the pure concepts of the understanding of the understanding, indeed even the form of a system of them in the B I IO human understanding, consequently that it gives instruction about all the moments, indeed even of their order, of a planned speculative science, as I have elsewhere given proof.* Now here are several of these remarks.
- 
- The first is that this table, which contains four classes of concepts of the understanding, can first be split into two divisions, the first of which is concerned with objects of intuition (pure as well as empirical), the second of which, however, is directed at the existence of these objects (either in relation to each other or to the understanding).
- 
- I will call the first class the mathematical categories, the second, the dynamical ones. As one sees, the first class has no correlates, which are to be met with only in the second class. Yet this difference must have a ground in the nature of the understanding.
- 
- Second remark: that each class always has the same number of cat­ egories, namely three, which calls for reflection, since otherwise all a priori division by means of concepts must be a dichotomy. But here the third category always arises from the combination of the first two in its class.
- 
- Thus allness (totality) is nothing other than plurality considered as a B I I I unity, limitation is nothing other than reality combined with negation, community is the causality of a substance in the reciprocal determination of others, finally necessity is nothing other than the existence that is given by possibility itself. But one should not think that the third category is therefore a merely derivative one and not an ancestral concept of pure understanding. For the combination of the first and second in order to bring forth the third concept requires a special act of the un­ derstanding, which is not identical with that act performed in the first and second. Thus the concept of a number (which belongs to the category of allness) is not always possible wherever the concepts of multitude and of unity are (e.g., in the representation of the infinite); or influence, i.e., how one substance can be the cause of something in another substance, is not to be understood immediately by combining the concept of a cause and that of a substance. From this it is clear that a special act of the understanding is requisite for this; and likewise in the other cases.
- 
- Third remark: The agreement of a single category, namely that of community, which is to be found under the third title, with the form of a disjunctive judgment, which is what corresponds to it in the table B I 12 of logical functions, is not as obvious as in the other cases.
- 
- In order to be assured of this agreement one must note that in all dis­ junctive judgments the sphere (the multitude of everything that is con* Metaphysical Foundations of Natural Science. B I IO 215 Doctrine of Elements.
- 
+The pure ideas of understanding, and even how they fit together in a system, help explain all the parts and their order in a planned science, as I have shown before. Now, here are some notes about this.
 
- 
-(Simplified)
- 
+First, the table has four groups of understanding concepts, which can be divided into two parts. The first part deals with objects we can imagine or experience, while the second part focuses on whether these objects actually exist, either by themselves or in relation to each other.
+
+I call the first group "mathematical categories" and the second group "dynamical categories." The first group doesn’t have related pairs, but the second group does. This difference must come from how our understanding works.
+
+Second, each group always has three categories. This is interesting because usually, when we divide ideas, we split them into two. But here, the third category comes from combining the first two in each group.
+
+For example, "allness" (or totality) is just many things thought of as one. "Limitation" is reality mixed with what is not real. "Community" means how one thing causes another to happen. And "necessity" means something exists because it could possibly exist. 
+
+Don’t think the third category is just a simple mix of the first two. Making the third category needs a special kind of understanding that’s different from just understanding the first two. For example, the idea of a number (which is in the allness group) isn’t always possible just by thinking about many things and one thing, like when thinking about infinity. Or understanding how one thing causes something in another isn’t just about combining cause and substance. This shows we need a special mental step to get the third idea, and this is true for the others too.
+
+Third, the agreement of one category called "community" matches with a type of logical judgment called a "disjunctive judgment." But this match isn’t as clear as it is for the other categories.
+
+To understand this, remember that in all disjunctive judgments, the group (or many possibilities) involved is important.

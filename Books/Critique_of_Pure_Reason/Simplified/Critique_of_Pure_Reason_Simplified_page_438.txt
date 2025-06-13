@@ -1,14 +1,7 @@
-On the paralogisms of pure reason <A> us as something external. But since I want to observe the mere I through the change in all my representations, I have once again no cor­ relate other than Myself for my comparisons with the general condi­ tions of my consciousness; I can therefore give nothing but tautological answers to all questions, because I substitute my concept and its unity for the properties pertaining to my self as an object,a and thus merely presuppose what one demanded to know.
- 
- The fourth paralogism of the ideality (of outer relation).b That whose existence can be inferred only as a cause of given percep­ tions has only a doubtful existence: Now all outer appearances are of this kind: their existence cannot be A 367 immediately perceived, but can be inferred only as the cause of given perceptions: Thus the existence of all objects of outer sense is doubtful. This un­ certainty I call the ideality of outer appearances, and the doctrine of this ideality is called idealism, in comparison with which the assertion of a possible certainty of objects of outer sense is called dualism.
- 
- Criticism of the fourth paralogism of transcendental psychology.
- 
- First we will subject the premises to examination. We can rightly assert that only what is in ourselves can be immediately perceived, and that my own existence alone could be the object of a mere perception. Thus the existence of a real object outside me (if this last word is taken in an in­ tellectual signification) is never given directly in perception, but can only be added in thought to what is a modification of inner sense as its external cause, and hence can only be inferred. Therefore Descartes also rightly limited all perception in the narrowest sense to the proposition "I (as a thinking being) am."30 Thus it is clear that since the external is A368 not in me, I cannot encounter it in my apperception, hence not in any perception, which is properly only a determination of apperception.
- 
- Thus I cannot really perceive external things, but only infer their ex­ istence from my inner perception, insofar as I regard this as the effect of which something external is the proximate cause. But now the infer­ ence from a given effect to its determinate cause is always uncertain, since the effect can have arisen from more than one cause. Accordingly, a Object b Verba/tnisses 425 Doctrine of Elements.
- 
+When we think about pure reason, we see ourselves as something outside. But if I want to watch just the "I" through all the changes in my thoughts, I have no one else to compare it with except myself. So, I can only give answers that repeat what I already think, because I use my idea of myself instead of looking at the real qualities of myself as an object. This means I’m just assuming what I was supposed to find out.
 
- 
-(Simplified)
- 
+The fourth mistake about how we understand the outside world is this: If something’s existence can only be guessed because it causes what we see, then its existence is uncertain. All outer things are like this—they aren’t seen right away, but only guessed as causes of what we perceive. So, the existence of all outside objects is doubtful. This doubt is called the "ideality" of outer appearances. The idea that these outside objects might be real for sure is called dualism, which is different from idealism.
+
+Now, let’s look closely at this fourth mistake in how we think about the mind. We can say it’s true that we only directly notice what’s inside us, and only my own existence can be simply noticed. So, a real object outside me is never directly seen, but only added as a thought to what I feel inside, as if it causes that feeling. That’s why Descartes said the only sure thing is “I exist as a thinking being.” It’s clear that what’s outside isn’t inside me, so I can’t find it in my awareness or perception, which really just measures my own awareness.
+
+So, I don’t really see outside things; I only guess they exist based on my inner feelings, thinking they cause those feelings. But guessing the cause from an effect is always unsure because more than one cause could have made that effect.

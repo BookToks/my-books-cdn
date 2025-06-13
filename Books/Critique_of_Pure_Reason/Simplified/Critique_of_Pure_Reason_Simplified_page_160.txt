@@ -1,16 +1,13 @@
-22 In the solution of the above problem there is at the same time con­ tained the possibility of the pure use of reason in the grounding and ex­ ecution of all sciences that contain a theoretical a priori cognition of objects, i.e., the answer to the questions: How is pure mathematics possible?
- 
- How is pure natural science possible?
- 
- About these sciences, since they are actually given, it can appropriately be asked how they are possible; for that they must be possible is proved through their actuality. * As far as metaphysics is concerned, however, its poor progress up to now, and the fact that of no meta- B 2 I physics thus far expounded can it even be said that, as far as its essential end is concerned, it even really exists, leaves everyone with ground to doubt its possibility.
- 
- But now this kind of cognition is in a certain sense also to be re­ garded as given, and metaphysics is actual, if not as a science yet as a natural predisposition (metaphysica naturalis). For human reason, with­ out being moved by the mere vanity of knowing it all, inexorably pushes on, driven by its own need to such questions that cannot be answered by any experiential use of reason and of principlesa borrowed from such a use; and thus a certain sort of metaphysics has actually been present in all human beings as soon as reason has extended itself to speculation in them, and it will also always remain there. And now about this too the question is: How is metaphysics as a natural predisposition pos- B 22 sible? i.e., how do the questions that pure reason raises, and which it is driven by its own need to answer as well as it can, arise from the nature of universal human reason?
- 
- But since unavoidable contradictions have always been found in all previous attempts to answer these natural questions, e.g., whether the world has a beginning or exists from eternity, etc., one cannot leave it up to the mere natural predisposition to metaphysics, i.e., to the pure faculty of reason itself, from which, to be sure, some sort of metaphysics (whatever it might be) always grows, but it must be possible to bring it * Some may still doubt this last point in the case of pure natural science. Yet one B 2 I need merely consider the various propositions that come forth at the outset of proper (empirical) physics, such as those of the persistence of the same quantity of matter, of inertia, of the equality of effect and counter-effect, etc., and one will quickly be convinced that they constitute a physica pura (or rationalis), which well deserves to be separately established, as a science of its own, in its whole domain, whether narrow or wide.
- 
- a Principien 147 Introduction <B> to certainty regarding either the knowledge or ignorance of objects, i.
- 
+In solving the problem above, we also find a way to use pure reason to support and carry out all sciences that involve knowing things before experience, like math and natural science.
 
- 
-(Simplified)
- 
+We can ask: How is pure math possible? How is pure natural science possible?
+
+Since these sciences actually exist, it makes sense to ask how they can be possible. Their existence proves that they must be possible. But metaphysics hasn’t made much progress yet, and no one can say for sure that real metaphysics even exists, so people often doubt if it’s possible at all.
+
+Still, this kind of knowledge can also be seen as something we naturally have. Metaphysics might not be a formal science yet, but it exists as a natural tendency in humans. Human reason, without just wanting to know everything for show, naturally pushes us to ask questions that experience alone can’t answer. So, some form of metaphysics has been part of all humans once they start thinking deeply, and it will always be there.
+
+Now, we can ask: How is metaphysics as a natural tendency possible? In other words, why does pure reason naturally ask these questions?
+
+Because all past attempts to answer these natural questions have led to contradictions—like whether the world had a beginning or has always existed—we can’t just rely on this natural tendency or reason alone. We need a way to be sure if we really can know or not know these things.
+
+(Some people might still doubt this about pure natural science. But if you think about the basic ideas in physics—like matter staying the same, inertia, and cause and effect—you’ll see that pure physics is a real science on its own and should be clearly established as one.)

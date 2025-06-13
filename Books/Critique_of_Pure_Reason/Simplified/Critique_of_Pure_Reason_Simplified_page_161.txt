@@ -1,14 +1,9 @@
-e., to come to a decision either about the objects of its questions or about the capacity and incapacity" of reason for judging something about them, thus either reliably to extend our pure reason or else to set de­ terminate and secure limits for it. This last question, which flows from the general problem above, would rightly be this: How is metaphysics possible as science?
- 
- The critique of reason thus finally leads necessarily to science; the dogmatic use of it without critique, on the contrary, leads to groundless B 2 3 assertions, to which one can oppose equally plausible ones, thus to skepticism.
- 
- Further, this science cannot be terribly extensive, for it does not deal with objectsb of reason, whose multiplicity;c is infinite, but merely with itself, with problems that spring entirely from its own womb, and that are not set before it by the nature of things that are distinct from it but through its own nature; so that, once it has become completely familiar with its own capacity" in regard to the objects that may come before it in experience, then it must become easy to determine, completely and securely, the domain and the bounds of its attempted use beyond all bounds of experience.
- 
- Thus one can and must regard as undone all attempts made until now to bring about a metaphysics dogmatically; for what is analytic in one or the other of them, namely the mere analysis of the concepts that in­ habit our reason priori, is not the end at all, but only a preparation for a metaphysics proper, namely extending its priori cognition syntheti­ a cally, and it is useless for this end, because it merely shows what is con­ tained in these concepts, but not how we attain such concepts priori in a order thereafter to be able to determine their valid use in regard to the B 24 objects of all cognition in general. It also requires only a little self­ denial in order to give up all these claims, since the contradictions of reason, which cannot be denied and which are also unavoidable in dog­ matic procedure, have long since destroyed the authority of every pre­ vious metaphysics. More resolution will be necessary in order not to he deterred by internal difficulty and external resistance from using an­ other approach,' entirely opposed to the previous one, in order to pro­ mote the productive and fruitful growth of a science that is indis­ pensable for human reason, and from which one can chop down every stem that has shot up without ever being able to eradicate its root.
- 
- a Vermogen und Unvermogen Objecten b , Mannigfaltigkeit Vermiigen d , Behandlung 148 Introduction <B> aVII.
- 
+The goal is to decide either about the things reason asks questions about or about the ability and inability of reason to judge those things. This way, we can either trust reason more or clearly set limits for it. The main question here is: How can metaphysics be a real science?
 
- 
-(Simplified)
- 
+Criticizing reason leads us to science. Using reason without this kind of criticism causes baseless claims that can be challenged by other claims, which leads to doubt and confusion.
+
+This kind of science can't be very big because it doesn’t study many outside things, which are endless. Instead, it studies reason itself and the problems that come from reason alone. Once reason fully understands its own abilities about the things we experience, it becomes easier to clearly know where reason can and cannot go beyond experience.
+
+So, all past efforts to create a dogmatic metaphysics are unfinished. Just analyzing the ideas we have in reason is not the final goal, but only a step toward a true metaphysics. True metaphysics means expanding what we know before experience in a meaningful way. The old way doesn’t work because it only shows what’s in our ideas, not how we get those ideas or how to use them correctly for all knowledge.
+
+It’s not hard to give up old claims because the contradictions in reason, which can’t be ignored, have already destroyed the trust in past metaphysics. It will take courage to use a totally new method, different from the old one, to help metaphysics grow in a useful way. This new approach is necessary for human reason and can finally stop problems that have kept coming back without being solved.

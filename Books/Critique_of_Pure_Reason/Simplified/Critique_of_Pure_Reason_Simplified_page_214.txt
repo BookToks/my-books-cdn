@@ -1,14 +1,5 @@
-It is con­ cerned with the following points: I.b That the concepts be pure and not empirical concepts. 2. That they belong not to intuition and to sensibility, but rather to thinking and understanding. 3. That they be ele­ mentary concepts, and clearly distinguished from those which are derived or composed from them. 4. That the table of them be complete, and that they entirely exhaust the entire field of pure understanding.
- 
- Now this completeness of a science cannot reliably be assumed from a rough calculation of an aggregate put together by mere estimates; hence it is possible only by means of an idea of the whole of the a priori cognition of the understanding, and throughC the division of concepts that such an idea determines and that constitutes it, thus only through their connection in a system. The pure understanding sepa- A6S rates itself completely not only from everything empirical, but even from all sensibility. It is therefore a unity that subsists on its own, which is sufficient by itself, and which is not to be supplemented by any ex- B 90 ternal additions. Hence the sum total of its cognition will constitute a system that is to be grasped and determined under one idea, the com­ pleteness and articulation of which system can at the same time yield a touchstone of the correctness and genuineness of all the pieces of cognition fitting into it. This whole part of the transcendental logic, however, consists of two books, the first of which contains the concepts of pure understanding, the second its principles.
- 
- a Zergliederung b The numeral "1." is missing in the second edition.
- 
- , Added in the second edition.
- 
- 201 Transcendental Analytic First Book The Analytic of Concepts.
- 
+It is about the following points: First, that the ideas should be pure and not based on experience. Second, that they belong to thinking and understanding, not to feelings or senses. Third, that these ideas are basic and clearly different from those made by combining them. Fourth, that the list of these ideas is complete and covers all of pure understanding.
 
- 
-(Simplified)
- 
+Now, you can’t just guess that a science is complete by adding things up roughly. To be sure, you need a clear idea of all the knowledge that understanding has beforehand. This happens by sorting the ideas and connecting them in a system. Pure understanding separates itself completely from everything based on experience or feelings. It works alone and doesn’t need anything outside itself.
+
+Because of this, all its knowledge makes a system that you can understand as one whole idea. How complete and organized this system is can show if all the parts of knowledge in it are correct and real. This part of transcendental logic has two books: the first one has the ideas of pure understanding, and the second one has its rules.

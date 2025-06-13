@@ -1,14 +1,7 @@
-On logic in general.
- 
- Our cognition arises from two fundamental sources in the mind, the first of which is the reception of representations (the receptivity of im­ pressions), the second the faculty for cognizing an object by means of these representations (spontaneity of concepts); through the former an object is given to us, through the latter it is thought in relation to that representation (as a mere determination of the mind). Intuition and concepts therefore constitute the elements of all our cognition, so that neither concepts without intuition corresponding to them in some way nor intuition without concepts cana yield a cognition. Both are either pure or empirical. Empirical, if sensation (which presupposes the ac­ tual presence of the object) is contained therein; but pure if no sensa­ tion is mixed into the representation. One can call the latter the matter of sensible cognition. Thus pure intuition contains merely the form B 75 under which something is intuited, and pure concept only the form of A 5 I thinking of an object in general. Only pure intuitions or concepts alone are possible priori, empirical ones only posteriori.
- 
- a a If we will call the receptivity of our mind to receive representations insofar as it is affected in some way sensibility, then on the contrary the faculty for bringing forth representations itself, or the spontaneity of cognition, is the understanding. It comes along with our nature that intuition can never be other than sensible, i.e., that it contains only the way in which we are affected by objects. The faculty for thinking of objects of sensible intuition, on the contrary, is the understanding.
- 
- Neither of these properties is to be preferred to the other. Without sen­ sibility no object would be given to us, and without understanding none would be thought. Thoughts without content are empty, intuitions a The second edition has the plural verb konnen; the first had the singular kann.
- 
- 193 Doctrine of Elements.
- 
+Our thinking comes from two main parts of the mind. The first part is how we receive impressions or information about things. The second part is how we understand or make sense of these impressions. The first part gives us the object, and the second part helps us think about it.
 
- 
-(Simplified)
- 
+So, to know something, we need both feelings or pictures in our mind (called intuition) and ideas or concepts. Neither just ideas without feelings nor just feelings without ideas can give us real knowledge. Both feelings and ideas can be pure or based on experience. If they include sensations from real objects, they are based on experience. If not, they are pure. Pure feelings only show the shape or form of something, and pure ideas only show how we think about objects in general. Pure feelings or ideas come before experience, but those based on experience come after.
+
+If we call the mind’s ability to receive impressions “sensibility,” then the mind’s ability to create ideas or think is called “understanding.” Our feelings or intuitions always come from how objects affect us. But the ability to think about these feelings is the understanding.
+
+Neither sensibility nor understanding is more important than the other. Without sensibility, we wouldn’t get information about objects, and without understanding, we couldn’t think about them. Thoughts without real content are empty, and feelings without ideas are meaningless.

@@ -1,18 +1,5 @@
-h On the difference between pure and empirical cognition.
- 
- There is no doubt whatever that all our cognition begins with experi­ ence; for how else should the cognitive faculty be awakened into exer­ cise if not through objects that stimulate our senses and in part themselves produce representations, in part bring the activity of our un­ derstanding into motion to compare these, to connect or separate them, and thus to work up the raw material of sensible impressions into a cognition of objects that is called experience?7 As far as time is con­ cerned, then, no cognition in us precedes experience, and with experi­ ence every cognition begins.
- 
- But although all our cognition commences with experience, yet it does not on that account all arise from experience. For it could well be that even our experiential cognition is a composite of that which we re­ ceive through impressions and that which our own cognitive faculty (merely prompted by sensible impressions) provides out of itself, B 2 which addition we cannot distinguish from that fundamental material until long practice has made us attentive to it and skilled in separating it out.
- 
- It is therefore at least a question requiring closer investigation, and one not to be dismissed at first glance, whether there is any such cog­ nition independent of all experience and even of all impressions of the senses. One calls such cognitions a priori, C and distinguishes them from empirical ones, which have their sources a posteriori, namely in experience.8 The former expressiond is nevertheless not yet sufficiently determi­ nate to designate the whole sense of the question before us. For it is cus­ tomary to say of many a cognition derived from experiential sources that we are capable of it or partake in it a priori, because we do not derive it a As in the second edition.
- 
- Sections I and II (B I -6) replace the first two paragraphs of Section I in the first edition b (AI-2).
- 
- , Normally set in roman type, here emphasized by Kant by the use of italics.
- 
- That is, "a priori." d 136 Introduction <B> immediately from experience, but rather from a general rule that we have nevertheless itself borrowed from experience.
- 
+All our knowledge starts with experience. How else could our minds begin to learn if not through things we see, hear, or feel? These things wake up our senses and help us form pictures or ideas in our minds. Then, our understanding works by comparing, connecting, or separating these ideas. This process turns raw impressions from our senses into knowledge about the world, which we call experience. So, in terms of time, no knowledge comes before experience; all knowledge begins with it.
 
- 
-(Simplified)
- 
+But even though all knowledge starts with experience, it doesn’t mean that all knowledge comes only from experience. It’s possible that some parts of what we know come from our mind itself, which is triggered by what we sense. This extra part is mixed with what we get from experience, and we can’t tell the difference between them until we practice and learn to notice it.
+
+Because of this, we need to look more closely at whether there is any kind of knowledge that doesn’t depend on experience or what we sense at all. Such knowledge is called a priori, meaning it exists before any experience. This is different from empirical knowledge, which comes from experience, called a posteriori. The term a priori isn’t always clear because sometimes we say we know something a priori even though we actually learned it from experience, but we apply it based on a general rule we got from experience.

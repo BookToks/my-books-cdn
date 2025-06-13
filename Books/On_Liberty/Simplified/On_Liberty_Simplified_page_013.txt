@@ -1,14 +1,9 @@
-People decide according to their personal preferences.
- 
- Some, whenever they see any good to be done, or evil to be remedied, would willingly instigate the government to undertake the business; while others prefer to bear almost any amount of social evil, rather than add one to the departments of human interests amenable to governmental control. And men range themselves on one or the other side in any particular case, according to this general direction of their sentiments; or according to the degree of interest which they feel in the particular thing which it is proposed that the government should do, or according to the belief they entertain that the government would, or would not, do it in the manner they prefer; but very rarely on account of any opinion to which they consistently adhere, as to what things are fit to be done by a government. And it seems to me that in consequence of this absence of rule or principle, one side is at present as of wrong as the other; the interference of government is, with about equal frequency, improperly invoked and improperly condemned.
- 
- The object of this Essay is to assert one very simple principle, as entitled to govern absolutely the dealings of society with the individual in the way of compulsion and control, whether the means used be physical force in the form of legal penalties, or the moral coercion of public opinion. That principle is, that the sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection. That the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant. He cannot rightfully be compelled to do or forbear because it will be better for him to do so, because it will make him happier, because, in the opinions of others, to do so would be wise, or even right. These are good reasons for remonstrating with him, or reasoning with him, or persuading him, or entreating him, but not for compelling him, or visiting him with any evil in case he do otherwise. To justify that, the conduct from which it is desired to deter him must be calculated to produce evil to some one else.
- 
- The only part of the conduct of any one, for which he is amenable to society, is that which concerns others. In the part which merely concerns himself, his independence is, of right, absolute. Over himself, over his own body and mind, the individual is sovereign.
- 
- It is, perhaps, hardly necessary to say that this doctrine is meant to 14/John Stuart Mill apply only to human beings in the maturity of their faculties.
- 
+People make choices based on what they like.
 
- 
-(Simplified)
- 
+Some people want the government to step in whenever there’s a problem or something good to do. Others would rather deal with problems themselves than have the government get involved. People usually decide which side to take based on how they feel about the issue, how much it matters to them, or whether they think the government would handle it the way they want. Rarely do they decide based on a clear rule about what the government should or shouldn’t do. Because of this, both sides are often wrong. Sometimes people want the government to help when it shouldn’t, and sometimes they don’t want the government to help when it should.
+
+This essay wants to explain a simple idea that should guide how society controls individuals, whether by laws or by social pressure. The idea is that the only reason anyone should interfere with someone else’s freedom is to protect others from harm. Power can only be used against someone’s will to stop them from hurting other people. It can’t be used just because it might be better for them, make them happier, or because others think it’s the right or smart thing to do. Those are good reasons to talk to someone or try to convince them, but not good reasons to force them or punish them if they don’t listen. To justify forcing someone, their actions must harm someone else.
+
+The only part of a person’s actions that society can control is the part that affects other people. When it comes to things that only affect themselves, a person has complete freedom. Each person is the boss of their own body and mind.
+
+This idea is meant to apply only to adults who are capable of making their own decisions.

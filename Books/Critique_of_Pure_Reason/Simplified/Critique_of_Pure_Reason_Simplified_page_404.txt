@@ -1,14 +1,11 @@
-This is the question with which we will now concern our­ selves, though only provisionally. In fact the manifold of rules and the unity of principles is a demand of reason, in order to bring the under­ standing into thoroughgoing connection with itself, just as the under­ standing brings the manifold of intuition under concepts and through them into connection.1O Yet such a principleb does not prescribe any law A 306 to objects/ and does not contain the ground of the possibility of cognizing and determining them as such in general, but rather is merely a subjective law of economy for the provision of our understanding, so that through comparison of its concepts it may bring their universal use to the smallest number, without justifYing us in demanding of objects themselves any such unanimity as might make things easier for our un- B 363 derstanding or help it extend itself, and so give objective validity to its maxims as well. In a word, the question is: Does reason in itself, i.e., pure reason, contain priori synthetic principlesd and rules, and in what a might such principles consist?
- 
- The formal and logical procedure of reason in syllogisms already gives us sufficient guidance as to where the ground of its transcenden­ tal principle' will rest in synthetic cognition through pure reason.
- 
- First, the syllogism does not deal with intuitions, in order to bring them under rules (as does the understanding with its categories), but rather deals with concepts and judgments. If, therefore, pure reason also deals with objects, yet it has no immediate reference to them and their intuition, but deals only with the understanding and its judgments, which apply directly to the senses and their intuition, in order to deter- A 307 mine their object. The unity of reason is therefore not the unity of a possible experience, but is essentially different from that, which is the unity of understanding. That everything which happens must have a cause is not a principle! cognized and prescribed through reason at all.
- 
- It makes the unity of experience possible and borrows nothing from reason, which could not have imposed any such synthetic unity from B 364 mere concepts without this reference to possible experience.
- 
- Second, reason in its logical use seeks the universal condition of its a subalternes Grundsatz b , Objecte d Grundsiitze , Principium f Grundsatz 391 Doctrine of Elements.
- 
+This is the question we will focus on for now, but only for a little while. Reason wants rules and principles to help our understanding connect everything clearly, just like understanding uses concepts to organize what we see and experience.
 
- 
-(Simplified)
- 
+But this principle doesn’t tell us any laws about objects themselves. It doesn’t explain how we can know or define things in general. Instead, it’s just a helpful rule for our understanding to keep things simple by using the fewest concepts possible. It doesn’t mean we can expect things in the world to always match these ideas perfectly. So, the big question is: Does pure reason by itself have basic rules and principles that are true before we experience anything? And if yes, what are those rules like?
+
+The way reason works in logic, like in syllogisms (a kind of logical argument), already shows us where its basic principle comes from when it thinks about knowledge without experience.
+
+First, syllogisms don’t work with what we see or feel directly, but with ideas and statements. So, if pure reason thinks about objects, it doesn’t connect with them right away or with our direct experiences. Instead, it works with understanding and the judgments it makes based on what we sense, to figure out what objects are. The unity of reason is not the same as the unity of experience, which comes from understanding. For example, the idea that everything has a cause is not something reason alone knows or sets as a rule.
+
+This idea that everything has a cause only makes experience possible and doesn’t come from reason alone, because reason can’t create this kind of connection without relying on possible experience.
+
+Second, when used logically, reason looks for the universal condition or the most basic rule behind its ideas.

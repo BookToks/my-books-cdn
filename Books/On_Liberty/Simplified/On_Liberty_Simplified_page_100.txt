@@ -1,18 +1,13 @@
-Yet the current ideas of liberty, which bend so easily to real infringements of the freedom of the individual in things which concern only himself, would repel the attempt to put any restraint upon his inclinations when the consequence of their indulgence is a life or lives of wretchedness and depravity to the offspring, with manifold evils to those sufficiently within reach to be in any way affected by their actions.
- 
- When we compare the strange respect of mankind for liberty, with their strange want of respect for it, we might imagine that a man had an indispensable right to do harm to others, and no right at all to please himself without giving pain to any one.
- 
- I have reserved for the last place a large class of questions respecting the limits of government interference, which, though closely connected with the subject of this Essay, do not, in strictness, belong to it.
- 
- These are cases in which the reasons against interference do not turn upon the principle of liberty: the question is not about restraining the actions of individuals, but about helping them; it is asked whether the government should do, or cause to be done, something for their benefit, instead of leaving it to be done by themselves, individually or in voluntary combination.
- 
- The objections to government interference, when it is not such as to involve infringement of liberty, may be of three kinds.
- 
- The first is, when the thing to be done is likely to be better done by individuals than by the government. Speaking generally, there is no one so fit to conduct any business, or to determine how or by whom it shall be conducted, as those who are personally interested in it. This principle condemns the interferences, once so common, of the legislature, or the officers of government, with the ordinary processes of industry. But this part of the subject has been sufficiently enlarged upon by political economists, and is not particularly related to the principles of this Essay.
- 
- The second objection is more nearly allied to our subject. In many cases, though individuals may not do the particular thing so well, on the average, as the officers of government, it is nevertheless desirable that it should be done by them, rather than by the government, as a means to their own mental education—a mode of strengthening their active faculties, exercising their judgment, and giving them a familiar knowledge of the subjects with which they are thus left to deal. This is a principal, though not the sole, recommendation of jury trial (in cases not political); of free and popular local and municipal institutions; of the conduct of industrial and philanthropic enterprises by voluntary associations.
- 
+Right now, people think a lot about freedom, but they often ignore when someone's choices hurt only themselves. However, they would strongly disagree if someone tried to stop a person from doing things that cause a terrible life for their children or harm others close to them.
 
- 
-(Simplified)
- 
+When we look at how people respect freedom sometimes and ignore it other times, it almost seems like they believe a person can hurt others but can’t do anything just for their own happiness without causing pain.
+
+I saved some big questions about how much the government should get involved for last. These questions are connected to this topic but don’t exactly fit with it.
+
+These questions are about whether the government should step in to help people instead of leaving them to handle things on their own or with groups they choose.
+
+There are three main reasons people don’t want the government to get involved when it doesn’t take away freedom.
+
+The first reason is that individuals usually do things better than the government. Usually, the people who care most about something are the best ones to manage it. This idea says the government shouldn’t interfere with normal business activities, and experts have talked a lot about this already.
+
+The second reason is closer to our topic. Sometimes, even if individuals might not do something as well as the government, it’s still better if they do it themselves. Doing things on their own helps people learn, make decisions, and understand the issues better. This is why things like jury trials, local government, and voluntary groups running charity or business projects are important.

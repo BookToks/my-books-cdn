@@ -1,18 +1,13 @@
-Pt. II. Div. II. Transcendental Dialectic taken from experience (by induction) can serve as the major premise in a syllogism;a but it is not therefore itself a principle. b The mathemati­ cal axioms (e.g., that there can be only one straight line between any two points) are even universal cognitions priori, and thus they are cor­ a rectly called principles relative to the cases that can be subsumed under them. But I cannot therefore say that in general and in itself I cognize B 357 this proposition about straight lines from principles, but only that I cognize it in pure intuition.
- 
- I would therefore call a "cognition from principles" that cognition in which I cognize the particular in the universal through concepts. Thus every syllogism is a form of derivation of a cognition from a principle.
- 
- For the major premise always gives a concept such that everything sub­ sumed under its condition can be cognized from it according to a prin­ ciple. Now since every universal cognition can serve as the major premise in a syllogism, and since the understanding yields such univer­ sal propositions priori, these propositions can, in respect of their pos­ a sible use, be called principles.
- 
- A301 But if we consider these principlesc of pure understanding in themselves as to their origin, then they are anything but cognitions from concepts. For they would not even be possible priori if we did not a bring in pure intuition (in mathematics) or the conditions of a possible experience in general. That everything that happens has a cause cannot at all be inferred from the concept of what happens in general; rather, it is this principled that shows how one can first get a determinate ex­ periential concept of what happens.
- 
- Thus the understanding cannot yield synthetic cognitions from con­ B 358 cepts at all, and it is properly these that I call principles absolutely; nev­ ertheless, all universal propositions in general can be called principles comparatively.
- 
- It is an ancient wish -who knows how long it will take until perhaps it is fulfilled -that in place of the endless manifold of civil laws, their principles may be sought out; for in this alone can consist the secret, as one says, of simplifying legislation. But here the laws are only limita­ tions of our freedom to conditions under which it agrees thoroughly with itself; hence they apply to something that is wholly our own work, and of which we can be the cause through that concept. But that obA 302 jects in themselves, as well as the nature of things, should stand under principles and be determined according to mere concepts is something a Vernunftschlufl might equally be translated "inference of reason"; and occasionally it will be so translated below.
- 
- b Principium , Grundsdtze Grundsatz d 388 Introduction that, if not impossible, is at least very paradoxicala in what it demands.
- 
+Part II, Division II: Transcendental Dialectic, taken from experience by induction, can be used as the main idea in a logical argument, but that doesn’t mean it is itself a principle. 
 
- 
-(Simplified)
- 
+Mathematical rules, like the idea that there can only be one straight line between two points, are universal truths we understand without experience. So, these rules can be called principles when we apply them to specific cases. But I don’t learn these rules from principles; instead, I understand them through pure intuition.
+
+I would call "knowing from principles" the process where I understand a specific thing by connecting it to a general idea through concepts. Every logical argument is a way of getting knowledge from a principle.
+
+The main idea in an argument always gives a general concept, so anything that fits under it can be understood based on that principle. Since all general knowledge can be the main idea in an argument, and since our mind creates these general ideas before experience, these ideas can be called principles for how they might be used.
+
+But if we look at these principles of pure understanding by themselves, they don’t actually come from concepts. They wouldn’t be possible without pure intuition (like in math) or the basic conditions needed for any experience. For example, the idea that everything that happens has a cause can’t be figured out just by thinking about what happens; instead, this principle helps us understand how to get clear ideas from experience.
+
+So, the mind can’t create new knowledge by just using concepts alone. The true principles, which give new knowledge, are not from concepts. Still, all general statements can be called principles in a relative way.
+
+People have long hoped that instead of having endless civil laws, we could find the basic principles behind them. That would make laws simpler. But laws limit our freedom only in ways that agree with ourselves because they apply to things we create and control through concepts. The idea that things in the world should follow principles based only on concepts is strange and maybe even impossible. Sometimes this is called an "inference of reason," and it will be explained more later.

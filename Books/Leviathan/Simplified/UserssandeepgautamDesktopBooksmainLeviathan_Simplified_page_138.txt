@@ -1,16 +1,11 @@
-Of systems subordinate, some are political, and some private. Political (otherwise called bodies politic and persons in law) are those which are made by authority from the sovereign power of the Commonwealth. Private are those which are constituted by subjects amongst themselves, or by authority from a stranger. For no authority derived from foreign power, within the dominion of another, is public there, but private.
- 
- And of private systems, some are lawful; some unlawful: lawful are those which are allowed by the Commonwealth; all other are unlawful.
- 
- Irregular systems are those which, having no representative, consist only in concourse of people; which if not forbidden by the Commonwealth, nor made on evil design (such as are conflux of people to markets, or shows, or any other harmless end), are lawful. But when the intention is evil, or (if the number be considerable) unknown, they are unlawful.
- 
- In bodies politic the power of the representative is always limited: and that which prescribeth the limits thereof is the power sovereign. For power unlimited is absolute sovereignty. And the sovereign, in every Commonwealth, is the absolute representative of all the subjects; and therefore no other can be representative of any part of them, but so far forth as he shall give leave: and to give leave to a body politic of subjects to have an absolute representative, to all intents and purposes, were to abandon the government of so much of the Commonwealth, and to divide the dominion, contrary to their peace and defence, which the sovereign cannot be understood to do, by any grant that does not plainly and directly discharge them of their subjection. For consequences of words are not the signs of his will, when other consequences are signs of the contrary; but rather signs of error and misreckoning, to which all mankind is too prone.
- 
- The bounds of that power which is given to the representative of a body politic are to be taken notice of from two things. One is their writ, or letters from the sovereign: the other is the law of the Commonwealth.
- 
- For though in the institution or acquisition of a Commonwealth, which is independent, there needs no writing, because the power of the representative has there no other bounds but such as are set out by the unwritten law of nature; yet in subordinate bodies, there are such diversities of limitation necessary, concerning their businesses, times, and places, as can neither be remembered without letters, nor taken notice of, unless such letters be patent, that they may be read to them, and Leviathan/139 withal sealed, or testified, with the seals or other permanent signs of the authority sovereign.
- 
+Some systems are under the control of others; some are political, and some are private. Political systems (also called bodies politic and persons in law) are made by the official power of the government. Private systems are created by people on their own or by authority from someone outside. No power from a foreign government inside another country is public there; it’s always private.
 
- 
-my name is sandeep gautam
- 
+Among private systems, some are legal and some are illegal. Legal ones are allowed by the government; all others are illegal.
+
+Irregular systems don’t have a leader and just involve groups of people coming together. If the government doesn’t forbid them and they don’t have bad intentions (like people gathering for markets, shows, or other harmless reasons), they are legal. But if the purpose is bad or the group is large and unknown, they are illegal.
+
+In political bodies, the power of the leader is always limited. The limits are set by the highest power, called the sovereign. Unlimited power means total control. The sovereign represents everyone in the country, so no one else can represent any part of the people unless the sovereign allows it. Giving full control to another group would mean giving up part of the government, which would harm the country’s peace and safety. The sovereign won’t do this unless it’s clearly stated, and if the words seem to say that but other signs say no, then it’s probably a mistake or misunderstanding.
+
+The limits of the power given to a leader in a political body come from two things: their official orders from the sovereign and the laws of the country.
+
+When a country is first created and independent, there’s no need for written orders because its leader’s power is only limited by natural law. But in smaller groups under the main government, there are many rules about what they can do, when, and where. These rules can’t be remembered without written orders, which must be official and sealed by the sovereign’s authority so they can be shown to the people.

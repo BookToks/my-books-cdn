@@ -1,16 +1,19 @@
-.. enabled to perfect himself by practice in one point, became ... a cheaper workman.” (Ure, l.c., p. 19.) 25 “Division of labour proceeds from the separation of professions the most widely different to that division, where several labourers divide between them the preparation of one and the same product, as in manufacture.” (Storch: “Cours d’Econ. Pol.,” Paris Edn. t. I., p. 173.) “Nous rencontrons chez les peuples parvenus à un certain degré de civilisation trois genres de divisions d’industrie: la première, que nous nommerons générale, amène la distinction des producteurs en agriculteurs, manufacturiers et commerçants, elle se rapporte aux trois principales branches d’industrie nationale; la seconde qu’on pourrait appeler spéciale, est la division de chaque genre d’industrie en espèces ... la troisième division d’industrie, celle enfin qu’on devrait qualifier de division de la besogne on de travail proprement dit, est celle qui s’établit dans les arts et les métiers séparés ... qui s’établit dans la plupart des manufactures et des ateliers.” [Among peoples which have reached a certain level of civilisation, we meet with three kinds of division of labour: the first, which we shall call general, brings about the division of the producers into agriculturalists, manufacturers, and traders, it corresponds to the three main branches of the nation’s labour; the second, which one could call particular, is the division of labour of each branch into species. ... The third division of labour, which one could designate as a division of tasks, or of labour properly so called, is that which grows up in the individual crafts and trades ... which is established in the majority of the manufactories and workshops] (Skarbek, l.c., pp.
- 
- 84, 85.) 26 Note to the third edition. Subsequent very searching study of the primitive condition of man, led the author to the conclusion, that it was not the family that originally developed into the tribe, but that, on the contrary, the tribe was the primitive and spontaneously developed form of human association, on the basis of blood relationship, and that out of the first incipient loosening of the tribal bonds, the many and various forms of the family were afterwards developed. [F. E.] 27 Sir James Steuart is the economist who has handled this subject best. How little his book, which appeared ten years before the “Wealth of Nations,” is known, even at the present time, may be judged from the fact that the admirers of Malthus do not even know that the first edition of the latter’s work on population contains, except in the purely declamatory part, very little but extracts from Steuart, and in a less degree, from Wallace and Townsend.
- 
- 28 “There is a certain density of population which is convenient, both for social intercourse, and for that combination of powers by which the produce of labour is increased.” (James Mill, l.c., p. 50.) “As the number of labourers increases, the productive power of society augments in the compound ratio of that increase, multiplied by the effects of the division of labour.” (Th. Hodgskin, l.c., pp. 125, 126.) 29 In consequence of the great demand for cotton after 1861, the production of cotton, in some thickly populated districts of India, was extended at the expense of rice cultivation. In consequence there arose local famines, the defective means of communication not permitting the failure of rice in one district to be compensated by importation from another.
- 
- 30 Thus the fabrication of shuttles formed as early as the 17th century, a special branch of industry in Holland.
- 
- 31 Whether the woollen manufacture of England is not divided into several parts or branches appropriated to particular places, where they are only or principally manufactured; fine cloths in Somersetshire, coarse in Yorkshire, long ells at Exeter, soies at Sudbury, crapes at Norwich, linseys at Kendal, blankets at Whitney, and so forth.” (Berkeley: “The Querist,” 1751, § 520.) 32 A. Ferguson: “History of Civil Society.” Edinburgh, 1767; Part iv, sect. ii., p. 285.
- 
- 33 In manufacture proper, he says, the division of labour appears to be greater, because “those employed in every different branch of the work can often be collected into the same workhouse, and placed at once under the view of the spectator. In those great manufactures, (!) on the contrary, which 256 Chapter 14 are destined to supply the great wants of the great body of the people, every different branch of the work employs so great a number of workmen, that it is impossible to collect them all into the same workhouse .
- 
+When someone practices a single skill over and over, they can get really good at it, but they might become less useful in other areas.
 
- 
-(Simplified)
- 
+Division of labor means breaking down jobs between different people. It starts with separating big jobs, like farming, making things, and selling them. Then, each of these big jobs is split into smaller parts. Finally, in factories and workshops, the actual work is divided into many small tasks done by different workers.
+
+In societies that have developed a bit, we see three types of labor division: first, the general split between farmers, makers, and sellers; second, the specific types of work within those groups; and third, the detailed tasks inside crafts and factories.
+
+Early humans didn’t start with families that grew into tribes. Instead, tribes formed first based on blood relations, and from these tribes, different family types eventually developed.
+
+Sir James Steuart was one of the best economists to study this topic. His book came out ten years before Adam Smith’s “Wealth of Nations,” but not many people know about it. Even Malthus, famous for his work on population, used a lot of Steuart’s ideas without giving him credit.
+
+James Mill said that having enough people living close together helps society grow because people can work together better. Thomas Hodgskin added that as more workers join in, society becomes more productive, especially when jobs are divided up.
+
+After 1861, because more people wanted cotton, some parts of India grew more cotton instead of rice. This caused food shortages because the poor transport system made it hard to bring rice from other places.
+
+In the 1600s, making shuttles (parts used in weaving) became a special job in Holland.
+
+In England, different places became known for making different types of woolen cloth: fine cloth in Somersetshire, rough cloth in Yorkshire, and so on.
+
+In big factories, the division of labor is very detailed. Many workers do different parts of the job, but they can’t all work in the same place because there are too many of them.

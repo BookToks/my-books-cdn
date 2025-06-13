@@ -1,24 +1,15 @@
-” (l. c., p. 8.) “But let not the lovers of truth be discouraged. Atheism cannot be of long continuance.” (P. 17.) Adam Smith, “had the atrocious wickedness to propagate atheism through the land (viz., by his “Theory of Moral Sentiments”). Upon the whole, Doctor, your meaning is good; but I think you will not succeed this time. You would persuade us, by the example of David Hume, Esq., that atheism is the only cordial for low spirits, and the proper antidote against the fear of death.... You may smile over Babylon in ruins and congratulate the hardened Pharaoh on his overthrow in the Red Sea.” (l. c., pp. 21, 22.) One orthodox individual, amongst Adam Smith’s college friends, writes after his death: “Smith’s well-placed affection for Hume ... hindered him from being a Christian.... When he met with honest men whom he liked ... he would believe almost anything they said. Had he been a friend of the worthy ingenious Horrox he would have believed that the moon some times disappeared in a clear sky without the interposition of a cloud.... He approached to republicanism in his political principles.” (“The Bee.” By James Anderson, 18 Vols., Vol. 3, pp. 166, 165, Edinburgh, 1791-93.) Parson Thomas Chalmers has his suspicions as to Adam Smith having invented the category of “unproductive labourers,” solely for the Protestant parsons, in spite of their blessed work in the vineyard of the Lord.
- 
- 7 “The limit, however, to the employment of both the operative and the labourer is the same; namely, the possibility of the employer realising a profit on the produce of their industry. If the rate of wages is such as to reduce the master’s gains below the average profit of capital, he will cease to employ them, or he will only employ them on condition of submission to a reduction of wages.” (John Wade, l. c., p.
- 
- 241.) 8 Note by the Institute of Marxism-Leninism to the Russian edition: The MS in the first case says “little” and in the second case “much”; the correction has been introduced according to the authorised French translation.
- 
- 9 Cf. Karl Marx: “Zur Kritik der Politischen Oekonomie,” pp. 166, seq.
- 
- 10 “If we now return to our first inquiry, wherein it was shown that capital itself is only the result of human labour... it seems quite incomprehensible that man can have fallen under the domination of capital, his own product; can be subordinated to it; and as in reality this is beyond dispute the case, involuntarily the question arises: How has the labourer been able to pass from being master of capital — as its creator — to being its slave?” (Von Thünen, “Der isolierte Staat” Part ii., Section ii., Rostock, 1863, pp. 5, 6.) It is Thünen’s merit to have asked this question. His answer is simply childish.
- 
- 11 Adam Smith, “Enquiry into the Nature of ...”, Volume I.
- 
- 12 Note in the 4th German edition. — The latest English and American “trusts” are already striving to attain this goal by attempting to unite at least all the large-scale concerns in one branch of industry into one great joint-stock company with a practical monopoly. F. E.
- 
- 13 Note in the 3rd German edition. — In Marx’s copy there is here the marginal note: “Here note for working out later; if the extension is only quantitative, then for a greater and a smaller capital in the same branch of business the profits are as the magnitudes of the capitals advanced. If the quantitative extension induces qualitative change, then the rate of profit on the larger capital rises simultaneously.” F. E.
- 
- 14 The census of England and Wales shows: all persons employed in agriculture (landlords, farmers, gardeners, shepherds, &c., included): 1851, 2,011,447; 1861, 1,924,110. Fall, 87,337. Worsted manufacture: 1851, 102,714 persons; 1861, 79,242. Silk weaving: 1851, 111,940; 1861, 101,678.
- 
- Calico-printing: 1851, 12,098; 1861, 12,556. A small rise that, in the face of the enormous extension 492 Chapter 25 of this industry and implying a great fall proportionally in the number of labourers employed.
- 
+But people who love the truth shouldn’t give up. Atheism can’t last forever. Adam Smith was really bad because he spread atheism all over the place through his book, “Theory of Moral Sentiments.” Overall, Doctor, your idea is good, but I don’t think you’ll win this time. You try to convince us, using David Hume as an example, that atheism is the best way to cheer up sad people and to stop being afraid of death. You might laugh at Babylon falling apart and celebrate Pharaoh’s defeat in the Red Sea.
 
- 
-(Simplified)
- 
+One religious guy who knew Adam Smith wrote after Smith died: “Smith cared a lot about Hume, and that stopped him from being a Christian. When he met honest people he liked, he would believe almost anything they said. If he had been friends with Horrox, he might have believed the moon sometimes disappeared in a clear sky without any clouds. He also believed in republican ideas about politics.” Parson Thomas Chalmers thinks Adam Smith made up the idea of “unproductive workers” just for Protestant pastors, even though they do good work for the church.
+
+The limit to hiring workers and laborers is the same: the employer has to make a profit from their work. If the wages are so high that the employer’s profit is less than usual, they will stop hiring or only hire if wages go down.
+
+If we think back to the start, where we saw that capital (money or assets used to make more money) is just the result of human work, it’s hard to understand how people ended up controlled by capital, which they themselves created. They became slaves to it. Von Thünen asked this question, which was smart, but his answer was pretty simple and not very good.
+
+Adam Smith wrote “Enquiry into the Nature of ...” in Volume I.
+
+In the latest times, big companies called “trusts” are trying to join all the big businesses in one industry into one huge company that controls everything.
+
+Marx made a note in his book about how if a business only grows bigger in size, profits will grow in the same way. But if growing bigger changes the business in a new way, the profit rate on the bigger business can also go up.
+
+The census in England and Wales shows that from 1851 to 1861, the number of people working on farms went down by about 87,000. In worsted (a type of wool) making, the number of workers dropped from around 103,000 to 79,000. In silk weaving, workers dropped from about 112,000 to 102,000. Calico-printing workers went up a little from 12,098 to 12,556, but this small increase is actually a big drop compared to how much the industry grew.

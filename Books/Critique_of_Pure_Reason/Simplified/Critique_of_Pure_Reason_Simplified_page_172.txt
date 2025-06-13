@@ -1,14 +1,13 @@
-On Space <A> the general concept of spaces in general, rests merely on limitations.
- 
- From this it follows that in respect to it an a priori intuition (which is not empirical) grounds all concepts of them. Thus also all geometrical principles, e.g., that in a triangle two sides together are always greater than the third, are never derived from general concepts of line and tri­ angle, but rather are derived from intuition and indeed derived a priori with apodictic certainty.
- 
- 5) Space is represented as a given infinite magnitude. A general con­ cept of space (which is common to a foot as well as an ell) can determine nothing in respect to magnitude. If there were not boundlessness in the progress of intuition, no concept of relations could bring with it a prin­ ciplea of their infinity.b,I2 Conclusions from the above concepts.
- 
- a) Space represents no property at all of any things in themselves nor any relation of them to each other, i.e., no determination of them that attaches to objects themselves and that would remain even if one were to abstract from all subjective conditions of intuition. For neither ab­ solute nor relative determinations can be intuited prior to the existence of the things to which they pertain, thus be intuited a priori. 13 b) Space is nothing other than merely the form of all appearances of outer sense, i.e., the subjective condition of sensibility, under which alone outer intuition is possible for us. Now since the receptivity of the subject to be affected by objects necessarily precedes all intuitions of these objects, it can be understood how the form of all appearances can be given in the mind prior to all actual perceptions, thus a priori, and how as a pure intuition, in which all objects must be determined, it can contain principlesc of their relations prior to all experience.d We can accordingly speak of space, extended beings, and so on, only from the human standpoint. If we depart from the subjective condition under which alone we can acquire outer intuition, namely that through which we may be affected by objects, then the representation of space Principium a This paragraph is changed in the second edition; see paragraph 4, B39-40 below.
- 
- b Principien , Inserted in Kant's copy: "Space and time carry with them in their representation the d concept of necessity. Now this is not the necessity of a concept. For we can prove that their non-existence is not contradictory. Necessity also cannot lie in the empirical intu­ ition. For this can, to be sure, carry with it the concept of existence, but not of neces­ sary existence. Thus this necessity is not in the object [Object) -objective -at all; consequently it is only a necessary condition of the subject for all perceptions of the senses." (E XVII, p. 17; 23:22-3) 159 Doctrine of Elements.
- 
+Space is basically about limits.
 
- 
-(Simplified)
- 
+Because of this, all ideas about space come from something we understand before any experience, not from seeing or touching things. For example, the rule that in a triangle, the two sides added together are always longer than the third side, isn’t learned just by thinking about lines or triangles, but from a kind of understanding we have before seeing it, and we know this for sure.
+
+Space is thought of as something endless. Just having a general idea of space, like knowing how big a foot or a yard is, doesn’t tell us how big space really is. If space wasn’t endless, no idea about how things relate to each other would show that space goes on forever.
+
+From this, we can say a few things:
+
+Space isn’t a real thing that objects have by themselves, and it doesn’t show how objects relate to each other by themselves. We can’t understand space by just thinking about objects, because space depends on how we see and feel things.
+
+Space is just how our minds arrange everything we see outside of us. It’s like a filter that makes it possible for us to understand the world around us. Since our mind is ready to receive information before we actually see or feel things, we can understand space before any experience. That’s why we can have rules about space without needing to see everything first.
+
+So, when we talk about space and things taking up space, we are only talking about it from a human point of view. If we stop thinking about how our mind works, the idea of space doesn’t really make sense on its own.

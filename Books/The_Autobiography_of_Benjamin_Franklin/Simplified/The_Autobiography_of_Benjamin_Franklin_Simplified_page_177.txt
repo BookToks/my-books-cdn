@@ -1,10 +1,7 @@
-FRANIvLIN 173 communicated to him a discovery of the different kinds of electricity, excited by rubbing glass and sulphur. This, we have said, was first observed by M. du Faye ; but it was for many years neglected. The philosophers were disposed to account for the phenomena, ratherfromadifferenceinthequantityofeleetricity collected, and even Du Faye himself seems at last to have adopted this doctrine.
- 
- Franklin at first entertained the same idea but, upon repeating the experiments, he perceived that Mr. Kinnersley was right; and that the vitreous and resinous electricity of DuFaye were nothingmorethanthe positive and negative states which he had before observed; and that the glass globe charged positively, or increased the quantity of electricity on the prime conductor, while toe globe of sulphur diminished its natural quantity, or charged negatively. These experiments and observations opened a new field for investigation, upon which electricians entered with avidity; and their la> i have added much to the stock of our knowledge.
- 
- In September,1752,Franklin enteredupon 174 LITE OF DR.
- 
+Franklin learned about a discovery of two kinds of electricity caused by rubbing glass and sulphur. This was first noticed by M. du Faye, but people ignored it for many years. Scientists thought the effects happened because of different amounts of electricity, and even Du Faye seemed to believe this later on.
 
- 
-(Simplified)
- 
+At first, Franklin thought the same. But after trying the experiments again, he saw that Mr. Kinnersley was right. The electricity from glass and sulphur were actually positive and negative types, which Franklin had seen before. The glass made the prime conductor have more electricity (positive), while the sulphur took some away (negative). 
+
+These experiments opened up a new area for study, and scientists got really interested. Their work helped us learn a lot more about electricity.
+
+In September 1752, Franklin began...

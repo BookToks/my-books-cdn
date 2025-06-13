@@ -1,6 +1,5 @@
-DanteAlighieri-DivineComedy,Inferno 15 Figure6: “BeatriceamI,whodobidtheego;...” Inferno Canto 3 T HROUGH methewayistothecitydolent;40 Throughmethewayistoeternaldole; Throughmethewayamongthepeoplelost.
- 
+DanteAlighieri-DivineComedy,Inferno 15 Figure6: “I am Beatrice, who punished the proud;...” Inferno Canto 3
 
- 
-(Simplified)
- 
+Through me is the way to the sad city;  
+Through me is the way to endless pain;  
+Through me is the way among the lost people.

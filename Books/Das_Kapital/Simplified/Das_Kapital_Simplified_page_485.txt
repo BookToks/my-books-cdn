@@ -1,24 +1,16 @@
-Like all other great modern industries, it constantly produces, by incessant fluctuations, a relative surplus population within its own sphere, even with an absolute increase in the mass of human beings absorbed by it. The misery of the agricultural population forms the pedestal for gigantic shirt-factories, whose armies of labourers are, for the most part, scattered over the country. Here, we encounter again the system described above of domestic industry, which in underpayment and overwork, possesses its own systematic means for creating supernumerary labourers. Finally, although the depopulation has not such destructive consequences as would result in a country with fully developed capitalistic production, it does not go on without constant reaction upon the home-market. The gap which emigration causes here, limits not only the local demand for labour, but also the incomes of small shopkeepers, artisans, tradespeople generally. Hence the diminution in incomes between £60 and £100 in Table E.
- 
- A clear statement of the condition of the agricultural labourers in Ireland is to be found in the Reports of the Irish Poor Law Inspectors (1870). 127Officials of a government which is maintained only by bayonets and by a state of siege, now open, now disguised, they have to observe all the precautions of language that their colleagues in England disdain. In spite of this, however, they do not let their government cradle itself in illusions. According to them the rate of wages in the country, still very low, has within the last 20 years risen 50-60 per cent., and stands now, on the average, at 6s. to 9s. per week. But behind this apparent rise, is hidden an actual fall in wages, for it does not correspond at all to the rise in price of the necessary means of subsistence that has taken place in the meantime. For proof, the following extract from the official accounts of an Irish workhouse.
- 
- AVERAGE WEEKLY COST PER HEAD Year ended Provisions and Clothing. TOTAL.
- 
- Necessaries.
- 
- 29th Sept., 1849. 1s. 3 1/4d. 3d. 1s. 6 1/4d.
- 
- 29th Sept., 1869. 2s. 7 1/4d. 6d. 3s. 1 1/4d.
- 
- The price of the necessary means of subsistence is therefore fully twice, and that of clothing exactly twice, as much as they were 20 years before.
- 
- Even apart from this disproportion, the mere comparison of the rate of wages expressed in gold would give a result far from accurate. Before the famine, the great mass of agricultural wages were paid in kind, only the smallest part in money; today, payment in money is the rule. From this it follows that, whatever the amount of the real wage, its money rate must rise.
- 
- “Previous to the famine, the labourer enjoyed his cabin ... with a rood, or half-acre or acre of land, and facilities for ... a crop of potatoes. He was able to rear his pig and keep fowl.... But they now have to buy bread, and they have no refuse upon which they can feed a pig or fowl, and they have consequently no benefit from the sale of a pig, fowl, or eggs.”128 In fact, formerly, the agricultural labourers were but the smallest of the small farmers, and formed for the most part a kind of rear-guard of the medium and large farms on which they found employment. Only since the catastrophe of 1846 have they begun to form a fraction of the class of purely wage labourers, a special class, connected with its wage-masters only by monetary relations.
- 
- We know what were the conditions of their dwellings in 1846. Since then they have grown yet worse. A part of the agricultural labourers, which, however, grows less day by day, dwells still on 486 Chapter 25 the holdings of the farmers in over-crowded huts, whose hideousness far surpasses the worst that the English agricultural labourers offered us in this way.
- 
+Like all big industries today, this one keeps creating extra workers who aren’t needed, even though it also hires more people overall. The hard life of farmers helps build huge shirt factories, where most workers live spread out across the countryside. Here, we see the same system as before, where people work from home for low pay and long hours, which helps create even more extra workers. Finally, even though people moving away doesn’t cause as much damage as it would in a fully developed capitalist country, it still hurts the local market. When people leave, there are fewer jobs and less money for small shopkeepers, craftsmen, and other workers. That’s why incomes between £60 and £100 drop, as shown in Table E.
 
- 
-(Simplified)
- 
+A clear view of the lives of farm workers in Ireland is in the Reports of the Irish Poor Law Inspectors (1870). These government officials, working under a strict and sometimes harsh government, have to be careful with their words, unlike their English counterparts. Still, they don’t let the government believe false hopes. They say that wages, which are still very low, have gone up 50-60% in the last 20 years and now average 6 to 9 shillings a week. But this supposed rise hides a real fall in wages because it doesn’t match how much the price of basic living things has gone up. For proof, look at these official workhouse costs.
+
+AVERAGE WEEKLY COST PER PERSON  
+Year ended Provisions and Clothing TOTAL  
+29th Sept., 1849: 1s. 3¼d. + 3d. = 1s. 6¼d.  
+29th Sept., 1869: 2s. 7¼d. + 6d. = 3s. 1¼d.
+
+The price of basic living things is now twice as high as 20 years ago, and clothing costs exactly twice as much.
+
+Even without this problem, just comparing wages in money doesn’t tell the full story. Before the famine, most farm workers were paid with goods, not cash. Now, they get paid mostly in money, so wages in cash have to go up no matter what.
+
+“Before the famine, workers had their own small houses with some land to grow potatoes. They could raise pigs and chickens too. But now, they have to buy bread and have no scraps to feed animals, so they don’t get money from selling pigs, chickens, or eggs.” Before, these farm workers were tiny farmers, helping bigger farms where they worked. But since the disaster in 1846, they’ve become just wage workers who depend only on money from their bosses.
+
+We know how bad their homes were in 1846. Since then, things have only gotten worse. Some farm workers still live on farmers’ land in crowded, awful huts, even worse than the worst homes of English farm workers.

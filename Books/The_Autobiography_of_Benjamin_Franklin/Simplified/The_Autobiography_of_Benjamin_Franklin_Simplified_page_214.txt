@@ -1,10 +1,7 @@
 IPRANKMN.
- 
- tended his electrical researches, and made a variety of experiments, particularly on the tourmalin. The singular properties which this stone possesses, of being electrified on one side positively, and on the other negatively, by heat alone, without friction, had been but lately observed.
- 
- Some experiments on the cold producedby evaporation, made by Dr. Cullen, had been communicated to Dr. Franklin, by Professor Simpson, ofGlasgow. Thesehe repeated, and found, that, bythe evaporation of etherin the exhausted receiver of an air pump, sogreat a degree of cold was produced in a summer's day, that waterwas converted into ice. This discoveryhe appliedto the solution ofanumber of phenomena, particularly a singular fact, which philosophers had endeavored in vainto account for, viz., that the temperature ofthe human body, when in health, never exceeds ninety-six degrees of Farenheit's thermometer, although the atmosphere which surrounds it may be heated to a much greater degree. This he attributed to the increased perspiration, and consequent evaporation, produced by the heat.
- 
 
- 
-(Simplified)
- 
+He kept working on his electrical experiments and tried many tests, especially with the tourmaline stone. This stone is special because it can become positively charged on one side and negatively charged on the other just by heat, without rubbing it.
+
+Dr. Cullen had done some experiments about cold caused by evaporation. Professor Simpson from Glasgow told Dr. Franklin about these experiments. Franklin tried them too and found that evaporating ether in an air pump on a hot day made so much cold that water turned into ice.
+
+He used this discovery to explain some things, like why the human body’s temperature never goes above 96 degrees Fahrenheit when healthy, even if the air around is much hotter. He said this happens because the body sweats more, and the sweat evaporating cools it down.

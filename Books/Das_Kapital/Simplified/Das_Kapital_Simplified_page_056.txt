@@ -1,18 +1,19 @@
-56 Chapter 1 24 In Homer, for instance, the value of an article is expressed in a series of different things. Iliad. VII.
- 
- 472-475.
- 
- 25 For this reason, we can speak of the coat value of the linen when its value is expressed in coats, or of its corn value when expressed in corn, and so on. Every such expression tells us, that what appears in the use values, coat, corn, &c., is the value of the linen. “The value of any commodity denoting its relation in exchange, we may speak of it as ... corn value, cloth value, according to the commodity with which it is compared; and hence there are a thousand different kinds of value, as many kinds of value as there are commodities in existence, and all are equally real and equally nominal.” (“A Critical Dissertation on the Nature, Measures and Causes of Value: chiefly in reference to the writings of Mr.
- 
- Ricardo and his followers.” By the author of “Essays on the Formation, &c., of Opinions.” London, 1825, p. 39.) S. Bailey, the author of this anonymous work, a work which in its day created much stir in England, fancied that, by thus pointing out the various relative expressions of one and the same value, he had proved the impossibility of any determination of the concept of value. However narrow his own views may have been, yet, that he laid his finger on some serious defects in the Ricardian Theory, is proved by the animosity with which he was attacked by Ricardo’s followers. See the Westminster Review for example.
- 
- 26 It is by no means self-evident that this character of direct and universal exchangeability is, so to speak, a polar one, and as intimately connected with its opposite pole, the absence of direct exchangeability, as the positive pole of the magnet is with its negative counterpart. It may therefore be imagined that all commodities can simultaneously have this character impressed upon them, just as it can be imagined that all Catholics can be popes together. It is, of course, highly desirable in the eyes of the petit bourgeois, for whom the production of commodities is the nec plus ultra of human freedom and individual independence, that the inconveniences resulting from this character of commodities not being directly exchangeable, should be removed. Proudhon’s socialism is a working out of this Philistine Utopia, a form of socialism which, as I have elsewhere shown, does not possess even the merit of originality. Long before his time, the task was attempted with much better success by Gray, Bray, and others. But, for all that, wisdom of this kind flourishes even now in certain circles under the name of “science.” Never has any school played more tricks with the word science, than that of Proudhon, for “wo Begriffe fehlen, Da stellt zur rechten Zeit ein Wort sich ein.” [“Where thoughts are absent, Words are brought in as convenient replacements,” Goethe’s, Faust, See Proudhon’s Philosophy of Poverty] 26a In the German edition, there is the following footnote here: “One may recall that China and the tables began to dance when the rest of the world appeared to be standing still – pour encourager les autres [to encourage the others].” The defeat of the 1848-49 revolutions was followed by a period of dismal political reaction in Europe. At that time, spiritualism, especially table-turning, became the rage among the European aristocracy. In 1850-64, China was swept by an anti-feudal liberation movement in the form of a large-scale peasant war, the Taiping Revolt. – Note by editors of MECW.
- 
- 27 Among the ancient Germans the unit for measuring land was what could be harvested in a day, and was called Tagwerk, Tagwanne (jurnale, or terra jurnalis, or diornalis), Mannsmaad, &c. (See G. L.
- 
- von Maurer, “Einleitung zur Geschichte der Mark, &c. Verfassung,” Munchen, 1854, p. 129 sq.) 28 When, therefore, Galiani says: Value is a relation between persons – “La Ricchezza e una ragione tra due persone,” – he ought to have added: a relation between persons expressed as a relation between things. (Galiani: Della Moneta, p. 221, V. III. of Custodi’s collection of “Scrittori Classici Italiani di Economia Politica.” Parte Moderna, Milano 1803.) 29 “What are we to think of a law that asserts itself only by periodical revolutions? It is just nothing but a law of Nature, founded on the want of knowledge of those whose action is the subject of it.” (Friedrich Engels: “Umrisse zu einer Kritik der Nationalökonomie,” in the “Deutsch-Französische Jahrbücher,” edited by Arnold Ruge and Karl Marx. Paris. 1844.) 57 Chapter 1 30 Even Ricardo has his stories à la Robinson.
- 
+In Homer’s time, the value of something could be shown by comparing it to different things. For example, the worth of linen could be told by how many coats, or how much corn, it was worth.
 
- 
-(Simplified)
- 
+Because of this, we can talk about the “coat value” of linen if its worth is measured in coats, or the “corn value” if it’s measured in corn. Each way of measuring just shows the same value in different things. So, we can say a thing has many kinds of value, depending on what it’s compared to, and all these values are real in their own way.
+
+A writer named S. Bailey pointed out that since value can be shown in so many ways, it’s hard to pin down exactly what value means. Even though his ideas were limited, he did show some problems with Ricardo’s theory, which made Ricardo’s supporters angry.
+
+It’s not obvious that something’s ability to be directly traded for anything else is like having two opposite sides connected, like the poles of a magnet. It might seem like all things could be directly exchanged for all others at the same time, just like imagining all Catholics being popes at once.
+
+People who own small businesses really want to fix the problem that not all things can be directly swapped. Proudhon’s idea of socialism tried to do this, but it wasn’t very original and others had tried better ideas before him. Still, some groups today keep pushing these ideas and call them “science,” even though they mostly just use fancy words to cover up missing ideas.
+
+In a note added to the German edition, it says that after the failed revolutions of 1848-49, spiritualism like table-turning became popular with rich Europeans. At the same time, China was going through a big peasant rebellion called the Taiping Revolt.
+
+Among ancient Germans, land was measured by how much a person could farm in one day, called Tagwerk or Mannsmaad.
+
+The thinker Galiani said value is a relationship between people, but he should have added that this relationship is shown by how things relate to each other.
+
+Engels once said, “What can we think of a law that only works through revolutions? It’s just a natural law caused by people not understanding what they’re doing.”
+
+Even Ricardo told stories that sounded like Robinson Crusoe’s adventures.

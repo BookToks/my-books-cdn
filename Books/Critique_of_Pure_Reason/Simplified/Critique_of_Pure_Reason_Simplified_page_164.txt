@@ -1,14 +1,7 @@
-This completeness of the analysis as well as the derivation from the priori concepts that are to be provided in the a future will nevertheless be easy to complete as long as they are present as exhaustive principlesb of synthesis, and if nothing is lacking in them in regard to this essential aim.
- 
- To the critique of pure reason there accordingly belongs everything that constitutes transcendental philosophy, and it is the complete idea of transcendental philosophy, but is not yet this science itself, since it goes only so far in the analysis as is requisite for the complete estima­ tion of synthetic priori cognition.
- 
- a The chief target in the division of such a science is that absolutely no concept must enter into it that contains anything empirical, or that the priori cognition be entirely pure. Hence, although the supreme prin­ a ciples of morality and the fundamental concepts of it are priori cogni­ a tions, they still do not belong in transcendental philosophy,' for, while AIS they do not, to be sure, take the concepts of pleasure and displeasure, B29 of desires and inclinations, etc., which are all of empirical origin, as the ground of their precepts, they still must necessarily include them in the composition of the system of pure morality in the concept of duty, as the hindrance that must be overcome or the attraction that ought not to be made into a motive. Hence transcendental philosophy is a philos­ ophyt of pure, merely speculative reason. For everything practical, in­ sofar as it contains incentives,' is related to feelings, which belong among empirical sources of cognition.
- 
- Now if one wants to set up the division of this science from the gen­ eral viewpoint of a system in general, then what we will now present must contain first a Doctrine of Elements and second a Doctrine of Method of pure reason. Each of these main parts will have its subdivi­ sion, the grounds for which cannot yet be expounded. All that seems a zweckmiiflig Principien b , The remainder of this sentence in the second edition is substituted for the following in the first: "since the concepts of pleasure and displeasure, of desires and inclinations, of choice, etc., which are all of empirical origin, must thereby be presupposed." Wcltweisbeit d , BewegungsgrUnde in the first edition is replaced in the second with Triebfedern to leave room for the idea that although incentives based on feelings are not adequate for moral­ ity, there can be other, more purely rational motives for it.
- 
- 151 Introduction <B> necessary for an introduction or preliminary is that there are two stems of human cognition, which may perhaps arise from a common but to us unknown root, namely sensibility and understanding, through the first of which objects are given to us, but through the second of which they are thought.
- 
+The analysis is complete and the ideas that will be explained later will be easy to finish as long as they cover everything needed and nothing is missing.
 
- 
-(Simplified)
- 
+The critique of pure reason includes everything about transcendental philosophy. It shows the full idea of this philosophy but isn’t the complete science itself. It only goes as far as needed to fully understand certain kinds of knowledge.
+
+The main point is that no ideas based on experience should be part of this science. The knowledge must be completely pure. So, even though the main rules of morality come from pure knowledge, they don’t belong in transcendental philosophy. This is because practical things are connected to feelings, which come from experience, not pure reason.
+
+If we want to organize this science, it will have two main parts: a Doctrine of Elements and a Doctrine of Method of pure reason. Each part will have smaller sections, but the reasons for these can’t be explained yet. What’s important to know first is that human knowledge comes from two sources, which might come from the same unknown origin: sensibility and understanding. Sensibility gives us objects, and understanding helps us think about them.

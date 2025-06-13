@@ -1,16 +1,11 @@
-7. Also, unwritten customs, which in their own nature are an imitation of law, by the tacit consent of the emperor, in case they be not contrary to the law of nature, are very laws.
- 
- Another division of laws is into natural and positive. Natural are those which have been laws from all eternity, and are called not only natural, but also moral laws, consisting in the moral virtues; as justice, equity, and all habits of the mind that conduce to peace and charity, of which I have already spoken in the fourteenth and fifteenth Chapters.
- 
- Positive are those which have not been from eternity, but have been made laws by the will of those that have had the sovereign power over others, and are either written or made known to men by some other argument of the will of their legislator.
- 
- Again, of positive laws some are human, some divine: and of human positive laws, some are distributive, some penal. Distributive are those that determine the rights of the subjects, declaring to every man what it is by which he acquireth and holdeth a propriety in lands or goods, and a right or liberty of action: and these speak to all the subjects. Penal are those which declare what penalty shall be inflicted on those that violate the law; and speak to the ministers and officers ordained for execution. For though every one ought to be informed of the punishments ordained beforehand for their transgression; nevertheless the command is not addressed to the delinquent (who cannot be supposed will faithfully punish himself), but to public ministers appointed to see the penalty executed. And these penal laws are for the most part written together with the laws distributive, and are sometimes called judgements. For all laws are general judgements, or sentences of the legislator; as also every particular judgement is a law to him whose case is judged.
- 
- Divine positive laws (for natural laws, being eternal and universal, are all divine) are those which, being the commandments of God, not from all eternity, nor universally addressed to all men, but only to a certain people or to certain persons, are declared for such by those whom God hath authorized to declare them. But this authority of man to declare what be these positive of God, how can it be known? God may command a man, by a supernatural way, to deliver laws to other men.
- 
- But because it is of the essence of law that he who is to be obliged be assured of the authority of him that declareth it, which we cannot natu- 176/Thomas Hobbes rally take notice to be from God, how can a man without supernatural revelations be assured of the revelation received by the declarer?
- 
+7. Also, unwritten customs, which are basically habits that act like laws, become real laws if the emperor agrees with them and if they don’t go against natural law.
 
- 
-my name is sandeep gautam
- 
+Laws can be split into two types: natural and positive. Natural laws have always existed and are called moral laws. These include things like justice, fairness, and good habits that help people live peacefully and kindly, which I talked about in earlier chapters.
+
+Positive laws are made by people in power and didn’t exist forever. They can be written down or explained in some way by the rulers.
+
+Positive laws can be human-made or divine (from God). Human positive laws are either distributive or penal. Distributive laws decide what rights people have, like owning land or goods, and apply to everyone. Penal laws say what punishments will happen if someone breaks the law and are meant for the officials who enforce the law. Even though everyone should know the punishments, the rules are really told to the officials, not the people who break them, since those people won’t punish themselves. Penal laws are usually written with distributive laws and are sometimes called judgments. All laws are like general rulings by lawmakers, and a specific judgment is a law for the person involved.
+
+Divine positive laws come from God but are not eternal or for everyone. They are rules given to certain people or groups by those who have God’s permission to share them. But how can people know if someone really has God’s permission? God might tell a person in a supernatural way to give laws to others.
+
+The problem is that for a law to be followed, people need to trust the person who made it has real authority. Since we can’t naturally tell if this authority is from God, how can someone without a supernatural experience be sure the law they got from another person really came from God?

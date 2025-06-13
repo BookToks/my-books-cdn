@@ -1,18 +1,13 @@
-But however that may be (for the investigation of this still lies before us), this much at least is clear; cognition from principles (in themselves) is something entirely different from mere cognition of the understand­ ing, which can of course precede other cognitions in the form of a prin­ ciple, but in itself (insofar at it is synthetic) still neither rests on mere thought nor contains in itself a universal according to concepts.
- 
- If the understanding may be a faculty of unity of appearances by B 359 means of rules, then reason is the faculty of the unity of the rules of un­ derstanding under principles.7 Thus itb never applies directly to experience or to any object, but instead applies to the understanding, in order to give unity a priori through concepts to the understanding's manifold cognitions, which may be called "the unity of reason," and is of an altogether different kind than any unity that can be achieved by the understanding.
- 
- This is the universal concept of the faculty of reason, as far as that concept can be made comprehensible wholly in the absence of examples (such as those that are to be given only in what follows).
- 
- B. A303 On the logical use of reason.
- 
- We draw a distinction between what is cognized immediately and what is only inferred. That there are three angles in a figure enclosed by three straight lines is immediately cognized, but that these angles to­ gether equal two right angles is only inferred. Because we constantly need inferences and so in the end become wholly accustomed to them, it happens at last that we no longer even take notice of this distinction, and often, as in so-called deceptions of sense, we take as immediate what we have only inferred. In every inference there is a proposition B 360 that serves as a ground, and' another, namely the conclusion, that is drawn from the former, andd finally the inference (consequence) ac­ cording to which the truth of the conclusion is connected unfailingly with the truth of the first proposition. If the inferred judgment already lies in the first one, so that it can be derived from it without the mediation of a third representation, then this is called an "immediate inference" (consequentia immediata); I would rather call it an inference of the understanding.8 But if, in addition to the cognition that serves as a ground, yet another judgment is necessary to effect the conclusion, a Widersinniges b I.e., reason. In the first edition: "It"; in the second edition: "Thus it .. .. " C The word "and" added in the second edition.
- 
- d The word "and" added in the second edition.
- 
- 389 Doctrine of Elements.
- 
+No matter how this turns out (because we still have to figure it out), one thing is clear: understanding things from basic principles is very different from just knowing stuff in your mind. Knowing something in your mind can come before other knowledge as a rule, but it doesn’t really come from just thinking or include a universal rule.
 
- 
-(Simplified)
- 
+If the understanding is like a tool that organizes what we see by using rules, then reason is the tool that organizes those rules themselves. Reason doesn’t work directly with what we experience or with objects. Instead, it works with the understanding to connect lots of ideas together before we even experience anything. This connection is called "the unity of reason," and it’s very different from the kind of organization the understanding does.
+
+This is the general idea of what reason does, even though it might be hard to fully get without examples (which will come later).
+
+Now, about how reason works logically.
+
+We can tell the difference between things we know right away and things we only figure out by thinking. For example, knowing that a shape with three straight sides has three angles is something we see immediately. But knowing that those three angles add up to two right angles is something we have to figure out. Because we use these kinds of guesses or conclusions all the time, we often forget about this difference and sometimes we even believe something is obvious when it’s actually just something we figured out.
+
+Every time we make a conclusion, there’s a starting statement (the reason), the conclusion itself, and the logical step that connects the two. If the conclusion is already included in the first statement and you don’t need anything else to get it, that’s called an "immediate inference" or an inference of understanding.
+
+But if you need another statement or idea to get to the conclusion, then it’s a more complex kind of reasoning.

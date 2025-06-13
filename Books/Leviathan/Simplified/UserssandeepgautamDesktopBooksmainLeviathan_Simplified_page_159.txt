@@ -1,14 +1,11 @@
-As the difference of counsel from command hath been now deduced from the nature of counsel, consisting in a deducing of the benefit or hurt that may arise to him that is to be to be counselled, by the necessary or probable consequences of the action he propoundeth; so may also the differences between apt and inept counsellors be derived from the same.
- 
- For experience, being but memory of the consequences of like actions formerly observed, and counsel but the speech whereby that experience is made known to another, the virtues and defects of counsel are the same with the virtues and defects intellectual: and to the person of a Commonwealth, his counsellors serve him in the place of memory and mental discourse. But with this resemblance of the Commonwealth to a natural man, there is one dissimilitude joined, of great importance; which is that a natural man receiveth his experience from the natural objects of sense, which work upon him without passion or interest of their own; whereas they that give counsel to the representative person of a Commonwealth may have, and have often, their particular ends and passions that render their counsels always suspected, and many times unfaithful.
- 
- And therefore we may set down for the first condition of a good counsellor: that his ends and interest be not inconsistent with the ends and interest of him he counselleth.
- 
- Secondly, because the office of a counsellor, when an action comes into deliberation, is to make manifest the consequences of it in such manner as he that is counselled may be truly and evidently informed, he ought to propound his advice in such form of speech as may make the truth most evidently appear; that is to say, with as firm ratiocination, as significant and proper language, and as briefly, as the evidence will permit. And therefore rash and unevident inferences, such as are fetched only from examples, or authority of books, and are not arguments of what is good or evil, but witnesses of fact or of opinion; obscure, confused, and ambiguous expressions; also all metaphorical speeches tending to the stirring up of passion (because such reasoning and such expressions are useful only to deceive or to lead him we counsel towards other ends than his own), are repugnant to the office of a counsellor.
- 
- Thirdly, because the ability of counselling proceedeth from experience and long study, and no man is presumed to have experience in all those things that to the administration of a great Commonwealth are necessary to be known, no man is presumed to be a good counsellor but 160/Thomas Hobbes in such business as he hath not only been much versed in, but hath also much meditated on and considered.
- 
+The difference between giving advice and giving orders comes from what advice really is. Advice is about figuring out the good or bad things that might happen to the person being advised, based on what will probably result from the action suggested. The difference between good and bad advisers comes from this too.
 
- 
-my name is sandeep gautam
- 
+Experience is just remembering what happened before in similar situations, and advice is sharing that experience with someone else. So, good and bad advice depends on how smart and clear the advice is. For a country, its advisers are like its memory and thinking. But unlike a person, who learns from things that happen naturally without any hidden motives, advisers to a country often have their own goals and feelings, which can make their advice untrustworthy.
+
+So, the first rule for a good adviser is that their goals should not clash with the goals of the person they are advising.
+
+Second, when someone is thinking about what to do, the adviser’s job is to clearly show the results of each choice so the person can understand the truth easily. The advice should be clear, logical, and use the right words without being too long. Bad advice comes from jumping to quick conclusions, using only examples or book quotes instead of real reasons, being confusing or unclear, or using emotional language to trick or push someone toward a different goal. This kind of speech is not what a good adviser should do.
+
+Third, giving good advice comes from experience and careful thinking. No one knows everything about running a big country, so a person can only be a good adviser in things they have studied and thought about a lot.
+
+My name is Sandeep Gautam.
