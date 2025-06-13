@@ -1,26 +1,19 @@
-1251 Hence there can never be surprises in logic.
- 
- 6.126 Whether a proposition belongs to logic can be determined by determining the logical properties of the symbol.
- 
- And this we do when we prove a logical proposition. For without troubling ourselves about a sense and a meaning, we form the logical propositions out of others by mere symbolic rules.
- 
- We prove a logical proposition by creating it out of other logicalpropositionsbyapplyinginsuccessioncertainoperations, which again generate tautologies out of the first. (And from a tautology only tautologies follow.) Naturally this way of showing that its propositions are tautologies is quite unessential to logic. Because the propositions, from which the proof starts, must show without proof that they are tautologies.
- 
- 6.1261 In logic process and result are equivalent. (Therefore no surprises.) 6.1262 Proof in logic is only a mechanical expedient to facilitate the recognition of tautology, where it is complicated.
- 
- 6.1263 Itwouldbetooremarkable, ifonecouldproveasignificantproposition logically from another, and a logical proposition also. It is clear from the beginning that the logical proof of a significant proposition and the proof in logic must be two quite different things.
- 
- 6.1264 The significant proposition asserts something, and its proof shows that it is so; in logic every proposition is the form of a proof.
- 
- Every proposition of logic is a modus ponens presented in signs. (And the modus ponens can not be expressed by a proposition.) 6.1265 Logic can always be conceived to be such that every proposition is its own proof.
- 
- 6.127 All propositions of logic are of equal rank; there are not some which are essentially primitive and others deduced from these.
- 
- Every tautology itself shows that it is a tautology.
- 
- 81 TRACTATUS LOGICO-PHILOSOPHICUS 6.
- 
+1251 So, in logic, nothing ever comes as a surprise.
 
- 
-(Simplified)
- 
+6.126 To tell if a statement is part of logic, we look at the logical features of the symbols used.
+
+We do this when we prove a logical statement. Instead of worrying about the meaning, we build new logical statements from others by just following certain symbol rules.
+
+We prove a logical statement by making it from other logical statements using certain steps, which always create statements that are true no matter what (called tautologies). (And only tautologies come from tautologies.) Showing that these statements are tautologies isn’t really needed for logic because the starting statements must already be obviously true.
+
+6.1261 In logic, the process and the result are the same. (So, no surprises.) 6.1262 Proof in logic is just a way to help us recognize tautologies when it’s tricky.
+
+6.1263 It would be too strange if you could prove an important statement logically from another important statement, and that important statement was also logical. From the start, it’s clear that proving an important statement and proving a logical statement are two very different things.
+
+6.1264 An important statement says something and its proof shows it’s true; in logic, every statement is like its own proof.
+
+Every logical statement is like a rule called modus ponens shown with symbols. (But modus ponens itself can’t be explained by a statement.) 6.1265 You can always think of logic so that every statement proves itself.
+
+6.127 All logical statements are equal; none are more basic or come from the others.
+
+Every tautology shows by itself that it’s a tautology.

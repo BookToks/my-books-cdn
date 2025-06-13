@@ -1,36 +1,33 @@
-4.064 Every proposition must already have a sense; assertion cannot give it a sense, for what it asserts is the sense itself. And the same holds of denial, etc.
- 
- 4.0641 One could say, the denial is already related to the logical place determined by the proposition that is denied.
- 
- The denying proposition determines a logical place other than does the proposition denied.
- 
- The denying proposition determines a logical place, with the help of the logical place of the proposition denied, by saying that it lies outside the latter place.
- 
- That one can deny again the denied proposition, shows that what is denied is already a proposition and not merely the preliminary to a proposition.
- 
- 4.1 Apropositionpresentstheexistenceandnon-existenceofatomic facts.
- 
- 4.11 The totality of true propositions is the total natural science (or the totality of the natural sciences).
- 
- 4.111 Philosophy is not one of the natural sciences.
- 
- (The word “philosophy” must mean something which stands above or below, but not beside the natural sciences.) 4.112 The object of philosophy is the logical clarification of thoughts.
- 
- Philosophy is not a theory but an activity.
- 
- A philosophical work consists essentially of elucidations.
- 
- The result of philosophy is not a number of “philosophical propositions”, but to make propositions clear.
- 
- Philosophy should make clear and delimit sharply the thoughts which otherwise are, as it were, opaque and blurred.
- 
- 4.1121 Psychology is no nearer related to philosophy, than is any other natural science.
- 
- The theory of knowledge is the philosophy of psychology.
- 
- Does not my study of sign-language correspond to the study of thought processes which philosophers held to be so essential 44 TRACTATUS LOGICO-PHILOSOPHICUS to the philosophy of logic?
- 
+Every sentence already has a meaning; just saying it doesn't give it meaning because what it says is the meaning itself. The same goes for saying something is not true, and so on.
 
- 
-(Simplified)
- 
+You could say that when you deny something, you're already connected to the idea that the original sentence was about.
+
+The sentence that denies something points to a different logical place than the sentence it denies.
+
+The denying sentence shows this different place by saying it is outside the place of the original sentence.
+
+If you can deny a denied sentence again, it means what is being denied is already a full sentence, not just the start of one.
+
+A sentence shows whether simple facts exist or don’t exist.
+
+All the true sentences together make up all natural science.
+
+Philosophy is not one of the natural sciences.
+
+The word "philosophy" means something that is either above or below natural sciences, but not next to them.
+
+Philosophy's job is to make thoughts clear.
+
+Philosophy is not about making theories but about doing work.
+
+A philosophy book mainly explains things clearly.
+
+Philosophy doesn’t give you a list of "philosophical sentences," but it makes sentences easier to understand.
+
+Philosophy should make thoughts clear and separate, because otherwise they are confusing and blurry.
+
+Psychology is no closer to philosophy than any other natural science.
+
+The study of knowledge is the philosophy of psychology.
+
+Isn’t my study of sign language like studying how people think, which philosophers used to say was very important for philosophy of logic?

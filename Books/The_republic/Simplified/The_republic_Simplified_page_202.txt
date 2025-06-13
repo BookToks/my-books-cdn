@@ -1,50 +1,45 @@
-Nothing,hesaid,canbebetterthanthatstatement.
- 
- Andtheunjustisgoodandwise,andthejustisneither?
- 
- Goodagain,hesaid.
- 
- Andisnottheunjustlikethewiseandgoodandthejustunlikethem?
- 
- Ofcourse,hesaid,hewhoisofacertainnature,islikethosewhoareofacertain nature;hewhoisnot,not.
- 
- Eachofthem,Isaid,issuchashislikeis?
- 
- Certainly,hereplied.
- 
- Very good, Thrasymachus, I said; and now to take the case of the arts: you wouldadmitthatonemanisamusicianandanothernotamusician?
- 
- Yes.
- 
- Andwhichiswiseandwhichisfoolish?
- 
- Clearlythemusicianiswise,andhewhoisnotamusicianisfoolish.
- 
- Andheisgoodinasfarasheiswise,andbadinasfarasheisfoolish?
- 
- Yes.
- 
- Andyouwouldsaythesamesortofthingofthephysician?
- 
- Yes.
- 
- Anddoyouthink,myexcellentfriend,thatamusicianwhenheadjuststhelyre woulddesireorclaimtoexceedorgobeyondamusicianinthetighteningand looseningthestrings?
- 
- Idonotthinkthathewould.
- 
- Buthewouldclaimtoexceedthenon-musician?
- 
- Ofcourse.
- 
- And what would you say of the physician? In prescribing meats and drinks wouldhewishtogobeyondanotherphysicianorbeyondthepracticeofmedicine?
- 
- Hewouldnot.
- 
- Buthewouldwishtogobeyondthenon-physician?
- 
- http://www.idph.net IDPH 203 Yes.
- 
+Nothing, he said, can be better than that statement.
 
- 
-(Simplified)
- 
+And is the unfair person good and smart, while the fair person is not?
+
+Good again, he said.
+
+And isn’t the unfair person like the wise and good, and the fair person unlike them?
+
+Of course, he said. Someone who has a certain nature is like others with the same nature; someone who doesn’t is not.
+
+Each person is like those who are like them?
+
+Certainly, he replied.
+
+Very good, Thrasymachus, I said. Now, about skills: you would agree that one person is a musician and another is not?
+
+Yes.
+
+And which one is wise and which one is foolish?
+
+Clearly, the musician is wise, and the one who is not a musician is foolish.
+
+And the musician is good because they are wise, and bad because they are foolish?
+
+Yes.
+
+And you would say the same about a doctor?
+
+Yes.
+
+Do you think, my good friend, that a musician, when tuning a lyre, would want or claim to be better than another musician?
+
+I don’t think so.
+
+But would they want to be better than a non-musician?
+
+Of course.
+
+What about the doctor? When choosing food and drinks, would they want to be better than another doctor or go beyond medical knowledge?
+
+They would not.
+
+But would they want to be better than a non-doctor?
+
+Yes.

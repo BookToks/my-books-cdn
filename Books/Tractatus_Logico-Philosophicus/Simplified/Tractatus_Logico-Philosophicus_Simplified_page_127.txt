@@ -1,14 +1,9 @@
-B. „c“ ein Index, der darauf hinweist, c dass das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber diese Bezeichnung beruht auf willkürlicher Übereinkunft und man könnte statt „+ “ auch ein einfaches Zeichen c wählen; in „∼p“ aber ist „p“ kein Index, sondern ein Argument: der Sinn von „∼p“ kann nicht verstanden werden, ohne dass vorher der Sinn von „p“ verstanden worden wäre. (Im Namen Julius Cäsar ist „Julius“ ein Index. Der Index ist immer ein Teil einer Beschreibung des Gegenstandes, dessen Namen wir ihn anhängen. Z. B. Der Cäsar aus dem Geschlechte der Julier.) Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der Theorie Frege’s von der Bedeutung der Sätze und Funktionen zugrunde. Für Frege waren die Sätze der Logik Namen, und deren Argumente die Indices dieser Namen.
- 
- 5.1 Die Wahrheitsfunktionen lassen sich in Reihen ordnen.
- 
- Das ist die Grundlage der Wahrscheinlichkeitslehre.
- 
- 5.101 Die Wahrheitsfunktionen jeder Anzahl von Elementarsätzen lassen sich in einem Schema folgender Art hinschreiben: (WWWW)(p,q) Tautologie (Wenn p, so p; und wenn q, so q.) (p⊃p.q ⊃q) (F WWW)(p,q) in Worten: Nicht beides p und q. (∼(p.q)) (W F WW)(p,q) „ „ Wenn q, so p. (q ⊃p) (WW F W)(p,q) „ „ Wenn p, so q. (p⊃q) (WWW F)(p,q) „ „ p oder q. (p∨q) (F F WW)(p,q) „ „ Nicht q. (∼q) (F W F W)(p,q) „ „ Nicht p. (∼p) (F WW F)(p,q) „ „ p, oder q, aber nicht beide. (p.∼q :∨:q.∼p) (W F F W)(p,q) „ „ Wenn p, so q; und wenn q, so p. (p≡q) (W F W F)(p,q) „ „ p (WW F F)(p,q) „ „ q (F F F W)(p,q) „ „ Weder p noch q. (∼p.∼q) oder (p|q) (F F W F)(p,q) „ „ p und nicht q. (p.∼q) (F W F F)(p,q) „ „ q und nicht p. (q.∼p) (W F F F)(p,q) „ „ q und p. (q.p) (F F F F)(p,q) Kontradiktion (p und nicht p; und q und nicht q.) (p.∼p.q.∼q) Diejenigen Wahrheitsmöglichkeiten seiner Wahrheitsargumente, welche den Satz bewahrheiten, will ich seine Wahrheitsgründe nennen.
- 
- 5.11 Sind die Wahrheitsgründe, die einer Anzahl von Sätzen gemeinsam sind, sämtlich auch Wahrheitsgründe eines bestimmten Sat125 LOGISCH-PHILOSOPHISCHE ABHANDLUNG zes, so sagen wir, die Wahrheit dieses Satzes folge aus der Wahrheit jener Sätze.
- 
+B. The letter "c" is used as a marker to show that the whole symbol is the addition sign for cardinal numbers. But this label is based on an agreement we made, and instead of "+", we could just use a simple sign "c". In "~p", however, "p" is not a marker but an argument: you can’t understand the meaning of "~p" without first understanding what "p" means. (In the name Julius Caesar, "Julius" is a marker. A marker is always part of a description of the thing we are naming. For example, Caesar from the family of the Julians.) Mixing up arguments and markers is, I think, the basis of Frege’s theory about the meaning of sentences and functions. For Frege, sentences in logic were names, and their arguments were the markers of these names.
 
- 
-(Simplified)
- 
+5.1 Truth functions can be arranged in series.
+
+This is the basis of probability theory.
+
+5.101 The truth functions of any number of basic sentences can be written in a pattern like this: (WWWW)(p,q) Tautology (If p, then p; and if q, then q.) (p⊃p.q ⊃q) (F WWW)(p,q) In words: Not both p and q. (~(p.q)) (W F WW)(p,q) “If q, then p.” (q ⊃p) (WW F W)(p,q) “If p, then q.” (p⊃q) (WWW F)(p,q) “p or q.” (p∨q) (F F WW)(p,q) “Not q.” (~q) (F W F W)(p,q) “Not p.” (~p) (F WW F)(p,q) “p or q, but not both.” (p.~q :∨:q.~p) (W F F W)(p,q) “If p, then q; and if q, then p.” (p≡q) (W F W F)(p,q) “p.” (WW F F)(p,q) “q.” (F F F W)(p,q) “Neither p nor q.” (~p.~q) or (p|q) (F F W F)(p,q) “p and not q.” (p.~q) (F W F F)(p,q) “q and not p.” (q.~p) (W F F F)(p,q) “q and p.” (q.p) (F F F F)(p,q) Contradiction (p and not p; and q and not q.) (p.~p.q.~q) The truth possibilities of its truth arguments that make the sentence true, I will call its truth reasons.
+
+5.11 If the truth reasons that a number of sentences have in common are all also truth reasons of a certain sentence, then we say that the truth of this sentence follows from the truth of those sentences.

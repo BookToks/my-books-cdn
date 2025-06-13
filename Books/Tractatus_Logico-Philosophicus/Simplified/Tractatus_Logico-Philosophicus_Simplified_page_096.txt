@@ -1,26 +1,19 @@
-DieLogikhandelt von jeder Möglichkeit und alle Möglichkeiten sind ihre Tatsachen.) Wie wir uns räumliche Gegenstände überhaupt nicht ausserhalb des Raumes, zeitliche nicht ausserhalb der Zeit denken können, so können wir uns keinen Gegenstand ausserhalb der Möglichkeit seiner Verbindung mit anderen denken.
- 
- Wenn ich mir den Gegenstand im Verbande des Sachverhalts denken kann, so kann ich ihn nicht ausserhalb der Möglichkeit dieses Verbandes denken.
- 
- 2.0122 Das Ding ist selbständig, insofern es in allen möglichen Sachlagen vorkommen kann, aber diese Form der Selbständigkeit ist eine Form des Zusammenhangs mit dem Sachverhalt, eine Form der Unselbständigkeit. (Es ist unmöglich, dass Worte in zwei verschiedenen Weisen auftreten, allein und im Satz.) 2.0123 Wenn ich den Gegenstand kenne, so kenne ich auch sämtliche Möglichkeiten seines Vorkommens in Sachverhalten.
- 
- (JedesolcheMöglichkeitmussinderNaturdesGegenstandes liegen.) Es kann nicht nachträglich eine neue Möglichkeit gefunden werden.
- 
- 2.01231 Um einen Gegenstand zu kennen, muss ich zwar nicht seine externen—aber ich muss alle seine internen Eigenschaften kennen.
- 
- 2.0124 Sind alle Gegenstände gegeben, so sind damit auch alle möglichen Sachverhalte gegeben.
- 
- 2.013 Jedes Ding ist, gleichsam, in einem Raume möglicher Sachverhalte. Diesen Raum kann ich mir leer denken, nicht aber das Ding ohne den Raum.
- 
- 2.0131 Der räumliche Gegenstand muss im unendlichen Raume liegen.
- 
- (Der Raumpunkt ist eine Argumentstelle.) Der Fleck im Gesichtsfeld muss zwar nicht rot sein, aber eine Farbe muss er haben: er hat sozusagen den Farbenraum um sich.
- 
- Der Ton muss eine Höhe haben, der Gegenstand des Tastsinnes eine Härte usw.
- 
- 94 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 2.
- 
+Logic is about all possibilities, and all possibilities are its facts. Just like we can’t imagine things that are outside of space or time, we can’t imagine something that isn’t possible to connect with other things.
 
- 
-(Simplified)
- 
+If I can think about something as part of a bigger situation, then I can’t think about it without that possibility of being part of that situation.
+
+A thing is independent because it can appear in many possible situations, but this kind of independence actually depends on its connection to those situations. (Words can’t appear alone and in sentences at the same time.) If I know the thing, I also know all the ways it can appear in situations.
+
+Every possibility has to be part of the thing’s nature. We can’t suddenly find a new possibility later on.
+
+To really know a thing, I don’t have to know everything outside of it, but I do have to know all its internal features.
+
+If all things exist, then all possible situations with those things exist too.
+
+Every thing exists in a kind of space made up of possible situations. I can imagine that space as empty, but I can’t imagine the thing without that space.
+
+A physical object has to be in infinite space.
+
+A point in space is like a place for something to be. A spot in your vision doesn’t have to be red, but it has to have some color—it’s like it has a space of colors around it.
+
+A sound has a pitch, and something you touch has a hardness, and so on.

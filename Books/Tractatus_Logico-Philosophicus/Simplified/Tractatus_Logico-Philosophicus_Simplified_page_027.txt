@@ -1,32 +1,27 @@
-∗ 1.1 The world is the totality of facts, not of things.
- 
- 1.11 The world is determined by the facts, and by these being all the facts.
- 
- 1.12 For the totality of facts determines both what is the case, and also all that is not the case.
- 
- 1.13 The facts in logical space are the world.
- 
- 1.2 The world divides into facts.
- 
- 1.21 Anyonecaneitherbethecaseornotbethecase, andeverything else remain the same.
- 
- 2 What is the case, the fact, is the existence of atomic facts.
- 
- 2.01 An atomic fact is a combination of objects (entities, things).
- 
- 2.011 It is essential to a thing that it can be a constituent part of an atomic fact.
- 
- 2.012 In logic nothing is accidental: if a thing can occur in an atomic factthepossibilityofthatatomicfactmustalreadybeprejudged in the thing.
- 
- 2.0121 It would, so to speak, appear as an accident, when to a thing that could exist alone on its own account, subsequently a state of affairs could be made to fit.
- 
- If things can occur in atomic facts, this possibility must already lie in them.
- 
- ∗The decimal figures as numbers of the separate propositions indicate the logical importance of the propositions, the emphasis laid upon them in my exposition. The propositions n.1, n.2, n.3, etc., are comments on proposition No.n; the propositions n.m1, n.m2, etc., are comments on the proposition No.n.m; and so on.
- 
- 25 TRACTATUS LOGICO-PHILOSOPHICUS (A logical entity cannot be merely possible.
- 
+1.1 The world is made up of facts, not just things.
 
- 
-(Simplified)
- 
+1.11 The world is decided by the facts, and by having all the facts.
+
+1.12 All the facts decide what is true and what is not true.
+
+1.13 The facts in logical space make up the world.
+
+1.2 The world is split into facts.
+
+1.21 Anything can either be true or not true, while everything else stays the same.
+
+2 What is true, the fact, is the existence of atomic facts.
+
+2.01 An atomic fact is a combination of objects (things).
+
+2.011 It is important to a thing that it can be part of an atomic fact.
+
+2.012 In logic, nothing happens by accident: if a thing can be in an atomic fact, the chance of that fact must already be in the thing.
+
+2.0121 It might seem like an accident if a thing that can exist by itself later fits into a situation.
+
+If things can be in atomic facts, this must already be possible for them.
+
+The decimal numbers show how important each idea is in the explanation. The numbers like n.1, n.2, n.3 explain the main idea n. The numbers like n.m1, n.m2 explain the idea n.m, and so on.
+
+A logical thing can’t just be possible; it has to be real.

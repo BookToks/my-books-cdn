@@ -1,34 +1,31 @@
-453 Alle Zahlen der Logik müssen sich rechtfertigen lassen.
- 
- Oder vielmehr: Es muss sich herausstellen, dass es in der Logik keine Zahlen gibt.
- 
- Es gibt keine ausgezeichneten Zahlen.
- 
- 5.454 In der Logik gibt es kein Nebeneinander, kann es keine Klassifikation geben.
- 
- In der Logik kann es nicht Allgemeineres und Spezielleres geben.
- 
- 5.4541 Die Lösungen der logischen Probleme müssen einfach sein, denn sie setzen den Standard der Einfachheit.
- 
- Die Menschen haben immer geahnt, dass es ein Gebiet von Fragen geben müsse, deren Antworten—a priori—symmetrisch, und zu einem abgeschlossenen, regelmässigen Gebilde vereintliegen.
- 
- Ein Gebiet, in dem der Satz gilt: simplex sigillum veri.
- 
- 5.46 Wenn man die logischen Zeichen richtig einführte, so hätte man damit auch schon den Sinn aller ihrer Kombinationen eingeführt; also nicht nur „p ∨ q“ sondern auch schon „∼(p ∨ ∼q)“ etc. etc. Man hätte damit auch schon die Wirkung aller nur möglichen Kombinationen von Klammern eingeführt. Und damit wäre es klar geworden, dass die eigentlichen allgemeinen Urzeichen nicht die „p∨q“, „(∃x).fx“, etc. sind, sondern die allgemeinste Form ihrer Kombinationen.
- 
- 5.461 Bedeutungsvoll ist die scheinbar unwichtige Tatsache, dass die logischen Scheinbeziehungen, wie ∨ und ⊃, der Klammern bedürfen—im Gegensatz zu den wirklichen Beziehungen.
- 
- Die Benützung der Klammern mit jenen scheinbaren Urzeichen deutet ja schon darauf hin, dass diese nicht die wirklichen Urzeichen sind. Und es wird doch wohl niemand glauben, dass die Klammern eine selbständige Bedeutung haben.
- 
- 5.4611 Die logischen Operationszeichen sind Interpunktionen.
- 
- 5.47 Es ist klar, dass alles was sich überhaupt von vornherein über die Form aller Sätze sagen lässt, sich aufeinmal sagen lassen muss.
- 
- Sind ja schon im Elementarsatze alle logischen Operationen enthalten. Denn „fa“ sagt dasselbe wie „(∃x).fx.x = a“.
- 
- 134 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Wo Zusammengesetztheit ist, da ist Argument und Funktion, und wo diese sind, sind bereits alle logischen Konstanten.
- 
+All numbers in logic have to make sense.
 
- 
-(Simplified)
- 
+Or better said: it turns out that there are actually no numbers in logic.
+
+There are no special numbers.
+
+In logic, things don't just stand side by side, so you can’t really group or classify them.
+
+In logic, there isn’t something more general or more specific.
+
+The answers to logical problems have to be simple because they set the standard for simplicity.
+
+People have always guessed that there must be a set of questions where the answers are balanced from the start and fit together perfectly.
+
+A place where the rule “simple is the mark of the true” applies.
+
+If you introduce logical symbols the right way, then you also introduce the meaning of all their combinations. So not just “p or q” but also “not (p or not q)” and so on.
+
+You also get the meaning of all possible ways to use brackets. This shows that the most basic symbols are not things like “p or q” or “there exists x such that f(x),” but the most general form of combining these symbols.
+
+It’s important to notice that logical symbols like “or” (∨) and “implies” (⊃) need brackets to make sense—unlike real relationships.
+
+Using brackets with these symbols shows they are not the real basic symbols. And nobody thinks that brackets mean something on their own.
+
+Logical operation signs are like punctuation marks.
+
+It’s clear that anything you can say about the form of all sentences can be said all at once.
+
+All logical operations are already in the simplest sentences. For example, “fa” means the same as “there exists an x such that f(x), and x equals a.”
+
+Wherever things are combined, there is an argument and a function, and where those exist, all logical constants are already there.

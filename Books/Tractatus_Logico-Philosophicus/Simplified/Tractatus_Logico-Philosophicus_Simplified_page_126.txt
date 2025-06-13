@@ -1,26 +1,21 @@
-4.4661 Freilich sind auch in der Tautologie und Kontradiktion die Zeichen noch mit einander verbunden, d. h. sie stehen in Beziehungen zu einander, aber diese Beziehungen sind bedeutungslos, dem Symbol unwesentlich.
- 
- 4.5 Nun scheint es möglich zu sein, die allgemeinste Satzform anzugeben: das heisst, eine Beschreibung der Sätze irgend einer Zeichensprache zu geben, so dass jeder mögliche Sinn durch ein Symbol, auf welches die Beschreibung passt, ausgedrückt werdenkann,unddassjedesSymbol,woraufdieBeschreibungpasst, einen Sinn ausdrücken kann, wenn die Bedeutungen der Namen entsprechend gewählt werden.
- 
- Esistklar,dassbeiderBeschreibungderallgemeinstenSatzform nur ihrWesentlichesbeschriebenwerdendarf,—sonstwäre sie nämlich nicht die allgemeinste.
- 
- Dass es eine allgemeine Satzform gibt, wird dadurch bewiesen, dass es keinen Satz geben darf, dessen Form man nicht hätte voraussehen (d. h. konstruieren) können. Die allgemeine Form des Satzes ist: Es verhält sich so und so.
- 
- 4.51 Angenommen, mir wären alle Elementarsätze gegeben: Dann lässt sich einfach fragen: welche Sätze kann ich aus ihnen bilden.
- 
- Und das sind alle Sätze und so sind sie begrenzt.
- 
- 4.52 Die Sätze sind Alles, was aus der Gesamtheit aller Elementarsätze folgt (natürlich auch daraus, dass es die Gesamtheit aller ist). (So könnte man in gewissem Sinne sagen, dass alle Sätze Verallgemeinerungen der Elementarsätze sind.) 4.53 Die allgemeine Satzform ist eine Variable.
- 
- 5 Der Satz ist eine Wahrheitsfunktion der Elementarsätze.
- 
- (DerElementarsatzisteineWahrheitsfunktionseinerselbst.) 5.01 Die Elementarsätze sind die Wahrheitsargumente des Satzes.
- 
- 5.02 Es liegt nahe, die Argumente von Funktionen mit den Indices von Namen zu verwechseln. Ich erkenne nämlich sowohl am Argument wie am Index die Bedeutung des sie enthaltenden Zeichens.
- 
- 124 LOGISCH-PHILOSOPHISCHE ABHANDLUNG In Russell’s „+ “ ist z.
- 
+4.4661 Even in tautologies and contradictions, the signs are still connected to each other. That means they relate to each other, but these relationships don’t really matter for the meaning of the symbol.
 
- 
-(Simplified)
- 
+4.5 Now, it seems possible to describe the most general sentence form. This means giving a way to describe sentences in any language of signs so that every possible meaning can be shown by a symbol that fits the description. Also, every symbol that fits the description can express a meaning if the names’ meanings are chosen properly.
+
+It’s clear that this description of the most general sentence form must only describe what is essential. Otherwise, it wouldn’t be the most general.
+
+We know there is a general sentence form because there can’t be a sentence whose form we couldn’t predict or build. The general form of a sentence is: “It is like this and that.”
+
+4.51 Imagine I have all the basic sentences. Then I can easily ask: which sentences can I make from them?
+
+Those are all the sentences, and that’s how they are limited.
+
+4.52 Sentences are everything that follows from all the basic sentences together (including the fact that they are all of them). So, in a way, all sentences are generalizations of the basic sentences.
+
+4.53 The general sentence form is a variable.
+
+5 A sentence is a truth function of the basic sentences.
+
+(The basic sentence is a truth function of itself.) 5.01 The basic sentences are the truth inputs of the sentence.
+
+5.02 It’s easy to confuse the inputs of functions with the indexes of names. I recognize the meaning of a sign both from its input and its index.

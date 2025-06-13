@@ -1,24 +1,21 @@
-(As with the system of numbers one must be able to write downanyarbitrarynumber, sowiththesystemofmechanicsone must be able to write down any arbitrary physical proposition.) 6.342 And now we see the relative position of logic and mechanics.
- 
- (We could construct the network out of figures of different kinds, as out of triangles and hexagons together.) That a picture like that instanced above can be described by a network of a given form asserts nothing about the picture. (For this holds of every picture of this kind.) But this does characterize the picture, the fact, namely, that it can be completely described by a definite net of definite fineness.
- 
- So too the fact that it can be described by Newtonian mechanics asserts nothing about the world; but this asserts something, namely, that it can be described in that particular way in which it is described, as is indeed the case. The fact, too, that it can be described more simply by one system of mechanics than by another says something about the world.
- 
- 6.343 Mechanics is an attempt to construct according to a single plan all true propositions which we need for the description of the world.
- 
- 6.3431 Through the whole apparatus of logic the physical laws still speak of the objects of the world.
- 
- 6.3432 We must not forget that the description of the world by mechanics is always quite general. There is, for example, never any mention of particular material points in it, but always only of some points or other.
- 
- 6.35 Although the spots in our picture are geometrical figures, geometry can obviously say nothing about their actual form and position. Butthenetworkispurely geometrical, andallitsproperties can be given a priori.
- 
- Laws, like the law of causation, etc., treat of the network and not of what the network described.
- 
- 6.36 If there were a law of causality, it might run: “There are natural laws”.
- 
- 85 TRACTATUS LOGICO-PHILOSOPHICUS But that can clearly not be said: it shows itself.
- 
+Just like with numbers, where you need to be able to write down any number you want, with mechanics you need to be able to write down any physical statement.
 
- 
-(Simplified)
- 
+Now we understand how logic and mechanics are connected.
+
+We could build a network using different shapes, like triangles and hexagons together. Saying a picture can be shown by a network of a certain kind doesn’t really tell us anything about the picture itself. This is true for any picture like this. But what does matter is that the picture can be fully described by a specific kind of network with a certain level of detail.
+
+Similarly, the fact that Newtonian mechanics can describe something doesn’t say much about the world. But it does say that the world can be described in that particular way, which is true. Also, if one system of mechanics explains something more simply than another, that tells us something about the world.
+
+Mechanics tries to build all the true statements we need to describe the world using just one system.
+
+Even though logic is used, the physical laws still talk about real things in the world.
+
+We should remember that mechanics always describes the world in a general way. It never talks about specific objects but only some objects in general.
+
+Even though the spots in our picture are shapes, geometry can’t say anything about their exact form or place. But the network itself is just geometry, and all its features can be known beforehand.
+
+Laws, like cause and effect, are about the network itself, not what the network represents.
+
+If there was a law of cause and effect, it might say: “There are natural laws.”
+
+But this can’t really be said; it just shows itself.

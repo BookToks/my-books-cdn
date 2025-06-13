@@ -1,36 +1,31 @@
-SELECT BIBLIOGRAPHY Anderson, Paul Allen, ‘“Unvoiced Longings”: Du Bois and the “Sorrow Songs”’, in Deep River: Music and Memory in Harlem Renaissance Thought (Durham, NC: Duke University Press, 2001),13–57.
- 
- Appiah, Anthony, ‘The Uncompleted Argument: Du Bois and the Illusion of Race’, in Henry Louis Gates, Jr. (ed.), ‘Race,’ Writing, and Difference (Chicago: University of Chicago Press, 1896),21–37.
- 
- Aptheker, Herbert, ‘Introduction’ to W. E. B. Du Bois, The Souls of Black Folk (Millwood, NY: Kraus-Thomson Organization, Ltd., 1973), 5–46.
- 
- Berman, Russell A., ‘Du Bois and Wagner: Race, Nation, and Culture between the United States and Germany’, German Quarterly, 70/2 (spring1997),123–35.
- 
- Bruce, Dickson D., Jr., ‘W. E. B. Du Bois and the Idea of Double Consciousness’,American Literature,64/2 (June 1992),299–309.
- 
- Cooppan, Vilashini, ‘The Double Politics of Double Consciousness: Nationalism and Globalism in Souls’, Public Culture, 17/2 (spring 2005),299–318.
- 
- Du Bois, W. E. B., The Autobiography of W. E. B. Du Bois (New York: International Publishers, 1968).
- 
- —— Dusk of Dawn: An Essay toward an Autobiography of a Race Concept, in Du Bois, Writings (New York: Library of America, 1986),549–801.
- 
- —— ‘The Talented Tenth Memorial Address’ (1948), in Gates and West, The Future of the Race,159–77.
- 
- Gates, Henry Louis, Jr., ‘Introduction: Darkly, as Through a Veil’, in W. E. B. Du Bois, The Souls of Black Folk (New York: Bantam, 1989), pp. vii–xxv.
- 
- —— and West, Cornel, The Future of the Race (New York: Knopf, 1996).
- 
- Gatewood, Willard B, Aristocrats of Color: The Black Elite, 1880–1920 (Bloomington: Indiana University Press, 1990).
- 
- Gilroy, Paul, The Black Atlantic: Modernity and Double Consciousness (Cambridge, Mass.: Harvard University Press, 1993).
- 
- Gooding-Williams, Robert, ‘Philosophy of History and Social Critique in The Souls of Black Folk’, Social Science Information, 26/1 (1987), 99–114.
- 
- Lewis, David Levering, W. E. B. Du Bois: Biography of a Race, 1868–1919 (New York: Henry Holt, 1993).
- 
- Radano, Ronald M., ‘Soul Texts and the Blackness of Folk’,Modernism/ Modernity,2/1 (Jan. 1995),71–95.
- 
+Here is a list of important books and articles about W. E. B. Du Bois and his ideas.
 
- 
-(Simplified)
- 
+Paul Allen Anderson wrote about Du Bois and the "Sorrow Songs" in a book called *Deep River: Music and Memory in Harlem Renaissance Thought*.
+
+Anthony Appiah talked about Du Bois and the idea of race in a book edited by Henry Louis Gates, Jr., called *‘Race,’ Writing, and Difference*.
+
+Herbert Aptheker wrote an introduction to Du Bois’s famous book *The Souls of Black Folk*.
+
+Russell A. Berman explored Du Bois’s connection to Wagner and ideas about race and culture in an article in *German Quarterly*.
+
+Dickson D. Bruce, Jr. discussed Du Bois and the idea of double consciousness in an article in *American Literature*.
+
+Vilashini Cooppan wrote about the two sides of double consciousness—nationalism and globalism—in *Public Culture*.
+
+Du Bois himself wrote an autobiography called *The Autobiography of W. E. B. Du Bois*.
+
+He also wrote *Dusk of Dawn*, which talks about the idea of race, included in a collection called *Writings*.
+
+Du Bois gave a speech called ‘The Talented Tenth Memorial Address’ in 1948, which is in the book *The Future of the Race* by Gates and West.
+
+Henry Louis Gates, Jr. wrote an introduction to *The Souls of Black Folk* and co-edited *The Future of the Race* with Cornel West.
+
+Willard B. Gatewood wrote about the Black elite during 1880–1920 in his book *Aristocrats of Color*.
+
+Paul Gilroy wrote about modern ideas and double consciousness in his book *The Black Atlantic*.
+
+Robert Gooding-Williams studied the history and social ideas in *The Souls of Black Folk*.
+
+David Levering Lewis wrote a biography about Du Bois covering 1868 to 1919.
+
+Ronald M. Radano wrote about soul music and Black culture in an article in *Modernism/Modernity*.

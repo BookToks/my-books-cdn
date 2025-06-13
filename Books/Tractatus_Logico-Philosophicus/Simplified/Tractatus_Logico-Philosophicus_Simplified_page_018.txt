@@ -1,16 +1,11 @@
-What we cannot think we cannot think, therefore we also cannot say what we cannot think.
- 
- This, he says, gives the key to Solipsism. What Solipsism intends is quite correct, but this cannot be said, it can only be shown. That the world is my world appears in the fact that the boundaries of language (the only language I understand) indicate the boundaries of my world.
- 
- The metaphysical subject does not belong to the world but is a boundary of the world.
- 
- We must take up next the question of molecular propositions which are at first sight not truth-functions, of the propositions that they contain, such, for example, as “A believes p.” Wittgenstein introduces this subject in the statement of his position, namely, that all molecular functions are truth-functions. He says (5.54): “In the general propositional form, propositions occur in a proposition only as bases of truth-operations.” At first sight, he goes on to explain, itseemsasifapropositioncouldalsooccurinotherways, e.g.“Abelieves p.” Here it seems superficially as if the proposition p stood in a sort of relation to the object A. “But it is clear that ‘A believes that p,’ ‘A thinks p,’ ‘A says p’ are of the form ‘p says p’; and here we have no coordination of a fact and an object, but a co-ordination of facts by means of a co-ordination of their objects” (5.542).
- 
- What Mr Wittgenstein says here is said so shortly that its point is not likely to be clear to those who have not in mind the controversies with which he is concerned. The theory with which he is disagreeing will be found in my articles on the nature of truth and falsehood in Philosophical Essays and Proceedings of the Aristotelian Society, 1906– 7. The problem at issue is the problem of the logical form of belief, i.e. what is the schema representing what occurs when a man believes.
- 
- Of course, the problem applies not only to belief, but also to a host of other mental phenomena which may be called propositional attitudes: doubting, considering, desiring, etc. In all these cases it seems natural to express the phenomenon in the form “A doubts p,” “A desires p,” etc., which makes it appear as though we were dealing with a relation between a person and a proposition. This cannot, of course, be the ultimate analysis, since persons are fictions and so are propositions, except in the sense in which they are facts on their own account. A proposition, considered as a fact on its own account, may be a set of words which a man says over to himself, or a complex image, or train of images passing through his mind, or a set of incipient bodily movements. It may be 16 INTRODUCTION any one of innumerable different things.
- 
+If we can’t think about something, then we also can’t say it.
 
- 
-(Simplified)
- 
+This idea is important for understanding Solipsism. Solipsism is basically saying that the world is only my world. But you can’t explain this with words, you can only show it. The limits of the language I understand show the limits of my world.
+
+The “metaphysical subject” isn’t part of the world; it’s like the edge or border of the world.
+
+Next, we need to talk about complex sentences, which at first don’t seem like they follow simple true or false rules. For example, sentences like “A believes p.” Wittgenstein says all complex sentences do follow true or false rules. He explains that in sentences like “A believes p,” it looks like the proposition p is connected to the person A. But actually, it’s not about connecting a fact and an object; it’s about connecting facts through their objects.
+
+Wittgenstein’s point is a bit hard to understand if you don’t know the debates he’s answering. The argument he’s against is explained in some old articles about truth and falsehood. The main question is how to represent logically what happens when someone believes something.
+
+This problem isn’t just about belief. It’s also about other mental states like doubting, thinking, wanting, and so on. We often say things like “A doubts p” or “A wants p,” which makes it seem like there’s a relationship between a person and a statement. But this can’t be the whole truth because people and statements are not real things by themselves—they are like ideas or facts. A proposition, for example, might be words someone says to themselves, or pictures or thoughts in their mind, or even small body movements. It could be many different things.

@@ -1,28 +1,23 @@
-3.317 The determination of the values of the propositional variable is done by indicating the propositions whose common mark the variable is.
- 
- The determination is a description of these propositions.
- 
- The determination will therefore deal only with symbols not with their meaning.
- 
- And only this is essential to the determination, that it is only a description of symbols and asserts nothing about what is symbolized.
- 
- The way in which we describe the propositions is not essential.
- 
- 3.318 Iconceivetheproposition—likeFregeandRussell—asafunction of the expressions contained in it.
- 
- 3.32 The sign is the part of the symbol perceptible by the senses.
- 
- 3.321 Two different symbols can therefore have the sign (the written signorthesoundsign)incommon—theythensignifyindifferent ways.
- 
- 3.322 It can never indicate the common characteristic of two objects that we symbolize them with the same signs but by different methods of symbolizing. For the sign is arbitrary. We could therefore equally well choose two different signs and where then would be what was common in the symbolization.
- 
- 3.323 In the language of everyday life it very often happens that the same word signifies in two different ways—and therefore belongs to two different symbols—or that two words, which signify in different ways, are apparently applied in the same way in the proposition.
- 
- Thus the word “is” appears as the copula, as the sign of equality, and as the expression of existence; “to exist” as an intransitiveverblike“togo”; “identical” asanadjective; wespeak of something but also of the fact of something happening.
- 
- (In the proposition “Green is green”—where the first word is a proper name and the last an adjective—these words have not merely different meanings but they are different symbols.) 35 TRACTATUS LOGICO-PHILOSOPHICUS 3.
- 
+3.317 To figure out what values a propositional variable has, you show which propositions share the same mark as that variable.
 
- 
-(Simplified)
- 
+This figuring out is basically describing those propositions.
+
+So, the focus is only on the symbols, not what they mean.
+
+What really matters is that this description only talks about symbols and doesn’t say anything about what the symbols stand for.
+
+How we describe the propositions doesn’t really matter.
+
+3.318 I think of a proposition—like Frege and Russell did—as a function made up of the expressions inside it.
+
+3.32 A sign is the part of the symbol that we can see or hear.
+
+3.321 Two different symbols can share the same sign (like the same written word or sound), but they mean different things.
+
+3.322 The sign can’t show what two objects have in common just because we use the same sign for both but in different ways. The sign is random. We could pick two different signs instead, so then where would the common part be in the symbolizing?
+
+3.323 In everyday language, the same word often means different things and so belongs to different symbols, or two different words can seem to be used the same way in a sentence even though they mean different things.
+
+For example, the word “is” can be used as a linking word, a sign of equality, or to show existence; “to exist” can be like a verb meaning “to go”; “identical” can be an adjective. Sometimes we talk about a thing, and sometimes about the fact that something is happening.
+
+In the sentence “Green is green”—where the first “Green” is a name and the last “green” is an adjective—these words don’t just have different meanings, they are actually different symbols.

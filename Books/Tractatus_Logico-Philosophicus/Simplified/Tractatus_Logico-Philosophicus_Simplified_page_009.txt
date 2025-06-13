@@ -1,10 +1,13 @@
-INTRODUCTION By BERTRAND RUSSELL Mr Wittgenstein’s Tractatus Logico-Philosophicus, whether or not it prove to give the ultimate truth on the matters with which it deals, certainly deserves, by its breadth and scope and profundity, to be considered an important event in the philosophical world. Starting from the principles of Symbolism and the relations which are necessary between words and things in any language, it applies the result of this inquiry to various departments of traditional philosophy, showing in each case how traditional philosophy and traditional solutions arise out of ignorance of the principles of Symbolism and out of misuse of language.
- 
- The logical structure of propositions and the nature of logical inference are first dealt with. Thence we pass successively to Theory of Knowledge, Principles of Physics, Ethics, and finally the Mystical (das Mystische).
- 
- In order to understand Mr Wittgenstein’s book, it is necessary to realize what is the problem with which he is concerned. In the part of his theory which deals with Symbolism he is concerned with the conditions whichwouldhavetobefulfilledbyalogicallyperfectlanguage. Thereare various problems as regards language. First, there is the problem what actually occurs in our minds when we use language with the intention of meaning something by it; this problem belongs to psychology. Secondly, there is the problem as to what is the relation subsisting between thoughts, words, or sentences, and that which they refer to or mean; this problem belongs to epistemology. Thirdly, there is the problem of using sentences so as to convey truth rather than falsehood; this belongs to the special sciences dealing with the subject-matter of the sentences in question. Fourthly, there is the question: what relation must one fact (such as a sentence) have to another in order to be capable of being a symbol for that other? This last is a logical question, and is the one with which Mr Wittgenstein is concerned. He is concerned with the conditions for accurate Symbolism, i.e. for Symbolism in which a sentence “means” something quite definite. In practice, language is always more or less vague, so that what we assert is never quite precise. Thus, logic has two problems to deal with in regard to Symbolism: (1) the conditions for sense rather than nonsense in combinations of symbols; (2) the conditions for uniqueness of meaning or reference in symbols or combinations 7 INTRODUCTION of symbols.
- 
+INTRODUCTION By BERTRAND RUSSELL
 
- 
-(Simplified)
- 
+Mr. Wittgenstein’s book, Tractatus Logico-Philosophicus, might not give the final answers to its big questions, but because it covers so much and goes so deep, it’s definitely an important work in philosophy.
+
+The book starts by looking at Symbolism and how words and things have to be connected in any language. Then it uses what it finds to explore different areas of traditional philosophy. It shows how many old philosophical ideas come from not understanding Symbolism and from using language the wrong way.
+
+First, it talks about the logical structure of sentences and how we can make logical conclusions. After that, it moves on to topics like Knowledge, Physics, Ethics, and finally something called the Mystical.
+
+To understand Wittgenstein’s book, you need to know what problem he’s trying to solve. When he talks about Symbolism, he’s interested in what would make a perfectly logical language.
+
+There are different problems with language. One is about what happens in our minds when we try to express meaning — that’s a psychology problem. Another is about how thoughts, words, or sentences relate to what they mean or refer to — that’s an epistemology problem. Then there’s the problem of using sentences to tell the truth instead of lying — that belongs to the specific sciences that study what the sentences are about. Finally, there’s the question of what connection one thing (like a sentence) must have to another to be a symbol for it — this is a logical question, and it’s the one Wittgenstein focuses on.
+
+He cares about the rules for accurate Symbolism, where a sentence clearly “means” something specific. In real life, language is often vague, so what we say is never totally exact. Logic has to deal with two problems about Symbolism: (1) what makes combinations of symbols make sense instead of nonsense, and (2) what makes the meaning or reference of symbols unique and clear.

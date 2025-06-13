@@ -1,30 +1,23 @@
-514 Ist eine Notation festgelegt, so gibt es in ihr eine Regel, nach der alle p verneinenden Sätze gebildet werden, eine Regel, nach der alle p bejahenden Sätze gebildet werden, eine Regel, nach der alle p oder q bejahenden Sätze gebildet werden, u. s. f. Diese Regeln sind den Symbolen äquivalent und in ihnen spiegelt sich ihr Sinn wider.
- 
- 5.515 Es muss sich an unseren Symbolen zeigen, dass das, was durch „∨“, „.“, etc. miteinander verbunden ist, Sätze sein müssen.
- 
- Und dies ist auch der Fall, denn das Symbol „p“ und „q“ setzt ja selbst das „∨“, „∼“, etc. voraus. Wenn das Zeichen „p“ in „p∨q“ nicht für ein komplexes Zeichen steht, dann kann es allein nicht Sinn haben; dann können aber auch die mit „p“ gleichsinnigen Zeichen „p∨p“, „p.p“, etc. keinen Sinn haben.
- 
- Wenn aber „p ∨ p“ keinen Sinn hat, dann kann auch „p ∨ q“ keinen Sinn haben.
- 
- 5.5151 Muss das Zeichen des negativen Satzes mit dem Zeichen des positiven gebildet werden? Warum sollte man den negativen Satz nicht durch eine negative Tatsache ausdrücken können.
- 
- (Etwa: Wenn „a“ nicht in einer bestimmten Beziehung zu „b“ steht, könnte das ausdrücken, dass aRb nicht der Fall ist.) Aber auch hier ist ja der negative Satz indirekt durch den positiven gebildet.
- 
- Der positive Satz muss die Existenz des negativen Satzes voraussetzen und umgekehrt.
- 
- 5.52 Sind die Werte von ξ sämtliche Werte einer Funktion fx für alle Werte von x, so wird N(ξ) = ∼(∃x).fx.
- 
- 5.521 Ich trenne den Begriff Alle von der Wahrheitsfunktion.
- 
- Frege und Russell haben die Allgemeinheit in Verbindung mit dem logischen Produkt oder der logischen Summe eingeführt. So wurde es schwer, die Sätze „(∃x).fx“ und „(x).fx“, in welchen beide Ideen beschlossen liegen, zu verstehen.
- 
- 5.522 Das Eigentümliche der Allgemeinheitsbezeichnung ist erstens, dass sie auf ein logisches Urbild hinweist, und zweitens, dass sie Konstante hervorhebt.
- 
- 5.523 Die Allgemeinheitsbezeichnung tritt als Argument auf.
- 
- 138 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 5.
- 
+Once a way of writing is fixed, there is a rule in it for making all sentences that say "not p," a rule for making all sentences that say "p," a rule for making all sentences that say "p or q," and so on. These rules match the symbols and show their meaning.
 
- 
-(Simplified)
- 
+It must be clear from our symbols that what is connected by "∨," ".", etc., has to be sentences.
+
+This is true because the symbols "p" and "q" already assume the use of "∨," "∼," and so on. If the symbol "p" in "p∨q" does not stand for a complex sign, then it can't have meaning by itself. Then signs like "p∨p," "p.p," and others that mean the same as "p" would also have no meaning.
+
+If "p ∨ p" has no meaning, then "p ∨ q" can't have meaning either.
+
+Does the sign for a negative sentence have to be made using the sign for a positive one? Why shouldn't a negative sentence be able to show a negative fact?
+
+For example: If "a" is not in a certain relation to "b," that could mean that "aRb" is not true. But even here, the negative sentence is indirectly made from the positive one.
+
+The positive sentence must assume that the negative sentence exists, and the negative sentence must assume the positive one exists.
+
+If the values of ξ are all the values of a function fx for every x, then N(ξ) = ∼(∃x).fx.
+
+I separate the idea of "all" from the truth function.
+
+Frege and Russell introduced the idea of "all" connected with logical "and" or logical "or." Because of this, it became hard to understand the sentences "(∃x).fx" and "(x).fx," which include both ideas.
+
+The special thing about the idea of "all" is first, that it points to a logical original, and second, that it highlights constants.
+
+The idea of "all" appears as an argument.

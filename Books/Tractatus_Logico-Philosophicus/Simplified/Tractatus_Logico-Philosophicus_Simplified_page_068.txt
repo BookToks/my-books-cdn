@@ -1,26 +1,21 @@
-(Even if we believe that we have done so.) Thus “Socrates is identical” says nothing, because we have given no meaning to the word “identical” as adjective. For when it occurs as the sign of equality it symbolizes in an entirely different way—the symbolizing relation is another—therefore the symbol is in the two cases entirely different; the two symbols have the sign in common with one another only by accident.
- 
- 5.474 The number of necessary fundamental operations depends only on our notation.
- 
- 5.475 Itisonlyaquestionofconstructingasystemofsignsofadefinite number of dimensions—of a definite mathematical multiplicity.
- 
- 5.476 It is clear that we are not concerned here with a number of primitive ideas which must be signified but with the expression of a rule.
- 
- 5.5 Every truth-function is a result of the successive application of the operation (– – – – –T)(ξ,....) to elementary propositions.
- 
- This operation denies all the propositions in the right-hand bracket and I call it the negation of these propositions.
- 
- 5.501 An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form “(ξ)”. “ξ” is a variable whose values are the termsoftheexpressioninbrackets, andthelineoverthevariable indicates that it stands for all its values in the bracket.
- 
- (Thus if ξ has the 3 values P, Q, R, then (ξ) = (P, Q, R).) The values of the variables must be determined.
- 
- The determination is the description of the propositions which the variable stands for.
- 
- Howthedescriptionofthetermsoftheexpressioninbrackets takes place is unessential.
- 
- We may distinguish 3 kinds of description: 1. Direct enumeration. In this case we can place simply its constant values instead of the variable. 2. Giving a function fx, whose values for all values of x are the propositions to be described. 3. Giving 66 TRACTATUS LOGICO-PHILOSOPHICUS a formal law, according to which those propositions are constructed.
- 
+Even if we think we have done it. Saying “Socrates is identical” doesn’t really say anything because we haven’t explained what “identical” means as an adjective. When “identical” is used to mean “equal,” it works in a totally different way—the way it points to something is different—so the two uses of the word are really not the same; they only look similar by chance.
 
- 
-(Simplified)
- 
+5.474 The number of basic steps we need depends only on the system of symbols we use.
+
+5.475 It’s just a matter of building a system of symbols with a limited number of parts—a certain kind of math setup.
+
+5.476 Here, we are not talking about a bunch of simple ideas that need to be shown, but about showing a rule.
+
+5.5 Every truth-function comes from applying the operation (––––T)(ξ,....) step by step to simple statements.
+
+This operation means denying all the statements inside the brackets, and I call this denying “negation.”
+
+5.501 When I write something in brackets that contains statements, and the order doesn’t matter, I use a sign like “(ξ).” “ξ” is a variable that stands for all the statements in the brackets, and the line over it means it stands for all these values.
+
+(For example, if ξ has the values P, Q, and R, then (ξ) = (P, Q, R).) We have to decide what values the variables have.
+
+Deciding the values means describing the statements the variable stands for.
+
+How we describe the statements inside the brackets doesn’t really matter.
+
+We can describe them in three ways: 1. Listing them all directly. In this case, we just put their fixed values instead of the variable. 2. Giving a function fx, where for every x, fx gives one of the statements. 3. Giving a formal rule that shows how those statements are made.

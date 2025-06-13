@@ -1,18 +1,15 @@
-E.2. If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
- 
- 1.E.3. If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
- 
- 1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
- 
- 1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
- 
- 1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form. Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
- 
- 1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
- 
- 1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that - You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg-tm works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg-tm trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax c returns.
- 
+If a Project Gutenberg electronic book comes from the public domain (which means it doesn’t say it’s posted with permission from the copyright owner), you can copy and share it with anyone in the United States for free.
 
- 
-(Simplified)
- 
+But if you share a work that has "Project Gutenberg" on it, you have to follow certain rules from paragraphs 1.E.1 to 1.E.7 or get permission as explained in paragraphs 1.E.8 or 1.E.9.
+
+If a Project Gutenberg work is shared with permission from the copyright owner, you must follow the rules in paragraphs 1.E.1 to 1.E.7 and any extra rules the owner sets. These extra rules will be linked at the start of the work.
+
+Don’t remove or separate the full Project Gutenberg License from this work or any related files.
+
+When you copy, show, perform, or share this work or any part of it, you must clearly show the sentence from paragraph 1.E.1 with active links or easy access to the full Project Gutenberg License.
+
+You can change the file format to things like zipped files, word documents, or web pages. But if you share it in a format different from the official “Plain Vanilla ASCII” version on the Project Gutenberg website, you must also provide the original version for free if someone asks for it. Any new format must include the full Project Gutenberg License.
+
+You cannot charge money for accessing, viewing, copying, or sharing any Project Gutenberg works unless you follow the rules in paragraphs 1.E.8 or 1.E.9.
+
+You are allowed to charge a fair fee for copies or access to Project Gutenberg works if you pay 20% of your profits from that to the owner of the Project Gutenberg trademark. This fee is donated to the Project Gutenberg Literary Archive Foundation. You must pay this royalty within 60 days after you file your taxes.

@@ -1,20 +1,15 @@
-Tractatus Logico-Philosophicus PREFACE This book will perhaps only be understood by those who have themselves already thought the thoughts which are expressed in it—or similar thoughts. It is therefore not a text-book. Its object would be attained if there were one person who read it with understanding and to whom it afforded pleasure.
- 
- The book deals with the problems of philosophy and shows, as I believe, that the method of formulating these problems rests on the misunderstanding of the logic of our language. Its whole meaning could be summed up somewhat as follows: What can be said at all can be said clearly; and whereof one cannot speak thereof one must be silent.
- 
- The book will, therefore, draw a limit to thinking, or rather—not to thinking, but to the expression of thoughts; for, in order to draw a limit to thinking we should have to be able to think both sides of this limit (we should therefore have to be able to think what cannot be thought).
- 
- The limit can, therefore, only be drawn in language and what lies on the other side of the limit will be simply nonsense.
- 
- How far my efforts agree with those of other philosophers I will not decide. Indeed what I have here written makes no claim to novelty in points of detail; and therefore I give no sources, because it is indifferent to me whether what I have thought has already been thought before me by another.
- 
- I will only mention that to the great works of Frege and the writings of my friend Bertrand Russell I owe in large measure the stimulation of my thoughts.
- 
- If this work has a value it consists in two things. First that in it thoughts are expressed, and this value will be the greater the better the thoughts are expressed. The more the nail has been hit on the head.— Here I am conscious that I have fallen far short of the possible. Simply because my powers are insufficient to cope with the task.—May others come and do it better.
- 
- 23 Ontheotherhandthetruth ofthethoughtscommunicatedhereseems to me unassailable and definitive.
- 
+This book might only make sense to people who have already thought about the same or similar ideas. So, it’s not meant to be a textbook. Its goal is reached if even one person reads it, understands it, and enjoys it.
 
- 
-(Simplified)
- 
+The book talks about problems in philosophy and shows that these problems come from misunderstanding how our language works. The main idea is: if you can say something, say it clearly; but if you can’t talk about it, then don’t say anything.
+
+Because of this, the book sets a limit—not on thinking, but on how we express our thoughts. To set a limit on thinking, we would have to think about things that can’t be thought about, which is impossible.
+
+So, the limit can only be set in language, and anything beyond that limit is just nonsense.
+
+I won’t say how much my ideas match other philosophers. I don’t claim to be original about every detail, so I don’t give sources. It doesn’t matter to me if someone else thought the same things before me.
+
+But I do want to say that the work of Frege and my friend Bertrand Russell inspired me a lot.
+
+If this book has value, it’s for two reasons. First, because it expresses thoughts, and it’s more valuable the better those thoughts are expressed. Like hitting a nail right on the head. I know I didn’t do as well as I could because this task was really hard for me. I hope others will do it better.
+
+On the other hand, I believe the truth of the ideas I share here can’t be challenged and is final.

@@ -1,34 +1,27 @@
-03 We cannot think anything unlogical, for otherwise we should have to think unlogically.
- 
- 3.031 It used to be said that God could create everything, except what was contrary to the laws of logic. The truth is, we could not say of an “unlogical” world how it would look.
- 
- 3.032 To present in language anything which “contradicts logic” is as impossible as in geometry to present by its co-ordinates a figure which contradicts the laws of space; or to give the co-ordinates of a point which does not exist.
- 
- 3.0321 We could present spatially an atomic fact which contradicted the laws of physics, but not one which contradicted the laws of geometry.
- 
- 3.04 An a priori true thought would be one whose possibility guaranteed its truth.
- 
- 3.05 We could only know a priori that a thought is true if its truth was to be recognized from the thought itself (without an object of comparison).
- 
- 3.1 In the proposition the thought is expressed perceptibly through the senses.
- 
- 3.11 We use the sensibly perceptible sign (sound or written sign, etc.) of the proposition as a projection of the possible state of affairs.
- 
- The method of projection is the thinking of the sense of the proposition.
- 
- 3.12 The sign through which we express the thought I call the propositional sign. And the proposition is the propositional sign in its projective relation to the world.
- 
- 3.13 To the proposition belongs everything which belongs to the projection; but not what is projected.
- 
- Therefore the possibility of what is projected but not this itself.
- 
- In the proposition, therefore, its sense is not yet contained, but the possibility of expressing it.
- 
- (“The content of the proposition” means the content of the significant proposition.) In the proposition the form of its sense is contained, but not its content.
- 
- 31 TRACTATUS LOGICO-PHILOSOPHICUS 3.
- 
+We can’t think anything that doesn’t make sense, because if we tried, we’d have to think in a way that doesn’t make sense.
 
- 
-(Simplified)
- 
+People used to say that God could create anything, except things that go against logic. The truth is, we wouldn’t even know how a world that breaks logic would look.
+
+Trying to explain something that breaks logic using words is impossible. It’s like trying to draw a shape in geometry that breaks the rules of space or giving coordinates for a point that doesn’t exist.
+
+We might be able to imagine something that breaks the laws of physics, but not something that breaks the rules of geometry.
+
+A thought that is true without needing proof would be one that has to be true just because it’s possible.
+
+We’d only know a thought is true without checking something else if its truth is clear just by looking at the thought itself.
+
+In a sentence, the thought is shown in a way we can sense, like hearing or reading it.
+
+We use sounds or written signs in a sentence to show a possible situation.
+
+The way we think about the meaning of a sentence is like imagining that situation.
+
+The sign we use to show a thought is called the propositional sign. A sentence is this sign connected to the world it's talking about.
+
+Everything that belongs to the imagined situation belongs to the sentence, but not the situation itself.
+
+So, a sentence shows what might be possible, but not the actual thing.
+
+This means a sentence doesn’t hold its full meaning yet, only the chance to express it.
+
+When we talk about “the content of the sentence,” we mean the meaning inside it. A sentence has the shape of its meaning, but not the full meaning itself.

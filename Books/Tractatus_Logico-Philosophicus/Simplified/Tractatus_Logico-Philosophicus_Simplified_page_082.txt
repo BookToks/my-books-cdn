@@ -1,30 +1,23 @@
-We can in fact postulate them in so far as we can postulate an adequate notation.
- 
- 6.1224 It also becomes clear why logic has been called the theory of forms and of inference.
- 
- 6.123 It is clear that the laws of logic cannot themselves obey further logical laws.
- 
- (There is not, as Russell supposed, for every “type” a special law of contradiction; but one is sufficient, since it is not applied to itself.) 6.1231 The mark of logical propositions is not their general validity.
- 
- To be general is only to be accidentally valid for all things.
- 
- An ungeneralized proposition can be tautologous just as well as a generalized one.
- 
- 6.1232 Logical general validity, we could call essential as opposed to accidental general validity, e.g. of the proposition “all men are mortal”. Propositions like Russell’s “axiom of reducibility” are not logical propositions, and this explains our feeling that, if true, they can only be true by a happy chance.
- 
- 6.1233 We can imagine a world in which the axiom of reducibility is not valid. But it is clear that logic has nothing to do with the question whether our world is really of this kind or not.
- 
- 6.124 The logical propositions describe the scaffolding of the world, or rather they present it. They “treat” of nothing. They presuppose that names have meaning, and that elementary propositions have sense. And this is their connexion with the world.
- 
- It is clear that it must show something about the world that certain combinations of symbols—which essentially have a definite character—are tautologies. Herein lies the decisive point.
- 
- We said that in the symbols which we use much is arbitrary, much not. In logic only this expresses: but this means that in logic it is not we who express, by means of signs, what we want, but in logic the nature of the essentially necessary signs itself asserts. That is to say, if we know the logical syntax of any sign language, then all the propositions of logic are already given.
- 
- 6.125 It is possible, even in the old logic, to give at the outset a description of all “true” logical propositions.
- 
- 80 TRACTATUS LOGICO-PHILOSOPHICUS 6.
- 
+We can think about them as long as we have a good way to write them down.
 
- 
-(Simplified)
- 
+6.1224 It also becomes clear why logic is called the theory of forms and reasoning.
+
+6.123 It’s clear that the rules of logic don’t follow other logical rules.
+
+(Russell was wrong to think that every “type” needs its own rule about contradictions; one rule is enough because it doesn’t apply to itself.) 6.1231 The special thing about logical statements isn’t that they apply to everything.
+
+Being general just means they happen to be true for all things by chance.
+
+A statement that isn’t general can be just as obviously true as a general one.
+
+6.1232 We can call the kind of logic that’s always true “essential” general truth, as opposed to “accidental” general truth, like the statement “all men are mortal.” Statements like Russell’s “axiom of reducibility” aren’t really logical statements, which is why they feel like they could only be true by luck.
+
+6.1233 We can imagine a world where the axiom of reducibility isn’t true. But logic doesn’t care if our world is like that or not.
+
+6.124 Logical statements show the basic structure of the world, or rather, they represent it. They don’t talk about anything specific. They assume that names have meaning and that basic statements make sense. That’s how they connect to the world.
+
+It’s clear that it means something about the world when certain symbol combinations—which have a fixed kind of meaning—are always true. This is the key point.
+
+We said that in the symbols we use, some parts are chosen by us, and some are not. In logic, only this counts: that means logic isn’t about us using signs to say what we want; instead, the nature of the necessary signs speaks for itself. In other words, if we know the rules of any logical sign system, then all logical statements are already known.
+
+6.125 Even in old logic, it’s possible to describe all the “true” logical statements from the start.

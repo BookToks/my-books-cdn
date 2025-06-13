@@ -1,24 +1,21 @@
-462 TautologieundKontradiktionsindnichtBilderderWirklichkeit.
- 
- Sie stellen keine mögliche Sachlage dar. Denn jene lässt jede mögliche Sachlage zu, diese keine.
- 
- In der Tautologie heben die Bedingungen der Übereinstimmung mit der Welt—die darstellenden Beziehungen—einander auf, so dass sie in keiner darstellenden Beziehung zur Wirklichkeit steht.
- 
- 4.463 Die Wahrheitsbedingungen bestimmen den Spielraum, der den Tatsachen durch den Satz gelassen wird.
- 
- (Der Satz, das Bild, das Modell, sind im negativen Sinne wie ein fester Körper, der die Bewegungsfreiheit der anderen beschränkt; im positiven Sinne, wie der von fester Substanz begrenzte Raum, worin ein Körper Platz hat.) Die Tautologie lässt der Wirklichkeit den ganzen—unendlichen—logischen Raum; die Kontradiktion erfüllt den ganzen logischen Raum und lässt der Wirklichkeit keinen Punkt. Keine von beiden kann daher die Wirklichkeit irgendwie bestimmen.
- 
- 4.464 Die Wahrheit der Tautologie ist gewiss, des Satzes möglich, der Kontradiktion unmöglich.
- 
- (Gewiss, möglich, unmöglich: Hier haben wir das Anzeichen jener Gradation, die wir in der Wahrscheinlichkeitslehre brauchen.) 4.465 DaslogischeProdukteinerTautologieundeinesSatzessagtdasselbe, wie der Satz. Also ist jenes Produkt identisch mit dem Satz. Denn man kann das Wesentliche des Symbols nicht ändern, ohne seinen Sinn zu ändern.
- 
- 4.466 Einer bestimmten logischen Verbindung von Zeichen entspricht eine bestimmte logische Verbindung ihrer Bedeutungen; jede beliebige Verbindung entspricht nur den unverbundenen Zeichen.
- 
- Das heisst, Sätze die für jede Sachlage wahr sind, können überhaupt keine Zeichenverbindungen sein, denn sonst könnten ihnen nur bestimmte Verbindungen von Gegenständen entsprechen.
- 
- (Und keiner logischen Verbindung entspricht keine Verbindung der Gegenstände.) 123 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Tautologie und Kontradiktion sind die Grenzfälle der Zeichenverbindung, nämlich ihre Auflösung.
- 
+Tautologies and contradictions are not pictures of reality.
 
- 
-(Simplified)
- 
+They don’t show any possible situation. A tautology allows every possible situation, while a contradiction allows none.
+
+In a tautology, the conditions that match the world cancel each other out, so it doesn’t actually represent reality.
+
+The truth conditions set the limits for the facts allowed by a sentence.
+
+(A sentence, picture, or model is like a solid object that limits how things can move. But it also creates space where something can exist.) A tautology leaves the whole infinite logical space open to reality; a contradiction fills the entire logical space and leaves no room for reality. So, neither one can really describe reality.
+
+A tautology is always true, a sentence can be true or false, and a contradiction is always false.
+
+(Always true, maybe true, and never true show the levels we use in probability.)
+
+The logical result of a tautology and a sentence is the same as the sentence. This means that combining them doesn’t change the meaning of the sentence.
+
+A certain logical connection between signs matches a certain connection between their meanings. Random connections only match disconnected signs.
+
+This means sentences that are true in every situation can’t be made from connected signs, because connected signs must match specific objects.
+
+(And no logical connection means no connection between objects.) Tautologies and contradictions are the extreme cases of sign connections — they are like the breakdown of connections.

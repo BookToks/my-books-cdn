@@ -1,30 +1,25 @@
-1252 Serieswhichareorderedbyinternal relationsIcallformalseries.
- 
- The series of numbers is ordered not by an external, but by an internal relation.
- 
- Similarly the series of propositions “aRb”, “(∃x) : aRx.xRb”, “(∃x,y) : aRx.aRy .yRb”, etc.
- 
- (If b stands in one of these relations to a, I call b a successor of a.) 4.126 In the sense in which we speak of formal properties we can now speak also of formal concepts.
- 
- (I introduce this expression in order to make clear the confusionofformalconceptswithproperconceptswhichrunsthrough the whole of the old logic.) That anything falls under a formal concept as an object belongingtoit, cannotbeexpressedbyaproposition. Butitshows itself in the sign of this object itself. (The name shows that it signifies an object, the numerical sign that it signifies a number, etc.) Formal concepts cannot, like proper concepts, be presented by a function.
- 
- For their characteristics, the formal properties, are not expressed by the functions.
- 
- The expression of a formal property is a feature of certain symbols.
- 
- The sign that signifies the characteristics of a formal concept is, therefore, a characteristic feature of all symbols, whose meanings fall under the concept.
- 
- The expression of the formal concept is therefore a propositional variable in which only this characteristic feature is constant.
- 
- 4.127 The propositional variable signifies the formal concept, and its values signify the objects which fall under this concept.
- 
- 4.1271 Every variable is the sign of a formal concept.
- 
- For every variable presents a constant form, which all its values possess, and which can be conceived as a formal property of these values.
- 
- 47 TRACTATUS LOGICO-PHILOSOPHICUS 4.
- 
+1252 Series that are ordered by relations inside themselves I call formal series.
 
- 
-(Simplified)
- 
+The series of numbers is ordered not by something outside, but by something inside the series.
+
+The same goes for the series of statements like “aRb”, “(∃x): aRx.xRb”, “(∃x,y): aRx.aRy.yRb”, and so on.
+
+(If b is related to a in one of these ways, I call b a successor of a.)  
+
+4.126 When we talk about formal properties, we can also talk about formal concepts.
+
+(I use this phrase to clear up confusion between formal concepts and proper concepts, which has been a problem in old logic.) You can’t say with a sentence that something belongs to a formal concept. Instead, you can see it in the sign for that thing. (For example, a name shows it stands for an object, a number sign shows it stands for a number, and so on.) Formal concepts can’t be shown by a function like proper concepts can.
+
+This is because their special features, the formal properties, aren’t shown by functions.
+
+Instead, a formal property shows up as a feature of certain symbols.
+
+So, the sign that shows the traits of a formal concept is a special feature of all symbols whose meanings fit under that concept.
+
+Showing a formal concept is like using a sentence variable where only this special feature stays the same.
+
+4.127 The sentence variable stands for the formal concept, and its possible values stand for the things that belong to this concept.
+
+4.1271 Every variable is a sign of a formal concept.
+
+Because every variable shows a constant form that all its possible values share, and this can be seen as a formal property of those values.

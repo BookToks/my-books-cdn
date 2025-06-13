@@ -1,34 +1,29 @@
-1251 Hier erledigt sich nun die Streitfrage „ob alle Relationen intern oder extern“ seien.
- 
- 4.1252 Reihen, welche durch interne Relationen geordnet sind, nenne ich Formenreihen.
- 
- Die Zahlenreihe ist nicht nach einer externen, sondern nach einer internen Relation geordnet.
- 
- Ebenso die Reihe der Sätze „aRb“, „(∃x) : aRx . xRb“, „(∃x,y) : aRx.xRy .yRb“, u. s. f.
- 
- (StehtbineinerdieserBeziehungenzua,sonenneichbeinen Nachfolger von a.) 4.126 In dem Sinne, in welchem wir von formalen Eigenschaften sprechen, können wir nun auch von formalen Begriffen reden.
- 
- (Ich führe diesen Ausdruck ein, um den Grund der Verwechslung der formalen Begriffe mit den eigentlichen Begriffen, welche die ganze alte Logik durchzieht, klar zu machen.) Dass etwas unter einen formalen Begriff als dessen Gegenstand fällt, kann nicht durch einen Satz ausgedrückt werden.
- 
- SonderneszeigtsichandemZeichendiesesGegenstandesselbst.
- 
- (Der Name zeigt, dass er einen Gegenstand bezeichnet, das Zahlenzeichen, dass es eine Zahl bezeichnet etc.) Die formalen Begriffe können ja nicht, wie die eigentlichen Begriffe, durch eine Funktion dargestellt werden.
- 
- Denn ihre Merkmale, die formalen Eigenschaften, werden nicht durch Funktionen ausgedrückt.
- 
- Der Ausdruck der formalen Eigenschaft ist ein Zug gewisser Symbole.
- 
- Das Zeichen der Merkmale eines formalen Begriffes ist also ein charakteristischer Zug aller Symbole, deren Bedeutungen unter den Begriff fallen.
- 
- Der Ausdruck des formalen Begriffes also, eine Satzvariable, in welcher nur dieser charakteristische Zug konstant ist.
- 
- 4.127 Die Satzvariable bezeichnet den formalen Begriff und ihre Werte die Gegenstände, welche unter diesen Begriff fallen.
- 
- 4.1271 Jede Variable ist das Zeichen eines formalen Begriffes.
- 
- Denn jede Variable stellt eine konstante Form dar, welche 116 LOGISCH-PHILOSOPHISCHE ABHANDLUNG alle ihre Werte besitzen, und die als formale Eigenschaft dieser Werte aufgefasst werden kann.
- 
+1251 Now we can settle the question of whether all relations are internal or external.
 
- 
-(Simplified)
- 
+4.1252 Sequences that are ordered by internal relations, I call form sequences.
+
+The number sequence is not ordered by an external relation, but by an internal one.
+
+The same goes for the sequence of statements like "aRb," "(∃x): aRx . xRb," "(∃x,y): aRx . xRy . yRb," and so on.
+
+(If a is part of one of these relations, I call the related element a successor of a.) 4.126 When we talk about formal properties, we can also talk about formal concepts.
+
+(I introduce this term to explain why formal concepts are often confused with actual concepts, which has caused problems in old logic.) Something being part of a formal concept can’t be shown by a sentence.
+
+Instead, it shows itself through the symbol of the thing.
+
+(The name shows that it refers to an object, the number symbol shows it’s a number, etc.) Formal concepts can’t be shown by a function like real concepts can.
+
+Their features, the formal properties, aren’t expressed by functions.
+
+A formal property is shown by a pattern of certain symbols.
+
+The sign of the features of a formal concept is a special pattern shared by all symbols whose meanings belong to that concept.
+
+So, the expression of a formal concept is a sentence variable where only this special pattern stays the same.
+
+4.127 The sentence variable shows the formal concept, and the things that fit under this concept are its values.
+
+4.1271 Every variable is a sign of a formal concept.
+
+Because every variable shows a constant form that all its values have, and this form can be seen as the formal property of those values.

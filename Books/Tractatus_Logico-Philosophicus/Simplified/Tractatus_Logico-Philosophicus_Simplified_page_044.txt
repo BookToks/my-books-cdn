@@ -1,30 +1,27 @@
-4.0311 One name stands for one thing, and another for another thing, and they are connected together. And so the whole, like a living picture, presents the atomic fact.
- 
- 4.0312 The possibility of propositions is based upon the principle of the representation of objects by signs.
- 
- My fundamental thought is that the “logical constants” do not represent. That the logic of the facts cannot be represented.
- 
- 4.032 The proposition is a picture of its state of affairs, only in so far as it is logically articulated.
- 
- (Even the proposition “ambulo” is composite, for its stem gives a different sense with another termination, or its termination with another stem.) 4.04 In the proposition there must be exactly as many things distinguishable as there are in the state of affairs, which it represents.
- 
- They must both possess the same logical (mathematical) multiplicity (cf. Hertz’s Mechanics, on Dynamic Models).
- 
- 4.041 This mathematical multiplicity naturally cannot in its turn be represented. One cannot get outside it in the representation.
- 
- 4.0411 Ifwetried, forexample, toexpresswhatisexpressedby“(x).fx” by putting an index before fx, like: “Gen. fx”, it would not do, we should not know what was generalized. If we tried to show it by an index g, like: “f(x )” it would not do—we should not g know the scope of the generalization.
- 
- If we were to try it by introducing a mark in the argument places, like “(G,G) . F(G,G)”, it would not do—we could not determine the identity of the variables, etc.
- 
- All these ways of symbolizing are inadequate because they have not the necessary mathematical multiplicity.
- 
- 4.0412 For the same reason the idealist explanation of the seeing of spatial relations through “spatial spectacles” does not do, because it cannot explain the multiplicity of these relations.
- 
- 4.05 Reality is compared with the proposition.
- 
- 42 TRACTATUS LOGICO-PHILOSOPHICUS 4.
- 
+One name stands for one thing, and another name stands for another thing, and they are connected. Together, they create a complete picture, like a living scene, showing the basic fact.
 
- 
-(Simplified)
- 
+The possibility of making statements depends on using signs to represent objects.
+
+My main idea is that "logical constants" don’t stand for anything. The logic behind facts can’t be shown by signs.
+
+A statement is like a picture of how things are, but only if it is put together logically.
+
+(Even the word "ambulo" is made of parts, because its root changes meaning with different endings, or the ending changes with different roots.)
+
+In a statement, there must be exactly as many different parts as there are in the situation it shows.
+
+They both need to have the same kind of logical or mathematical complexity (like in Hertz’s Mechanics, about dynamic models).
+
+This mathematical complexity can’t be shown or represented itself. You can’t step outside it when trying to represent it.
+
+For example, if we tried to write what "(x).fx" means by putting something before "fx," like "Gen. fx," it wouldn't work because we wouldn't know what was being talked about.
+
+If we tried writing an index like "f(x)" it wouldn’t work either because we wouldn't know how far the generalization goes.
+
+If we tried putting marks in the argument places, like "(G,G). F(G,G)," it wouldn’t work because we couldn’t tell which variables are the same.
+
+All these ways of writing are not good enough because they don’t have the right kind of mathematical complexity.
+
+For the same reason, the idea that we see spatial relations through "spatial glasses" doesn’t work, because it can’t explain the many different relations.
+
+Reality is compared with the statement.

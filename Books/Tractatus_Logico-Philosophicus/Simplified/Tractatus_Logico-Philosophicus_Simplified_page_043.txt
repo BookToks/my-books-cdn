@@ -1,38 +1,35 @@
-023 The proposition determines reality to this extent, that one only needs to say “Yes” or “No” to it to make it agree with reality.
- 
- Itmustthereforebecompletelydescribedbytheproposition.
- 
- A proposition is the description of a fact.
- 
- As the description of an object describes it by its external properties so propositions describe reality by its internal properties.
- 
- The proposition constructs a world with the help of a logical scaffolding, and therefore one can actually see in the proposition all the logical features possessed by reality if it is true. One can draw conclusions from a false proposition.
- 
- 4.024 To understand a proposition means to know what is the case, if it is true.
- 
- (One can therefore understand it without knowing whether it is true or not.) One understands it if one understands its constituent parts.
- 
- 4.025 The translation of one language into another is not a process of translating each proposition of the one into a proposition of the other, but only the constituent parts of propositions are translated.
- 
- (And the dictionary does not only translate substantives but also adverbs and conjunctions, etc., and it treats them all alike.) 4.026 The meanings of the simple signs (the words) must be explained to us, if we are to understand them.
- 
- By means of propositions we explain ourselves.
- 
- 4.027 It is essential to propositions, that they can communicate a new sense to us.
- 
- 4.03 A proposition must communicate a new sense with old words.
- 
- The proposition communicates to us a state of affairs, therefore it must be essentially connected with the state of affairs.
- 
- And the connexion is, in fact, that it is its logical picture.
- 
- The proposition only asserts something, in so far as it is a picture.
- 
- 4.031 In the proposition a state of affairs is, as it were, put together for the sake of experiment.
- 
- 41 TRACTATUS LOGICO-PHILOSOPHICUS One can say, instead of, This proposition has such and such a sense, This proposition represents such and such a state of affairs.
- 
+A proposition connects to reality because you can say "Yes" or "No" to it, and that answer matches what really happens.
 
- 
-(Simplified)
- 
+So, the proposition has to fully describe what it’s about.
+
+A proposition is like a description of a fact.
+
+Just like describing an object by what you can see or touch, propositions describe reality by what’s inside it.
+
+A proposition builds a picture of the world using logic. If the proposition is true, you can see all the logical parts of reality in it. You can also think through what happens if a proposition is false.
+
+To understand a proposition means knowing what would be true if the proposition is true.
+
+You can understand it even if you don’t know if it’s actually true or not. You get it by understanding its parts.
+
+When you translate from one language to another, you don’t translate whole propositions directly. Instead, you translate the parts that make them up.
+
+A dictionary doesn’t just translate nouns but also words like adverbs and conjunctions, treating them all the same.
+
+To understand simple words, their meanings have to be explained to us.
+
+We explain ourselves using propositions.
+
+Propositions are important because they can give us new ideas or meanings.
+
+A proposition has to give us new meaning but using words we already know.
+
+It tells us about a situation, so it has to be linked to that situation.
+
+This link is that the proposition is like a logical picture of the situation.
+
+A proposition only says something because it is like a picture.
+
+In a proposition, a situation is put together like an experiment.
+
+You can say, instead of "This proposition has this meaning," you can say, "This proposition shows this situation."

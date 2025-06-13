@@ -1,28 +1,25 @@
-524 Wenn die Gegenstände gegeben sind, so sind uns damit auch schon alle Gegenstände gegeben.
- 
- Wenn die Elementarsätze gegeben sind, so sind damit auch alle Elementarsätze gegeben.
- 
- 5.525 Es ist unrichtig, den Satz „(∃x).fx“—wie Russell dies tut—in Worten durch „fx ist möglich“ wiederzugeben.
- 
- Gewissheit, Möglichkeit oder Unmöglichkeit einer Sachlage wird nicht durch einen Satz ausgedrückt, sondern dadurch, dass ein Ausdruck eine Tautologie, ein sinnvoller Satz, oder eine Kontradiktion ist.
- 
- Jener Präzedenzfall, auf den man sich immer berufen möchte, muss schon im Symbol selber liegen.
- 
- 5.526 Man kann die Welt vollständig durch vollkommen verallgemeinerte Sätze beschreiben, das heisst also, ohne irgend einen Namen von vornherein einem bestimmten Gegenstand zuzuordnen.
- 
- Um dann auf die gewöhnliche Ausdrucksweise zu kommen, muss man einfach nach einem Ausdruck „es gibt ein und nur ein x, welches ....“ sagen: Und dies x ist a.
- 
- 5.5261 Ein vollkommen verallgemeinerter Satz ist, wie jeder andere Satz zusammengesetzt. (Dies zeigt sich daran, dass wir in „(∃x,φ).φx“ „φ“ und „x“ getrennt erwähnen müssen. Beide stehen unabhängig in bezeichnenden Beziehungen zur Welt, wie im unverallgemeinerten Satz.) Kennzeichen des zusammengesetzten Symbols: Es hat etwas mit anderen Symbolen gemeinsam.
- 
- 5.5262 Es verändert ja die Wahr- oder Falschheit jedes Satzes etwas am allgemeinen Bau der Welt. Und der Spielraum, welcher ihrem Bau durch die Gesamtheit der Elementarsätze gelassen wird, ist eben derjenige, welchen die ganz allgemeinen Sätze begrenzen.
- 
- (Wenn ein Elementarsatz wahr ist, so ist damit doch jedenfalls Ein Elementarsatz mehr wahr.) 5.53 Gleichheit des Gegenstandes drücke ich durch Gleichheit des Zeichens aus, und nicht mit Hilfe eines Gleichheitszeichens.
- 
- Verschiedenheit der Gegenstände durch Verschiedenheit der Zeichen.
- 
- 139 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 5.
- 
+If you have all the objects, then you already have all the objects you need.
 
- 
-(Simplified)
- 
+If you have all the basic sentences, then you already have all the basic sentences there are.
+
+It's wrong to say that the sentence "(∃x).fx" means "fx is possible," like Russell said.
+
+Whether something is certain, possible, or impossible isn't shown by a sentence itself. Instead, it's shown by whether an expression is always true (a tautology), makes sense, or is a contradiction.
+
+The important part has to be inside the symbol itself.
+
+You can describe the whole world using fully general sentences. That means you don’t have to name any specific object from the start.
+
+To talk in normal language, you just say something like "there is exactly one x that..." and then say "This x is a."
+
+A fully general sentence is made up just like any other sentence. You can see this because in "(∃x,φ).φx" you have to mention "φ" and "x" separately. Both refer to the world on their own, just like in sentences that aren't general.
+
+A sign that a symbol is made up of parts is that it shares something with other symbols.
+
+Changing whether a sentence is true or false changes the overall structure of the world. The range that this structure allows is limited by the fully general sentences.
+
+(If one basic sentence is true, then at least one more basic sentence is true.)
+
+I show that two objects are the same by showing that their signs are the same, not by using an equals sign.
+
+Different objects are shown by different signs.

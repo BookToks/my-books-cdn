@@ -1,26 +1,19 @@
-e. constructed). The general form of proposition is: Such and such is the case.
- 
- 4.51 Suppose all elementary propositions were given me: then we can simply ask: what propositions I can build out of them. And these are all propositions and so are they limited.
- 
- 4.52 The propositions are everything which follows from the totality of all elementary propositions (of course also from the fact that it is the totality of them all). (So, in some sense, one could say, that all propositions are generalizations of the elementary propositions.) 4.53 The general propositional form is a variable.
- 
- 5 Propositions are truth-functions of elementary propositions.
- 
- (An elementary proposition is a truth-function of itself.) 5.01 The elementary propositions are the truth-arguments of propositions.
- 
- 5.02 It is natural to confuse the arguments of functions with the indices of names. For I recognize the meaning of the sign containing it from the argument just as much as from the index.
- 
- In Russell’s “+ ”, for example, “c” is an index which indicates c that the whole sign is the addition sign for cardinal numbers.
- 
- But this way of symbolizing depends on arbitrary agreement, and one could choose a simple sign instead of “+ ”: but in “∼p” c “p” is not an index but an argument; the sense of “∼p” cannot be understood, unless the sense of “p” has previously been understood. (In the name Julius Cæsar, Julius is an index. The index is always part of a description of the object to whose name we attach it, e.g. The Cæsar of the Julian gens.) Theconfusionofargumentandindexis, ifIamnotmistaken, at the root of Frege’s theory of the meaning of propositions and functions. For Frege the propositions of logic were names and their arguments the indices of these names.
- 
- 5.1 The truth-functions can be ordered in series.
- 
- That is the foundation of the theory of probability.
- 
- 55 TRACTATUS LOGICO-PHILOSOPHICUS 5.
- 
+4.51 Imagine you have all the basic statements. Then you can ask: what other statements can I make using them? All these new statements come from the basic ones, so they have limits.
 
- 
-(Simplified)
- 
+4.52 Statements are everything that comes from all the basic statements combined. You can think of all statements as bigger versions of the basic ones.
+
+4.53 The general form of a statement is a variable.
+
+5 Statements are truth-functions of basic statements.
+
+(A basic statement is a truth-function of itself.) 5.01 Basic statements are the starting points for other statements.
+
+5.02 People often mix up the parts of functions with the tags used in names. I understand what a sign means both from its parts and its tags.
+
+For example, in Russell’s “+”, the “c” is a tag showing that the sign means adding numbers.
+
+But this way of writing is based on agreement, and you could use a different sign instead of “+”. But in “∼p”, the “p” is not a tag but a part of the function; you can’t understand “∼p” unless you understand “p” first. (In the name Julius Caesar, Julius is a tag. A tag is always part of describing the object it names, like “The Caesar from the Julian family.”) Mixing up parts and tags is, I think, the main mistake in Frege’s ideas about meaning. Frege thought statements were like names and their parts were tags attached to those names.
+
+5.1 Truth-functions can be arranged in order.
+
+This idea is the base for probability theory.

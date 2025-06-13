@@ -1,30 +1,15 @@
-Socrates,whoisthenarrator.
- 
- Glaucon.
- 
- Adeimantus.
- 
- Polemarchus.
- 
- Cephalus.
- 
- Thrasymachus.
- 
- Cleitophon.
- 
- Andotherswhoaremuteauditors.
- 
- The scene is laid in the house of Cephalus at the Piraeus; and the whole dialogue is narrated by Socrates the day after it actually took place to Timaeus, Hermocrates,Critias,andanamelessperson,whoareintroducedintheTimaeus.
- 
- I went down yesterday to the Piraeus with Glaucon the son of Ariston, that I mightofferupmyprayerstothegoddess(Bendis,theThracianArtemis.);and alsobecauseIwantedtoseeinwhatmannertheywouldcelebratethefestival, whichwasanewthing. Iwasdelightedwiththeprocessionoftheinhabitants; but that of the Thracians was equally, if not more, beautiful. When we had finishedourprayersandviewedthespectacle,weturnedinthedirectionofthe city;andatthatinstantPolemarchusthesonofCephaluschancedtocatchsight ofusfromadistanceaswewerestartingonourwayhome,andtoldhisservant torunandbiduswaitforhim.Theservanttookholdofmebythecloakbehind, andsaid: Polemarchusdesiresyoutowait.
- 
- Iturnedround,andaskedhimwherehismasterwas.
- 
- Thereheis,saidtheyouth,comingafteryou,ifyouwillonlywait.
- 
- 177 178 IDPH Certainlywewill,saidGlaucon; andinafewminutesPolemarchusappeared, andwithhimAdeimantus,Glaucon’sbrother,NiceratusthesonofNicias,and severalotherswhohadbeenattheprocession.
- 
+Socrates is the one telling the story.
 
- 
-(Simplified)
- 
+There are also Glaucon, Adeimantus, Polemarchus, Cephalus, Thrasymachus, Cleitophon, and some others who just listen quietly.
+
+The story takes place at Cephalus’s house in the Piraeus. Socrates tells this story the day after it happened to Timaeus, Hermocrates, Critias, and a person without a name, who are introduced in another story called the Timaeus.
+
+Yesterday, I went down to the Piraeus with Glaucon, Ariston’s son. I wanted to pray to the goddess Bendis, the Thracian Artemis. I also wanted to see how they were celebrating a new festival. I really liked the parade of the local people, but the one by the Thracians was just as good, maybe even better.
+
+After we finished our prayers and watched the parade, we started walking back to the city. At that moment, Polemarchus, Cephalus’s son, saw us from far away. He told his servant to run and tell us to wait. The servant grabbed my cloak from behind and said Polemarchus wanted us to stop.
+
+I looked back and asked where Polemarchus was.
+
+The young servant said, “He’s coming after you if you just wait.”
+
+Glaucon said, “Of course, we will wait.” After a few minutes, Polemarchus showed up. He was with Adeimantus, Glaucon’s brother, Niceratus, Nicias’s son, and some others who had been at the parade.

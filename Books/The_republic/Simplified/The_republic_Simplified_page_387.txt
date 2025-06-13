@@ -1,34 +1,29 @@
-Moreover the science has indirecteffects,whicharenotsmall.
- 
- Ofwhatkind? hesaid.
- 
- Therearethemilitaryadvantagesofwhichyouspoke,Isaid;andinalldepartmentsofknowledge,asexperienceproves,anyonewhohasstudiedgeometry isinfinitelyquickerofapprehensionthanonewhohasnot.
- 
- Yesindeed,hesaid,thereisaninfinitedifferencebetweenthem.
- 
- Thenshallweproposethisasasecondbranchofknowledgewhichouryouth willstudy?
- 
- Letusdoso,hereplied.
- 
- Andsupposewemakeastronomythethird–whatdoyousay?
- 
- I am strongly inclined to it, he said; the observation of the seasons and of monthsandyearsisasessentialtothegeneralasitistothefarmerorsailor.
- 
- Iamamused,Isaid,atyourfearoftheworld,whichmakesyouguardagainst theappearanceofinsistinguponuselessstudies;andIquiteadmitthedifficulty ofbelievingthatineverymanthereisaneyeofthesoulwhich,whenbyother pursuits lost and dimmed, is by these purified and re-illumined; and is more precious far than ten thousand bodily eyes, for by it alone is truthseen. Now therearetwoclassesofpersons:oneclassofthosewhowillagreewithyouand willtakeyourwordsasarevelation;anotherclasstowhomtheywillbeutterly unmeaning,andwhowillnaturallydeemthemtobeidletales,fortheyseeno sortofprofitwhichistobeobtainedfromthem. Andthereforeyouhadbetter decideatoncewithwhichofthetwoyouareproposingtoargue. Youwillvery likely say with neither, and that your chief aim in carrying on the argument is your own improvement; at the same time you do not grudge to others any benefitwhichtheymayreceive.
- 
- IthinkthatIshouldprefertocarryontheargumentmainlyonmyownbehalf.
- 
- Thentakeastepbackward,forwehavegonewrongintheorderofthesciences.
- 
- Whatwasthemistake? hesaid.
- 
- Afterplanegeometry,Isaid,weproceededatoncetosolidsinrevolution,instead of taking solids in themselves; whereas after the second dimension the third, which is concerned with cubes and dimensions of depth, ought to have followed.
- 
- Thatistrue,Socrates;butsolittleseemstobeknownasyetaboutthesesubjects.
- 
- Why, yes, I said, and for two reasons:–in the first place, no government patronises them; this leads to a want of energy in the pursuit of them, and they http://www.idph.net 388 IDPH aredifficult; inthesecondplace, studentscannotlearnthem unlesstheyhave a director.
- 
+Also, science has some not-so-obvious effects that are actually pretty important.
 
- 
-(Simplified)
- 
+“What kind?” he asked.
+
+“There are military benefits, like you said,” I answered. “And in every field, anyone who has studied geometry understands things way faster than someone who hasn’t.”
+
+“Yeah, there’s a huge difference between them,” he said.
+
+“So, should we suggest this as a second subject for our young people to study?”
+
+“Let’s do it,” he replied.
+
+“And what about making astronomy the third subject? What do you think?”
+
+“I really like that idea,” he said. “Knowing about seasons, months, and years is important for everyone, just like it is for farmers and sailors.”
+
+“I find it funny,” I said, “that you’re so worried about people thinking we’re pushing useless studies on them. I get that it’s hard to believe everyone has this special kind of understanding that gets clearer through these studies. It’s way more valuable than just seeing with your eyes because it helps you see the truth. There are two kinds of people: one will agree with you and think your words are amazing; the other will think it’s nonsense and see no benefit in it. So, you should decide now which group you want to argue with. You’ll probably say neither and that you’re just trying to improve yourself, but you don’t mind if others also get something out of it.”
+
+“I think I’d rather argue mainly for myself,” he said.
+
+“Then take a step back, because we messed up the order of the subjects.”
+
+“What mistake?” he asked.
+
+“After plane geometry,” I said, “we jumped straight to solids in motion instead of studying solids themselves. After the second dimension, we should have studied the third dimension, which deals with cubes and depth.”
+
+“That’s true, Socrates, but hardly anything is known about those topics yet.”
+
+“Well, that’s for two reasons,” I said. “First, no government supports them, so people don’t work hard on them, and they’re hard to study. Second, students can’t learn them unless they have a good teacher.”

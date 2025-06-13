@@ -1,28 +1,23 @@
-4.46 Among the possible groups of truth-conditions there are two extreme cases.
- 
- In the one case the proposition is true for all the truth-possibilities of the elementary propositions. We say that the truthconditions are tautological.
- 
- In the second case the proposition is false for all the truthpossibilities. The truth-conditions are self-contradictory.
- 
- In the first case we call the proposition a tautology, in the second case a contradiction.
- 
- 4.461 The proposition shows what it says, the tautology and the contradiction that they say nothing.
- 
- The tautology has no truth-conditions, for it is unconditionally true; and the contradiction is on no condition true.
- 
- Tautology and contradiction are without sense.
- 
- (Like the point from which two arrows go out in opposite directions.) (I know, e.g. nothing about the weather, when I know that it rains or does not rain.) 4.4611 Tautology and contradiction are, however, not senseless; they are part of the symbolism, in the same way that “0” is part of the symbolism of Arithmetic.
- 
- 4.462 Tautologyandcontradictionarenotpicturesofthereality. They present no possible state of affairs. For the one allows every possible state of affairs, the other none.
- 
- In the tautology the conditions of agreement with the world —the presenting relations—cancel one another, so that it stands in no presenting relation to reality.
- 
- 4.463 The truth-conditions determine the range, which is left to the facts by the proposition.
- 
- (The proposition, the picture, the model, are in a negative sense like a solid body, which restricts the free movement of another: in a positive sense, like the space limited by solid substance, in which a body may be placed.) 53 TRACTATUS LOGICO-PHILOSOPHICUS Tautology leaves to reality the whole infinite logical space; contradiction fills the whole logical space and leaves no point to reality.
- 
+4.46 There are two extreme types of truth conditions for groups of statements.
 
- 
-(Simplified)
- 
+In one case, the statement is true no matter what happens with the basic parts. We call this a tautology.
+
+In the other case, the statement is always false, no matter what. We call this a contradiction.
+
+In the first case, the statement is a tautology, and in the second, it’s a contradiction.
+
+4.461 A normal statement shows something about the world, but a tautology and a contradiction don’t really say anything.
+
+A tautology has no conditions because it’s always true, and a contradiction is never true under any conditions.
+
+So, tautologies and contradictions don’t have real meaning.
+
+(It’s like a point where two arrows go in opposite directions.) (For example, knowing “it rains or it doesn’t rain” doesn’t tell me anything about the weather.) 4.4611 But tautologies and contradictions aren’t meaningless; they’re part of the system, like how “0” is important in math.
+
+4.462 Tautologies and contradictions don’t show real situations. One allows every possible situation, and the other allows none.
+
+In a tautology, the parts cancel each other out so it doesn’t connect to reality.
+
+4.463 Truth conditions show which facts a statement allows to be true.
+
+(A statement is like a solid object that limits where something else can move; it’s also like the space inside that object where something can be placed.) A tautology leaves all the logical space open for reality; a contradiction fills all the space and leaves no room for reality.

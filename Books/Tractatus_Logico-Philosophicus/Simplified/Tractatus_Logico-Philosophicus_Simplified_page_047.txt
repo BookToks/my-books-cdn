@@ -1,44 +1,37 @@
-Only they got entangled for the most part in unessential psychological investigations, and there is an analogous danger for my method.
- 
- 4.1122 The Darwinian theory has no more to do with philosophy than has any other hypothesis of natural science.
- 
- 4.113 Philosophy limits the disputable sphere of natural science.
- 
- 4.114 It should limit the thinkable and thereby the unthinkable.
- 
- It should limit the unthinkable from within through the thinkable.
- 
- 4.115 Itwillmeantheunspeakablebyclearlydisplayingthespeakable.
- 
- 4.116 Everything that can be thought at all can be thought clearly.
- 
- Everything that can be said can be said clearly.
- 
- 4.12 Propositions can represent the whole reality, but they cannot represent what they must have in common with reality in order to be able to represent it—the logical form.
- 
- To be able to represent the logical form, we should have to be able to put ourselves with the propositions outside logic, that is outside the world.
- 
- 4.121 Propositionscannotrepresentthelogicalform: thismirrorsitself in the propositions.
- 
- That which mirrors itself in language, language cannot represent.
- 
- That which expresses itself in language, we cannot express by language.
- 
- The propositions show the logical form of reality.
- 
- They exhibit it.
- 
- 4.1211 Thus a proposition “fa” shows that in its sense the object a occurs, two propositions “fa” and “ga” that they are both about the same object.
- 
- If two propositions contradict one another, this is shown by their structure; similarly if one follows from another, etc.
- 
- 4.1212 What can be shown cannot be said.
- 
- 4.1213 Now we understand our feeling that we are in possession of the right logical conception, if only all is right in our symbolism.
- 
- 45 TRACTATUS LOGICO-PHILOSOPHICUS 4.
- 
+Most people got caught up in unimportant psychological questions, and my method could have the same problem.
 
- 
-(Simplified)
- 
+4.1122 The Darwinian theory is not really part of philosophy any more than other science ideas are.
+
+4.113 Philosophy sets limits on what science can argue about.
+
+4.114 It should also set limits on what can be thought and what can’t.
+
+It should stop the unthinkable by using what can be thought.
+
+4.115 It will show what can’t be said by clearly showing what can be said.
+
+4.116 Anything that can be thought can be thought clearly.
+
+Anything that can be said can be said clearly.
+
+4.12 Propositions (statements) can show all of reality, but they can’t show the logical form they share with reality that lets them represent it.
+
+To show the logical form, we’d have to step outside logic and the world itself.
+
+4.121 Propositions can’t show the logical form; this is reflected in the propositions themselves.
+
+What language reflects, language can’t explain.
+
+What shows itself in language, we can’t explain with language.
+
+Propositions display the logical form of reality.
+
+They reveal it.
+
+4.1211 For example, a proposition like “fa” shows that the object “a” is involved. Two propositions “fa” and “ga” show they’re both about the same object.
+
+If two propositions contradict, you can see it from their structure; the same if one follows from another.
+
+4.1212 What can be shown can’t be said.
+
+4.1213 Now we understand why we feel sure about the right logical idea, as long as our symbols are correct.

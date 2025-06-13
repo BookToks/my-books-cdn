@@ -1,26 +1,25 @@
-241 If I use two signs with one and the same meaning, I express this by putting between them the sign “=”.
- 
- “a = b” means then, that the sign “a” is replaceable by the sign “b”.
- 
- (If I introduce by an equation a new sign “b”, by determining that it shall replace a previously known sign “a”, I write the equation—definition—(like Russell) in the form “a = b Def.”. A definition is a symbolic rule.) 4.242 Expressions of the form “a = b” are therefore only expedients in presentation: They assert nothing about the meaning of the signs “a” and “b”.
- 
- 4.243 Can we understand two names without knowing whether they signify the same thing or two different things? Can we understand a proposition in which two names occur, without knowing if they mean the same or different things?
- 
- If I know the meaning of an English and a synonymous German word, it is impossible for me not to know that they are synonymous, it is impossible for me not to be able to translate them into one another.
- 
- Expressions like “a = a”, or expressions deduced from these are neither elementary propositions nor otherwise significant signs. (This will be shown later.) 4.25 If the elementary proposition is true, the atomic fact exists; if it is false the atomic fact does not exist.
- 
- 4.26 The specification of all true elementary propositions describes the world completely. The world is completely described by the specificationofallelementarypropositionsplusthespecification, which of them are true and which false.
- 
- 4.27 With regard to the existence of n atomic facts there are K = n n (cid:80) (cid:0)n(cid:1) possibilities.
- 
- ν ν=0 It is possible for all combinations of atomic facts to exist, and the others not to exist.
- 
- 4.28 To these combinations correspond the same number of possibilities of the truth—and falsehood—of n elementary propositions.
- 
- 4.3 The truth-possibilities of the elementary propositions mean the 50 TRACTATUS LOGICO-PHILOSOPHICUS possibilities of the existence and non-existence of the atomic facts.
- 
+241 If I use two signs that mean the same thing, I show this by putting an “=” sign between them.
 
- 
-(Simplified)
- 
+“a = b” means the sign “a” can be replaced by the sign “b.”
+
+(If I create a new sign “b” to replace a sign “a” I already know, I write “a = b Def.” This is called a definition and it’s like a rule.)
+
+4.242 Expressions like “a = b” are just shortcuts to help explain things. They don’t say anything about what “a” or “b” actually mean.
+
+4.243 Can we understand two names without knowing if they mean the same thing or different things? Can we understand a sentence with two names without knowing if they mean the same or not?
+
+If I know an English word and a German word that mean the same, I can’t help but know they mean the same, and I can translate between them.
+
+Expressions like “a = a” or ones based on that don’t really say anything important. (This will be explained later.)
+
+4.25 If a simple proposition is true, then the fact it talks about exists; if it’s false, that fact doesn’t exist.
+
+4.26 Listing all the true simple propositions completely describes the world. The world is fully described by all simple propositions and which ones are true or false.
+
+4.27 For n facts, there are K = n to the power of n possibilities.
+
+It’s possible for any combination of facts to exist while others don’t.
+
+4.28 Each combination matches the same number of possibilities for which simple propositions are true or false.
+
+4.3 The truth or falsehood of simple propositions shows the possibilities of whether the facts exist or not.

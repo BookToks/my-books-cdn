@@ -1,36 +1,31 @@
-4.1274 Thequestionabouttheexistenceofaformalconceptissenseless.
- 
- For no proposition can answer such a question.
- 
- (For example, one cannot ask: “Are there unanalysable subject-predicate propositions?”) 4.128 The logical forms are anumerical.
- 
- Therefore there are in logic no pre-eminent numbers, and therefore there is no philosophical monism or dualism, etc.
- 
- 4.2 The sense of a proposition is its agreement and disagreement with the possibilities of the existence and non-existence of the atomic facts.
- 
- 4.21 The simplest proposition, the elementary proposition, asserts the existence of an atomic fact.
- 
- 4.211 It is a sign of an elementary proposition, that no elementary proposition can contradict it.
- 
- 4.22 The elementary proposition consists of names. It is a connexion, a concatenation, of names.
- 
- 4.221 It is obvious that in the analysis of propositions we must come toelementarypropositions, whichconsistofnamesinimmediate combination.
- 
- The question arises here, how the propositional connexion comes to be.
- 
- 4.2211 Eveniftheworldisinfinitelycomplex, sothateveryfactconsists of an infinite number of atomic facts and every atomic fact is composed of an infinite number of objects, even then there must be objects and atomic facts.
- 
- 4.23 The name occurs in the proposition only in the context of the elementary proposition.
- 
- 4.24 The names are the simple symbols, I indicate them by single letters (x, y, z).
- 
- The elementary proposition I write as function of the names, in the form “fx”, “φ(x,y)”, etc.
- 
- Or I indicate it by the letters p, q, r.
- 
- 49 TRACTATUS LOGICO-PHILOSOPHICUS 4.
- 
+4.1274 Asking if a formal concept really exists doesn’t make sense.
 
- 
-(Simplified)
- 
+No statement can answer that kind of question.
+
+For example, you can’t ask: “Are there subject-predicate statements that can’t be broken down?”
+
+4.128 Logical forms don’t have numbers.
+
+So, in logic, there aren’t special numbers that stand out, and that means there’s no one true way or two true ways to see things in philosophy.
+
+4.2 The meaning of a statement comes from whether it matches or doesn’t match the possibilities of atomic facts existing or not.
+
+4.21 The simplest kind of statement, called an elementary proposition, says that an atomic fact exists.
+
+4.211 A key thing about elementary propositions is that none of them can be proven false by another elementary proposition.
+
+4.22 An elementary proposition is made up of names. It’s a connection or joining of names.
+
+4.221 It’s clear that when breaking down statements, we end up with elementary propositions, which are names joined directly together.
+
+Then we have to ask: how do these connections between parts of a statement happen?
+
+4.2211 Even if the world is super complex, where every fact is made of infinite smaller facts and every small fact is made of infinite objects, there still have to be objects and atomic facts.
+
+4.23 Names only show up in statements as part of elementary propositions.
+
+4.24 Names are simple symbols, and I show them with single letters like x, y, and z.
+
+I write elementary propositions as functions of these names, like “fx” or “φ(x,y)”.
+
+Or I use letters like p, q, and r to represent them.

@@ -1,36 +1,29 @@
-14 The propositional sign consists in the fact that its elements, the words, are combined in it in a definite way.
- 
- The propositional sign is a fact.
- 
- 3.141 The proposition is not a mixture of words (just as the musical theme is not a mixture of tones).
- 
- The proposition is articulate.
- 
- 3.142 Only facts can express a sense, a class of names cannot.
- 
- 3.143 That the propositional sign is a fact is concealed by the ordinary form of expression, written or printed.
- 
- (For in the printed proposition, for example, the sign of a proposition does not appear essentially different from a word.
- 
- Thus it was possible for Frege to call the proposition a compounded name.) 3.1431 The essential nature of the propositional sign becomes very clear when we imagine it made up of spatial objects (such as tables, chairs, books) instead of written signs.
- 
- The mutual spatial position of these things then expresses the sense of the proposition.
- 
- 3.1432 We must not say, “The complex sign ‘aRb’ says ‘a stands in relation R to b’”; but we must say, “That ‘a’ stands in a certain relation to ‘b’ says that aRb”.
- 
- 3.144 States of affairs can be described but not named.
- 
- (Names resemble points; propositions resemble arrows, they have sense.) 3.2 In propositions thoughts can be so expressed that to the objects of the thoughts correspond the elements of the propositional sign.
- 
- 3.201 These elements I call “simple signs” and the proposition “completely analysed”.
- 
- 3.202 The simple signs employed in propositions are called names.
- 
- 3.203 The name means the object. The object is its meaning. (“A” is the same sign as “A”.) 3.21 To the configuration of the simple signs in the propositional sign corresponds the configuration of the objects in the state of affairs.
- 
- 32 TRACTATUS LOGICO-PHILOSOPHICUS 3.
- 
+14 A propositional sign is when words are put together in a specific order.
 
- 
-(Simplified)
- 
+A propositional sign is a real thing.
+
+3.141 A proposition is not just a random mix of words, like a musical theme is not just a random mix of sounds.
+
+A proposition is clear and organized.
+
+3.142 Only real things (facts) can show meaning; just a group of names can’t.
+
+3.143 The fact that a propositional sign is real isn’t obvious when it’s written or printed.
+
+(For example, a printed proposition looks almost the same as a word.
+
+That’s why Frege could call a proposition a combined name.) 3.1431 It’s easier to understand a propositional sign if you imagine it made from real objects like tables or chairs instead of words.
+
+How these things are arranged in space shows what the proposition means.
+
+3.1432 We shouldn’t say, “The sign ‘aRb’ means ‘a is related by R to b’”; instead, we should say, “That ‘a’ is in a certain relation to ‘b’ means aRb.”
+
+3.144 We can describe situations but can’t name them.
+
+(Names are like points; propositions are like arrows because they have meaning.) 3.2 In propositions, the thoughts match the objects they’re about through the parts of the propositional sign.
+
+3.201 The parts I call “simple signs,” and the whole proposition is “fully analyzed.”
+
+3.202 The simple signs used in propositions are called names.
+
+3.203 A name means an object. The object is what the name stands for. (“A” is the same sign as “A.”) 3.21 How the simple signs are arranged in the propositional sign matches how the objects are arranged in the situation.

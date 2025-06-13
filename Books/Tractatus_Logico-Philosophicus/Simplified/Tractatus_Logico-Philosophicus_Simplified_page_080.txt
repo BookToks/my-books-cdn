@@ -1,8 +1,7 @@
-1203 In order to recognize a tautology as such, we can, in cases in which no sign of generality occurs in the tautology, make use of the following intuitive method: I write instead of “p”, “q”, “r”, etc., “TpF”, “TqF”, “TrF”, etc. The truth-combinations I express by brackets, e.g.: and the co-ordination of the truth or falsity of the whole proposition with the truth-combinations of the truth-arguments by lines in the following way: This sign, for example, would therefore present the proposition p ⊃ q. Now I will proceed to inquire whether such a proposition as ∼(p.∼p) (The Law of Contradiction) is a tautology.
- 
- The form “∼ξ” is written in our notation the form “ξ .η” thus:— 78 TRACTATUS LOGICO-PHILOSOPHICUS Hence the proposition ∼(p.
- 
+To understand if a statement is always true (a tautology), we can use a simple way when there are no general signs involved. Instead of using letters like “p,” “q,” or “r,” we write “TpF,” “TqF,” “TrF,” and so on.  
 
- 
-(Simplified)
- 
+We show the different true or false options using brackets. For example, we connect the truth or falsity of the whole statement with the truth or falsity of its parts using lines.  
+
+This symbol, for example, shows the statement “p implies q.” Now, I will check if a statement like “not (p and not p)” (which is called the Law of Contradiction) is always true.  
+
+In our system, the form “not ξ” is written as “ξ . η.” So, the statement “not (p and not p)” looks like this:—

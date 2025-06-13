@@ -1,34 +1,29 @@
-556 Eine Hierarchie der Formen der Elementarsätze kann es nicht geben. Nur was wir selbst konstruieren, können wir voraussehen.
- 
- 5.5561 Die empirische Realität ist begrenzt durch die Gesamtheit der Gegenstände. Die Grenze zeigt sich wieder in der Gesamtheit der Elementarsätze.
- 
- Die Hierarchien sind, und müssen unabhängig von der Realität sein.
- 
- 5.5562 Wissen wir aus rein logischen Gründen, dass es Elementarsätze geben muss, dann muss es jeder wissen, der die Sätze in ihrer unanalysierten Form versteht.
- 
- 5.5563 Alle Sätze unserer Umgangssprache sind tatsächlich, so wie sie sind, logisch vollkommen geordnet.—Jenes Einfachste, was wir hier angeben sollen, ist nicht ein Gleichnis der Wahrheit, sondern die volle Wahrheit selbst.
- 
- (Unsere Probleme sind nicht abstrakt, sondern vielleicht die konkretesten, die es gibt.) 5.557 Die Anwendung der Logik entscheidet darüber, welche Elementarsätze es gibt.
- 
- Was in der Anwendung liegt, kann die Logik nicht vorausnehmen.
- 
- Das ist klar: Die Logik darf mit ihrer Anwendung nicht kollidieren.
- 
- Aber die Logik muss sich mit ihrer Anwendung berühren.
- 
- Also dürfen die Logik und ihre Anwendung einander nicht übergreifen.
- 
- 5.5571 Wenn ich die Elementarsätze nicht a priori angeben kann, dann muss es zu offenbarem Unsinn führen, sie angeben zu wollen.
- 
- 5.6 Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.
- 
- 5.61 Die Logik erfüllt die Welt; die Grenzen der Welt sind auch ihre Grenzen.
- 
- Wir können also in der Logik nicht sagen: Das und das gibt es in der Welt, jenes nicht.
- 
- Das würde nämlich scheinbar voraussetzen, dass wir gewisse Möglichkeiten ausschliessen und dies kann nicht der Fall sein, 144 LOGISCH-PHILOSOPHISCHE ABHANDLUNG da sonst die Logik über die Grenzen der Welt hinaus müsste; wenn sie nämlich diese Grenzen auch von der anderen Seite betrachten könnte.
- 
+There can’t be a ranking of the simplest kinds of sentences. We can only predict what we create ourselves.
 
- 
-(Simplified)
- 
+The real world is limited by all the things in it. This limit also shows up in all the simplest sentences.
+
+Rankings exist, but they have to be separate from reality.
+
+If we know for sure from logic alone that simplest sentences must exist, then everyone who understands these sentences without breaking them down should know this too.
+
+All the sentences we use every day are actually perfectly ordered in a logical way, just as they are. What we’re supposed to show here isn’t just an example of truth but the full truth itself.
+
+(Our problems aren’t vague—they might be the most real problems there are.) Whether a simplest sentence exists depends on how we apply logic.
+
+What depends on how we use something can’t be predicted by logic.
+
+That’s clear: Logic can’t conflict with how it’s used.
+
+But logic has to connect with how it’s used.
+
+So, logic and its use can’t overlap or mix.
+
+If I can’t say what the simplest sentences are before using them, then trying to say what they are would lead to obvious nonsense.
+
+The limits of my language are the limits of my world.
+
+Logic fills the world; the limits of the world are also its limits.
+
+So, we can’t say in logic: this thing exists in the world, but that thing doesn’t.
+
+Because that would mean we exclude some possibilities, which can’t happen; otherwise, logic would have to go beyond the world’s limits, as if it could see those limits from the outside.

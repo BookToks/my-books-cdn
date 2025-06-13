@@ -1,16 +1,11 @@
-31 The so-called law of induction cannot in any case be a logical law, for it is obviously a significant proposition.—And therefore it cannot be a law a priori either.
- 
- 6.32 The law of causality is not a law but the form of a law.∗ 6.321 “Law of Causality” is a class name. And as in mechanics there are, for instance, minimum-laws, such as that of least action, so in physics there are causal laws, laws of the causality form.
- 
- 6.3211 Men had indeed an idea that there must be a “law of least action”, before they knew exactly how it ran. (Here, as always, the a priori certain proves to be something purely logical.) 6.33 We do not believe a priori in a law of conservation, but we know a priori the possibility of a logical form.
- 
- 6.34 Allpropositions, suchasthelawofcausation, thelawofcontinuity in nature, the law of least expenditure in nature, etc. etc., all these are a priori intuitions of possible forms of the propositions of science.
- 
- 6.341 Newtonian mechanics, for example, brings the description of the universe to a unified form. Let us imagine a white surface with irregular black spots. We now say: Whatever kind of picture these make I can always get as near as I like to its description, if I cover the surface with a sufficiently fine square network and now say of every square that it is white or black. In this way I shall have brought the description of the surface to a unified form. This form is arbitrary, because I could have applied with equal success a net with a triangular or hexagonal mesh. It can happen that the description would have been simpler with the aid of a triangular mesh; that is to say we might have described the surface more accurately with a triangular, and coarser, than with the finer square mesh, or vice versa, and so on. To the different networks correspond different systems of describing the world. Mechanics determine a form of description by saying: All propositionsinthedescriptionoftheworldmustbeobtainedina given way from a number of given propositions—the mechanical axioms. It thus provides the bricks for building the edifice of science, and says: Whatever building thou wouldst erect, thou ∗I.e. not the form of one particular law, but of any law of a certain sort (B.R.).
- 
- 84 TRACTATUS LOGICO-PHILOSOPHICUS shalt construct it in some manner with these bricks and these alone.
- 
+The so-called law of induction can’t be a logical law because it’s clearly an important statement. So, it can’t be a law known just by thinking either.
 
- 
-(Simplified)
- 
+The law of causality isn’t a specific law but a type of law. “Law of Causality” is a general name. Just like in mechanics there are special laws like the law of least action, in physics there are causal laws, which follow the form of causality.
+
+People once thought there had to be a “law of least action,” even before they knew exactly what it was. (Here, something known just by thinking turns out to be purely logical.) We don’t believe in a law of conservation just by thinking, but we do know that a logical form is possible.
+
+All statements like the law of causation, the law of continuity in nature, the law of least effort in nature, and others, are all ideas we can understand by thinking about possible scientific laws.
+
+Newtonian mechanics, for example, helps us describe the universe in one clear way. Imagine a white surface with random black spots. We can say: No matter what picture these spots make, I can describe it as closely as I want by covering the surface with a fine grid of squares and saying whether each square is white or black. This way, I turn the picture into one clear form. This form is chosen by us because we could have used a grid of triangles or hexagons instead. Sometimes, a triangular grid might describe the surface better than a square one, or the other way around. Different grids lead to different ways of describing the world.
+
+Mechanics decides one way of describing by saying: All statements about the world must come from some basic given statements—the mechanical rules. It gives us the building blocks for science and says: Whatever you build, you must use only these blocks.

@@ -1,24 +1,19 @@
-Ja, jener Satz bekommt nun ganz den Charakter eines naturwissenschaftlichen Satzes und dies ist das sichere Anzeichen dafür, dass er falsch aufgefasst wurde.
- 
- 6.112 Die richtige Erklärung der logischen Sätze muss ihnen eine einzigartige Stellung unter allen Sätzen geben.
- 
- 6.113 Es ist das besondere Merkmal der logischen Sätze, dass man am Symbol allein erkennen kann, dass sie wahr sind, und diese Tatsache schliesst die ganze Philosophie der Logik in sich. Und so ist es auch eine der wichtigsten Tatsachen, dass sich die Wahrheit oder Falschheit der nicht-logischen Sätze nicht am Satz allein erkennen lässt.
- 
- 6.12 Dass die Sätze der Logik Tautologien sind, das zeigt die formalen—logischen—Eigenschaften der Sprache, der Welt.
- 
- Dass ihre Bestandteile so verknüpft eine Tautologie ergeben, das charakterisiert die Logik ihrer Bestandteile.
- 
- Damit Sätze, auf bestimmte Art und Weise verknüpft, eine Tautologie ergeben, dazu müssen sie bestimmte Eigenschaften der Struktur haben. Dass sie so verbunden eine Tautologie ergeben, zeigt also, dass sie diese Eigenschaften der Struktur besitzen.
- 
- 6.1201 Dass z. B. die Sätze „p“ und „∼p“ in der Verbindung „∼(p.∼p)“ eine Tautologie ergeben, zeigt, dass sie einander widersprechen.
- 
- Dass die Sätze „p ⊃ q“, „p“ und „q“ in der Form „(p ⊃ q).(p) :⊃: (q)“ miteinander verbunden eine Tautologie ergeben, zeigt, dass q aus p und p ⊃ q folgt. Dass „(x).fx :⊃: fa“ eine Tautologie ist, dass fa aus (x).fx folgt. etc. etc.
- 
- 6.1202 Es ist klar, dass man zu demselben Zweck statt der Tautologien auch die Kontradiktionen verwenden könnte.
- 
- 6.1203 Um eine Tautologie als solche zu erkennen, kann man sich, in den Fällen, in welchen in der Tautologie keine Allgemeinheitsbezeichnung vorkommt, folgender anschaulichen Methode bedienen: Ich schreibe statt „p“, „q“, „r“ etc. „WpF“, „WqF“, „WrF“ etc. Die Wahrheitskombinationen drücke ich durch Klammern aus. z. B.: 148 LOGISCH-PHILOSOPHISCHE ABHANDLUNG und die Zuordnung der Wahr- oder Falschheit des ganzen Satzes und der Wahrheitskombinationen der Wahrheitsargumente durch Striche auf folgende Weise: Dies Zeichen würde also z.
- 
+Yes, that sentence starts to sound like a science fact, and this clearly shows it has been misunderstood.
 
- 
-(Simplified)
- 
+6.112 The right way to explain logical sentences is to give them a special place among all sentences.
+
+6.113 The unique thing about logical sentences is that you can tell they are true just by looking at their symbols. This idea covers the whole philosophy of logic. One important fact is that you cannot tell if other sentences (not logical ones) are true or false just by looking at them.
+
+6.12 Logical sentences are tautologies, which means their structure makes them always true. This comes from the formal, logical features of language and the world.
+
+When parts of a sentence are connected in a certain way to make a tautology, it shows the logic of those parts.
+
+For sentences to connect and form a tautology, they need to have certain structural properties. The fact that they do form a tautology shows they have these properties.
+
+6.1201 For example, the sentences “p” and “not p” connected as “not (p and not p)” form a tautology, which shows they contradict each other.
+
+Also, the sentences “if p then q”, “p”, and “q” connected as “(if p then q) and p implies q” form a tautology, showing that q follows from p and “if p then q.” Similarly, “for all x, fx implies fa” is a tautology, meaning fa follows from “for all x, fx,” and so on.
+
+6.1202 It’s clear that instead of tautologies, we could also use contradictions for the same purpose.
+
+6.1203 To recognize a tautology when there’s no general term in it, you can use a simple method: replace “p,” “q,” “r,” etc., with “WpF,” “WqF,” “WrF,” and so on. Then, use brackets to show all possible truth combinations. For example, you can mark which parts of the sentence and their combinations are true or false using lines.

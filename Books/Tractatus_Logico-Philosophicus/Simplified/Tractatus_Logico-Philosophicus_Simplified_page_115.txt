@@ -1,34 +1,31 @@
-Der verneinende Satz bestimmt einen logischen Ort mit Hilfe des logischen Ortes des verneinten Satzes, indem er jenen ausserhalb diesem liegend beschreibt.
- 
- Dass man den verneinten Satz wieder verneinen kann, zeigt schon, dass das, was verneint wird, schon ein Satz und nicht erst die Vorbereitung zu einem Satze ist.
- 
- 4.1 DerSatzstelltdasBestehenundNichtbestehenderSachverhalte dar.
- 
- 4.11 Die Gesamtheit der wahren Sätze ist die gesamte Naturwissenschaft (oder die Gesamtheit der Naturwissenschaften).
- 
- 4.111 Die Philosophie ist keine der Naturwissenschaften.
- 
- (DasWort„Philosophie“ mussetwasbedeuten,wasüberoder unter, aber nicht neben den Naturwissenschaften steht.) 4.112 Der Zweck der Philosophie ist die logische Klärung der Gedanken.
- 
- Die Philosophie ist keine Lehre, sondern eine Tätigkeit.
- 
- Ein philosophisches Werk besteht wesentlich aus Erläuterungen.
- 
- Das Resultat der Philosophie sind nicht „philosophische Sätze“, sondern das Klarwerden von Sätzen.
- 
- Die Philosophie soll die Gedanken, die sonst, gleichsam, trübe und verschwommen sind, klar machen und scharf abgrenzen.
- 
- 4.1121 Die Psychologie ist der Philosophie nicht verwandter als irgend eine andere Naturwissenschaft.
- 
- Erkenntnistheorie ist die Philosophie der Psychologie.
- 
- Entspricht nicht mein Studium der Zeichensprache dem Studium der Denkprozesse, welches die Philosophen für die Philosophie der Logik für so wesentlich hielten? Nur verwickelten sie sich meistens in unwesentliche psychologische Untersuchungen und eine analoge Gefahr gibt es auch bei meiner Methode.
- 
- 4.1122 Die Darwinsche Theorie hat mit der Philosophie nicht mehr zu schaffen, als irgend eine andere Hypothese der Naturwissenschaft.
- 
- 113 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 4.
- 
+A sentence that says something is not true shows a place by using the place of the sentence it denies, but it describes that place as outside of it.
 
- 
-(Simplified)
- 
+The fact that you can deny a negative sentence again shows that what is being denied is already a full sentence, not just the start of one.
+
+4.1 A sentence shows whether things exist or don’t exist.
+
+4.11 All the true sentences together make up all of natural science (or all the natural sciences).
+
+4.111 Philosophy is not one of the natural sciences.
+
+(The word “philosophy” must mean something that is above or below, but not next to, the natural sciences.)
+
+4.112 The purpose of philosophy is to clear up our thinking.
+
+Philosophy is not a set of teachings, but an activity.
+
+A philosophical work mainly explains things.
+
+The result of philosophy is not “philosophical sentences,” but understanding sentences clearly.
+
+Philosophy should make thoughts that are usually unclear and fuzzy become clear and sharply defined.
+
+4.1121 Psychology is no closer to philosophy than any other natural science.
+
+Epistemology is the philosophy of psychology.
+
+Doesn’t my study of sign language match the study of thinking that philosophers saw as very important for the philosophy of logic? But they often got stuck in unimportant psychological details, and my method can have the same problem.
+
+4.1122 Darwin’s theory has no more to do with philosophy than any other natural science idea.
+
+4.113 LOGICAL-PHILOSOPHICAL TREATISE 4.

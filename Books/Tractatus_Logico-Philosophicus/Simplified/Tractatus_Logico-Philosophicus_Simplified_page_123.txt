@@ -1,22 +1,21 @@
-43 Die Übereinstimmung mit den Wahrheitsmöglichkeiten können wir dadurch ausdrücken, indem wir ihnen im Schema etwa das Abzeichen „W“ (wahr) zuordnen.
- 
- DasFehlendiesesAbzeichensbedeutetdieNichtübereinstimmung.
- 
- 4.431 DerAusdruckderÜbereinstimmungundNichtübereinstimmung mit den Wahrheitsmöglichkeiten der Elementarsätze drückt die Wahrheitsbedingungen des Satzes aus.
- 
- Der Satz ist der Ausdruck seiner Wahrheitsbedingungen.
- 
- (Frege hat sie daher ganz richtig als Erklärung der Zeichen seiner Begriffsschrift vorausgeschickt. Nur ist die Erklärung des Wahrheitsbegriffes bei Frege falsch: Wären „das Wahre“ und „das Falsche“ wirklich Gegenstände und die Argumente in ∼p etc. dann wäre nach Frege’s Bestimmung der Sinn von „∼p“ keineswegs bestimmt.) 4.44 Das Zeichen, welches durch die Zuordnung jener Abzeichen „W“ und der Wahrheitsmöglichkeiten entsteht, ist ein Satzzeichen.
- 
- 4.441 Es ist klar, dass dem Komplex der Zeichen „F“ und „W“ kein Gegenstand (oder Komplex von Gegenständen) entspricht; so wenig, wie den horizontalen und vertikalen Strichen oder den Klammern.—„Logische Gegenstände“ gibt es nicht.
- 
- Analoges gilt natürlich für alle Zeichen, die dasselbe ausdrücken wie die Schemata der „W“ und „F“.
- 
- 4.442 Es ist z. B.: p q “ W W W F W W W F „ F F W ein Satzzeichen.
- 
- (Frege’s „Urteilsstrich“ „(cid:96)“ ist logisch ganz bedeutungslos; er zeigt bei Frege (und Russell) nur an, dass diese Autoren die so bezeichneten Sätze für wahr halten. „(cid:96)“ gehört daher ebenso wenig zum Satzgefüge, wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, dass er wahr ist.) Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema 121 LOGISCH-PHILOSOPHISCHE ABHANDLUNG durch eine Kombinationsregel ein für allemal festgesetzt, dann ist die letzte Kolonne allein schon ein Ausdruck der Wahrheitsbedingungen.
- 
+We can show whether something matches the possible truths by giving it a mark like "W" for true.
 
- 
-(Simplified)
- 
+If this mark is missing, it means it does not match.
+
+The way something matches or doesn’t match the truth possibilities of simple sentences shows the truth conditions of the sentence.
+
+A sentence shows its own truth conditions.
+
+(Frege was right to explain his symbols this way. But his idea about truth is wrong: If "true" and "false" were really things, then according to Frege, the meaning of "~p" wouldn’t be clear.)
+
+The symbol made by adding these "W" marks to possible truths is called a sentence symbol.
+
+It’s clear that the combination of "F" and "W" symbols doesn’t stand for any object or group of objects, just like lines or brackets don’t. There are no "logical objects."
+
+The same goes for all symbols that mean the same as the "W" and "F" marks.
+
+For example: p q “ W W W F W W W F „ F F W is a sentence symbol.
+
+(Frege’s "judgment stroke" “(cid:96)” has no logical meaning; it only shows that Frege and Russell thought the sentence was true. So “(cid:96)” is not really part of the sentence, like a sentence number isn’t. A sentence can’t say by itself that it is true.) 
+
+If the order of truth possibilities in the scheme is fixed by a rule, then just the last column already shows the truth conditions.

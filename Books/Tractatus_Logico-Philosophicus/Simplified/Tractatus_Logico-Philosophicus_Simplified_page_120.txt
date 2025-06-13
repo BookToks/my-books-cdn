@@ -1,32 +1,27 @@
-(Dies haben Frege und Russell übersehen; die Art und Weise wie sie allgemeine Sätze, wie den obigen ausdrücken wollen ist daher falsch; sie enthält einen circulus vitiosus.) Wir können das allgemeine Glied der Formenreihe bestimmen, indem wir ihr erstes Glied angeben und die allgemeine Form der Operation, welche das folgende Glied aus dem vorhergehenden Satz erzeugt.
- 
- 4.1274 DieFragenachderExistenzeinesformalenBegriffesistunsinnig.
- 
- Denn kein Satz kann eine solche Frage beantworten.
- 
- (Man kann also z. B. nicht fragen: „Gibt es unanalysierbare Subjekt-Prädikatsätze?“) 4.128 Die logischen Formen sind zahllos.
- 
- DarumgibtesinderLogikkeineausgezeichnetenZahlenund darumgibteskeinenphilosophischenMonismusoderDualismus, etc.
- 
- 4.2 Der Sinn des Satzes ist seine Übereinstimmung, und Nichtübereinstimmung mit den Möglichkeiten des Bestehens und Nichtbestehens der Sachverhalte.
- 
- 4.21 Der einfachste Satz, der Elementarsatz, behauptet das Bestehen eines Sachverhaltes.
- 
- 4.211 Ein Zeichen des Elementarsatzes ist es, dass kein Elementarsatz mit ihm in Widerspruch stehen kann.
- 
- 4.22 Der Elementarsatz besteht aus Namen. Er ist ein Zusammenhang, eine Verkettung, von Namen.
- 
- 4.221 Es ist offenbar, dass wir bei der Analyse der Sätze auf Elementarsätze kommen müssen, die aus Namen in unmittelbarer Verbindung bestehen.
- 
- Es frägt sich hier, wie kommt der Satzverband zustande.
- 
- 4.2211 AuchwenndieWeltunendlichkomplexist,sodassjedeTatsache aus unendlich vielen Sachverhalten besteht und jeder Sachverhalt aus unendlich vielen Gegenständen zusammengesetzt ist, auch dann müsste es Gegenstände und Sachverhalte geben.
- 
- 4.23 Der Name kommt im Satz nur im Zusammenhange des Elementarsatzes vor.
- 
- 118 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 4.
- 
+(Frege and Russell missed this; the way they try to express general sentences like the one above is wrong because it contains a circular problem.) 
 
- 
-(Simplified)
- 
+We can find the general member of a series of forms by giving the first member and the general way to get the next member from the previous sentence.
+
+4.1274 Asking if a formal concept exists is pointless.
+
+Because no sentence can answer that question.
+
+(For example, you can’t ask: "Are there unanalyzable subject-predicate sentences?") 4.128 Logical forms are endless.
+
+That’s why in logic, there aren’t special numbers, and there’s no philosophical idea of only one or two main things.
+
+4.2 The meaning of a sentence is how it matches or doesn’t match the possibilities of facts existing or not existing.
+
+4.21 The simplest sentence, the elementary sentence, says that a fact exists.
+
+4.211 A sign of the elementary sentence is that no other elementary sentence can contradict it.
+
+4.22 The elementary sentence is made up of names. It’s a connection, a chain, of names.
+
+4.221 It’s clear that when we analyze sentences, we must come down to elementary sentences made of names directly connected.
+
+Now the question is, how do sentences connect?
+
+4.2211 Even if the world is infinitely complex, so every fact has infinite parts and every fact is made of infinite objects, there still must be objects and facts.
+
+4.23 A name only appears in a sentence as part of an elementary sentence.

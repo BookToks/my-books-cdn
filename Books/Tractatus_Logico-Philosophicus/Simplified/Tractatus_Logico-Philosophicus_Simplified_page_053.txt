@@ -1,22 +1,24 @@
-4.31 The truth-possibilities can be presented by schemata of the following kind (“T” means “true”, “F” “false”. The rows of T’s and F’s under the row of the elementary propositions mean their truth-possibilities in an easily intelligible symbolism).
- 
- p q r p q p T T T T T T F T T F T F T F T T F T T F F F F F T F T F T F F F F F 4.4 A proposition is the expression of agreement and disagreement with the truth-possibilities of the elementary propositions.
- 
- 4.41 The truth-possibilities of the elementary propositions are the conditions of the truth and falsehood of the propositions.
- 
- 4.411 It seems probable even at first sight that the introduction of the elementarypropositionsisfundamentalforthecomprehensionof theotherkindsofpropositions. Indeedthecomprehensionofthe general propositions depends palpably on that of the elementary propositions.
- 
- 4.42 With regard to the agreement and disagreement of a proposition with the truth-possibilities of n elementary propositions there are (cid:80) Kn (cid:0)Kn (cid:1) = L possibilities.
- 
- κ n κ=0 4.43 Agreement with the truth-possibilities can be expressed by coordinating with them in the schema the mark “T” (true).
- 
- Absence of this mark means disagreement.
- 
- 4.431 The expression of the agreement and disagreement with the truth-possibilities of the elementary propositions expresses the truth-conditions of the proposition.
- 
- 51 TRACTATUS LOGICO-PHILOSOPHICUS The proposition is the expression of its truth-conditions.
- 
+4.31 We can show the different ways something can be true or false using tables like this one. Here, "T" means "true" and "F" means "false." The rows of T’s and F’s under the basic statements show all the possible true or false combinations in an easy way.
 
- 
-(Simplified)
- 
+p q r  
+T T T  
+T T F  
+T F T  
+F T T  
+F F F  
+
+4.4 A statement shows whether it agrees or disagrees with these true or false possibilities of the basic statements.
+
+4.41 The true or false possibilities of the basic statements decide when other statements are true or false.
+
+4.411 It seems clear from the start that understanding these basic statements is very important to understand other kinds of statements. In fact, understanding general statements really depends on understanding the basic ones.
+
+4.42 When we look at whether a statement agrees or disagrees with the true or false possibilities of n basic statements, there are many possible ways this can happen.
+
+4.43 We can show agreement with these possibilities by putting a "T" (true) in the table.  
+
+If there is no "T" in a spot, it means disagreement.
+
+4.431 Saying if a statement agrees or disagrees with the true or false possibilities of the basic statements shows the conditions that make the statement true.
+
+The statement shows its own conditions for being true.

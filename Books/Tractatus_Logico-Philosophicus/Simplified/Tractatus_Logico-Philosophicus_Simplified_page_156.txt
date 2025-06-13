@@ -1,30 +1,23 @@
-6.2321 Und, dass die Sätze der Mathematik bewiesen werden können, heisst ja nichts anderes, als dass ihre Richtigkeit einzusehen ist, ohne dass das, was sie ausdrücken, selbst mit den Tatsachen auf seine Richtigkeit hin verglichen werden muss.
- 
- 6.2322 Die Identität der Bedeutung zweier Ausdrücke lässt sich nicht behaupten. Denn um etwas von ihrer Bedeutung behaupten zu können, muss ich ihre Bedeutung kennen: und indem ich ihre Bedeutung kenne, weiss ich, ob sie dasselbe oder verschiedenes bedeuten.
- 
- 6.2323 Die Gleichung kennzeichnet nur den Standpunkt, von welchem ich die beiden Ausdrücke betrachte, nämlich vom Standpunkte ihrer Bedeutungsgleichheit.
- 
- 6.233 Die Frage, ob man zur Lösung der mathematischen Probleme die Anschauung brauche, muss dahin beantwortet werden, dass eben die Sprache hier die nötige Anschauung liefert.
- 
- 6.2331 Der Vorgang des Rechnens vermittelt eben diese Anschauung.
- 
- Die Rechnung ist kein Experiment.
- 
- 6.234 Die Mathematik ist eine Methode der Logik.
- 
- 6.2341 Das Wesentliche der mathematischen Methode ist es, mit Gleichungen zu arbeiten. Auf dieser Methode beruht es nämlich, dass jeder Satz der Mathematik sich von selbst verstehen muss.
- 
- 6.24 Die Methode der Mathematik, zu ihren Gleichungen zu kommen, ist die Substitutionsmethode.
- 
- Denn die Gleichungen drücken die Ersetzbarkeit zweier Ausdrücke aus und wir schreiten von einer Anzahl von Gleichungen zu neuen Gleichungen vor, indem wir, den Gleichungen entsprechend, Ausdrücke durch andere ersetzen.
- 
- 6.241 So lautet der Beweis des Satzes 2×2 = 4: (Ων)µ(cid:48)x = Ων×µ(cid:48)x Def.
- 
- Ω2×2(cid:48)x = (Ω2)2(cid:48)x = (Ω2)1+1(cid:48)x = Ω2(cid:48)Ω2(cid:48)x = Ω1+1(cid:48)Ω1+1(cid:48)x = (Ω(cid:48)Ω)(cid:48)(Ω(cid:48)Ω)(cid:48)x = Ω(cid:48)Ω(cid:48)Ω(cid:48)Ω(cid:48)x = Ω1+1+1+1(cid:48)x = Ω4(cid:48)x.
- 
- 154 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 6.
- 
+6.2321 When we say math sentences can be proven, it just means we can understand they are true without having to check them against real-world facts.
 
- 
-(Simplified)
- 
+6.2322 We can't say two expressions always mean the same thing. To say something about their meaning, I have to know what they mean. And if I know that, I can tell if they mean the same or different things.
+
+6.2323 An equation just shows the point of view from which we look at the two expressions—that they have the same meaning.
+
+6.233 The question of whether we need intuition to solve math problems is answered by saying that language itself gives us the needed intuition.
+
+6.2331 The process of calculating gives us this kind of intuition.
+
+Calculating is not the same as doing an experiment.
+
+6.234 Math is a way of using logic.
+
+6.2341 The main thing about math is working with equations. Because of this method, every math statement should be clear and understandable by itself.
+
+6.24 The way math gets its equations is by substitution.
+
+Equations show that you can replace one expression with another. We move from one set of equations to new ones by replacing expressions according to the equations.
+
+6.241 Here is the proof that 2 × 2 = 4: (Ων)µx = Ων×µx by definition.
+
+Ω2×2x = (Ω2)2x = (Ω2)1+1x = Ω2Ω2x = Ω1+1Ω1+1x = (ΩΩ)(ΩΩ)x = ΩΩΩΩx = Ω1+1+1+1x = Ω4x.

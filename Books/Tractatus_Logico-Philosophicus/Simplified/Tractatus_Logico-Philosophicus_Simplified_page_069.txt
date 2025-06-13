@@ -1,30 +1,25 @@
-In this case the terms of the expression in brackets are all the terms of a formal series.
- 
- 5.502 Therefore I write instead of “(– – – – –T)(ξ,....)”, “N(ξ)”.
- 
- N(ξ) is the negation of all the values of the propositional variable ξ.
- 
- 5.503 As it is obviously easy to express how propositions can be constructed by means of this operation and how propositions are not to be constructed by means of it, this must be capable of exact expression.
- 
- 5.51 If ξ has only one value, then N(ξ) = ∼p (not p), if it has two values then N(ξ) = ∼p.∼q (neither p nor q).
- 
- 5.511 How can the all-embracing logic which mirrors the world use such special catches and manipulations? Only because all these areconnectedintoaninfinitelyfinenetwork, tothegreatmirror.
- 
- 5.512 “∼p” is true if “p” is false. Therefore in the true proposition “∼p” “p” is a false proposition. How then can the stroke “∼” bring it into agreement with reality?
- 
- Thatwhichdeniesin“∼p” ishowevernot“∼”,butthatwhich all signs of this notation, which deny p, have in common.
- 
- Hence the common rule according to which “∼p”, “∼∼∼p”, “∼p∨∼p”, “∼p.∼p”, etc. etc. (to infinity) are constructed. And this which is common to them all mirrors denial.
- 
- 5.513 We could say: What is common to all symbols, which assert both p and q, is the proposition “p.q”. What is common to all symbols, which assert either p or q, is the proposition “p∨q”.
- 
- And similarly we can say: Two propositions are opposed to one another when they have nothing in common with one another; and every proposition has only one negative, because there is only one proposition which lies altogether outside it.
- 
- Thus even in Russell’s notation it is evident that “q : p∨∼p” says the same as “q”; that “p∨∼p” says nothing.
- 
- 5.514 If a notation is fixed, there is in it a rule according to which all the propositions denying p are constructed, a rule according to which all the propositions asserting p are constructed, a rule 67 TRACTATUS LOGICO-PHILOSOPHICUS according to which all the propositions asserting p or q are constructed, and so on.
- 
+In this case, the terms inside the brackets are all parts of a formal series.
 
- 
-(Simplified)
- 
+So, instead of writing “(– – – – –T)(ξ,....)”, I just write “N(ξ)”.
+
+N(ξ) means the opposite of all the values of the variable ξ.
+
+It's pretty easy to show how you can build propositions using this operation and how you can't build them with it. So, it must be possible to explain this clearly.
+
+If ξ has only one value, then N(ξ) means “not p”. If it has two values, then N(ξ) means “not p and not q” (neither p nor q).
+
+How can the big logic system, which reflects the world, use things like these special tricks? It can only do this because all these parts are connected in a super-fine network, like a big mirror.
+
+“∼p” is true if “p” is false. So in the true statement “∼p”, the statement “p” is false. But how can the symbol “∼” make it match reality?
+
+The thing that denies in “∼p” isn’t just the symbol “∼”, but what all these signs that deny p have in common.
+
+That’s why there’s a common rule for building things like “∼p”, “∼∼∼p”, “∼p∨∼p”, “∼p.∼p”, and so on forever. And what they all share is the idea of denial.
+
+We could say: What all symbols that say both p and q have in common is “p and q” (p.q). What all symbols that say either p or q have in common is “p or q” (p∨q).
+
+Similarly, two propositions are opposite when they don’t share anything. And every proposition has only one negative because there’s only one proposition that is completely outside it.
+
+So even in Russell’s notation, “q : p∨∼p” means the same as “q”, and “p∨∼p” doesn’t say anything.
+
+If a notation is fixed, then it has rules for how to build all the propositions that deny p, all that assert p, all that assert p or q, and so on.

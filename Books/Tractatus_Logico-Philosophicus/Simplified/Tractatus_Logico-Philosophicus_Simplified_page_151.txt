@@ -1,6 +1,5 @@
-B. den Satz p ⊃ q darstellen. Nun will ich z. B. den Satz ∼(p . ∼p) (Gesetz des Widerspruchs) daraufhin untersuchen, ob er eine Tautologie ist. Die Form „∼ξ“ wird in unserer Notation geschrieben; die Form „ξ .η“ so: Daher lautet der Satz ∼(p.∼q) so: 149 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Setzen wir hier statt „q“ „p“ ein und untersuchen die Verbindung der äussersten W und F mit den innersten, so ergibt sich, dass die Wahrheit des ganzen Satzes allen Wahrheitskombinationen seines Argumentes, seine Falschheit keiner der Wahrheitskombinationen zugeordnet ist.
- 
+Let’s look at the sentence p ⊃ q as an example. Now, I want to check if the sentence ∼(p . ∼p) (which is called the law of contradiction) is always true.
 
- 
-(Simplified)
- 
+In our notation, we write “∼ξ” to mean “not ξ” and “ξ . η” to mean “ξ and η.” So the sentence ∼(p . ∼q) looks like this.
+
+If we replace “q” with “p” and study how the outer true (W) and false (F) values connect with the inner ones, we find that the whole sentence is true for every possible truth combination of its parts, and it is never false for any combination.

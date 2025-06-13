@@ -1,30 +1,27 @@
-3 Only the proposition has sense; only in the context of a proposition has a name meaning.
- 
- 3.31 Every part of a proposition which characterizes its sense I call an expression (a symbol).
- 
- (The proposition itself is an expression.) Expressions are everything—essential for the sense of the proposition—that propositions can have in common with one another.
- 
- An expression characterizes a form and a content.
- 
- 3.311 An expression presupposes the forms of all propositions in which it can occur. It is the common characteristic mark of a class of propositions.
- 
- 3.312 Itisthereforerepresentedbythegeneralformofthepropositions which it characterizes.
- 
- And in this form the expression is constant and everything else variable.
- 
- 3.313 An expression is thus presented by a variable, whose values are the propositions which contain the expression.
- 
- (In the limiting case the variables become constants, the expression a proposition.) I call such a variable a “propositional variable”.
- 
- 3.314 Anexpressionhasmeaningonlyinaproposition. Everyvariable can be conceived as a propositional variable.
- 
- (Including the variable name.) 3.315 If we change a constituent part of a proposition into a variable, there is a class of propositions which are all the values of the resulting variable proposition. This class in general still depends onwhat, byarbitraryagreement, wemeanbypartsofthatproposition. But if we change all those signs, whose meaning was arbitrarily determined, into variables, there always remains such a class. But this is now no longer dependent on any agreement; it depends only on the nature of the proposition. It corresponds to a logical form, to a logical prototype.
- 
- 3.316 What values the propositional variable can assume is determined.
- 
- 34 TRACTATUS LOGICO-PHILOSOPHICUS The determination of the values is the variable.
- 
+Only whole sentences (propositions) make sense; names only have meaning when they are part of a sentence.
 
- 
-(Simplified)
- 
+Every part of a sentence that shows its meaning is called an expression or a symbol.
+
+The sentence itself is also an expression. Expressions are what sentences share with each other to have meaning.
+
+An expression shows both a shape (form) and what it’s about (content).
+
+An expression assumes the forms of all sentences it can be in. It is a common feature of a group of sentences.
+
+Because of this, it is shown by the general form of the sentences it describes.
+
+In this form, the expression stays the same while everything else can change.
+
+So, an expression is shown by a variable, and the different values of this variable are the sentences that include the expression.
+
+If the variables become fixed, the expression becomes a full sentence. We call such a variable a “propositional variable.”
+
+An expression only has meaning inside a sentence. Every variable can be thought of as a propositional variable, including the name of the variable.
+
+If we change a part of a sentence into a variable, we get a group of sentences that are all the possible values of that variable sentence. This group usually depends on what we decide the parts of the sentence mean.
+
+But if we change all parts whose meaning we chose by agreement into variables, there is still a group left. Now, this group doesn’t depend on any agreement but only on the nature of the sentence. It matches a logical form or a logical model.
+
+What values the propositional variable can have is fixed.
+
+The way we fix the possible values is the variable itself.

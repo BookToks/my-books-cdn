@@ -1,26 +1,17 @@
-11 The propositions of logic therefore say nothing. (They are the analytical propositions.) 6.111 Theories which make a proposition of logic appear substantial are always false. One could e.g. believe that the words “true” and “false” signify two properties among other properties, and then it would appear as a remarkable fact that every proposition possesses one of these properties. This now by no means appears self-evident, no more so than the proposition “All roses areeitheryelloworred” wouldsoundevenifitweretrue. Indeed our proposition now gets quite the character of a proposition of natural science and this is a certain symptom of its being falsely understood.
- 
- 6.112 The correct explanation of logical propositions must give them a peculiar position among all propositions.
- 
- 6.113 It is the characteristic mark of logical propositions that one can perceive in the symbol alone that they are true; and this fact contains in itself the whole philosophy of logic. And so also it is one of the most important facts that the truth or falsehood of non-logical propositions can not be recognized from the propositions alone.
- 
- 6.12 The fact that the propositions of logic are tautologies shows the formal—logical—properties of language, of the world.
- 
- That its constituent parts connected together in this way give a tautology characterizes the logic of its constituent parts.
- 
- In order that propositions connected together in a definite way may give a tautology they must have definite properties of structure. That they give a tautology when so connected shows therefore that they possess these properties of structure.
- 
- 6.1201 That e.g. the propositions “p” and “∼p” in the connexion “∼(p.
- 
- ∼p)” give a tautology shows that they contradict one another.
- 
- That the propositions “p ⊃ q”, “p” and “q” connected together in the form “(p ⊃ q).(p) :⊃: (q)” give a tautology shows that q follows from p and p ⊃ q. That “(x).fx :⊃: fa” is a tautology shows that fa follows from (x).fx, etc. etc.
- 
- 6.1202 Itisclearthatwecouldhaveusedforthispurposecontradictions instead of tautologies.
- 
- 77 TRACTATUS LOGICO-PHILOSOPHICUS 6.
- 
+Logical statements don’t actually tell us anything new. They are just true by how they are made.
 
- 
-(Simplified)
- 
+Sometimes people think logical statements are important facts, but this is wrong. For example, someone might think the words “true” and “false” are like special qualities that every statement has. But this idea doesn’t make sense, just like saying “All roses are either yellow or red” doesn’t sound right even if it’s true. When we think like this, we’re misunderstanding logic.
+
+The right way to understand logical statements is to see that they are different from all other statements.
+
+What makes logical statements special is that you can tell they are true just by looking at them. This is the main idea behind logic. But for other kinds of statements, you can’t know if they are true or false just by looking at the statement itself.
+
+Logical statements are called tautologies, which means they are true in a special way because of how language and the world are connected.
+
+When parts of a statement are put together in a certain way and always make a tautology, it shows that these parts have a special kind of structure.
+
+For example, the statements “p” and “not p” when put together like “not (p and not p)” make a tautology, which shows they contradict each other.
+
+Also, statements like “if p then q,” “p,” and “q” put together as “(if p then q) and p implies q” make a tautology, showing that q follows from the others. Another example is “for all x, fx implies fa,” which means if something is true for everything, it’s true for a specific thing too.
+
+We could also use contradictions instead of tautologies for this purpose.

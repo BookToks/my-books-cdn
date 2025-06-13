@@ -1,22 +1,17 @@
-3411 Man könnte also sagen: Der eigentliche Name ist das, was alle Symbole, die den Gegenstand bezeichnen, gemeinsam haben. Es würde sich so successive ergeben, dass keinerlei Zusammensetzung für den Namen wesentlich ist.
- 
- 3.342 An unseren Notationen ist zwar etwas willkürlich, aber das ist nicht willkürlich: Dass, wenn wir etwas willkürlich bestimmt haben, dann etwas anderes der Fall sein muss. (Dies hängt von dem Wesen der Notation ab.) 3.3421 Eine besondere Bezeichnungsweise mag unwichtig sein, aber wichtig ist es immer, dass diese eine mögliche Bezeichnungsweise ist. Und so verhält es sich in der Philosophie überhaupt: Das Einzelne erweist sich immer wieder als unwichtig, aber die Möglichkeit jedes Einzelnen gibt uns einen Aufschluss über das Wesen der Welt.
- 
- 3.343 Definitionen sind Regeln der Übersetzung von einer Sprache in eine andere. Jede richtige Zeichensprache muss sich in jede andere nach solchen Regeln übersetzen lassen: Dies ist, was sie alle gemeinsam haben.
- 
- 3.344 Das, was am Symbol bezeichnet, ist das Gemeinsame aller jener Symbole, durch die das erste den Regeln der logischen Syntax zufolge ersetzt werden kann.
- 
- 3.3441 Man kann z. B. das Gemeinsame aller Notationen für die Wahrheitsfunktionensoausdrücken:Esistihnengemeinsam,dasssich alle—z. B.—durch die Notation von „∼p“ („nicht p“) und „p∨q“ („p oder q“) ersetzen lassen.
- 
- (Hiermit ist die Art und Weise gekennzeichnet, wie eine spezielle mögliche Notation uns allgemeine Aufschlüsse geben kann.) 3.3442 Das Zeichen des Komplexes löst sich auch bei der Analyse nicht willkürlichauf,sodassetwaseineAuflösunginjedemSatzgefüge eine andere wäre.
- 
- 3.4 Der Satz bestimmt einen Ort im logischen Raum. Die Existenz dieses logischen Ortes ist durch die Existenz der Bestandteile allein verbürgt, durch die Existenz des sinnvollen Satzes.
- 
- 3.41 Das Satzzeichen und die logischen Koordinaten: Das ist der logische Ort.
- 
- 106 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 3.
- 
+You could say that the real name is what all the symbols that stand for something have in common. This happens step by step, so no part of the name is really more important than the others.
 
- 
-(Simplified)
- 
+Our symbols might seem random sometimes, but they’re not truly random. When we choose something randomly, something else must follow. This is because of how the symbols work.
+
+A special way of naming something might not matter much, but what’s always important is that this way of naming is possible. This is true for philosophy too: each small part might not seem important, but the fact that each part could exist helps us understand the world better.
+
+Definitions are like rules for changing from one language to another. Every correct symbol language has to be able to change into another language by following these rules. This is what all symbol languages share.
+
+What a symbol stands for is what all symbols that can replace it according to logical rules have in common.
+
+For example, the common thing about all ways to write truth functions is that they can all be replaced by the symbols “∼p” (not p) and “p∨q” (p or q).
+
+This shows how one special way of writing something can help us understand things in a general way. The symbol for a complex idea doesn’t break apart randomly when we analyze it, so its parts always fit together the same way in every sentence.
+
+A sentence sets a place in the logical space. The existence of this logical place is guaranteed just by the existence of its parts and the fact that the sentence makes sense.
+
+The sentence sign and the logical coordinates together make up the logical place.

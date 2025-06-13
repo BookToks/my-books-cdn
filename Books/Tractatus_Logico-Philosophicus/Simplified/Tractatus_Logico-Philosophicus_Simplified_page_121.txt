@@ -1,28 +1,27 @@
-24 Die Namen sind die einfachen Symbole, ich deute sie durch einzelne Buchstaben („x“, „y“, „z“) an.
- 
- Den Elementarsatz schreibe ich als Funktion der Namen in der Form: „fx“, „φ(x,y)“, etc.
- 
- Oder ich deute ihn durch die Buchstaben p, q, r an.
- 
- 4.241 Gebrauche ich zwei Zeichen in ein und derselben Bedeutung, so drücke ich dies aus, indem ich zwischen beide das Zeichen „=“ setze.
- 
- „a = b“ heisst also: das Zeichen „a“ ist durch das Zeichen „b“ ersetzbar.
- 
- (Führe ich durch eine Gleichung ein neues Zeichen „b“ ein, indemichbestimme,essolleeinbereitsbekanntesZeichen„a“ ersetzen, so schreibe ich die Gleichung—Definition—(wie Russell) in der Form „a = b Def.“. Die Definition ist eine Zeichenregel.) 4.242 Ausdrücke von der Form „a = b“ sind also nur Behelfe der Darstellung; sie sagen nichts über die Bedeutung der Zeichen „a“, „b“ aus.
- 
- 4.243 Können wir zwei Namen verstehen, ohne zu wissen, ob sie dasselbe Ding oder zwei verschiedene Dinge bezeichnen?—Können wir einen Satz, worin zwei Namen vorkommen, verstehen, ohne zu wissen, ob sie Dasselbe oder Verschiedenes bedeuten?
- 
- Kenne ich etwa die Bedeutung eines englischen und eines gleichbedeutenden deutschen Wortes, so ist es unmöglich, dass ich nicht weiss, dass die beiden gleichbedeutend sind; es ist unmöglich, dass ich sie nicht ineinander übersetzen kann.
- 
- Ausdrücke wie „a = a“, oder von diesen abgeleitete, sind weder Elementarsätze, noch sonst sinnvolle Zeichen. (Dies wird sich später zeigen.) 4.25 Ist der Elementarsatz wahr, so besteht der Sachverhalt; ist der Elementarsatz falsch, so besteht der Sachverhalt nicht.
- 
- 4.26 Die Angabe aller wahren Elementarsätze beschreibt die Welt vollständig. Die Welt ist vollständig beschrieben durch die Angaben aller Elementarsätze plus der Angabe, welche von ihnen wahr und welche falsch sind.
- 
- 4.27 Bezüglich des Bestehens und Nichtbestehens von n Sachverhaln ten gibt es K = (cid:80) (cid:0)n(cid:1) Möglichkeiten.
- 
- n ν ν=0 119 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Es können alle Kombinationen der Sachverhalte bestehen, die andern nicht bestehen.
- 
+Names are simple symbols, and I show them using single letters like "x", "y", or "z."
 
- 
-(Simplified)
- 
+I write an atomic sentence as a function of the names, like "fx" or "φ(x,y)."
+
+Or I represent it using the letters p, q, or r.
+
+If I use two signs with the same meaning, I show this by putting the sign "=" between them.
+
+So, "a = b" means the sign "a" can be replaced by the sign "b."
+
+If I introduce a new sign "b" through an equation to replace an already known sign "a," I write the equation as "a = b Def." This is a definition and a rule for using signs.
+
+Expressions like "a = b" are just ways to show things; they don’t tell us what the signs "a" and "b" actually mean.
+
+Can we understand two names without knowing if they mean the same thing or two different things? Can we understand a sentence with two names without knowing if they mean the same or different?
+
+For example, if I know the meaning of an English word and the matching German word, it’s impossible not to know that they mean the same thing; I can translate one into the other.
+
+Expressions like "a = a," or ones like it, are neither atomic sentences nor meaningful signs. (This will be clear later.)
+
+If the atomic sentence is true, the fact exists; if the atomic sentence is false, the fact does not exist.
+
+Listing all true atomic sentences describes the world completely. The world is fully described by giving all atomic sentences and which ones are true or false.
+
+About the existence or non-existence of n facts, there are K = 2^n possibilities.
+
+All combinations of facts can exist while others do not.

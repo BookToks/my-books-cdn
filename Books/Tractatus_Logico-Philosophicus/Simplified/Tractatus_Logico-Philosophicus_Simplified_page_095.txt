@@ -1,32 +1,23 @@
-∗ 1.1 Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
- 
- 1.11 Die Welt ist durch die Tatsachen bestimmt und dadurch, dass es alle Tatsachen sind.
- 
- 1.12 Denn, die Gesamtheit der Tatsachen bestimmt, was der Fall ist und auch, was alles nicht der Fall ist.
- 
- 1.13 Die Tatsachen im logischen Raum sind die Welt.
- 
- 1.2 Die Welt zerfällt in Tatsachen.
- 
- 1.21 Eines kann der Fall sein oder nicht der Fall sein und alles übrige gleich bleiben.
- 
- 2 Was der Fall ist, die Tatsache, ist das Bestehen von Sachverhalten.
- 
- 2.01 DerSachverhaltisteineVerbindungvonGegenständen.(Sachen, Dingen.) 2.011 Es ist dem Ding wesentlich, der Bestandteil eines Sachverhaltes sein zu können.
- 
- 2.012 In der Logik ist nichts zufällig: Wenn das Ding im Sachverhalt vorkommen kann, so muss die Möglichkeit des Sachverhaltes im Ding bereits präjudiziert sein.
- 
- 2.0121 Es erschiene gleichsam als Zufall, wenn dem Ding, das allein für sich bestehen könnte, nachträglich eine Sachlage passen würde.
- 
- Wenn die Dinge in Sachverhalten vorkommen können, so muss dies schon in ihnen liegen.
- 
- ∗DieDecimalzahlenalsNummerndereinzelnenSätzedeutendaslogischeGewicht der Sätze an, den Nachdruck, der auf ihnen in meiner Darstellung liegt. Die Sätze n.1, n.2, n.3, etc., sind Bemerkungen zum Satze No.n; die Sätze n.m1, n.m2, etc.
- 
- Bemerkungen zum Satze No.n.m; und so weiter.
- 
- 93 LOGISCH-PHILOSOPHISCHE ABHANDLUNG (EtwasLogischeskannnichtnur-möglichsein.
- 
+1.1 The world is made up of facts, not things.
 
- 
-(Simplified)
- 
+1.11 The world is decided by the facts and by all the facts together.
+
+1.12 Because all the facts decide what is true and what is not true.
+
+1.13 The facts in logical space are the world.
+
+1.2 The world is made up of facts.
+
+1.21 Something can be true or not true while everything else stays the same.
+
+2 What is true, the fact, is the existence of situations.
+
+2.01 A situation is a connection between things.
+
+2.011 It is important for a thing that it can be part of a situation.
+
+2.012 In logic, nothing is by chance: If a thing can be in a situation, the possibility of that situation must already be in the thing.
+
+2.0121 It would seem like a coincidence if a thing that could exist alone suddenly fit into a situation.
+
+If things can be part of situations, it must already be part of them.

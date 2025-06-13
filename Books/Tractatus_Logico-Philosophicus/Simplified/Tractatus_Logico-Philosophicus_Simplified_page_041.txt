@@ -1,26 +1,21 @@
-From it it is humanly impossible to gather immediately the logic of language.
- 
- Language disguises the thought; so that from the external form of the clothes one cannot infer the form of the thought they clothe, because the external form of the clothes is constructed with quite another object than to let the form of the body be recognized.
- 
- Thesilentadjustmentstounderstandcolloquiallanguageare enormously complicated.
- 
- 4.003 Most propositions and questions, that have been written about philosophical matters, are not false, but senseless. We cannot, therefore, answer questions of this kind at all, but only state their senselessness. Most questions and propositions of the philosophers result from the fact that we do not understand the logic of our language.
- 
- (TheyareofthesamekindasthequestionwhethertheGood is more or less identical than the Beautiful.) And so it is not to be wondered at that the deepest problems are really no problems.
- 
- 4.0031 Allphilosophyis“Critiqueoflanguage” (butnotatallinMauthner’s sense). Russell’s merit is to have shown that the apparent logical form of the proposition need not be its real form.
- 
- 4.01 The proposition is a picture of reality.
- 
- The proposition is a model of the reality as we think it is.
- 
- 4.011 At the first glance the proposition—say as it stands printed on paper—does not seem to be a picture of the reality of which it treats. But nor does the musical score appear at first sight to be a picture of a musical piece; nor does our phonetic spelling (letters) seem to be a picture of our spoken language. And yet these symbolisms prove to be pictures—even in the ordinary sense of the word—of what they represent.
- 
- 4.012 It is obvious that we perceive a proposition of the form aRb as a picture. Here the sign is obviously a likeness of the signified.
- 
- 4.013 And if we penetrate to the essence of this pictorial nature we 39 TRACTATUS LOGICO-PHILOSOPHICUS see that this is not disturbed by apparent irregularities (like the use of (cid:93) and (cid:91) in the score).
- 
+It's really hard for people to understand the logic of language right away.
 
- 
-(Simplified)
- 
+Language hides the real thought; so just by looking at the outside form, like clothes, you can't tell what the thought underneath looks like. The outside is made for a different purpose than showing the true shape of the idea.
+
+Figuring out how to understand everyday spoken language takes a lot of silent, careful work.
+
+Most of the philosophical questions and statements written down aren’t wrong, but they don’t make sense. So, we can't really answer them; we can only say they don’t make sense. Many of these come from not understanding how our language works.
+
+They are like asking if the Good is more or less the same as the Beautiful. So, it’s no surprise that the deepest problems aren’t really problems at all.
+
+All philosophy is about checking how language works (though not exactly like Mauthner said). Russell’s important idea was showing that the way a sentence looks isn’t always how it really works.
+
+A sentence is like a picture of reality.
+
+It’s a model of reality as we think it is.
+
+At first, a sentence printed on paper doesn’t look like a picture of the reality it talks about. But a music score doesn’t look like the music either, and letters don’t look like the sounds we say. Still, these symbols are pictures in their own way of what they stand for.
+
+It’s clear that we see a sentence like “aRb” as a picture. The signs clearly resemble what they mean.
+
+If we really understand this picture-like nature, we see that things like strange symbols in music scores don’t change this.

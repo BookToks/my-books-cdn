@@ -1,24 +1,27 @@
-5.234 Die Wahrheitsfunktionen der Elementarsätze sind Resultate von Operationen,diedieElementarsätzealsBasenhaben.(Ichnenne diese Operationen Wahrheitsoperationen.) 5.2341 Der Sinn einer Wahrheitsfunktion von p ist eine Funktion des Sinnes von p.
- 
- Verneinung, logische Addition, logische Multiplikation, etc., etc. sind Operationen.
- 
- (Die Verneinung verkehrt den Sinn des Satzes.) 5.24 Die Operation zeigt sich in einer Variablen; sie zeigt, wie man von einer Form von Sätzen zu einer anderen gelangen kann.
- 
- Sie bringt den Unterschied der Formen zum Ausdruck.
- 
- (UnddasGemeinsamezwischendenBasenunddemResultat der Operation sind eben die Basen.) 5.241 Die Operation kennzeichnet keine Form, sondern nur den Unterschied der Formen.
- 
- 5.242 Dieselbe Operation, die „q“ aus „p“ macht, macht aus „q“ „r“ u. s. f. Dies kann nur darin ausgedrückt sein, dass „p“, „q“, „r“, etc. Variable sind, die gewisse formale Relationen allgemein zum Ausdruck bringen.
- 
- 5.25 Das Vorkommen der Operation charakterisiert den Sinn des Satzes nicht.
- 
- Die Operation sagt ja nichts aus, nur ihr Resultat, und dies hängt von den Basen der Operation ab.
- 
- (Operation und Funktion dürfen nicht miteinander verwechselt werden.) 5.251 Eine Funktion kann nicht ihr eigenes Argument sein, wohl aber kann das Resultat einer Operation ihre eigene Basis werden.
- 
- 5.252 Nur so ist das Fortschreiten von Glied zu Glied in einer Formenreihe (von Type zu Type in den Hierarchien Russells und Whiteheads) möglich. (Russell und Whitehead haben die Möglichkeit dieses Fortschreitens nicht zugegeben, aber immer wieder von ihr Gebrauch gemacht.) 5.2521 Die fortgesetzte Anwendung einer Operation auf ihr eigenes Resultat nenne ich ihre successive Anwendung („O(cid:48)O(cid:48)O(cid:48)a“ ist das 130 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Resultat der dreimaligen successiven Anwendung von „O(cid:48)ξ“ auf „a“).
- 
+Truth functions of simple statements come from operations that use these simple statements as their base. (I call these operations truth operations.) The meaning of a truth function of p depends on the meaning of p.
 
- 
-(Simplified)
- 
+Negation, logical addition, logical multiplication, and so on are operations.
+
+(Negation changes the meaning of the sentence.)
+
+An operation appears in a variable; it shows how to change one type of sentence into another.
+
+It shows the difference between forms.
+
+(What the bases and the result of the operation have in common are the bases themselves.)
+
+An operation doesn’t describe a form, only the difference between forms.
+
+The same operation that changes "p" into "q" also changes "q" into "r," and so on. This means that "p," "q," "r," etc., are variables that express general formal relationships.
+
+The presence of an operation does not explain the meaning of a sentence.
+
+The operation itself doesn’t say anything; only its result does, and that depends on the bases of the operation.
+
+(Operations and functions should not be confused.)
+
+A function can’t be its own argument, but the result of an operation can become its own base.
+
+This is the only way to move from one part to the next in a series of forms (from one type to another in Russell and Whitehead’s hierarchies). (Russell and Whitehead didn’t admit this possibility, but they kept using it.)
+
+When you keep applying an operation to its own result, I call that successive application (“OOOa” means applying “Oξ” three times in a row to “a”).

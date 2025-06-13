@@ -1,30 +1,29 @@
-(Frege würde vielleicht sagen, dass dieses Grundgesetz nun nicht mehr unmittelbar einleuchte. Aber es ist merkwürdig, dass ein so exakter Denker wie Frege sich auf den Grad des Einleuchtens als Kriterium des logischen Satzes berufen hat.) 6.13 Die Logik ist keine Lehre, sondern ein Spiegelbild der Welt.
- 
- Die Logik ist transcendental.
- 
- 6.2 Die Mathematik ist eine logische Methode.
- 
- Die Sätze der Mathematik sind Gleichungen also Scheinsätze.
- 
- 6.21 Der Satz der Mathematik drückt keinen Gedanken aus.
- 
- 6.211 Im Leben ist es ja nie der mathematische Satz, den wir brauchen, sondern wir benützen den mathematischen Satz nur, um aus Sätzen, welche nicht der Mathematik angehören, auf andere zu schliessen, welche gleichfalls nicht der Mathematik angehören.
- 
- (In der Philosophie führt die Frage „wozu gebrauchen wir eigentlich jenes Wort, jenen Satz“ immer wieder zu wertvollen Einsichten.) 6.22 Die Logik der Welt, die die Sätze der Logik in den Tautologien zeigen, zeigt die Mathematik in den Gleichungen.
- 
- 6.23 Wenn zwei Ausdrücke durch das Gleichheitszeichen verbunden werden, so heisst das, sie sind durch einander ersetzbar. Ob dies aber der Fall ist muss sich an den beiden Ausdrücken selbst zeigen.
- 
- Es charakterisiert die logische Form zweier Ausdrücke, dass sie durch einander ersetzbar sind.
- 
- 6.231 Es ist eine Eigenschaft der Bejahung, dass man sie als doppelte Verneinung auffassen kann.
- 
- Es ist eine Eigenschaft von „1+1+1+1“, dass man es als „(1+1)+(1+1)“ auffassen kann.
- 
- 6.232 Frege sagt, die beiden Ausdrücke haben dieselbe Bedeutung, aber verschiedenen Sinn.
- 
- Das Wesentliche an der Gleichung ist aber, dass sie nicht notwendig ist, um zu zeigen, dass die beiden Ausdrücke, die 153 LOGISCH-PHILOSOPHISCHE ABHANDLUNG das Gleichheitszeichen verbindet, dieselbe Bedeutung haben, da sich dies aus den beiden Ausdrücken selbst ersehen lässt.
- 
+Frege might say that this basic rule doesn’t seem obvious right away. But it’s strange that someone as precise as Frege used how obvious something seems as a test for a logical statement.
 
- 
-(Simplified)
- 
+Logic is not just a set of rules; it’s like a mirror of the world.
+
+Logic is beyond just normal experience.
+
+Math is a logical method.
+
+Math sentences are equations, so they are kind of pretend statements.
+
+Math sentences don’t express a thought.
+
+In real life, we don’t need the math sentence itself. Instead, we use math sentences to go from one idea that isn’t math to another idea that also isn’t math.
+
+In philosophy, asking “why do we actually use this word or sentence?” often leads to useful insights.
+
+The logic of the world, which shows up in logical statements called tautologies, also shows math in equations.
+
+When two expressions are connected by an equals sign, it means you can swap one for the other. But whether this works depends on the expressions themselves.
+
+Logical form means that two expressions can replace each other.
+
+Saying something is true is like saying it’s not not true.
+
+“1+1+1+1” can also be seen as “(1+1)+(1+1).”
+
+Frege says two expressions can have the same meaning but different ways of showing it.
+
+The important thing about an equation is that it’s not needed to prove the two expressions connected by the equals sign have the same meaning, because you can see this just by looking at the expressions themselves.

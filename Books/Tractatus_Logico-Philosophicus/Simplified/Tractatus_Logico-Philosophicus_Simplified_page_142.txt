@@ -1,34 +1,27 @@
-5301 Dass die Identität keine Relation zwischen Gegenständen ist, leuchtet ein. Dies wird sehr klar, wenn man z. B. den Satz „(x) : fx. ⊃ .x = a“ betrachtet. Was dieser Satz sagt, ist einfach, dass nur a der Funktion f genügt, und nicht, dass nur solche Dinge der Funktion f genügen, welche eine gewisse Beziehung zu a haben.
- 
- Man könnte nun freilich sagen, dass eben nur a diese Beziehung zu a habe, aber um dies auszudrücken, brauchten wir das Gleichheitszeichen selber.
- 
- 5.5302 Russells Definition von „=“ genügt nicht; weil man nach ihr nicht sagen kann, dass zwei Gegenstände alle Eigenschaften gemeinsam haben. (Selbst wenn dieser Satz nie richtig ist, hat er doch Sinn.) 5.5303 Beiläufig gesprochen: Von zwei Dingen zu sagen, sie seien identisch, ist ein Unsinn, und von Einem zu sagen, es sei identisch mit sich selbst, sagt gar nichts.
- 
- 5.531 Ich schreibe also nicht „f(a,b).a = b“, sondern „f(a,a)“ (oder „f(b,b)“). Und nicht „f(a,b).∼a = b“, sondern „f(a,b)“.
- 
- 5.532 Und analog: Nicht „(∃x,y) . f(x,y) . x = y“, sondern „(∃x) .
- 
- f(x,x)“; und nicht „(∃x,y).f(x,y).∼x = y“, sondern „(∃x,y).
- 
- f(x,y)“.
- 
- (Also statt des Russell’schen „(∃x,y) . f(x,y)“: „(∃x,y) .
- 
- f(x,y).∨.(∃x).f(x,x)“.) 5.5321 Statt „(x) : fx ⊃ x = a“ schreiben wir also z. B. „(∃x).fx. ⊃ .fa : ∼(∃x,y).fx.fy“.
- 
- Und der Satz „nur Ein x befriedigt f()“ lautet: „(∃x).fx : ∼(∃x,y).fx.fy“.
- 
- 5.533 Das Gleichheitszeichen ist also kein wesentlicher Bestandteil der Begriffsschrift.
- 
- 5.534 Und nun sehen wir, dass Scheinsätze wie: „a = a“, „a = b.b = c. ⊃ a = c“, „(x) . x = x“, „(∃x) . x = a“, etc. sich in einer richtigen Begriffsschrift gar nicht hinschreiben lassen.
- 
- 5.535 Damit erledigen sich auch alle Probleme, die an solche Scheinsätze geknüpft waren.
- 
- Alle Probleme, die Russells „Axiom of Infinity“ mit sich bringt, sind schon hier zu lösen.
- 
- 140 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Das, was das Axiom of infinity sagen soll, würde sich in der Sprache dadurch ausdrücken, dass es unendlich viele Namen mit verschiedener Bedeutung gäbe.
- 
+It’s clear that identity is not a relationship between things. This becomes obvious when you look at a sentence like “(x): fx ⊃ x = a.” What this means is simply that only a fits the function f, not that only things related to a fit f.
 
- 
-(Simplified)
- 
+You might say that only a has this special relationship to itself, but to say that, you’d have to use the equals sign.
+
+Russell’s definition of “=” isn’t good enough because it can’t show that two things share all the same properties. Even if this idea is never true, it still makes sense to talk about.
+
+In everyday talk, saying two things are identical doesn’t make sense, and saying one thing is identical to itself doesn’t really say anything.
+
+So, instead of writing “f(a,b).a = b,” I write “f(a,a)” (or “f(b,b)”). And instead of “f(a,b).∼a = b,” I just write “f(a,b).”
+
+Similarly, instead of “(∃x,y). f(x,y). x = y,” I write “(∃x). f(x,x).” And instead of “(∃x,y). f(x,y). ∼x = y,” I write “(∃x,y). f(x,y).”
+
+So, instead of Russell’s “(∃x,y). f(x,y),” we write “(∃x,y). f(x,y) or (∃x). f(x,x).”
+
+Instead of “(x): fx ⊃ x = a,” we write “(∃x). fx ⊃ fa : ∼(∃x,y). fx.fy.”
+
+The sentence “only one x satisfies f()” is written as “(∃x). fx : ∼(∃x,y). fx.fy.”
+
+This means the equals sign isn’t a necessary part of the logical language.
+
+Now we see that sentences like “a = a,” “a = b. b = c ⊃ a = c,” “(x). x = x,” “(∃x). x = a,” and so on, can’t actually be written correctly in a proper logical language.
+
+Because of this, all problems connected to these kinds of sentences disappear.
+
+All the issues caused by Russell’s “Axiom of Infinity” are solved here.
+
+What the Axiom of Infinity wants to say is that there are infinitely many names with different meanings in the language.

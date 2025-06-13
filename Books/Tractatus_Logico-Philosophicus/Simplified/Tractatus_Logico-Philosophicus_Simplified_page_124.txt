@@ -1,28 +1,23 @@
-Schreiben wir diese Kolonne als Reihe hin, so wird das Satzzeichen zu: „(WW–W)(p, q)“ oder deutlicher „(WWFW)(p, q)“.
- 
- (Die Anzahl der Stellen in der linken Klammer ist durch die Anzahl der Glieder in der rechten bestimmt.) 4.45 Für n Elementarsätze gibt es L mögliche Gruppen von Wahrn heitsbedingungen.
- 
- Die Gruppen von Wahrheitsbedingungen, welche zu den Wahrheitsmöglichkeiten einer Anzahl von Elementarsätzen gehören, lassen sich in eine Reihe ordnen.
- 
- 4.46 Unter den möglichen Gruppen von Wahrheitsbedingungen gibt es zwei extreme Fälle.
- 
- In dem einen Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten der Elementarsätze wahr. Wir sagen, die Wahrheitsbedingungen sind tautologisch.
- 
- Im zweiten Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten falsch: Die Wahrheitsbedingungen sind kontradiktorisch.
- 
- Im ersten Fall nennen wir den Satz eine Tautologie, im zweiten Fall eine Kontradiktion.
- 
- 4.461 DerSatzzeigtwasersagt,dieTautologieunddieKontradiktion, dass sie nichts sagen.
- 
- Die Tautologie hat keine Wahrheitsbedingungen, denn sie ist bedingungslos wahr; und die Kontradiktion ist unter keiner Bedingung wahr.
- 
- Tautologie und Kontradiktion sind sinnlos.
- 
- (Wie der Punkt von dem zwei Pfeile in entgegengesetzter Richtung auseinandergehen.) (Ich weiss z. B. nichts über das Wetter, wenn ich weiss, dass es regnet oder nicht regnet.) 4.4611 Tautologie und Kontradiktion sind aber nicht unsinnig; sie gehören zum Symbolismus, und zwar ähnlich wie die „0“ zum Symbolismus der Arithmetik.
- 
- 122 LOGISCH-PHILOSOPHISCHE ABHANDLUNG 4.
- 
+If we write this column as a series, the symbol looks like this: “(WW–W)(p, q)” or more clearly “(WWFW)(p, q)”.
 
- 
-(Simplified)
- 
+(The number of spaces in the left bracket depends on the number of parts in the right one.) For n basic sentences, there are L possible groups of truth conditions.
+
+The groups of truth conditions that belong to the possible truth values of some basic sentences can be arranged in a series.
+
+Among the possible groups of truth conditions, there are two extreme cases.
+
+In one case, the sentence is true for every possible truth value of the basic sentences. We say these truth conditions are tautological.
+
+In the second case, the sentence is false for every possible truth value. These truth conditions are contradictory.
+
+In the first case, we call the sentence a tautology, and in the second case, a contradiction.
+
+The sentence shows what it says; tautologies and contradictions show that they say nothing.
+
+A tautology has no truth conditions because it is true no matter what; and a contradiction is never true under any condition.
+
+Tautologies and contradictions are meaningless.
+
+(Like a dot where two arrows go off in opposite directions.) (For example, I don’t learn anything about the weather if I know it’s raining or not raining.)
+
+But tautologies and contradictions are not nonsense; they belong to symbolism, kind of like how “0” belongs to arithmetic symbolism.

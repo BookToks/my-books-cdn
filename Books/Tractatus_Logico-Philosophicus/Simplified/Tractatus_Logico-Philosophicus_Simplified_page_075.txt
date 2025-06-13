@@ -1,34 +1,33 @@
-554 The enumeration of any special forms would be entirely arbitrary.
- 
- 5.5541 It should be possible to decide a priori whether, for example, I can get into a situation in which I need to symbolize with a sign of a 27-termed relation.
- 
- 5.5542 May we then ask this at all? Can we set out a sign form and not know whether anything can correspond to it?
- 
- Has the question sense: what must be in order that something can be the case?
- 
- 5.555 It is clear that we have a concept of the elementary proposition apart from its special logical form.
- 
- Where,however,wecanbuildsymbolsaccordingtoasystem, there this system is the logically important thing and not the single symbols.
- 
- And how would it be possible that I should have to deal with forms in logic which I can invent: but I must have to deal with that which makes it possible for me to invent them.
- 
- 5.556 Therecannotbeahierarchyoftheformsoftheelementarypropositions. Only that which we ourselves construct can we foresee.
- 
- 5.5561 Empirical reality is limited by the totality of objects. The boundary appears again in the totality of elementary propositions.
- 
- The hierarchies are and must be independent of reality.
- 
- 5.5562 If we know on purely logical grounds, that there must be elementary propositions, then this must be known by everyone who understands the propositions in their unanalysed form.
- 
- 5.5563 All propositions of our colloquial language are actually, just as they are, logically completely in order. That most simple thing which we ought to give here is not a simile of truth but the complete truth itself.
- 
- (Our problems are not abstract but perhaps the most concrete that there are.) 5.557 The application of logic decides what elementary propositions there are.
- 
- What lies in the application logic cannot anticipate.
- 
- 73 TRACTATUS LOGICO-PHILOSOPHICUS It is clear that logic may not collide with its application.
- 
+Listing all special forms would just be random.
 
- 
-(Simplified)
- 
+We should be able to tell beforehand if, for example, I need to use a symbol that shows a relationship with 27 parts.
+
+But can we even ask that? Can we create a symbol and not know if anything matches it?
+
+The question is: what has to be true for something to happen?
+
+We understand what a basic statement is, even without knowing its exact logical shape.
+
+When we make symbols based on a system, the system itself is what's important, not the individual symbols.
+
+How could I have to work with logical shapes that I can just make up? I must deal with what lets me create them in the first place.
+
+There can’t be a ranking of the forms of basic statements. We can only predict what we create ourselves.
+
+The real world is limited by all the objects in it. This limit also shows up in all the basic statements.
+
+These rankings have to be separate from reality.
+
+If we know, just by logic, that basic statements have to exist, then everyone who understands these statements in their simplest form must know this too.
+
+All the sentences we use every day are actually, just as they are, perfectly logical.
+
+The simplest thing we should give here is not a fake truth but the real, full truth.
+
+Our problems aren’t abstract; they might be the most real problems there are.
+
+Logic’s use decides what the basic statements are.
+
+Logic itself can’t predict how it will be used.
+
+It’s clear that logic should never clash with how it’s applied.

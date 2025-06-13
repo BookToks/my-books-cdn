@@ -1,30 +1,29 @@
-1271 It is clear that the number of “primitive propositions of logic” is arbitrary, for we could deduce logic from one primitive proposition by simply forming, for example, the logical product of Frege’s primitive propositions. (Frege would perhaps say that this would no longer be immediately self-evident. But it is remarkable that so exact a thinker as Frege should have appealed to the degree of self-evidence as the criterion of a logical proposition.) 6.13 Logic is not a theory but a reflexion of the world.
- 
- Logic is transcendental.
- 
- 6.2 Mathematics is a logical method.
- 
- The propositions of mathematics are equations, and therefore pseudo-propositions.
- 
- 6.21 Mathematical propositions express no thoughts.
- 
- 6.211 In life it is never a mathematical proposition which we need, but we use mathematical propositions only in order to infer from propositions which do not belong to mathematics to others which equally do not belong to mathematics.
- 
- (Inphilosophythequestion“Whydowereallyusethatword, that proposition?” constantly leads to valuable results.) 6.22 The logic of the world which the propositions of logic show in tautologies, mathematics shows in equations.
- 
- 6.23 If two expressions are connected by the sign of equality, this means that they can be substituted for one another. But whether this is the case must show itself in the two expressions themselves.
- 
- It characterizes the logical form of two expressions, that they can be substituted for one another.
- 
- 6.231 It is a property of affirmation that it can be conceived as double denial.
- 
- It is a property of “1+1+1+1” that it can be conceived as “(1+1)+(1+1)”.
- 
- 6.232 Frege says that these expressions have the same meaning but different senses.
- 
- But what is essential about equation is that it is not neces82 TRACTATUS LOGICO-PHILOSOPHICUS saryinordertoshowthatbothexpressions, whichareconnected by the sign of equality, have the same meaning: for this can be perceived from the two expressions themselves.
- 
+It’s clear that the number of basic logical statements can be chosen in many ways. For example, we could use just one basic statement and build the rest from it, like combining Frege’s basic statements. Frege might say that then it wouldn’t be obviously true right away. But it’s interesting that such a smart thinker like Frege used how obvious something feels as a way to judge if a logical statement is good.
 
- 
-(Simplified)
- 
+Logic isn’t really a theory; it’s more like a reflection of how the world works.
+
+Logic is something that goes beyond just normal thinking.
+
+Mathematics is a way of using logic.
+
+Math statements are like equations, so they aren’t really statements that say something true or false.
+
+Math statements don’t actually express ideas.
+
+In real life, we don’t need math statements themselves, but we use them to help figure out things that aren’t about math.
+
+In philosophy, asking “Why do we use this word or statement?” often leads to useful insights.
+
+Logic shows how the world works through tautologies (statements always true), and math shows it through equations.
+
+If two things are connected by an equals sign, it means you can swap one for the other. But you can only know this by looking at the two things themselves.
+
+What makes two expressions logical is that they can be swapped for each other.
+
+Saying something is true can also be thought of as denying that it’s not true.
+
+The expression "1+1+1+1" can also be thought of as "(1+1)+(1+1)".
+
+Frege says these expressions mean the same thing but have different ways of showing it.
+
+But the important thing about equations is that you don’t need to prove they mean the same thing, because you can see it from the expressions themselves.

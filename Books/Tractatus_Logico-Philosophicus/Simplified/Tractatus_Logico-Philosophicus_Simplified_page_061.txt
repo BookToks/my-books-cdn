@@ -1,30 +1,21 @@
-g. any two elementary propositions) give to one another the probability 1.
- 
- 2 If p follows from q, the proposition q gives to the proposition p the probability 1. The certainty of logical conclusion is a limiting case of probability.
- 
- (Application to tautology and contradiction.) 5.153 A proposition is in itself neither probable nor improbable. An event occurs or does not occur, there is no middle course.
- 
- 5.154 In an urn there are equal numbers of white and black balls (and no others). I draw one ball after another and put them back in the urn. Then I can determine by the experiment that the numbers of the black and white balls which are drawn approximate as the drawing continues.
- 
- So this is not a mathematical fact.
- 
- If then, I say, It is equally probable that I should draw a white and a black ball, this means, All the circumstances known to me (including the natural laws hypothetically assumed) give to the occurrence of the one event no more probability than to the occurrence of the other. That is they give—as can easily be understood from the above explanations—to each the probability 1.
- 
- 2 WhatIcanverifybytheexperimentisthattheoccurrenceof the two events is independent of the circumstances with which I have no closer acquaintance.
- 
- 5.155 The unit of the probability proposition is: The circumstances— with which I am not further acquainted—give to the occurrence of a definite event such and such a degree of probability.
- 
- 5.156 Probability is a generalization.
- 
- Itinvolvesageneraldescriptionofapropositionalform. Only in default of certainty do we need probability.
- 
- If we are not completely acquainted with a fact, but know something about its form.
- 
- (A proposition can, indeed, be an incomplete picture of a certain state of affairs, but it is always a complete picture.) The probability proposition is, as it were, an extract from other propositions.
- 
- 59 TRACTATUS LOGICO-PHILOSOPHICUS 5.
- 
+If one thing follows from another, then the first thing gives the second a probability of 1, which means it is certain. Logical conclusions are just a special case of probability where the chance is 100%.
 
- 
-(Simplified)
- 
+A statement by itself is not more or less likely to be true. Something either happens or it doesn’t; there’s no in-between.
+
+Imagine you have a box with the same number of black and white balls. You pick one ball, then put it back, and keep doing this. Over time, the number of black and white balls you pick will be about the same.
+
+This is not just a math fact.
+
+If I say it’s equally likely to pick a black or white ball, I mean that all the things I know (including natural laws I assume) give the chance of picking one color no higher than the other. So, each color has a probability of 1.
+
+What I can check in an experiment is that picking black or white doesn’t depend on things I don’t know about.
+
+The basic idea of probability is: The things I don’t know about give a certain chance for an event to happen.
+
+Probability is a general idea.
+
+It describes how likely something is when we don’t know for sure.
+
+If we don’t know everything about a fact but understand part of it, probability helps us guess.
+
+A statement might not show the whole picture, but it always shows a complete part of it. Probability is like a summary of other statements.

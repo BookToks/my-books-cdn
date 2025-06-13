@@ -1,30 +1,29 @@
-411 Der geometrische und der logische Ort stimmen darin überein, dass beide die Möglichkeit einer Existenz sind.
- 
- 3.42 ObwohlderSatznureinenOrtdeslogischenRaumesbestimmen darf, so muss doch durch ihn schon der ganze logische Raum gegeben sein.
- 
- (Sonst würden durch die Verneinung, die logische Summe, das logische Produkt, etc. immer neue Elemente—in Koordination—eingeführt.) (Das logische Gerüst um das Bild herum bestimmt den logischen Raum. Der Satz durchgreift den ganzen logischen Raum.) 3.5 Das angewandte, gedachte, Satzzeichen ist der Gedanke.
- 
- 4 Der Gedanke ist der sinnvolle Satz.
- 
- 4.001 Die Gesamtheit der Sätze ist die Sprache.
- 
- 4.002 Der Mensch besitzt die Fähigkeit Sprachen zu bauen, womit sich jeder Sinn ausdrücken lässt, ohne eine Ahnung davon zu haben, wie und was jedes Wort bedeutet.—Wie man auch spricht, ohne zu wissen, wie die einzelnen Laute hervorgebracht werden.
- 
- Die Umgangssprache ist ein Teil des menschlichen Organismus und nicht weniger kompliziert als dieser.
- 
- Es ist menschenunmöglich, die Sprachlogik aus ihr unmittelbar zu entnehmen.
- 
- Die Sprache verkleidet den Gedanken. Und zwar so, dass man nach der äusseren Form des Kleides, nicht auf die Form des bekleideten Gedankens schliessen kann; weil die äussere Form des Kleides nach ganz anderen Zwecken gebildet ist, als danach, die Form des Körpers erkennen zu lassen.
- 
- Die stillschweigenden Abmachungen zum Verständnis der Umgangssprache sind enorm kompliziert.
- 
- 4.003 Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig.
- 
- Wir können daher Fragen dieser Art überhaupt nicht beantworten, sondern nur ihre Unsinnigkeit feststellen. Die meisten Fragen und Sätze der Philosophen beruhen darauf, dass wir unsere Sprachlogik nicht verstehen.
- 
- (Sie sind von der Art der Frage, ob das Gute mehr oder weniger identisch sei als das Schöne.) 107 LOGISCH-PHILOSOPHISCHE ABHANDLUNG Und es ist nicht verwunderlich, dass die tiefsten Probleme eigentlich keine Probleme sind.
- 
+Both the geometric place and the logical place agree that they both show something that can exist.
 
- 
-(Simplified)
- 
+Even though a sentence only points to one spot in the logical space, it already includes the whole logical space.
+
+Otherwise, using things like negation, logical sums, or logical products would always add new parts in coordination. The logical frame around the picture sets the logical space. The sentence covers the entire logical space.
+
+The used, thought-of sentence sign is the thought.
+
+A thought is a meaningful sentence.
+
+All sentences together make up language.
+
+Humans can create languages that let them express any meaning, even if they don’t really know how or what each word means—just like how people talk without knowing how each sound is made.
+
+Everyday language is part of humans and is just as complicated as we are.
+
+It’s impossible for people to understand the logic of language just by looking at it.
+
+Language hides the thought. The outside form of language doesn’t show the shape of the thought inside because the outside is made for totally different reasons than to reveal the thought’s shape.
+
+The unspoken rules needed to understand everyday language are very complicated.
+
+Most sentences and questions about philosophy aren’t wrong, but they don’t make sense.
+
+We can’t really answer these questions, only show that they don’t make sense. Most philosophical questions come from not understanding how language works.
+
+They are like asking if “good” is more or less the same as “beautiful.”
+
+It’s not surprising that the deepest problems aren’t really problems at all.

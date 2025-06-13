@@ -1,32 +1,25 @@
-22 In the proposition the name represents the object.
- 
- 3.221 ObjectsIcanonlyname. Signsrepresentthem. Icanonlyspeak of them. I cannot assert them. A proposition can only say how a thing is, not what it is.
- 
- 3.23 The postulate of the possibility of the simple signs is the postulate of the determinateness of the sense.
- 
- 3.24 A proposition about a complex stands in internal relation to the proposition about its constituent part.
- 
- A complex can only be given by its description, and this will either be right or wrong. The proposition in which there is mention of a complex, if this does not exist, becomes not nonsense but simply false.
- 
- That a propositional element signifies a complex can be seen from an indeterminateness in the propositions in which it occurs. We know that everything is not yet determined by this proposition. (The notation for generality contains a prototype.) The combination of the symbols of a complex in a simple symbol can be expressed by a definition.
- 
- 3.25 There is one and only one complete analysis of the proposition.
- 
- 3.251 The proposition expresses what it expresses in a definite and clearly specifiable way: the proposition is articulate.
- 
- 3.26 The name cannot be analysed further by any definition. It is a primitive sign.
- 
- 3.261 Every defined sign signifies via those signs by which it is defined, and the definitions show the way.
- 
- Two signs, one a primitive sign, and one defined by primitive signs, cannot signify in the same way. Names cannot be taken to pieces by definition (nor any sign which alone and independently has a meaning).
- 
- 3.262 What does not get expressed in the sign is shown by its application. What the signs conceal, their application declares.
- 
- 3.263 The meanings of primitive signs can be explained by elucidations. Elucidations are propositions which contain the primitive signs. They can, therefore, only be understood when the meanings of these signs are already known.
- 
- 33 TRACTATUS LOGICO-PHILOSOPHICUS 3.
- 
+22 In a sentence, the name stands for the object.
 
- 
-(Simplified)
- 
+3.221 I can only name objects. Signs show what they are. I can only talk about them. I cannot say exactly what they are. A sentence can only say how something is, not what it really is.
+
+3.23 The idea that simple signs are possible means that the meaning is clear and definite.
+
+3.24 A sentence about a whole thing is connected to a sentence about its parts.
+
+You can only describe a whole thing by its parts, and the description can be right or wrong. If a sentence talks about something that doesn’t exist, it’s not nonsense, it’s just false.
+
+When a part of a sentence stands for a whole thing, it shows that the sentence isn’t completely clear yet. We know that not everything is decided by this sentence. (General sentences use a model.) You can explain a whole thing by combining simple signs into one symbol with a definition.
+
+3.25 There is only one full way to analyze a sentence.
+
+3.251 A sentence clearly shows what it means; it is clear and understandable.
+
+3.26 A name cannot be broken down any further by definitions. It is a basic sign.
+
+3.261 Every defined sign means something through the signs used to define it, and the definitions show how.
+
+Two signs, one basic and one defined, don’t mean the same way. Names can’t be broken apart by definitions, and no sign that has meaning on its own can be.
+
+3.262 What a sign doesn’t show is revealed by how it is used. The use of signs tells what they hide.
+
+3.263 The meanings of basic signs can be explained by examples. Examples are sentences that use the basic signs. They can only be understood if you already know what those signs mean.

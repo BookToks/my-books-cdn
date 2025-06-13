@@ -1,20 +1,17 @@
-3 Die Erforschung der Logik bedeutet die Erforschung aller Gesetzmässigkeit. Und ausserhalb der Logik ist alles Zufall.
- 
- 6.31 Das sogenannte Gesetz der Induktion kann jedenfalls kein logisches Gesetz sein, denn es ist offenbar ein sinnvoller Satz.— Und darum kann es auch kein Gesetz a priori sein.
- 
- 6.32 Das Kausalitätsgesetz ist kein Gesetz, sondern die Form eines Gesetzes.
- 
- 6.321 „Kausalitätsgesetz“, das ist ein Gattungsname. Und wie es in der Mechanik, sagen wir, Minimum-Gesetze gibt,—etwa der kleinsten Wirkung—so gibt es in der Physik Kausalitätsgesetze, Gesetze von der Kausalitätsform.
- 
- 6.3211 Man hat ja auch davon eine Ahnung gehabt, dass es ein „Gesetz der kleinsten Wirkung“ geben müsse, ehe man genau wusste, wie es lautete. (Hier, wie immer, stellt sich das a priori Gewisse als etwas rein Logisches heraus.) 6.33 Wir glauben nicht a priori an ein Erhaltungsgesetz, sondern wir wissen a priori die Möglichkeit einer logischen Form.
- 
- 6.34 Alle jene Sätze, wie der Satz vom Grunde, von der Kontinuität in der Natur, vom kleinsten Aufwande in der Natur etc. etc., alle diese sind Einsichten a priori über die mögliche Formgebung der Sätze der Wissenschaft.
- 
- 6.341 Die Newtonsche Mechanik z. B. bringt die Weltbeschreibung auf eine einheitliche Form. Denken wir uns eine weisse Fläche, auf der unregelmässige schwarze Flecken wären. Wir sagen nun: Was für ein Bild immer hierdurch entsteht, immer kann ich seiner Beschreibung beliebig nahe kommen, indem ich die Fläche mit einem entsprechend feinen quadratischen Netzwerk bedecke und nun von jedem Quadrat sage, dass es weiss oder schwarz ist. Ich werde auf diese Weise die Beschreibung der Fläche auf eine einheitliche Form gebracht haben.
- 
- Diese Form ist beliebig, denn ich hätte mit dem gleichen Erfolge ein Netz aus dreieckigen oder sechseckigen Maschen verwenden können. Es kann sein, dass die Beschreibung mit Hilfe eines Dreiecks-Netzes einfacher geworden wäre; das heisst, dass wir die Fläche mit einem gröberen Dreiecks-Netz genau155 LOGISCH-PHILOSOPHISCHE ABHANDLUNG er beschreiben könnten, als mit einem feineren quadratischen (oder umgekehrt) usw.
- 
+Studying logic means looking at all the rules that always apply. Everything outside of logic is just random.
 
- 
-(Simplified)
- 
+The so-called law of induction can’t be a logical law because it’s clearly a meaningful statement. That’s why it can’t be a law we know just by thinking about it.
+
+The law of cause and effect isn’t really a law but more like a pattern that laws follow.
+
+“Law of causality” is a general name. Just like in mechanics there are minimum laws, like the law of least action, in physics there are laws about how cause and effect work.
+
+People guessed there had to be a “law of least action” before they knew exactly what it was. This shows that some things we know beforehand are just logical facts.
+
+We don’t believe in a conservation law just by thinking, but we do know beforehand that logical forms are possible.
+
+All these ideas, like the principle of reason, continuity in nature, or least effort in nature, are things we understand beforehand about how science statements can be shaped.
+
+For example, Newton’s mechanics gives a way to describe the world in one clear form. Imagine a white surface with random black spots. No matter what picture this makes, I can describe it very closely by covering the surface with a fine grid of squares and saying each square is black or white. This way, the description of the surface has one clear form.
+
+This form is flexible because I could have used a grid of triangles or hexagons instead. Maybe describing it with triangles would be easier, meaning I could describe the surface just as well with bigger triangles as with smaller squares, or the other way around.

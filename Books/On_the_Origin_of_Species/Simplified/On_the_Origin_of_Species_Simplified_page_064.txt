@@ -1,14 +1,19 @@
-I have hitherto sometimes spoken as if the variations—so common and multiform in organic beings under domestication, and in a lesser degree in those in a state of nature—had been due to chance.
- 
- This, of course, is a wholly incorrect expression, but it serves to acknowledge plainly our ignorance of the cause of each particular variation. Some authors believe it to be as much the function of the reproductive system to produce individual differences, or very slight deviations of structure, as to make the child like its parents. But the much greater variability, as well as the greater frequency of monstrosities, under domestication or cultivation, than under nature, leads me to believe that deviations of structure are in some way due to the nature of the conditions of life, to which the parents and their more remote ancestors have been exposed during several generations. I have remarked in the first chapter—but a long catalogue of facts which cannot be here given would be necessary to show the truth of the remark—that the reproductive system is eminently susceptible to changes in the conditions of life; and to this system being functionally disturbed in the parents, I chiefly attribute the varying or plastic condition of the offspring. The male and female sexual elements seem to be affected before that union takes place which is to form a new being. In the case of 'sporting' plants, the bud, which in its earliest condition does not apparently differ essentially from an ovule, is alone affected. But why, because the reproductive system is disturbed, this or that part should vary more or less, we are profoundly ignorant. Nevertheless, we can here and there dimly catch a faint ray of light, and we may feel sure that there must be some cause for each deviation of structure, however slight.
- 
- How much direct effect difference of climate, food, &c., produces on any being is extremely doubtful. My impression is, that the effect is extremely small in the case of animals, but perhaps rather more in that of plants. We may, at least, safely conclude that such influences cannot have produced the many striking and complex co-adaptations of structure between one organic being and another, which we see everywhere throughout nature. Some little influence may be attributed to climate, food, &c.: thus, E. Forbes speaks confidently that shells at their southern limit, and when living in shallow water, are more brightly coloured than those of the same species further north or from greater depths. Gould believes that birds of the same species are more brightly coloured under a clear atmosphere, than when living on islands or near the coast. So with insects, Wollaston is convinced that residence near the sea affects their colours. Moquin-Tandon gives a list of plants which when growing near the sea-shore have their leaves in some degree fleshy, though not elsewhere fleshy. Several other such cases could be given.
- 
- The fact of varieties of one species, when they range into the zone of habitation of other species, often acquiring in a very slight degree some of the characters of such species, accords with our view that species of all kinds are only well-marked and permanent varieties. Thus the species of shells which are confined to tropical and shallow seas are generally brighter-coloured than those confined to cold and deeper seas. The birds which are confined to continents are, according to Mr.
- 
- Gould, brighter-coloured than those of islands. The insect-species confined to sea-coasts, as every collector knows, are often brassy or lurid. Plants which live exclusively on the sea-side are very apt to have fleshy leaves.
- 
+I have sometimes talked like the changes we see in animals and plants happen just by chance.  
 
- 
-(Simplified)
- 
+But that’s not really true. It just means we don’t fully understand why each change happens. Some people think the reproductive system’s job is to make babies that look like their parents, but it also causes small differences between individuals.  
+
+We see way more changes and unusual forms in animals and plants that are raised by people than in those living in the wild. This makes me think these changes happen because of the environment the parents and their ancestors lived in for many generations.  
+
+I mentioned before that the reproductive system is very sensitive to changes in life conditions. So when the parents’ system is affected, their babies can turn out different. The parts that make a new baby are affected even before they join together.  
+
+In some plants, only the bud is affected. But we don’t really know why some parts change more than others when the reproductive system is disturbed. Still, we believe there’s a reason behind every small change.  
+
+It’s hard to say how much things like climate and food directly affect living things. I think animals don’t change much because of this, but plants might change a bit more.  
+
+We can be sure that climate and food alone can’t explain the many amazing ways animals and plants fit perfectly with each other in nature.  
+
+Some small effects do happen. For example, shells near the equator or in shallow water are brighter than ones from colder places or deeper water. Birds of the same species look brighter in clear air than on islands or near coasts. Insects near the sea often have different colors. Some plants near the sea have thicker, fleshier leaves, unlike the same plants elsewhere.  
+
+Sometimes, varieties of one species living near another species start to look a little like that other species. This fits with the idea that species are really just well-marked and stable varieties.  
+
+For example, shells living in warm, shallow seas are usually brighter than those in cold, deep seas. Birds living on continents are brighter than island birds. Insects near the sea often have shiny or strange colors. Plants by the sea often have fleshy leaves.
