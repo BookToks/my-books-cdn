@@ -1,18 +1,13 @@
-But whoever would thoroughly understand this must consult the author himself. ’Tis sufficient, if I can make the learned world apprehend, that there is some difficulty in the case, and that whoever solves the difficulty must say some thing very new and extraordinary; as new as the difficulty itself.
- 
- [27] By all that has been said the reader will easily perceive, that the philosophy contain’d in this book is very sceptical, and tends to give us a notion of the imperfections and narrow limits of human understanding.
- 
- Almost all reasoning is there reduced to experience; and the belief, which attends experience, is explained to be nothing but a peculiar sentiment, or lively conception produced by habit. Nor is this all. When we believe any thing of externalexistence, or suppose an object to exist a moment after it is no longer perceived, this belief is nothing but a sentiment of the same kind. Our author insists upon several other sceptical topics; and upon the whole concludes, that we assent to our faculties, and employ our reason only because we cannot help it. Philosophy wou’d render us entirely Pyrrhonian, were not nature too strong for it.
- 
- [28] I shall conclude the logics of this author with an account of two opinions, which seem to be peculiar to himself, as indeed are most of his opinions.
- 
- He asserts, that the soul, as far as we can conceive it, is nothing but a system or train of different perceptions, those of heat and cold, love and anger, thoughts and sensations; all united together, but without any perfect simplicity or identity. Des Cartes maintained that thought was the essence of the 658 mind; not this thought or that thought, but thought in general. This seems to be absolutely unintelligible, since every thing, that exists, is particular: And therefore it must be our several particular perceptions, that compose the mind. I say, composethe mind, not belongto it. The mind is not a substance, in which the perceptions inhere. That notion is as unintelligible as the Cartesian, that thought or perception in general is the essence of the mind.
- 
- We have no idea of substance of any kind, since we have no idea but what is derived from some impression, and we have no impression of any substance either material or spiritual. We know nothing but particular qualities and perceptions. As our idea of any body, a peach, for instance, is only that of a particular taste, colour, figure, size, consistence, &c. So our idea of any mind is only that of particular perceptions, without the notion of any thing we call substance, either simple or compound.
- 
- [29] The second principle, which I proposed to take notice of, is with regard to Geometry. Having denied the infinite divisibility of extension, our authorfinds himself obliged to refute those mathematical arguments, which have been adduced for it; and these indeed are the only ones of any weight.
- 
+If you really want to understand this, you have to ask the author himself. It’s enough if I can show smart people that this is a tricky problem, and whoever solves it will have to say something totally new and surprising, just like the problem itself.
 
- 
-(Simplified)
- 
+From what has been said, you can see that the ideas in this book are very doubtful and make us realize that human understanding is limited and imperfect.
+
+Most reasoning is based on experience. The belief we get from experience is just a special feeling or a strong idea that comes from getting used to something. But that’s not all. When we believe something exists even if we don’t see it anymore, that belief is just the same kind of feeling. The author talks about many other doubtful ideas and finally says we accept what our minds tell us and use reason only because we have no choice. Philosophy would make us completely uncertain if nature weren’t stronger than it.
+
+I will finish explaining the author’s ideas with two opinions that seem to be his own, like most of his ideas.
+
+He says the soul, as far as we can imagine, is just a group or chain of different feelings like hot and cold, love and anger, thoughts and senses—all connected but without any simple, unchanging self. Descartes said that thinking is the essence of the mind—not just one thought, but thinking itself. That doesn’t make sense because everything that exists is specific and particular. So it must be our different specific feelings that make up the mind. I say these feelings make up the mind, not that they belong to it. The mind is not a thing where feelings live inside. That idea is just as confusing as Descartes’ idea that thinking itself is the mind’s essence.
+
+We don’t have any idea of “substance” because we only get ideas from impressions, and we never get an impression of any substance, whether material or spiritual. We only know particular qualities and feelings. Like our idea of a peach is just its taste, color, shape, size, and texture. Our idea of a mind is only a bunch of particular feelings, with no idea of any “substance” simple or complex.
+
+The second idea I want to mention is about Geometry. Since the author says you can’t divide space forever, he has to argue against the math ideas that say you can—and these are the only strong arguments for infinite division.

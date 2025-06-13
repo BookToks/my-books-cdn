@@ -1,18 +1,17 @@
-Notes to Pages 124–128 207 E The dispute: Hume here alludes to the vis viva controversy, in which Leibniz maintained that the force of a body in motion should be measured as its mass multiplied by the square of its velocity. The Newtonians, such as Samuel Clarke, instead preferred to use momentum (i.e. mass multiplied by velocity, cf. explanatory note to 4.13). As seen from a modern perspective, both views reflected a partial truth, on the one hand the law of conservation of momentum, and on the other the law of conservation of energy (in which the kinetic energyof a moving body is proportional to Leibniz’s vis viva). Conservation of momentum governs all collisions and gravitational interactions, but is of little use in ascertaining the flight of projectiles (since changes in the Earth’s momentum are unmeasurable). Conservation of kinetic energy applies only to ‘fully elastic’ collisions in which energy is not dissipated as heat, but is of much greater use for calculating motion under gravity.
- 
- mensuration: measurement.
- 
- As to the frequent: this note was absent in the 1748edition of the Enquiry, and in the 1750edition its final paragraph was much shorter: ‘A Cause is different from a Sign; as it implies Precedency and Contiguity in Time and Place, as well as Constant Conjunction. A Sign is nothing but a correlative Effect from the same Cause.’ H We shall here: this discussion is the closest that remains, in the Enquiry, toTreatise1.3.15, ‘Rules by which to judge of causes and effects’. See explanatory note to endnote [D].
- 
- L Mons.MONTGERON: Louis-Basile Carré de Montgeron (1686‒1754), himself a Jansenist (cf. explanatory note to 10.27), wrote La Vérité des miracles, giving medical details of the alleged miraculous cures. He delivered a copy of the book to Louis XV, King of France, at the Palace of Versailles, at the same time warning against the Pope and the Jesuits’ political power. For this he was later arrested under authorityof the lieutenant of police René Hérault (1691‒1740), who attempted to suppress the Jansenist supporters of Abbé Paris.
- 
- Recueil des Miracles de l’Abbé PARIS: book written anonymously and presented by twenty-three priests to the archbishop of Paris on 13August1731. The Recueilwas meanwhile published but the archbishop did not respond, prompting twenty-two priests to send another formal request for investigation on 4October1731.
- 
- cardinal NOAILLES: Cardinal Louis Antoine Noailles (1651‒1729) tried to prevent the condemnation of Jansenism, ultimately failing when pressure from the French government led in 1713to the papal decree Unigenitus. This decree prompted a major controversy, with many books and pamphlets on each side. Noailles’s successor, Archbishop Vintimille of Aix, supported the Pope and assisted Hérault in pursuing Jansenists.
- 
- MOLINIST . . . Madamoiselle le FRANC: Molinism, the theological system of the Spanish Jesuit Luis de Molina (1535‒1600), was strongly 208 Notes to Page 129 supported by the French Jesuits in opposition to the predestinarian Jansenists (cf.
- 
+The argument: Hume talks about the vis viva debate. Leibniz said that the power of a moving object should be measured by its mass times the square of its speed. Newton’s followers, like Samuel Clarke, thought it was better to use momentum, which is mass times speed.
 
- 
-(Simplified)
- 
+Today, we know both ideas are partly right. Momentum is about how things push each other when they collide or attract due to gravity, but it doesn’t help much with things like how projectiles fly because changes in Earth’s momentum are too small to notice. Kinetic energy, which matches Leibniz’s idea, works well for calculating motion under gravity but only in perfect collisions where no energy is lost as heat.
+
+Mensuration means measurement.
+
+The note about “frequent” wasn’t in the 1748 edition of the Enquiry. In the 1750 edition, its last part was much shorter: “A Cause is different from a Sign; it means it happens before and near in time and place, as well as always together. A Sign is just an effect from the same cause.” 
+
+“We shall here” refers to a part in the Enquiry that is very close to an earlier section called “Rules by which to judge of causes and effects.” See the note at the end of section [D].
+
+Monsieur Montgeron: Louis-Basile Carré de Montgeron (1686–1754) was a Jansenist. He wrote a book called La Vérité des miracles, which talked about supposed miraculous healings. He gave the book to King Louis XV at Versailles and warned about the Pope and Jesuits’ political power. Because of this, he was arrested by the police chief René Hérault (1691–1740), who tried to stop Jansenist supporters like Abbé Paris.
+
+Recueil des Miracles de l’Abbé Paris: This book was written anonymously and given by 23 priests to the archbishop of Paris on August 13, 1731. It was published, but the archbishop didn’t reply, so 22 priests sent another request for an investigation on October 4, 1731.
+
+Cardinal Noailles: Cardinal Louis Antoine Noailles (1651–1729) tried to stop Jansenism from being condemned but failed when the French government forced a papal order called Unigenitus in 1713. This caused a big fight with lots of books and pamphlets on both sides. Noailles’s successor, Archbishop Vintimille of Aix, supported the Pope and helped Hérault go after the Jansenists.
+
+Molinist... Mademoiselle le Franc: Molinism is a religious idea from the Spanish Jesuit Luis de Molina (1535–1600). The French Jesuits strongly supported it as they opposed the Jansenists who believed in predestination.

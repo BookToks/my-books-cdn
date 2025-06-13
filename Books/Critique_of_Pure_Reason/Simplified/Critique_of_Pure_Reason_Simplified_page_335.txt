@@ -1,18 +1,9 @@
-Pt. II. Div. I. Bk. II. Ch. II A219 Elucidation The categories of modality have this peculiarity: as a determination of the objecta they do not augment the concept to which they are ascribed in the least, but rather express only the relationb to the faculty of cog­ nition. If the concept of a thing is already entirely complete, I can still ask about this object whether it is merely possible, or also actual, or, if it is the latter, whether it is also necessary? No further determinations in the objectC itself are hereby thought; rather, it is only asked: how is the object itself (together with all its determinations) related to the un­ derstanding and its empirical use, to the empirical power of judgment, and to reason (in its application to experience)?
- 
- For this very reason the principles of modality are also nothing fur­ ther than definitions of the concepts of possibility, actuality, and neces­ sity in their empirical use, and thus at the same time restrictions of all categories to merely empirical use, without any permission and al­ lowance for their transcendental use. For if the categories are not to B 267 have a merely logical significance and analytically express the form of thinking, but are to concern things and their possibility, actuality, and necessity, then they must pertain to possible experience and its syn­ thetic unity, in which alone objects of cognition are given.
- 
- A220 The postulate of the possibility of things thus requires that their con"That which is determined in time and space is actual. Against idealism." (E XCII, p. 36; 23=32) "Everything actual is necessary, either absolutely or hypothetically. That, however, holds only of noumena; for absolute contingency of things in themselves cannot be.
- 
- thought." (E XCIII, p. 36; 2 n 2) "That which exists, thus in other things outside our thoughts, is thoroughly deter­ mined. This proposition is the principle [Princip] of the concept of an ens realissimus [most real being] as conceptus originarii [concept of the origin]. Whence the concept of the absolute necessity of this?
- 
- "Therein also belongs the proposition that all negations are limitations. This is the synthetic method of reason." (E XCrv; p. 36; 23:32-3) "We do not attribute contingency to substances, but only to the alterable accidents.
- 
- Causes." (E XCv, p. 36; 23=33) "The three criteria of hypotheses, always only in relation to experience. The possi­ bility of the hypothesis, the reality of that which is thought up in behalf of the hypoth­ esis. Its necessity must be certain." (E XCVI, p. 36; 23:33) Objects a In this section, as in the preceding, Kant continues the frequent use of Verhalwis rather b than Beziehung, even here where he is speaking about a relation between the cognitive faculty and its object rather than among objects, and thus by the usage of the "Transcendental Aesthetic" the latter term might have been expected. Unless otherwise noted, our "relation" translates Verhalwis.
- 
- , Objecte 322 Section III.
- 
+The categories of modality have a special feature: they don’t add anything new to the idea of a thing itself. Instead, they only show how the thing connects to our ability to understand it. Even if we already have a complete idea of something, we can still ask if it’s possible, real, or necessary. This doesn’t change the thing itself, just how it relates to our understanding and experience.
 
- 
-(Simplified)
- 
+Because of this, the rules about modality just explain what we mean by possibility, reality, and necessity when we use them based on experience. They limit how we can use these ideas to what we can actually experience, not beyond that. If these categories are more than just logical ideas and say something about things themselves, they have to be about things we can experience and understand together.
+
+The idea that things are possible means they must exist in time and space to be real. Some philosophers say everything real is necessary in some way, but this only applies to things as we understand them, not things beyond our experience.
+
+What exists outside our thoughts is fully determined. This is the basis for the idea of the most real being and why we think of absolute necessity. Also, when we say something is not true, we are limiting what it can be. Reason works by understanding these limits.
+
+We don’t say that substances themselves are random or changeable, only the things that happen to them. When making guesses or hypotheses, we always check if they are possible, if what we imagine could be real, and if they must be true based on experience.

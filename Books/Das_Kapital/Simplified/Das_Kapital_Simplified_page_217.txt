@@ -1,18 +1,19 @@
-In tanning, e.g., he deals with the skins as his simple object of labour. It is not the capitalist whose skin he tans. But it is different as soon as we deal with the process of production from the point of view of the process of creation of surplus-value. The means of production are at once changed into means for the absorption of the labour of others. It is now no longer the labourer that employs the means of production, but the means of production that employ the labourer. Instead of being consumed by him as material elements of his productive activity, they consume him as the ferment necessary to their own life-process, and the life-process of capital consists only in its movement as value constantly expanding, constantly multiplying itself. Furnaces and workshops that stand idle by night, and absorb no living labour, are “a mere loss” to the capitalist. Hence, furnaces and workshops constitute lawful claims upon the night-labour of the work-people. The simple transformation of money into the material factors of the process of production, into means of production, transforms the latter into a title and a right to the labour and surplus labour of others.
- 
- An example will show, in conclusion, how this sophistication, peculiar to and characteristic of capitalist production, this complete inversion of the relation between dead and living labour, between value and the force that creates value, mirrors itself in the consciousness of capitalists.
- 
- During the revolt of the English factory lords between 1848 and 1850, “the head of one of the oldest and most respectable houses in the West of Scotland, Messrs. Carlile Sons & Co., of the linen and cotton thread factory at Paisley, a company which has now existed for about a century, which was in operation in 1752, and four generations of the same family have conducted it” ...
- 
- this “very intelligent gentleman” then wrote a letter7 in the Glasgow Daily Mail of April 25th, 1849, with the title, “The relay system,” in which among other things the following grotesquely naïve passage occurs: “Let us now ... see what evils will attend the limiting to 10 hours the working of the factory.... They amount to the most serious damage to the millowner’s prospects and property. If he (i.e., his “hands”) worked 12 hours before, and is limited to 10, then every 12 machines or spindles in his establishment shrink to 10, and should the works be disposed of, they will be valued only as 10, so that a sixth part would thus be deducted from the value of every factory in the country.”8 To this West of Scotland bourgeois brain, inheriting the accumulated capitalistic qualities of “four generations,” the value of the means of production, spindles, &c., is so inseparably mixed up with their property, as capital, to expand their own value, and to swallow up daily a definite quantity of the unpaid labour of others, that the head of the firm of Carlile & Co. actually imagines that if he sells his factory, not only will the value of the spindles be paid to him, but, in addition, their power of annexing surplus-value, not only the labour which is embodied in them, and is necessary to the production of spindles of this kind, but also the surplus labour which they help to pump out daily from the brave Scots of Paisley, and for that very reason he thinks that with the shortening of the working day by 2 hours, the selling-price of 12 spinning machines dwindles to that of 10!
- 
- 1This elementary law appears to be unknown to the vulgar economists, who, upside-down Archimedes, in the determination of the market-price of labour by supply and demand, imagine they have found the fulcrum by means of which, not to move the world, but to stop its motion.
- 
- 2 Further particulars will be given in Book IV.
- 
- 3 “The Labour, that is the economic time, of society, is a given portion, say ten hours a day of a million of people, or ten million hours.... Capital has its boundary of increase. This boundary may, at 218 Chapter 11 any given period, be attained in the actual extent of economic time employed.
- 
+In tanning, for example, the worker deals with animal skins as his simple job. He is not tanning the skin of the capitalist. But things change when we look at production from the point of view of making extra profit. The tools and machines used in production become a way to control other people’s work.
 
- 
-(Simplified)
- 
+Now, it’s not the worker using the tools, but the tools that control the worker. Instead of helping the worker, these tools use the worker like an ingredient needed for their own survival. The life of capital is just about constantly growing and making more value.
+
+If the machines and workshops don’t work at night and don’t use any worker’s labor, they become a “loss” for the capitalist. So, these machines and workshops make the workers work at night too. Just turning money into production tools changes those tools into a claim on other people’s work and extra unpaid work.
+
+An example will help show how this strange switch between dead labor (machines) and living labor (workers), and between value and the power that creates value, appears in the minds of capitalists.
+
+During a workers’ revolt in England between 1848 and 1850, the head of a very old and respected company in Scotland, Carlile Sons & Co., which had been running since 1752 and run by four generations of the same family, wrote a letter in a newspaper.
+
+This “very smart man” wrote about “The relay system” and said some very simple and wrong things. He said, “Let’s see what problems will happen if factory workers only work 10 hours instead of 12. If they worked 12 hours before and now only 10, then every 12 machines would be worth only as much as 10. If the factory is sold, the price will drop by one-sixth.” 
+
+To this businessman, the value of the machines is so mixed up with their ability to create more value by using unpaid worker labor, that he actually thinks the machines themselves become less valuable just because workers work fewer hours. He believes that if the workday is shorter by 2 hours, the price of 12 machines will go down to the price of 10!
+
+This simple rule is unknown to many economists, who wrongly think they can control the market price of labor by supply and demand.
+
+More details will be explained later in Book IV.
+
+The total amount of work time in society is fixed, like ten hours a day for a million people, or ten million hours. Capital has a limit to how much it can grow, and sometimes it reaches this limit with the amount of work time used.

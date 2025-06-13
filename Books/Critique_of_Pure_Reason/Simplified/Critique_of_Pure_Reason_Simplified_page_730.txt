@@ -1,20 +1,19 @@
-4 Although Kant had introduced a distinction between the analytic method of philosophy and the synthetic method of mathematics as early as the Inquiry concerning the distinctness of the principles of natural theology and moral­ ity, written in 1762 and published in 1764 (see its First Reflection, § I, 2:276), his distinction between analytic and synthetic judgments was pub­ licly introduced for the first time in the following passage of the Critique of Pure Reason. However, the appearance of the distinction in the Critique was the product of a long gestation. The distinction appears in Kant's margin­ alia to his copy of Baumgarten's Metaphysica as early as 1764-66, e.g., R 3738 (17:278-<) , and recurs throughout the years in which the Critique was evolving, as in 1769, e.g., R 3923 (17:348) and R 3928 (17:350-1), and again in 1772, e.g., R 4477 (17:566). An extensive discussion of the distinc­ tion appears in R 4634 (17:616-19), a note from 1773-76. Extensive use of the distinction is also to be found in the loose sheets of the so-called Duisburg Nachlafi of 1774-75, e.g., R 4674 (17:643-7), R 4675 (17:648-53), R 4767 (17:653-7), R 4683 (17:669-70), and R 4684 (17:670-3). In Kant's notes in Georg Friedrich Meier's logic textbook (Auszug aus der Vernunft­ lehre), see also R 3127 (1764-68) and 3128 (1769-70) (16:671), R 3042 (1773-75?; 16:629) and 3136 (1776-78 or 1780s, 16:674). After the publi­ ' cation of the Critique, the distinction was at the center of the debate be­ tween Kant and the neo-Leibnizian J. A. Eberhard; see Henry E. Allison, The Kant-Eberhard Controversy (Baltimore: Johns Hopkins University Press, 1973), especially his translation from Kant's On a discovery according to which any new Critique of Pure Reason has been made superfluous by an earlier one, 20:228-33 (Allison, pp. 141-5). Even in his latest writings, Kant was still ex­ ploring the distinction; see, e.g., Opus postumu11l, VII.rv.I, 22=40-1 (in Immanuel Kant, Opus postumum, edited by Eckart Forster [Cambridge: Cambridge University Press, 1993], pp. 177-78).
- 
- 5 With this paragraph, compare specifically R 4634 (1772-76, 17:616-19) and R 4676 (1773-75, 17:653-7).
- 
- 6 Compare this with the definition at R 4851 (1776-78, 18:10): "Cognition is called transcendental with regard to its origin, transcendent with regard to the object [Objects] that cannot be encountered in any experience." See also R 4890 (1776-78, 18:20).
- 
- 7 R 2740 and 2741 (16:494).
- 
- 8 See R 4851 (18:8-10).
- 
- 9 In Metaphysik Mrongovius, Kant draws a similar distinction between the a priori simpliciter and the a priori secundum quid, where the latter is "cognized through reason but from empirical principles" (29:751).
- 
- 10 Compare R 3955 (17:364), from 1769. At R 4993 (1776-78; 18:54-5), Kant suggests that philosophy has both pure and empirical parts, a claim crucial to his eventual distinction between the critiques of theoretical and practi­ cal reason on the one hand and the metaphysics of nature and morals on the other, so the present suggestion that there is such a thing as impure but a priori cognition should not be overlooked. See also R 5048 (1776-78; 18:72).
- 
- 717 Notes to pages 137-145 11 Compare the ensuing discussion with Leibniz's comments in the preface to the New Essays concerning Human Understanding, translation by Jonathan Bennett and Peter Remnant (Cambridge: Cambridge University Press, 1981), pp.
- 
+4 Although Kant first talked about the difference between the way philosophy works (analytic method) and the way math works (synthetic method) back in 1762-64, he officially introduced the idea of analytic and synthetic judgments in his book Critique of Pure Reason. But this idea didn’t just appear out of nowhere. Kant had been thinking about it for many years.
 
- 
-(Simplified)
- 
+You can find notes about this difference in his early writings from 1764-66 and in many other notes he made while working on the Critique. These notes show how Kant kept developing the idea between 1769 and 1776. He also used this distinction a lot in notes from 1774-75 and in his comments on a logic textbook by Georg Friedrich Meier.
+
+After the Critique was published, this difference became a big topic in debates, especially between Kant and another philosopher named J. A. Eberhard. Even in his later writings, Kant was still thinking about and exploring this idea.
+
+5 For more detail, you can look at Kant’s notes from 1772-76 and 1773-75 that explain this distinction clearly.
+
+6 Kant also explained the idea of "transcendental cognition," which means knowledge about where ideas come from, and "transcendent cognition," which means knowledge about things we can’t experience directly. He wrote about this around 1776-78.
+
+7 There are other notes from around the same time that help explain these ideas further.
+
+8 Kant’s writings from 1776-78 give more definitions and explanations about knowledge and experience.
+
+9 In another work called Metaphysik Mrongovius, Kant made a similar distinction between two kinds of a priori knowledge: one that is completely independent of experience and one that comes through reason but still relies on some experience.
+
+10 Kant also suggested that philosophy has both pure (completely independent of experience) and empirical (based on experience) parts. This idea was important for his later work where he separated theoretical and practical reason, as well as different branches of metaphysics. He also mentioned the idea of "impure but a priori" knowledge, which is a mix of both.
+
+11 You can compare Kant’s ideas with those of the philosopher Leibniz, especially in Leibniz’s New Essays concerning Human Understanding.

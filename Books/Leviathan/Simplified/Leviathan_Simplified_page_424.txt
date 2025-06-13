@@ -1,16 +1,13 @@
-Then for physics, that is, the knowledge of the subordinate and secondary causes of natural events, they render none at all but empty words.
- 
- If you desire to know why some kind of bodies sink naturally downwards toward the earth, and others go naturally from it, the Schools will tell you, out of Aristotle, that the bodies that sink downwards are heavy; and that this heaviness is it that causes them to descend. But if you ask what they mean by heaviness, they will define it to be an endeavour to go to the center of the earth: so that the cause why things sink downward is an endeavour to be below; which is as much as to say that bodies descend, or ascend, because they do. Or they will tell you the center of the earth is the place of rest and conservation for heavy things, and therefore they endeavour to be there: as if stones and metals had a desire, or could discern the place they would be at, as man does; or loved rest, as man does not; or that a piece of glass were less safe in the window than falling into the street.
- 
- If we would know why the same body seems greater, without adding to it, one time than another; they say, when it seems less, it is condensed; when greater, rarefied. What is that condensed and rarefied?
- 
- Condensed is when there is in the very same matter less quantity than before; and rarefied, when more. As if there could be matter that had not some determined quantity; when quantity is nothing else but the determination of matter; that is to say, of body, by which we say one body is greater or lesser than another by thus, or thus much. Or as if a body were made without any quantity at all, and that afterwards more or less were put into it, according as it is intended the body should be more or less dense.
- 
- For the cause of the soul of man, they say, creatur infundendo and creando infunditur: that is, “It is created by pouring it in,” and “poured in by creation.” For the cause of sense, an ubiquity of species; that is, of the shows or apparitions of objects; which when they be apparitions to the eye is sight; when to the ear, hearing; to the palate, taste; to the nostril, smelling; and to the rest of the body, feeling.
- 
- For cause of the will to do any particular action, which is called volitio, they assign the faculty, that is to say, the capacity in general, that men have to will sometimes one thing, sometimes another, which is called voluntas; making the power the cause of the act: as if one should assign for cause of the good or evil acts of men their ability to do them.
- 
+When it comes to physics, which means understanding the smaller causes behind natural events, they don’t really give any real answers—just empty words.  
 
- 
-(Simplified)
- 
+If you want to know why some things naturally fall down toward the earth and others naturally go up, the Schools will tell you, using Aristotle’s ideas, that things that fall are heavy, and this heaviness makes them go down. But if you ask what they mean by heaviness, they say it’s an effort to move toward the center of the earth. So basically, things fall or rise just because they do.  
+
+They might also say the center of the earth is where heavy things want to rest and stay safe. But that’s like saying stones and metals have feelings or can think like people, or that glass prefers being on the floor rather than in a window.  
+
+If you want to know why the same object looks bigger sometimes and smaller other times, they say when it looks smaller it’s “condensed,” and when it looks bigger it’s “rarefied.” But what does that mean?  
+
+They say “condensed” means the same stuff has less quantity, and “rarefied” means it has more. But that’s like saying stuff can change how much it has without adding or taking anything away. Quantity is just how much matter there is, so it doesn’t make sense that the same stuff can be more or less without changing. It’s like saying something can have no size and then gain size later.  
+
+For the soul, they say it’s created by “pouring it in,” meaning it’s put into the body when created. For senses, they say it’s about having copies or images of things around us: when these images reach the eyes, it’s sight; ears, hearing; tongue, taste; nose, smell; and the rest of the body, feeling.  
+
+For why we choose to do something, called will, they say it’s just because we have the ability to want different things at different times. So they say having the power to will is the reason we act. But that’s like saying the ability to do good or bad things is what causes us to actually do them.

@@ -1,16 +1,11 @@
-14 and James, 5. 11) yet the book itself seemeth not to be a history, but a treatise concerning a question in ancient time much disputed: why wicked men have often prospered in this world, and good men have been afflicted; and it is the more probable, because from the beginning to the third verse of the third chapter, where the complaint of Job beginneth, the Hebrew is (as St. Jerome testifies) in prose; and from thence to the sixth verse of the last chapter in hexameter verses; and the rest of that chapter again in prose. So that the dispute is all in verse; and the prose is added, as a preface in the beginning and an epilogue in the end. But verse is no usual style of such as either are themselves in great pain, as Job; or of such as come to comfort them, as his friends; but in philosophy, especially moral philosophy, in ancient time frequent.
- 
- The Psalms were written the most part by David, for the use of the choir. To these are added some songs of Moses and other holy men; and some of them after the return from the Captivity, as the 137th and the 126th, whereby it is manifest that the Psalter was compiled, and put into the form it now hath, after the return of the Jews from Babylon.
- 
- The Proverbs, being a collection of wise and godly sayings, partly of Solomon, partly of Agur the son of Jakeh, and partly of the mother of King Lemuel, cannot probably be thought to have been collected by Solomon, rather than by Agur, or the mother of Lemuel; and that, though the sentences be theirs, yet the collection or compiling them into this one book was the work of some other godly man that lived after them all.
- 
- The Books of Ecclesiastes and the Canticles have nothing that was not Solomon’s, except it be the titles or inscriptions. For The Words of the Preacher, the Son of David, King in Jerusalem, and The Song of Songs, which is Solomon’s, seem to have been made for distinction’s sake, then, when the books of Scripture were gathered into one body of the law; to the end that not the doctrine only, but the authors also might be extant.
- 
- Of the Prophets, the most ancient are Zephaniah, Jonas, Amos, Hosea, Isaiah, and Micaiah, who lived in the time of Amaziah and Azariah, otherwise Ozias, Kings of Judah. But the Book of Jonah is not properly a register of his prophecy; for that is contained in these few words, “Forty days and Nineveh shall be destroyed”; but a history or narration of his frowardness and disputing God’s commandments; so that there is small probability he should be the author, seeing he is the subject of it. But the Book of Amos is his prophecy.
- 
- Jeremiah, Obadiah, Nahum, and Habakkuk prophesied in the time Leviathan/237 of Josiah.
- 
+The book of Job is not really a history book. Instead, it’s more like a discussion about a question people argued about a long time ago: why do bad people often do well in life while good people suffer? This idea makes sense because, at first, the book is written in normal prose until the third chapter. Then, from that point until near the end, the story is told in poetry, and the rest goes back to prose. The argument is all in poetry, with regular writing at the beginning and end. People usually don’t write poetry when they’re really upset, like Job, or when they’re trying to comfort someone, like his friends. But in old times, poetry was often used for deep thinking, especially about morals.
 
- 
-my name is sandeep gautam
- 
+Most of the Psalms were written by David to be sung by choirs. There are also some songs by Moses and other holy people. Some Psalms, like number 137 and 126, were written after the Jews returned from being held captive in Babylon. This shows that the Psalms were put together and organized after this return.
+
+The Proverbs are a collection of wise sayings from Solomon, Agur (the son of Jakeh), and the mother of King Lemuel. It’s unlikely Solomon collected all these sayings himself. Even though the wise words belong to them, someone else probably gathered and put them into one book, likely a godly person who lived after them.
+
+The Books of Ecclesiastes and Canticles (Song of Songs) only contain Solomon’s words, except maybe for the titles. The Books of Ecclesiastes (“The Words of the Preacher, the Son of David, King in Jerusalem”) and Canticles (“The Song of Songs, which is Solomon’s”) were probably named that way to make it clear who wrote them when all the Scriptures were collected together. This was to make sure people knew both the teachings and the authors.
+
+The oldest Prophets include Zephaniah, Jonah, Amos, Hosea, Isaiah, and Micaiah. They lived during the time of Kings Amaziah and Azariah (also called Ozias) of Judah. The Book of Jonah isn’t really a record of his prophecies. His prophecy was simple: “Forty days and Nineveh shall be destroyed.” The book tells the story of Jonah’s stubbornness and arguing with God’s commands, so it’s unlikely Jonah wrote it since he’s the main character. But the Book of Amos is truly his prophecy.
+
+Jeremiah, Obadiah, Nahum, and Habakkuk were prophets during the time of King Josiah.

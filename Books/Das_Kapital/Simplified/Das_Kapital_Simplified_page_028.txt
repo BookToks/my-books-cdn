@@ -1,20 +1,15 @@
-28 Chapter 1 Let us take two commodities, e.g., corn and iron. The proportions in which they are exchangeable, whatever those proportions may be, can always be represented by an equation in which a given quantity of corn is equated to some quantity of iron: e.g., 1 quarter corn = x cwt.
- 
- iron. What does this equation tell us? It tells us that in two different things – in 1 quarter of corn and x cwt. of iron, there exists in equal quantities something common to both. The two things must therefore be equal to a third, which in itself is neither the one nor the other. Each of them, so far as it is exchange value, must therefore be reducible to this third.
- 
- A simple geometrical illustration will make this clear. In order to calculate and compare the areas of rectilinear figures, we decompose them into triangles. But the area of the triangle itself is expressed by something totally different from its visible figure, namely, by half the product of the base multiplied by the altitude. In the same way the exchange values of commodities must be capable of being expressed in terms of something common to them all, of which thing they represent a greater or less quantity.
- 
- This common “something” cannot be either a geometrical, a chemical, or any other natural property of commodities. Such properties claim our attention only in so far as they affect the utility of those commodities, make them use values. But the exchange of commodities is evidently an act characterised by a total abstraction from use value. Then one use value is just as good as another, provided only it be present in sufficient quantity. Or, as old Barbon says, “one sort of wares are as good as another, if the values be equal. There is no difference or distinction in things of equal value ... An hundred pounds’ worth of lead or iron, is of as great value as one hundred pounds’ worth of silver or gold.”8 As use values, commodities are, above all, of different qualities, but as exchange values they are merely different quantities, and consequently do not contain an atom of use value.
- 
- If then we leave out of consideration the use value of commodities, they have only one common property left, that of being products of labour. But even the product of labour itself has undergone a change in our hands. If we make abstraction from its use value, we make abstraction at the same time from the material elements and shapes that make the product a use value; we see in it no longer a table, a house, yarn, or any other useful thing. Its existence as a material thing is put out of sight. Neither can it any longer be regarded as the product of the labour of the joiner, the mason, the spinner, or of any other definite kind of productive labour. Along with the useful qualities of the products themselves, we put out of sight both the useful character of the various kinds of labour embodied in them, and the concrete forms of that labour; there is nothing left but what is common to them all; all are reduced to one and the same sort of labour, human labour in the abstract.
- 
- Let us now consider the residue of each of these products; it consists of the same unsubstantial reality in each, a mere congelation of homogeneous human labour, of labour power expended without regard to the mode of its expenditure. All that these things now tell us is, that human labour power has been expended in their production, that human labour is embodied in them.
- 
- When looked at as crystals of this social substance, common to them all, they are – Values.
- 
- We have seen that when commodities are exchanged, their exchange value manifests itself as something totally independent of their use value. But if we abstract from their use value, there remains their Value as defined above. Therefore, the common substance that manifests itself in the exchange value of commodities, whenever they are exchanged, is their value. The progress of our investigation will show that exchange value is the only form in which the value of commodities can manifest itself or be expressed. For the present, however, we have to consider the nature of value independently of this, its form.
- 
+Let’s think about two things, like corn and iron. No matter how much corn you trade for iron, you can always write it as an equation: for example, 1 quarter of corn equals x amount of iron.
 
- 
-(Simplified)
- 
+What does this equation mean? It shows that there is something equal in both 1 quarter of corn and x amount of iron. So, both must be equal to a third thing, which is not corn or iron itself. This means their value can be compared using this third thing.
+
+Here’s an easy example. When you want to find the area of shapes, you break them into triangles. The area of a triangle isn’t about its shape but about half the base times the height. In the same way, the value of things like corn and iron must be measured by something they both share, just in different amounts.
+
+This shared “something” isn’t about their shape, chemistry, or natural features. Those things matter only because they make the items useful, or “use values.” But trading stuff ignores usefulness. One useful thing is as good as another if their values are equal. Like old Barbon said, “a hundred pounds of lead or iron is worth just as much as a hundred pounds of silver or gold.” When you look at usefulness, things are different, but when you look at exchange value, they’re just amounts, not usefulness.
+
+If we don’t think about usefulness, all these things have one thing in common: they are made by human work. But we also ignore the kinds of work or the material the product is made of. We don’t see a table, house, or yarn anymore. We don’t think about joiners or spinners. All that’s left is human work in general.
+
+So, what’s left in each product is just the same thing: human work, but without caring how the work was done. These things tell us that human effort was used to make them.
+
+When we think of them as made of this shared human work, we call that their Value.
+
+We saw that when things are traded, their exchange value shows up separately from usefulness. If we ignore usefulness, what remains is their Value. The shared thing behind their exchange value is their value. Later, we’ll learn that exchange value is how value shows itself. But for now, we’re just thinking about what value really is.

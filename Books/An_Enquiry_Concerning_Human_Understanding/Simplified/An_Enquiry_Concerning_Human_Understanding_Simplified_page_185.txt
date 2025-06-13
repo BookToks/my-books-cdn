@@ -1,12 +1,19 @@
-HUME’S ENDNOTES [For the editorial principles applied here, please see the Note on the Text, above.] Endnote [A] to 2.9, p. 151 Itis probable that no more was meant by those, who denied innate ideas, 22 than that all ideas were copies of our impressions; though it must be confessed, that the terms, which they employed, were not chosen with such caution, nor so exactly defined, as to prevent all mistakes about their doctrine. For what is meant by innate?If innate be equivalent to natural, then all the perceptions and ideas of the mind must be allowed to be innate or natural, in whatever sense we take the latter word, whether in opposition to what is uncommon, artificial, or miraculous. If by innate be meant, cotemporary to our birth, the dispute seems to be frivolous; nor is it worth while to enquire at what time thinking begins, whether before, at, or after our birth. Again, the word idea, seems to be commonly taken in a very loose sense, by Locke*and others; as standing for any of our perceptions,our sensations and passions, as well as thoughts. Now in this sense, I should desire to know, what can be meant by asserting, that self-love, or resentment of injuries, or the passion between the sexes is not innate?
- 
- But admitting these terms, impressions and ideas, in the sense above explained, and understanding by innate, what is original or copied from no precedent perception, then may we assert, that all our impressions are innate, and our ideas not innate.
- 
- To be ingenuous, I must own it to be my opinion, that Lockewas betrayed into this question by the schoolmen,* who, making use of undefined terms, draw out their disputes to a tedious length, without ever touching the point in question. A like ambiguity and circumlocution seem to run through that philosopher’s reasonings on this as well as most other subjects.
- 
- Endnote [B] to 5.5, p. 328 Nothing is more usual than for writers, even, on moral, political, or 43 physicalsubjects, to distinguish between reasonandexperience, and to suppose, that these species of argumentation are entirely different from 44 each other. The former are taken for the mere result of our intellectual faculties, which, by considering àpriorithe nature of things, and examining the effects, that must follow from their operation, establish particular principles of science and philosophy. The latter are supposed to be derived entirely from sense and observation, by which we learn what has actually resulted from the operation of particular objects, and are thence able to 122 Hume’s Endnotes infer, what will, for the future, result from them.
- 
+HUME’S ENDNOTES
 
- 
-(Simplified)
- 
+Endnote [A] to 2.9, p. 151
+
+People who said we don’t have ideas from birth probably just meant that all our ideas come from things we experience. But they didn’t explain this very clearly, so some people got confused.
+
+What does “innate” even mean? If innate means natural, then all the thoughts and feelings we have are natural, no matter how you look at it. If innate means “from the moment we’re born,” then arguing about it doesn’t really make sense. It’s also not really important to ask if thinking starts before, at, or after birth. 
+
+The word “idea” is often used in a loose way by Locke and others. It can mean any kind of mental experience, like feelings or thoughts. So, if that’s true, how can anyone say things like self-love or anger aren’t innate?
+
+But if we use the words “impressions” and “ideas” the way I explained—where innate means something original that doesn’t come from anything else—then we can say all our impressions are innate, but our ideas are not.
+
+Honestly, I think Locke got confused because of old school debates where people used unclear words and argued for a long time without really getting anywhere. That kind of confusing talking seems to happen a lot with Locke and his ideas.
+
+Endnote [B] to 5.5, p. 328
+
+It’s very common for writers, even in moral, political, or science topics, to separate reason and experience and think these two ways of thinking are totally different.
+
+Reason is usually seen as using our mind to figure things out by thinking about how things naturally work and what must happen because of them. Experience, on the other hand, comes from what we see and observe in the world, learning what actually happens and guessing what will happen next based on that.

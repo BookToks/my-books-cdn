@@ -1,20 +1,21 @@
-= = Variable Capital v Value of labour-power Necessary labour The two first of these formulae represent, as a ratio of values, that which, in the third, is represented as a ratio of the times during which those values are produced. These formulae, supplementary the one to the other, are rigorously definite and correct. We therefore find them substantially, but not consciously, worked out in classical Political Economy. There we meet with the following derivative formulae.
- 
- Surplus-labour Surplus-value Surplus-product II. = = Working day Value of the Product Total Product One and the same ratio is here expressed as a ratio of labour-times, of the values in which those labour-times are embodied, and of the products in which those values exist. It is of course understood that, by “Value of the Product,” is meant only the value newly created in a working day, the constant part of the value of the product being excluded.
- 
- In all of these formulae (II.), the actual degree of exploitation of labour, or the rate of surplusvalue, is falsely expressed. Let the working day be 12 hours. Then, making the same assumptions as in former instances, the real degree of exploitation of labour will be represented in the following proportions.
- 
- 6 hours surplus-labour Surplus-value of 3 sh.
- 
- = = 100% 6 hours necessary labour Variable Capital of 3 sh.
- 
- From formulae II. we get very differently, 6 hours surplus-labour Surplus-value of 3 sh.
- 
- = = 50% Working day of 12 hours Value created of 6 sh.
- 
- These derivative formulae express, in reality, only the proportion in which the working day, or the value produced by it, is divided between capitalist and labourer. If they are to be treated as direct expressions of the degree of self-expansion of capital, the following erroneous law would hold good: Surplus-labour or surplus-value can never reach 100%.1 Since the surplus-labour is only an aliquot part of the working day, or since surplus-value is only an aliquot part of the value created, the surplus-labour must necessarily be always less than the working day, or the surplusvalue always less than the total value created. In order, however, to attain the ratio of 100:100 they must be equal. In order that the surplus-labour may absorb the whole day (i.e., an average day of any week or year), the necessary labour must sink to zero. But if the necessary labour vanish, so too does the surplus-labour, since it is only a function of the former. The ratio Surplus-labour or Surplus-value Working day Value created can therefore never reach the limit 100/100, still less rise to 100 + x/100. But not so the rate of surplus-value, the real degree of exploitation of labour. Take, e.g., the estimate of L. de Lavergne, according to which the English agricultural labourer gets only 1/4, the capitalist (farmer) on the other hand 3/4 of the product 2 or its value, apart from the question of how the booty is 374 Chapter 18 subsequently divided between the capitalist, the landlord, and others.
- 
+Variable Capital compared to the Value of labour-power and Necessary labour are shown in the first two formulas as ratios of values. In the third formula, these ratios are shown as the amount of time needed to produce those values. These formulas work together and are very accurate. Because of this, classical Political Economy kind of uses these ideas without really knowing it. In that old economic theory, you also find these related formulas.
 
- 
-(Simplified)
- 
+Surplus-labour, Surplus-value, and Surplus-product are all shown as ratios too. The same ratio is expressed in three ways: by the time worked, by the value made during that time, and by the products created from that work. When we say “Value of the Product,” we only mean the new value created during a workday, not the value of materials that were already there.
+
+But, all these formulas (II.) don’t really show the true level of how much the worker is being exploited. Let’s say the workday is 12 hours. Using the same ideas as before, the real exploitation looks like this:
+
+6 hours of surplus-labour equals a Surplus-value of 3 shillings, which is 100% compared to 6 hours of necessary labour and Variable Capital of 3 shillings.
+
+But if you use the formulas II., you get a different answer:
+
+6 hours of surplus-labour equals a Surplus-value of 3 shillings, which is only 50% of the 12-hour working day and the value created of 6 shillings.
+
+These formulas actually just show how the working day or the value made during it is split between the capitalist and the worker. If you think these formulas directly show how much capital grows by itself, you’d get a wrong idea: that surplus-labour or surplus-value can never reach 100%.
+
+Since surplus-labour is only part of the working day, or surplus-value is only part of the total value created, they always have to be less than the full working day or total value. For surplus-labour to equal the whole working day (like an average day), the necessary labour would have to be zero. But if necessary labour disappears, surplus-labour also disappears because it depends on necessary labour.
+
+So, the ratio of Surplus-labour or Surplus-value to the Working day or Value created can never reach 100%, or go beyond that.
+
+But the rate of surplus-value, which is the real level of how much the worker is exploited, can be higher.
+
+For example, L. de Lavergne estimated that the English farm worker only gets 1/4 of what’s produced, while the capitalist (farmer) gets 3/4 of it, not counting how the rest is shared between the capitalist, landlord, and others.

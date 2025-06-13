@@ -1,22 +1,17 @@
-On the paralogisms of pure reason <A> not that it is a standing and abiding intuition, in which thoughts (as variable) would change.
- 
- From this it follows that the first syllogism of transcendental psychology imposes on us an only allegedly new insight when it passes off the constant logical subject of thinking as the cognition of a real subject of inherence, with which we do not and cannot have the least acquaintance, because consciousness is the one single thing that makes all representations into thoughts, and in which, therefore, as in the transcendental subject, our perceptions must be encountered; and apart from this logical significance of the I, we have no acquaintance with the subject in itself that grOlmds this I as a substratum, just as it grounds all thoughts.
- 
- Meanwhile, one can quite well allow the proposition The soul is substance to be valid, if only one admits that this concept of ours leads no further, that it cannot teach us any of the usual conclusions of the ratio- A 3 5 I nalistic doctrine of the soul, such as, e.g., the everlasting duration of the soul through all alterations, even the human being's death, thus that it signifies a substance only in the idea but not in reality.
- 
- Second paralogism of simplicity.
- 
- That thing whose action can never be regarded as the concurrence of many acting things, is simple.
- 
- Now the soul, or the thinking I, is such a thing.
- 
- Thus etc.24 Criticism of the second paralogism of transcendental psychology.
- 
- This is the Achilles of all the dialectical inferences of the pure doctrine of the soul, nothing like a mere sophistical play that a dogmatist devised in order to give his assertions a fleeting plausibility,a but an inference that seemsb to withstand even the sharpest testing and the greatest scru­ ples of inquiry. Here it is.
- 
- Every composite substance is an aggregate of many, and the action of a composite, or of that which inheres in it as such a composite, is an aggregate of many actions or accidents, which is distributed among the multitudeC of substances. Now of course an effect that arises from the concurrence of many acting substances is possible if this effect is merely A 3 5 2 external (as, e.g., the movement of a body is the united movement of all a Schein scheint b , Menge 417 Doctrine of Elements.
- 
+On the paralogisms of pure reason, it’s not true that there is a fixed and lasting feeling or intuition where thoughts would change.
 
- 
-(Simplified)
- 
+Because of this, the first argument in transcendental psychology gives us what seems like a new idea, but it’s not really new. It treats the constant logical “I” of thinking as if it were the knowledge of a real, existing subject. But we don’t and can’t know this subject, because consciousness is the one thing that turns all our experiences into thoughts. So, in this “transcendental subject,” our perceptions happen. Besides this logical meaning of the “I,” we don’t know the subject itself that supports this “I” and all our thoughts.
+
+Still, you can accept the idea that “The soul is a substance,” as long as you admit that this idea doesn’t lead anywhere else. It can’t teach us things like the soul lasting forever, even after a person dies. So, it only means “substance” as an idea, not as something real.
+
+Second paralogism of simplicity.
+
+Something whose actions can never be seen as the work of many things acting together is simple.
+
+Now, the soul, or the thinking “I,” is that kind of thing.
+
+So on and so forth.
+
+This is the weak point in all the tricky arguments about the soul in pure reason. It’s not just a silly trick a thinker made up to make their ideas seem true, but an argument that seems strong and hard to challenge. Here it is.
+
+Every combined substance is made up of many parts, and the actions of a combined thing are made up of many smaller actions. These actions come from many parts working together. Of course, an effect caused by many things working together is possible if this effect is only external, like the movement of a body coming from all its parts moving together.

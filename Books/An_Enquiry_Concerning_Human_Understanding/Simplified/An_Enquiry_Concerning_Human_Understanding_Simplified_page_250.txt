@@ -1,24 +1,17 @@
-1.6 Abstruse thought . . . communicated: this description of the fate of ‘abstruse philosophy’ appears to be somewhat autobiographical. In the conclusion of Book I of his Treatise of Human Nature, Hume finds himself reduced by sceptical anxieties to ‘the most deplorable condition imaginable’ (T 1.4.7.8), while in ‘My Own Life’ he famously describes the Treatiseas having fallen ‘dead-born from the press’ (Appendix V, p. 170— an allusion to Pope’s Epilogue on the Satires, Dialogue ii: ‘All, all but truth, drops dead-born from the press’).
- 
- 1.6 Be a philosopher . . . man: the eloquence of this maxim can give the impression that Hume is voicing it himself. But it is naturethat ‘seems’ to say this, and Hume will spend most of the remainder of Section I arguing the contrary case in favour of ‘abstruse’ philosophy, at least when it is practised properly.
- 
- 1.8 pictures: an ‘easy philosopher’ is here thought of as like a painter, painting a picture of human life, to whom accurate knowledge of human nature can be serviceable (i.e. ‘subservient’) in the same way as knowledge of human anatomy is useful to a portrait painter.
- 
- 1.8 a VENUSor an HELEN: Venus, the Roman goddess of love—also known bythe Greek name Aphrodite—was judged by Paris, prince of Troy (an ancient city of Anatolia), to be the most beautiful of the goddesses.
- 
- In return, Venus gave him the love of Helen of Sparta, wife of King Menelaus and the world’s most beautiful woman. This was the origin of the Trojan War, in which the Greek forces led by Agamemnon of Mycenae, the brother of Menelaus, besieged Troy and ultimately destroyed it. After ten years of failure, the Greeks gained entrance to the city through the famous ruse of the Trojan Horse (devised by Odysseus or Ulysses), a wooden horse seemingly left as a peace offering on their departure, but within which Greek soldiers were hidden.
- 
- 1.11 popular superstitions: here ‘superstition’ is used in a general sense to cover (irrational) religious beliefs. The word also has a more specific sense, associated with magic and ritualism; in this sense it was common for Roman Catholicism to be described by its enemies as ‘superstition’ (see §5of the Introduction, above).
- 
- 1.12 too sensible an interest: too strong a motive. ‘Sensible’ in this eighteenthcentury usage does not mean ‘showing good sense’, but instead ‘apparent to the senses or feeling’. People who exploit dubious metaphysics for personal gain (e.g. priests and charlatans) thus feelan interest in its perpetuation.
- 
- 1.12 catholic remedy: general cure.
- 
- 1.12 careless: carefree, unconcerned, not taking great care.
- 
- 1.13 mental geography: systematic description of superficial behaviour of the mind, as opposed to discovery of the ‘secret springs and principles’ Notes to Pages 9–12 187 (1.
- 
+1.6 Difficult ideas . . . shared: This description of what happens to “hard-to-understand philosophy” seems to be kind of like Hume’s own story. At the end of the first part of his book, Treatise of Human Nature, Hume feels very unsure and sad, saying he is in “the worst state possible.” He also says in “My Own Life” that his book was a failure when it was first published, comparing it to something that was never alive.
 
- 
-(Simplified)
- 
+1.6 Be a philosopher . . . man: This saying sounds like Hume is saying it himself. But actually, it’s nature that “seems” to say it. Hume will spend most of the rest of this section arguing the opposite—that deep, difficult philosophy is actually useful when done the right way.
+
+1.8 pictures: Here, an “easy philosopher” is compared to a painter who makes pictures of human life. Knowing about human nature helps this painter, just like knowing how the body works helps someone paint a good portrait.
+
+1.8 a VENUS or an HELEN: Venus is the Roman goddess of love, also called Aphrodite by the Greeks. Paris, a prince from Troy, picked her as the most beautiful goddess. Because of this, Venus gave him the love of Helen, the most beautiful woman, who was married to King Menelaus. This caused the Trojan War, where the Greeks, led by Agamemnon, attacked Troy and eventually destroyed it. After ten years, the Greeks tricked the Trojans by hiding soldiers inside a big wooden horse that looked like a gift, which let them sneak into the city.
+
+1.11 popular superstitions: Here, “superstition” means irrational religious beliefs. It can also mean magic and rituals. Back then, some people called Roman Catholicism “superstition” to criticize it.
+
+1.12 too sensible an interest: This means having a very strong reason to do something. “Sensible” here doesn’t mean smart, but something you can feel or notice. People like priests or frauds who use fake ideas for profit want those ideas to continue.
+
+1.12 catholic remedy: A cure or solution that works for everyone.
+
+1.12 careless: Not worrying or paying much attention.
+
+1.13 mental geography: A way to describe how the mind works on the surface, instead of finding its deep secrets and reasons.

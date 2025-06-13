@@ -1,20 +1,13 @@
-The extensive outline of the "Dialectic" at R 5553 (1778-79? 1780-81? 22 1-9), however, shows that by two years later Kant had formulated the idea of a tripartite dialec­ tic with a separate "Ideal of Pure Reason" (p. 223), thereby leading to the reincorporation into the Critique of the 1763 criticisms of the ontological and physico-theological arguments. In addition to the many particular re­ flections, especially on the ontological argument, that will be mentioned below, the reader interested in Kant's critique of rational theology should also consult the extensive set of notes on Johann August Eberhard's Vorbereitung zur natiirlichen Theologie, preserved as R 6206-3IO (1783-88, 18:489-606), and the Lectures on the Philosophical Doctrine of Religion, tr. A.
- 
- Wood, in Di Giovanni and Wood (eds.), Writings on Religion and Rational Theology (New York: Cambridge University Press, 1996), pp. 335-45I.
- 
- 86 It was not Plato's doctrine that the ideas are the thoughts of God, but this doctrine did originate in syncretistic Platonism from the period of the Middle Academy, through the combination of Platonism with Stoicism in such thinkers as Albinus (second century B.C.). The theory of divine ideas was later adopted by Platonists as diverse as Philo of Alexandria, Plotinus, and St. Augustine, and became fundamental to later Christian interpreta­ tions of Platonism. See A. H. Armstrong (ed.), The Cambridge History of Later Greek and Early Medieval Philosophy (Cambridge: Cambridge Univer­ sity Press, 1967), pp. 64-6, 142, 245, 62I.
- 
- 87 A large number of reflections bear on the argument of this section. Exposi­ tions of the argument that thoroughgoing determination of the concept of any individual requires a thoroughly determinate ens realissimum, offered largely without criticism, can be found at R 4244-9 (1769-70, 17=477-81), R4253 (1769-70, 17:482-3), R4255 (1769-70, 17=484) R4262 (1769-7°?
- 
- ' 1772-76? 17:486-7), R 4255 (1772-75, 17:695-6), R 4569-70 (1772-75, 17=597-8), R 4729 (1773-75, 17:619-20), R 5270-74 (1776-78, 18:13840), R 5500 (1776-78, 18:199-200), R 5502-5 (1776-78, 18:200-2) and R 5522 (1776-78, 18:207-8). Criticisms of the argument turn up only in reflections subsequent to the first publication of the Critique: see R 624856 (1785-88, 18:530-3), R 6290 (1783-84, 18:558-9), R 6293 (1783-84, 18:561-2) and R 6298 (1783-84, 18:565).
- 
- 88 Following Leibniz, the Wolffians held that each individual thing is indi­ viduated through its complete concept, which is determined by one and only one of every possible pair of contradictorily opposed predicates. Thus they distinguish a universal concept (which applies in principle to indefi­ nitely many individual things) frbm an individual concept (which indi­ viduates an individual thing) through the fact that the former is undetermined with respect to some pairs of contradictorily opposed pred­ icates, whereas the latter is subject to what Baumgarten calls the "princi­ ple of thoroughgoing determination" (principium omnimodae determinatio) (Metaphysica § 148). See also Wolff, Ontologia, Gesammelte Werke II.3, pp.
- 
- 187-9; Baumgarten, Metaphysica §§ 53, 151, and Kant, Logic § 15,9:99.
- 
- 89 See A3041B360-1; and recall that Vernunftschlufi, here translated as "syl­ logism," could also be translated (more etymologically) as "inference of reason." 746 Notes to pages 558-570 90 See A 334-5/B 391-2.
- 
+The detailed plan of the "Dialectic" at R 5553 (around 1778-79 or 1780-81) shows that by then, Kant had come up with the idea of a three-part dialectic. He included a separate "Ideal of Pure Reason" (page 223), which brought back into his Critique the criticisms he made in 1763 about the ontological and physico-theological arguments.
 
- 
-(Simplified)
- 
+Besides many specific thoughts, especially about the ontological argument, anyone interested in Kant’s ideas on rational theology should also check out the long set of notes on Johann August Eberhard's "Preparation for Natural Theology," kept as R 6206-310 (1783-88, pages 489-606), and the Lectures on the Philosophical Doctrine of Religion, translated by A. Wood in a book edited by Di Giovanni and Wood called *Writings on Religion and Rational Theology* (New York: Cambridge University Press, 1996), pages 335-451.
+
+It wasn’t Plato who said ideas are God’s thoughts, but this idea came from a mix of Platonism and Stoicism during the Middle Academy period. Thinkers like Albinus (second century B.C.) combined these ideas. Later, Platonists such as Philo of Alexandria, Plotinus, and St. Augustine adopted the theory of divine ideas. This idea became important for later Christian views of Platonism. You can read more about this in A. H. Armstrong’s *The Cambridge History of Later Greek and Early Medieval Philosophy* (Cambridge University Press, 1967), pages 64-66, 142, 245, and 621.
+
+Many thoughts relate to the argument in this section. You can find explanations of the idea that fully defining any individual needs a completely determined "ens realissimum" (most real being) mostly without criticism in notes R 4244-9 (1769-70), R 4253 (1769-70), R 4255 (1769-70), R 4262 (1769-70 or 1772-76), R 4255 (1772-75), R 4569-70 (1772-75), R 4729 (1773-75), R 5270-74 (1776-78), R 5500 (1776-78), R 5502-5 (1776-78), and R 5522 (1776-78). Criticism of this idea only appears in notes written after the first publication of the Critique, like R 6248-56 (1785-88), R 6290 (1783-84), R 6293 (1783-84), and R 6298 (1783-84).
+
+Following Leibniz, the Wolffians believed that each individual thing is defined by its complete concept. This concept is decided by choosing one side from every pair of opposite properties. They distinguish between a universal concept (which can apply to many individuals) and an individual concept (which defines one specific thing). The universal concept isn’t fully determined because it’s open about some opposite properties, while the individual concept follows what Baumgarten calls the "principle of thoroughgoing determination" (Metaphysica § 148). You can also see Wolff’s *Ontologia*, Baumgarten’s *Metaphysica* §§ 53 and 151, and Kant’s *Logic* § 15.
+
+See A3041B360-1; remember that "Vernunftschluß," here translated as "syllogism," could also be translated more closely as "inference of reason."
+
+See A 334-5/B 391-2.

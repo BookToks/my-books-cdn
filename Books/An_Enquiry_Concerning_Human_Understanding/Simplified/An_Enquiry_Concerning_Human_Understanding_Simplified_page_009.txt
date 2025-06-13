@@ -1,12 +1,12 @@
-Introduction xi human reason, in much the same way as Book I of the Treatise, but instead of going on to advocate ever more radical forms of scepticism, it then takes human reason seriously for what it is, and builds on it a persuasive structure that can vindicate disciplined modern science while condemning traditional metaphysics and irrational superstition.
- 
- The magnitude of Hume’s achievement is best appreciated by surveying the depth of the tradition he undermined, stretching back to the beginnings of philosophy in ancient Greece. Although, as we shall see, the early modern world into which he was born had already rejected much of its medieval dogmatic legacy, that legacy was replaced with a new dogmatism which was less obvious because so pervasive.
- 
- Having identified the common threads that linked the ancient, medieval, and early modern worlds, we shall then be in a position to turn with more appreciation to the pages of the Enquiry concerning Human Understanding, one of the very finest works of philosophy and the authoritative statement of David Hume’s mature epistemology.
- 
- 1. From Ancient to Modern Cosmology Aristotle was supremely honoured in the medieval period because his philosophical outlook could be comfortably combined with Christianity, a synthesis impressively refined by Thomas Aquinas (1225–74). The Christianization of the Roman Empire had long since brought about the suppression of all the pagan schools of philosophy that had thrived in ancient Greece (such as the Academic and Pyrrhonian sceptics, the Epicureans, and the Stoics).2 These rival traditions were then largely forgotten until the Renaissance, when pagan manuscripts that had been preserved in the Greek or Muslim worlds were brought west by scholars fleeing the Ottoman Turks. Suddenly a range of new intellectual horizons opened up, combining with other events to prompt a general questioning of traditional authority. Population growth, technological innovation (notably gunpowder), and the discovery of new lands, cultures, and religions unknown to the ancients, 2 The Roman emperor Theodosius I ordered the destruction of pagan temples (including great libraries such as that in Alexandria) in 391; the emperor Justinian then suppressed all the remaining pagan schools in 529. For a brief review of the various philosophical traditions mentioned here, see the Glossarial Index of Major Philosophers and Philosophical Movements, below. Likewise the Glossary can be consulted for unfamiliar technical terms or antiquated meanings.
- 
+Human reason works a lot like in Book I of the Treatise, but instead of pushing people to doubt everything, it takes human thinking seriously and uses it to support modern science. At the same time, it rejects old ideas that don't make sense, like traditional metaphysics and superstitions.
 
- 
-(Simplified)
- 
+Hume’s achievement is huge when you think about how long the ideas he challenged had been around, going all the way back to ancient Greece. Even though by his time many old medieval beliefs had been rejected, they were replaced by new beliefs that were harder to notice because they were everywhere.
+
+Once we understand the links between ancient, medieval, and early modern times, we can better appreciate Hume’s book, the Enquiry concerning Human Understanding. It’s one of the best works in philosophy and shows Hume’s mature ideas about knowledge.
+
+1. From Ancient to Modern Cosmology  
+Aristotle was highly respected in medieval times because his ideas fit well with Christianity, especially after Thomas Aquinas refined this blend. When the Roman Empire became Christian, it shut down all the old pagan schools of philosophy from ancient Greece, like the Epicureans and Stoics. These old ideas were mostly forgotten until the Renaissance, when scholars brought back ancient texts saved in Greece and the Muslim world. This sparked new ways of thinking and made people question old authorities.
+
+At the same time, big changes like population growth, new technology (like gunpowder), and discovering new lands and cultures pushed people to rethink what they believed.  
+
+The Roman emperor Theodosius I destroyed pagan temples and libraries in 391, and later Emperor Justinian shut down the remaining pagan schools in 529. For quick info about these old philosophies or tricky words, you can check the Glossarial Index or Glossary below.

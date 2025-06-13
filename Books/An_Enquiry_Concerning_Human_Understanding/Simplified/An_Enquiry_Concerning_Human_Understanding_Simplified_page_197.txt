@@ -1,10 +1,15 @@
-A valuable resource with elegant and concise presentations of some of Hume’s principal arguments, it also indicates which of them he took to be most central and important to his philosophical project. It is striking and significant that the structure, focus, and ordering of the Abstract, though ostensibly describing the Treatise, actually bears much closer resemblance to a quite different work, the firstEnquiry, which was still eight years away. For detailed discussion of this matter, setting it in a wider context, see my essay ‘The Context, Aims, and Structure of Hume’s First Enquiry’ (chapter 1of Peter Millican (ed.), ReadingHume on Human Understanding, OUP, 2002).
- 
- The text here is taken from the original edition, with marginal numbers corresponding to the pages of the standard Selby-Bigge and Nidditch edition of the Treatise and Abstract (OUP,2nd edn., 1978).] AN ABSTRACT OF A BOOK lately Published; entituled, 641 ATREATISE OFHuman Nature, &c. whereinTheCHIEF ARGUMENT of thatBOOK is fartherillustratedandexplained PREFACE 643 MY expectations in this small performance may seem somewhat extraordinary,when I declare that my intentions are to render a larger work more intelligible to ordinary capacities, by abridging it. ’Tis however certain, that those who are not accustomed to abstract reasoning, are apt to lose the thread of argument, where it is drawn out to a great length, and each part fortified with all the arguments, guarded against all the objections, and illustrated with all the views, which occur to a writer in the diligent survey of his subject. Such Readers will more readily apprehend a chain of reasoning, that is more single and concise, where the chief propositions only are linkt on to each other, illustrated by some simple examples, and confirmed by a few of the more forcible arguments. The parts lying nearer together can better be compared, and the connexion be more easily traced from the first principles to the last conclusion.
- 
- The work, of which I here present the Reader with an abstract, has been complained of as obscure and difficult to be comprehended, and I am apt to 134 Appendix I think, that this proceeded as much from the length as from the abstractedness of the argument.
- 
+This is a useful guide that clearly and simply explains some of Hume’s main ideas. It also shows which ideas he thought were the most important for his philosophy.  
 
- 
-(Simplified)
- 
+It’s interesting that the way this summary is organized looks more like a different book Hume wrote later, called the first Enquiry, even though that book wasn’t published for another eight years. For more details about this, you can read my essay ‘The Context, Aims, and Structure of Hume’s First Enquiry’ (chapter 1 of Peter Millican’s book, Reading Hume on Human Understanding, OUP, 2002).
+
+The text here comes from the original version, with numbers in the margin matching pages from the standard Selby-Bigge and Nidditch edition of the Treatise and Abstract (OUP, 2nd edition, 1978).
+
+AN ABSTRACT OF A BOOK lately Published; called A TREATISE OF Human Nature, where the MAIN ARGUMENT of that BOOK is explained more clearly.
+
+PREFACE
+
+My goal with this short summary might seem a bit unusual—I want to make a bigger, harder book easier to understand by making it shorter. People who aren’t used to deep thinking often lose track when an argument is very long and full of details, objections, and examples.
+
+These readers will find it easier to follow a simple and clear chain of ideas, where only the main points are connected, shown with easy examples, and supported by a few strong reasons. When the ideas are closer together, it’s easier to compare them and see how the first ideas lead to the final conclusion.
+
+The original work, which I’m summarizing here, has been called confusing and hard to understand. I think this is as much because it is very long as because the ideas are deep.

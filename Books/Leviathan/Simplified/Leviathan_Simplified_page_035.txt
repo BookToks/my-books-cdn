@@ -1,44 +1,39 @@
-Leviathan/35 The same, with hope of avoiding that hurt by resistence, courage.
- 
- Sudden courage, anger.
- 
- Constant hope, confidence of ourselves.
- 
- Constant despair, diffidence of ourselves.
- 
- Anger for great hurt done to another, when we conceive the same to be done by injury, indignation.
- 
- Desire of good to another, benevolence, good will, charity. If to man generally, good nature.
- 
- Desire of riches, covetousness: a name used always in signification of blame, because men contending for them are displeased with one another’s attaining them; though the desire in itself be to be blamed, or allowed, according to the means by which those riches are sought.
- 
- Desire of office, or precedence, ambition: a name used also in the worse sense, for the reason before mentioned.
- 
- Desire of things that conduce but a little to our ends, and fear of things that are but of little hindrance, pusillanimity.
- 
- Contempt of little helps, and hindrances, magnanimity.
- 
- Magnanimity in danger of death, or wounds, valour, fortitude.
- 
- Magnanimity in the use of riches, liberality.
- 
- Pusillanimity in the same, wretchedness, miserableness, or parsimony, as it is liked, or disliked.
- 
- Love of persons for society, kindness.
- 
- Love of persons for pleasing the sense only, natural lust.
- 
- Love of the same acquired from rumination, that is, imagination of pleasure past, luxury.
- 
- Love of one singularly, with desire to be singularly beloved, the passion of love. The same, with fear that the love is not mutual, jealousy.
- 
- Desire by doing hurt to another to make him condemn some fact of his own, revengefulness.
- 
- Desire to know why, and how, curiosity; such as is in no living creature but man: so that man is distinguished, not only by his reason, but also by this singular passion from other animals; in whom the appetite of food, and other pleasures of sense, by predominance, take away the care of knowing causes; which is a lust of the mind, that by a perseverance of delight in the continual and indefatigable generation of knowledge, exceedeth the short vehemence of any carnal pleasure.
- 
- Fear of power invisible, feigned by the mind, or imagined from tales publicly allowed, religion; not allowed, superstition. And when the power 36/Thomas Hobbes imagined is truly such as we imagine, true religion.
- 
+Leviathan/35 The same feeling happens when we want to avoid pain by being brave and resisting.
 
- 
-(Simplified)
- 
+Sudden bravery can come from anger.
+
+Always hoping and trusting in ourselves is confidence.
+
+Always feeling hopeless and doubting ourselves is despair.
+
+Getting angry when someone else is hurt unfairly is indignation.
+
+Wishing good things for others is kindness, good will, or charity. If it’s for everyone, it’s called good nature.
+
+Wanting money is called greed. People usually think it’s bad because fighting over money makes them unhappy. But wanting money isn’t always wrong—it depends on how you try to get it.
+
+Wanting a job or position of power is ambition. Sometimes this is seen as bad for the same reason.
+
+Wanting things that don’t really help us much, or being scared of things that don’t really hurt us much, is being cowardly.
+
+Ignoring small problems and small helps is being big-hearted or magnanimous.
+
+Being brave when facing death or injury is courage or strength.
+
+Being generous with money is kindness.
+
+Being stingy with money is being miserable or cheap, which some people like and some don’t.
+
+Loving people because you want friends is kindness.
+
+Loving people just because they feel good to be around is lust.
+
+Loving someone because you remember past fun times with them is luxury.
+
+Loving one person deeply and wanting them to love you back is love. Worrying they don’t love you back is jealousy.
+
+Wanting to hurt someone so they admit they did something wrong is revenge.
+
+Wanting to know why things happen and how they work is curiosity. Only humans have this. Other animals just want food and pleasure and don’t care about knowing causes. This hunger to learn is a pleasure of the mind that lasts longer than any physical pleasure.
+
+Being afraid of invisible powers made up by the mind or stories is religion; if it’s not accepted by others, it’s superstition. When the power imagined is real, it’s true religion.

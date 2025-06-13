@@ -1,20 +1,18 @@
-Part 1. The Transcendental Aesthetic <B> <§ 3 Transcendental exposition of the concept of space.
- 
- I understand by a transcendental exposition the explanation of a concept as a principlea from which insight into the possibility of other synthetic priori cognitions can be gained. For this aim it is required r) a that such cognitions actually flow from the given concept, and 2) that these cognitions are only possible under the presupposition of a given way of explaining this concept.
- 
- Geometry is a science that determines the properties of space syn­ thetically and yet priori. vv'hat then must the representation of space a be for such a cognition of it to be possible? It must originally be intu841 ition; for from a mere concept no propositions can be drawn that go be­ yond the concept, which, however, happens in geometry (Introduction V). But this intuition must be encountered in us priori, i.e., prior to all a perception of an object, thus it must be pure, not empirical intuition.
- 
- For geometrical propositions are all apodictic, i.e., combined with con­ sciousness of their necessity, e.g., space has only three dimensions; but such propositions cannot be empirical or judgments of experience, nor inferred from them (Introduction II).
- 
- Now how can an outer intuition inhabit the mind that precedes the objects b themselves, and in which the concept of the latter can be de­ termined priori? Obviously not otherwise than insofar as it has its seat a merely in the subject, as its formal constitution for being affected by ob­ jectsC and thereby acquiring immediate representation, i.e., intuition, of them, thus only as the form of outer sense in general.
- 
- Thus our explanation alone makes the possibility of geometry as a synthetic priori cognition comprehensible. Any kind of explanation a that does not accomplish this, even if it appears to have some similar­ ity with it, can most surely be distinguished from it by means of this characteristic.>29 Az6/B42 Conclusions from the above concepts.
- 
- a) Space represents no property at all of any things in themselves nor any relation of them to each other, i.e., no determination of them that attaches to objects themselves and that would remain even if one were to abstract from all subjective conditions of intuition. For neither ab­ solute nor relative determinations can be intuited prior to the existence of the things to which they pertain, thus be intuited priori.
- 
- a Princips a Objecten b , Objecten 176 Section 1.
- 
+Part 1. The Transcendental Aesthetic  
+§ 3 Explanation of the idea of space.
 
- 
-(Simplified)
- 
+By "transcendental exposition," I mean explaining a concept in a way that helps us understand how we can know things that go beyond just definitions. To do this, two things are needed: 1) we must actually get new knowledge from the concept, and 2) this new knowledge can only happen if we explain the concept in a certain way.
+
+Geometry is the study that tells us about space in a way that is both based on experience and also certain without needing experience. So, what kind of idea of space do we need to make this kind of knowledge possible? It has to be a direct way of seeing or feeling space, called intuition. This is because just having a concept can’t give us new information beyond the concept itself, but geometry does that.
+
+This intuition has to be "pure," meaning it comes before we experience any objects. It’s not based on actual things we see or feel but exists in our minds beforehand.
+
+Geometrical statements are always definitely true and necessary, like "space has three dimensions." These statements can’t just come from experience or guesses based on experience.
+
+Now, how can we have this kind of intuition about space before seeing any objects? It can only happen because this intuition is built into us, as the way our mind is set up to receive information from outside things. This means space exists as the way we sense the outside world, before we even think about particular objects.
+
+This explanation shows why geometry can give us certain knowledge that goes beyond experience. Any other explanation that doesn’t do this can be easily told apart.
+
+From this, we can conclude:
+
+a) Space is not a property of things themselves or how they relate to each other. It’s not something that objects have on their own, even if we try to ignore how we perceive them. We can’t know space before the things exist, so space is not something that exists independently of us.

@@ -1,20 +1,7 @@
-Pt. II. Div. I. Bk. II. Ch. III <B> to any objecta at all. But if, on the contrary, I leave out all intuition, then A254 there still remains the form of thinking, i.e., the way of determining an object for the manifold of a possible intuition. Hence to this extent the categories extend further than sensible intuition, since they think ob­ jectsb in general without seeing to the particular manner (of sensibility) in which they might be given. But they do not thereby determine a greater sphere of objects, since one cannot assume that such objects can be given without presupposing that another kind of intuition than the sensible kind is possible, which, however, we are by no means justified in doing.
- 
- B 3 10 I call a concept problematic that contains no contradiction but that is also, as a boundary for given concepts, connected with oths;:r cognitions, the objective reality of which can in no way be cognized.[rhe concept of a noumenon, C i.e., of a thing that is not to be thought of as an ob­ � ject of the senses but rather as a thing in itsel (solely through a pure un­ derstanding), is not at all contradictory; for one cannot assert of sensibility that it is the only possible kind of intuition. Further, this con­ cept is necessary in order not to extend sensible intuition to things in themselves, and thus to limit the objective validity of sensible cognition A 2 55 (for the other things, to which sensibility does not reach, are called noumenad just in order to indicate that those cognitions cannot extend their domain to everything that the understanding thinks). In the end, however, we have no insight into the possibility of such noumena, and e the domain outside of the sphere of appearances is empty (for us), i.e., we have an understanding that extends farther than sensibility prob­ lematically, but no intuition, indeed not even the concept of a possible intuition, through which objects outside of the field of sensibility could be given, and about which the understanding could be employed as­ sertorically. The concept of a noumenonf is therefore merely a B 3 boundary concept, in order to limit the pretension of sensibility, and I I therefore only of negative use. But it is nevertheless not invented arbi­ trarily, but is rather connected with the limitation of sensibility, yet without being able to posit anything positive outside of the domain of the latter.
- 
- The division of objects into phaenomena and noumena, and of the world into a world of sense and a world of understanding, can therefore not be permitted at all <in a positive sense>,g although concepts cera Object b Objecte , Not in roman type.
- 
- Not in roman type.
- 
- d , Here Kant prints the Latin genitive Noumenorum.
- 
- f Not in roman type.
- 
- The words "in a positive sense" added in the second edition.
- 
- g 362 Phenomena and Noumena <B> tainly permit of division into sensible and intellectual ones; for one can­ not determine any object for the latter, and therefore also cannot pass them off as objectively valid.
- 
+If I don’t use any kind of experience or feeling, then what’s left is just the way we think about things, like how we decide what an object is based on possible experiences. So, these ideas go beyond just what we can sense because they think about objects in general, without focusing on how we might actually experience them. But this doesn’t mean we know more objects exist since we can’t assume there’s another kind of experience besides what we can sense, and we have no good reason to believe that.
 
- 
-(Simplified)
- 
+A tricky idea is one that doesn’t have any contradictions but still connects to other knowledge we can’t really prove is real. For example, the idea of a "noumenon" means a thing that isn’t something we can sense but something that exists by itself, understood only by pure thinking. This idea isn’t contradictory because we can’t say that sensing is the only way to experience things. Also, this idea helps us remember not to confuse what we sense with things as they really are, and it limits how far our sensible knowledge can go. Things we can’t sense are called noumena just to show that our knowledge based on senses doesn’t cover everything our mind can think about.
+
+In the end, though, we don’t really know if these noumena can exist. Outside what we can sense, the world might be empty for us. Our understanding can think beyond what we sense, but we don’t have any experience or even an idea of experience that would let us know about objects beyond what we can sense. So, the idea of a noumenon is just a kind of boundary to keep us from thinking our senses tell us everything. It’s a negative idea—it limits what we claim to know—but it isn’t made up randomly. It’s connected to the limits of what we can sense, even though we can’t say anything positive about what’s beyond those limits.
+
+Because of this, dividing objects into things we can sense (phenomena) and things we can’t (noumena), or dividing the world into a world we sense and a world we understand, isn’t really allowed in a positive way. We can’t say for sure that the world of understanding exists independently since we can’t point to any object for it, so we can’t treat it as definitely real.

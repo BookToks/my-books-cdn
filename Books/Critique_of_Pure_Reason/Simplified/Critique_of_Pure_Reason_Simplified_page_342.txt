@@ -1,14 +1,11 @@
-Systematic representation of all synthetic principles putative experience is not mere imagination must be ascertained ac­ cording to its particular determinations and through its coherence with the criteria of all actual experience.
- 
- aFinally, as far as the third postulate is concerned, it pertains to material A226 necessity in existence, not the merely formal and logical necessity in the connection of concepts.88 Now since no existenceb of objects of the senses can be cognized fully a priori, but always only comparatively a priori relative to another already given existence, but since nevertheless A227 even then we can only arrive at an existence that must be contained somewhere in the nexus of experience of which the given perception is a part, the necessity of existenced can thus never be cognized from concepts but rather always only from the connection with that which is perceived, in accordance with general laws of experience. Now there is no existence that could be cognized as necessary under the condition of other given appearances except the existence of effects from given causes in accordance with laws of causality. Thus it is not the existence of things (substances) but of their state of which alone we can cognize the necessity, and moreover only from other states, which are given in B 280 perception, in accordance with empirical laws of causality. From this it follows that the criterion of necessity lies solely in the law of possible ex­ perience that everything that happens is determined a priori through its cause in appearance. Hence we cognize only the necessity of effects in nature, the causes of which are given to us, and the mark of necessity in existence does not reach beyond the field of possible experience, and even in this it does not hold of the existence' of things, as substances, since these can never be regarded as empirical effects, or as something that happens and arises. Necessity therefore concerns only the relations of appearances in accordance with the dynamical law of causality, and A228 the possibility grounded upon it of inferring a priori from some given existence (a cause) to another existence (the effect). Everything that happens is hypothetically necessary; that is a principle that subjects alteration in the world to a law, i.e., a rule of necessary existence, without which not even nature itself would obtain. Hence the proposition "Nothing happens through a mere accident" (in mundo non datur casus)!
- 
- a The text common to the two editions resumes here.
- 
- Existenz b , Existenz Existenz d , Existenz f In the world there is no chance.
- 
- 329 Doctrine of Elements.
- 
+All ideas about how things happen must be checked carefully by real experiences, not just by imagining them. We have to make sure they fit with what we actually see and learn.
 
- 
-(Simplified)
- 
+The third rule talks about real reasons why things exist, not just how ideas connect logically. We can’t know for sure that something exists just by thinking about it; we always have to compare it to something else we already know exists. 
+
+Even then, we only understand something exists because it fits into what we experience. We don’t figure out necessity (what must happen) from ideas alone, but from how things we see connect following the rules of experience. 
+
+The only thing we can say definitely must happen is that effects come from causes, following the rule of cause and effect. It’s not that objects or things themselves must exist in a certain way, but their states or conditions must follow from other states we observe, based on these rules. 
+
+So, the idea of something being necessary comes only from the rule that everything that happens has a cause. We only know that effects in nature must happen because their causes exist. This rule doesn’t apply to things themselves as objects, since they don’t just come into existence or change like events do. 
+
+Necessity is only about how things appear and change according to cause and effect. Because of this, if we know one thing (a cause), we can predict another thing (an effect) must happen. Everything that changes in the world follows this rule, which means nothing happens by pure chance. Nature always follows these laws, so "nothing happens by accident."

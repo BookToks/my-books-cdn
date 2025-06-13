@@ -1,12 +1,7 @@
-Pt. II. Div. II. Book II subject itself, even though in this way I have no concept at all of it. This dialectical inference I will call a transcendental paralogism. The sec­ ond class of sophistical inference is applied in general to the transcen­ dental concept of absolute totality in the series of conditions for a given appearance; and from the fact that I always have a self-contradictory concept of the unconditioned synthetic unity in the series on one side, I infer the correctness of the opposite unity, even though I also have no concept of it. I will call the condition of reason with regard to these di­ alectical inferences the antinomy of pure reason. Finally, in the third kind of sophistical inference, from the totality of conditions for think­ ing objects in general insofar as they can be given to me I infer the ab­ solute synthetic unity of all conditions for the possibility of things in general; i.e., from things with which I am not acquainted as to their merely transcendental concept, I infer a being of all beings, with which I am even less acquainted through its transcendental a concept, and of whose unconditioned necessity I can make for myself no concept at all.
- 
- This dialectical syllogism I will call the ideal of pure reason.
- 
- a Reading, with the fourth edition, transcendentalen for transcendenten.
- 
- 410 Second Book of the Transcendental Dialectic First Chapter The paralogisms of pure reasona A logical paralogism consists in the falsity of a syllogism due to its form, whatever its content may otherwise be.
- 
+Part II, Division II, Book II talks about ideas even when I don’t really understand them. The first type of wrong reasoning I call a "transcendental paralogism."
 
- 
-(Simplified)
- 
+The second type of wrong reasoning deals with the idea of something being totally complete or unlimited. Because I always get a confusing idea about this, I end up believing the opposite idea is true, even though I don’t really understand that either. I call this problem the "antinomy of pure reason."
+
+The third type of wrong reasoning happens when I look at all the conditions needed to think about things and guess there must be one ultimate thing that explains everything. But I don’t really know this ultimate thing at all, and I can’t even make a clear idea about it. I call this wrong reasoning the "ideal of pure reason."
+
+A logical paralogism is when an argument is wrong because of its form, no matter what it’s about.

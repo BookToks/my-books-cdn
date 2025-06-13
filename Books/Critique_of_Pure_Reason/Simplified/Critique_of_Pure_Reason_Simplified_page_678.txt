@@ -1,12 +1,11 @@
-Thus in fact it contains no opinions at all. The hypotheses in question are, however, only problematic judgments, which at least cannot be refuted, though of course they cannot be proved by anything, and they are therefore not private opinions, though against reigning scruples they A 782 / B 810 cannot be dispensed with (even for inner tranquility). But one must preserve them in this quality, and indeed carefully make sure that they are not believed in themselves and as having an absolute validity, and that they do not drown reason in fictions and deceptions.
- 
- First Chapter Fourth Section The discipline of pure reason in regard to its proofs.
- 
- The proofs of transcendental and synthetic propositions are unique among all proofs of synthetic a priori cognition in that in their case rea­ son may not apply itself directly to the object by means of its concepts, but must first establish the objective validity of the concepts and the possibility of their synthesis a priori. This is not merely a necessary rule of caution, but concerns the essence and the possibility of the proofs themselves. It is impossible for me to go beyond the concept of an ob­ ject a priori without a special clue which is to be found outside of this concept. In mathematics it is a priori intuition that guides my synthesis, and there all inferences can be immediately drawn from a pure intuition.
- 
- In transcendental cognition, as long as it has to do merely with concepts A 783 / B 8 II of the understanding, this guideline is possible experience. The proof does not show, that is, that the given concept (e.g., of that which happens) leads directly to another concept (that of a cause), for such a transition would be a leap for which nothing could be held responsible; rather it shows that experience itself, hence the objectb of experience, would be impossible without such a connection. The proof, therefore, had to indicate at the same time the possibility of achieving synthetically and a priori a certain cognition of things which is not contained in the concept of them. Without attention to this the proofs, like water breaking its banks, run wildly across the country, wherever the tendency of hidden association may happen to lead them. The illusion of conviction, which rests on subjective causes of association and is taken for the insight of a natural affinity, cannot balance the misgiving to which steps risked in this way properly give rise. Hence all attempts to prove the principle of sufficient reason have also, according to the a Following the second edition, which reads "von"; the first has "an." b Object 665 Doctrine of Method.
- 
+So actually, it doesn’t really contain any opinions at all. The ideas we’re talking about are just guesses that can’t be proven wrong, but they also can’t be proven right either. They aren’t just personal opinions, but even though some people don’t like them, we can’t just ignore them (even if we want to feel calm inside). But we have to remember to keep these ideas only as guesses and not believe they are absolutely true. We also have to make sure they don’t confuse us or trick us.
 
- 
-(Simplified)
- 
+---
+
+**First Chapter, Fourth Section: The rules for pure reason when it comes to proofs.**
+
+Proofs about special kinds of knowledge are different from other proofs because reason can’t just look at the object using its ideas. Instead, it first has to prove that these ideas are valid and that they can be combined in a way that makes sense before experience. This isn’t just being careful; it’s necessary for the proofs to work at all. I can’t think about an object without some special hint that comes from outside the idea itself. In math, this hint is a kind of clear mental picture, and from that, all conclusions can be made easily.
+
+---
+
+When we think about knowledge that deals with concepts, we can use experience as a guide. The proof doesn’t show that one idea (like something happening) automatically leads to another idea (like a cause), because that would be a jump with no reason. Instead, it shows that experience itself wouldn’t be possible without this connection. So, the proof has to show that it’s possible to understand something new about things even before experience, based on how ideas fit together. If we don’t pay attention to this, the proofs can go off track, like water flooding a field wherever it wants. Just feeling convinced because of personal connections between ideas isn’t enough to make us sure. That’s why all attempts to prove certain principles have failed.

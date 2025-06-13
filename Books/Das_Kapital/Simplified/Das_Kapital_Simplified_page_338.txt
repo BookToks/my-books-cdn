@@ -1,76 +1,21 @@
-338 Chapter 15 91 “Reports, &c., for 31st October, 1858,” pp. 9-10. Compare “Reports, &c., for 30th April, 1860,” p.
- 
- 30, sqq.
- 
- 92 “Reports of lnsp. of Fact. for 31st Oct., 1862,” pp. 100 and 130.
- 
- 93 On 2 modern power-looms a weaver now makes in a week of 60 hours 26 pieces of certain quality, length, and breadth; while on the old power-looms he could make no more than 4 such pieces. The cost of weaving a piece of such cloth had already soon after 1850 fallen from 2s. 9d. to 5 1/8d.
- 
- “Thirty years ago (1841) one spinner with three placers was not required to attend to more than one pair of mules with 300-324 spindles. At the present time (1871) he has to mind with the help of 5 piecers 2,200 spindles, and produces not less than seven times as much yarn as in 1841.” (Alex.
- 
- Redgrave, Factory Inspector – in the Journal of Arts, 5th January, 1872.) 94 “Rep. of Insp. of Fact. for 31st Oct., 1861,” pp. 25, 26.
- 
- 95 The agitation for a working day of 8 hours has now (1867) begun in Lancashire among the factory operatives.
- 
- 96 The following few figures indicate the increase in the “factories” of the United Kingdom since 1848: Quantity Exported.
- 
- 1848.Quantity Exported.
- 
- 1851.Quantity Exported.
- 
- 1860.Quantity Exported.
- 
- 1865.COTTONCotton yarnlbs.
- 
- 135,831,162lbs.
- 
- 143,966,106lbs.
- 
- 197,343,655lbs.
- 
- 103,751,455Sewing thread—lbs.
- 
- 4,392,176lbs.
- 
- 6,297,554lbs.
- 
- 4,648,611Cotton clothyds.
- 
- 1,091,373,930yds.
- 
- 1,543,161,789yds.
- 
- 2,776,218,427yds.
- 
- 2,015,237,851FLAX & HEMPYarnlbs.
- 
- 11,722,182lbs.
- 
- 18,841,326lbs.
- 
- 31,210,612lbs.
- 
- 36,777,334Clothyds.
- 
- 88,901,519yds.
- 
- 129,106,753yds.
- 
- 143,996,773yds.
- 
- 247,012.529SILKYarnlbs.
- 
- 466,825lbs.
- 
- 462,513lbs.
- 
- 897,402lbs.
- 
- 812,589Cloth—yds.
- 
- 1,181,455yds.
- 
+On two modern power-looms, a weaver can now make 26 pieces of cloth in a 60-hour week. Before, on the old power-looms, they could only make 4 pieces. The cost to weave one piece of cloth dropped a lot after 1850, going from 2 shillings and 9 pence to just over 5 pence.
 
- 
-(Simplified)
- 
+Thirty years ago, in 1841, one spinner with three helpers only needed to watch over one machine with 300-324 spindles. But by 1871, with five helpers, the spinner had to take care of 2,200 spindles. They were making at least seven times more yarn than in 1841.
+
+In 1867, workers in Lancashire started asking for an 8-hour workday.
+
+The numbers below show how much factories in the UK increased their exports from 1848 to 1865:
+
+Cotton yarn exports went from about 136 million pounds in 1848 to almost 197 million pounds in 1860, then dropped to around 104 million pounds in 1865.
+
+Sewing thread exports were about 4.4 million pounds in 1848, rose to 6.3 million in 1851, and then dropped to 4.6 million in 1860.
+
+Cotton cloth exports grew a lot, from just over 1 billion yards in 1848 to nearly 2.8 billion yards in 1860, then dropped to about 2 billion yards in 1865.
+
+Flax and hemp yarn exports increased from about 11.7 million pounds in 1848 to almost 31.2 million pounds in 1860, and then to nearly 36.8 million pounds in 1865.
+
+Flax and hemp cloth exports also grew from about 89 million yards in 1848 to about 144 million yards in 1860, and then jumped to over 247 million yards in 1865.
+
+Silk yarn exports were around 467,000 pounds in 1848, stayed about the same in 1851, then almost doubled to 897,000 pounds in 1860, but dropped to about 813,000 pounds in 1865.
+
+Silk cloth exports were about 1.2 million yards.

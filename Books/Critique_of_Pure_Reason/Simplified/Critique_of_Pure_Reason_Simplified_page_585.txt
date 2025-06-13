@@ -1,16 +1,9 @@
-Pt. II. Div. II. Bk. II. Ch. III them before one's eyes in a scholastically correct way. Here is such a presentation.
- 
- If the proposition is correct: "Every absolutely necessary being is at the same time the most real being" (which is the nervus probandill of the cosmological proof), then like any affirmative judgment, it must be convertible per accidens, thus: "Some most real beings are at the same time absolutely necessary beings." But now one ens realissimum does not differ the least bit from another, and thus what holds of some beings contained under this concept holds also of all. Hence I will also be able (in this case) to convert the propositionb absolutely, i.e., "Every most real being is a necessary being." Now because this proposition is deter­ mined merely from its concepts a priori, the mere concept of the most real being must also carry with it the absolute necessity of this being -which is just what the ontological proof asserts and the cosmo­ logical proof does not want to recognize, despite the fact that it underA609/B637 lies its inferences, though in a covert way.
- 
- Thus the second way that speculative reason takes in order to prove the existence of the highest being is not only deceptive like the first, but it even has this further blamable feature in it, that it commits an igno­ ratio elenchi, promising to put us on a new footpath, but after a little di­ c gression bringing us once again back to the old one, which for its sake we had left behind.
- 
- A short time agoI05 I said that in this cosmological argument an en­ tire nest of dialectical presumptions is hidden, which transcendental criticism can easily discover and destroy. I will now only cite them, leav­ ing it to the reader to investigate further their deceptive principles and remove them.
- 
- There is, for example: I) The transcendental principle of inferring from the contingent to a cause, which has significance only in the world of sense, but which outside it does not even have a sense. For the merely intellectual concept of the contingent cannot produce any synthetic proposition, such as that of causality, and the principle of causality has no significance at all and no mark of its use except in the world of sense; here, however, it is supposed to serve precisely to get beyond the world A6IOiB638 of sense. 2) The inference from the impossibility ofa n infinite series of causes given one upon another to a first cause, which the principlesd of the use of reason itself cannot justify our inferring within experience, still less our extending this principle to somewhere beyond it (into which the causal chain cannot be extended at all). 3) The false selfa nerve of what is to be proved b ich's added in the second edition.
- 
- , refutation by ignorance Principien d 572 Section V.
- 
+If the statement is true: "Every being that must exist is also the most real being" (which is the main point in the cosmological proof), then like any true statement, it should also work the other way around, at least partly. So, "Some of the most real beings must also exist."
 
- 
-(Simplified)
- 
+Now, because one most real being is exactly the same as another, what is true for some must be true for all. This means I can say, "Every most real being must exist." Since this comes just from thinking about the ideas, the idea of the most real being must include that it has to exist. This is what the ontological proof says, but the cosmological proof doesn’t want to admit it, even though it secretly depends on it.
+
+So, the second way of trying to prove the highest being exists isn’t just tricky like the first way. It also tricks us by pretending to offer a new path but then just brings us back to the old one we tried to leave.
+
+Earlier, I said the cosmological argument hides many tricky ideas that careful thinking can find and break apart. I’ll just list a few here, and you can explore them more on your own.
+
+First: It assumes that because something is temporary, there must be a cause, but this idea only makes sense in the physical world. Outside of that, it doesn’t really work. Second: It assumes there can’t be an infinite chain of causes, so there must be a first cause. But this idea can’t be proven by experience, especially when talking about things beyond what we can see. Third: It assumes the thing it’s trying to prove, which is not allowed.

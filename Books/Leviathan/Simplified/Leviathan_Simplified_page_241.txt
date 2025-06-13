@@ -1,14 +1,15 @@
-For, whosoever hath a lawful power over any writing, to make it law, hath the power also to approve or disapprove the interpretation of the same.
- 
- XXXIV: Of the Signification of Spirit, Angel, and Inspiration in the Books of Holy Scripture Seeing the foundation of all true ratiocination is the constant signification of words; which, in the doctrine following, dependeth not (as in natural science) on the will of the writer, nor (as in common conversation) on vulgar use, but on the sense they carry in the Scripture; it is necessary, before I proceed any further, to determine, out of the Bible, the meaning of such words as by their ambiguity may render what I am to infer upon them obscure or disputable. I will begin with the words body and spirit, which in the language of the Schools are termed substances, corporeal and incorporeal.
- 
- The word body, in the most general acceptation, signifieth that which filleth or occupieth some certain room or imagined place; and dependeth not on the imagination, but is a real part of that we call the universe. For the universe, being the aggregate of all bodies, there is no real part thereof that is not also body; nor anything properly a body that is not also part of that aggregate of all bodies, the universe. The same also, because bodies are subject to change, that is to say, to variety of appearance to the sense of living creatures, is called substance, that is to say, subject to various accidents: as sometimes to be moved, sometimes to stand still; and to seem to our senses sometimes hot, sometimes cold; sometimes of one colour, smell, taste, or sound, sometimes of another.
- 
- And this diversity of seeming, produced by the diversity of the operation of bodies on the organs of our sense, we attribute to alterations of the bodies that operate, and call them accidents of those bodies. And according to this acceptation of the word, substance and body signify the same thing; and therefore substance incorporeal are words which, when they are joined together, destroy one another, as if a man should say, an incorporeal body.
- 
- But in the sense of common people, not all the universe is called body, but only such parts thereof as they can discern, by the sense of feeling, to resist their force; or, by the sense of their eyes, to hinder them from a farther prospect. Therefore in the common language of men, air and aerial substances use not to be taken for bodies, but, as often as men 242/Thomas Hobbes are sensible of their effects, are called wind, or breath, or (because the same are called in the Latin spiritus) spirits; as when they call that aerial substance which in the body of any living creature gives it life and motion, vital and animal spirits.
- 
+If someone has the legal right to control a writing and make it a law, they also have the right to agree or disagree with how that writing is understood.
 
- 
-(Simplified)
- 
+XXXIV: About the Meaning of Spirit, Angel, and Inspiration in the Holy Scriptures
+
+Since the basis of all true thinking depends on the steady meaning of words, and in what I will explain next, these meanings don’t depend on what the writer wants or on how people usually talk, but on what the words mean in the Bible, it’s important to first figure out the meaning of certain words. These words can be confusing or unclear, so I want to make sure what they mean before I explain more.
+
+I will start with the words body and spirit, which in school language are called substances—either physical (body) or non-physical (spirit).
+
+The word body usually means something that takes up real space, not just something imagined. It is a real part of the universe, because the universe is made up of all bodies. There is no real part of the universe that isn’t a body, and nothing is a body if it’s not part of the universe.
+
+Also, because bodies can change—they can look different to living creatures at different times—they are called substances. For example, a body can move or stay still, feel hot or cold, or have different colors, smells, tastes, or sounds at different times.
+
+These changes we notice come from the way bodies affect our senses, and we call these changes “accidents” of the bodies. So, body and substance mean the same thing. Because of this, the phrase “incorporeal substance” doesn’t make sense, like saying “a body without a body.”
+
+But regular people don’t call everything in the universe a body. They only call parts bodies if they can feel them or see that they block their view. So, air and things like air are usually not called bodies. Instead, when people notice their effects, they call them wind, breath, or spirits (because the Latin word spiritus means breath). For example, the air inside a living creature that gives it life and movement is called vital or animal spirits.

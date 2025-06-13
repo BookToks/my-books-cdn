@@ -1,14 +1,21 @@
-118 The “Public Health Report,” where in dealing with the subject of children’s mortality, the gangsystem is treated in passing, remains unknown to the press, and, therefore, to the English public. On the other hand, the last report of the “Child. Empl. Comm.” afforded the press sensational copy always welcome. Whilst the Liberal press asked how the fine gentlemen and ladies, and the well-paid clergy of the State Church, with whom Lincolnshire swarms, could allow such a system to arise on their estates, under their very eyes, they who send out expressly missions to the Antipodes, “for the improvement of the morals of South Sea Islanders” — the more refined press confined itself to reflections on the coarse degradation of the agricultural population who are capable of selling their children into such slavery! Under the accursed conditions to which these “delicate” people condemn the agricultural labourer, it would not be surprising if he ate his own children. What is really wonderful is the healthy integrity of character, he has, in great part, retained. The official reports prove that the parents, even in the gang districts, loathe the gang-system. “There is much in the evidence that shows that the parents of the children would, in many instances, be glad to be aided by the requirements of a legal obligation, to resist the pressure and the temptations to which they are often subject. They are liable to be urged, at times by the parish officers, at times by employers, under threats of being themselves discharged, to be taken to work at an age when ... school attendance ...
- 
- would be manifestly to their greater advantage.... All that time and strength wasted; all the suffering from extra and unprofitable fatigue produced to the labourer and to his children; every instance in which the parent may have traced the moral ruin of his child to the undermining of delicacy by the over-crowding of cottages, or to the contaminating influences of the public gang, must have been so many incentives to feelings in the minds of the labouring poor which can be well understood, and which it would be needless to particularise. They must be conscious that much bodily and mental pain has thus been inflicted upon them from causes for which they were in no way answerable; to which, had it been in their power, they would have in no way consented; and against which they were powerless to struggle.” (l. c., p. xx., § 82, and xxiii., n. 96.) 119 Population of Ireland, 1801, 5,319,867 persons; 1811, 6,084,996; 1821, 6,869,544; 1831, 7,828,347; 1841, 8,222,664.
- 
- 120 The result would be found yet more unfavourable if we went further back. Thus: Sheep in 1865, 3,688,742, but in 1856, 3,694,294. Pigs in 1865, 1,299,893, but in 1858, 1,409,883 121 The data of the text are put together from the materials of the “Agricultural Statistics, Ireland, General Abstracts, Dublin,” for the years 1860, et seq., and “Agricultural Statistics, Ireland. Tables showing the estimated average produce, &c., Dublin, 1866.” These statistics are official, and laid before Parliament annually.
- 
- Note to 2nd edition. The official statistics for the year 1872 show, as compared with 1871, a decrease in area under cultivation of 134,915 acres. An increase occurred in the cultivation of green crops, turnips, mangold-wurzel, and the like; a decrease in the area under cultivation for wheat of 16,000 acres; oats, 14,000; barley and rye, 4,000; potatoes, 66,632; flax, 34,667; grass, clover, vetches, rapeseed, 30,000. The soil under cultivation for wheat shows for the last 5 years the following stages of decrease: — 1868, 285,000 acres; 1869, 280,000; 1870, 259,000; 1871, 244,000; 1872, 228,000. For 1872 we find, in round numbers, an increase of 2,600 horses, 80,000 horned cattle, 68,609 sheep, and a decrease of 236,000 pigs.
- 
- 122 The total yearly income under Schedule D. is different in this table from that which appears in the preceding ones, because of certain deductions allowed by law.
- 
+The “Public Health Report” talks briefly about children dying and the gang system but hasn’t been shared much with newspapers or the public in England. However, the latest report from the “Child Employment Committee” got a lot of attention in the news. 
 
- 
-(Simplified)
- 
+The Liberal newspapers wondered how rich and important people, including church leaders in Lincolnshire, could let such a bad system happen on their land, especially since they send people to faraway places to teach about good behavior. The more polite newspapers just commented on how sad it is that poor farm workers would sell their children into such slavery.
+
+The terrible conditions these “fancy” people force on farm workers are so bad that it wouldn’t be shocking if a parent even harmed their own child. What’s really surprising is that many farm workers still have strong morals despite all this. Official reports show that parents in gang areas hate the gang system.
+
+The reports say parents often wish they had laws to help them say no to pressure from parish officers or bosses who threaten to fire them if their children don’t work, even when going to school would be better. All the wasted time, energy, and suffering from hard work hurts both workers and their kids. Parents see how overcrowded homes and the bad influence of gangs ruin their children’s morals. These things make the poor families feel upset and helpless.
+
+They know a lot of pain has been caused by problems they didn’t create and couldn’t stop. If it were up to them, they wouldn’t agree to it, but they have no power to fight back.
+
+In Ireland, the population grew from about 5.3 million in 1801 to over 8.2 million in 1841.
+
+If we look back further, sheep numbers in 1865 were about 3.7 million, slightly less than in 1856, and pigs in 1865 were about 1.3 million, down from 1.4 million in 1858.
+
+The data comes from official Irish agricultural statistics shared with Parliament every year.
+
+In 1872, compared to 1871, the land used for farming dropped by about 135,000 acres. There was more land for crops like turnips and mangold-wurzel, but less for wheat, oats, barley, rye, potatoes, flax, and some grasses.
+
+The area growing wheat kept getting smaller from 1868 to 1872, dropping from 285,000 acres to 228,000 acres. In 1872, there were about 2,600 more horses, 80,000 more cattle, nearly 69,000 more sheep, but 236,000 fewer pigs.
+
+The total yearly income shown in one table is different from others because of legal deductions.

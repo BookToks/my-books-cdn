@@ -1,14 +1,13 @@
-Leviathan/21 The manner how speech serveth to the remembrance of the consequence of causes and effects consisteth in the imposing of names, and the connexion of them.
- 
- Of names, some are proper, and singular to one only thing; as Peter, John, this man, this tree: and some are common to many things; as man, horse, tree; every of which, though but one name, is nevertheless the name of diverse particular things; in respect of all which together, it is called a universal, there being nothing in the world universal but names; for the things named are every one of them individual and singular.
- 
- One universal name is imposed on many things for their similitude in some quality, or other accident: and whereas a proper name bringeth to mind one thing only, universals recall any one of those many.
- 
- And of names universal, some are of more and some of less extent, the larger comprehending the less large; and some again of equal extent, comprehending each other reciprocally. As for example, the name body is of larger signification than the word man, and comprehendeth it; and the names man and rational are of equal extent, comprehending mutually one another. But here we must take notice that by a name is not always understood, as in grammar, one only word, but sometimes by circumlocution many words together. For all these words, He that in his actions observeth the laws of his country, make but one name, equivalent to this one word, just.
- 
- By this imposition of names, some of larger, some of stricter signification, we turn the reckoning of the consequences of things imagined in the mind into a reckoning of the consequences of appellations. For example, a man that hath no use of speech at all, (such as is born and remains perfectly deaf and dumb), if he set before his eyes a triangle, and by it two right angles (such as are the corners of a square figure), he may by meditation compare and find that the three angles of that triangle are equal to those two right angles that stand by it. But if another triangle be shown him different in shape from the former, he cannot know without a new labour whether the three angles of that also be equal to the same. But he that hath the use of words, when he observes that such equality was consequent, not to the length of the sides, nor to any other particular thing in his triangle; but only to this, that the sides were straight, and the angles three, and that that was all, for which he named it a triangle; will boldly conclude universally that such equality of angles is in all triangles whatsoever, and register his invention in these general terms: Every triangle hath its three angles equal to two 22/Thomas Hobbes right angles.
- 
+Leviathan/21 Speech helps us remember how causes and effects are connected by giving names and linking them together.
 
- 
-my name is sandeep gautam
- 
+Some names are special and only belong to one thing, like Peter, John, this man, or this tree. Other names are general and can be used for many things, like man, horse, or tree. Even though these general names are just one word, they can refer to many different things. These general names are called universals because only names can be universal, while things themselves are always individual and unique.
+
+One universal name is given to many things because they share some quality or feature. A proper name points to just one thing, but a universal name can mean any one of many things.
+
+Among universal names, some cover more things than others, and some cover the same number of things. For example, the name "body" covers more than "man" because all men are bodies, but not all bodies are men. The names "man" and "rational" cover the same group because they refer to the same set of things. Also, a name isn’t always just one word. Sometimes, many words together act as one name. For example, the phrase "He that in his actions observeth the laws of his country" means the same as the single word "just."
+
+By giving names that are more general or more specific, we can turn thinking about how things cause other things into thinking about how names relate to each other. For example, if someone can’t speak at all, like a person who is born deaf and mute, and they see a triangle with two right angles next to it (like the corners of a square), they might figure out that the three angles of that triangle equal those two right angles. But if they see a different triangle, they won’t know if its three angles are also equal to two right angles without more work.
+
+But someone who knows words will understand that this equality doesn’t depend on the length of the sides or any other detail, just on the fact that the shape has three straight sides and three angles, which is why it’s called a triangle. So, they can confidently say that every triangle’s three angles equal two right angles, and write down this idea using general words.  
+
+My name is Sandeep Gautam.

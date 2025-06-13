@@ -1,16 +1,13 @@
-In the Critique of Pure Reason, Kant was to call the set of such paradoxes, to be resolved by the distinction between phenomena and noumena, the antinomies of pure reason.
- 
- However, there is also a crucial difference between Kant's treatment of the antinomies in 1770 and his eventual treatment of them in 178 I.
- 
- This is connected with an equally fundamental difference in Kant's conception of the relation between the two basic mental capacities of intuition and conceptualization in the inaugural dissertation and the Critique. In the dissertation, Kant supposes that the intellect alone re­ veals the true nature of reality, and that the antinomies are to be re­ solved by preventing any limits inherent in the laws of sensibility from being misconstrued as limits on purely intellectual knowledge of real­ ity. But he has in fact no adequate account of the role of concepts in knowledge of ordinary objects in space and time, and once he real­ izes -as he will after 1772 -that concepts of the understanding must be used in conjunction with the intuitions or data supplied by sens­ ibility to account for the possibility of such knowledge, not indepen­ dently, then he will also have to revise his account of the antinomies.
- 
- He will have to revise his resolution of them by arguing that there can be no knowledge of any spatiotemporal reality at all beyond the limits of sensibility, although in cases where concepts of the understanding can be used to formulate coherent conceptions of non-spatiotemporal entities, above all God, there may be coherent belief, even if not any knowledge.
- 
- In sum, in the inaugural dissertation Kant introduces his fundamen­ tal distinction between intuitions and concepts, and uses that distinc­ tion for a resolution of the antinomies, but does not yet realize that knowledge can arise only from the conjoint use of intuitions and con­ cepts to yield a unified experience. Once he comes to that realization, he will have to transform his resolution of the antinomies, surrendering the view that sensibility gives us knowledge of appearances and the in­ tellect metaphysical knowledge of things as they are in themselves.
- 
- Only then will the way be open for Kant's fully mature position that the 37 Introduction limits of knowledge leave room for certain beliefs that cannot become knowledge but that can be justified on practical grounds.
- 
+In the book Critique of Pure Reason, Kant talks about a group of tricky problems called the antinomies of pure reason. These problems are about understanding the difference between things as we see them (phenomena) and things as they really are (noumena).
 
- 
-(Simplified)
- 
+But Kant changed how he dealt with these problems between 1770 and 1781.
+
+This change is linked to how he thought about two mental abilities: intuition (how we directly experience things) and conceptualization (how we think about things). At first, Kant believed that only the intellect could show us the true nature of reality. He thought the antinomies could be solved by not confusing the limits of our senses with limits on what the mind can know. However, he didn’t fully understand how concepts help us know everyday things in space and time.
+
+After 1772, he realized that concepts and sensory experiences work together to help us understand the world. Because of this, he had to change how he explained the antinomies.
+
+He started saying that we can’t know anything about reality beyond what we can sense in space and time. But when it comes to ideas like God, which go beyond space and time, we can believe in them, even if we can’t truly know them.
+
+In short, Kant first made a basic difference between intuition and concepts and used that to solve the antinomies. But he didn’t yet see that knowledge comes from using both together. When he realized this, he had to change his solution, giving up the idea that our senses give us knowledge of appearances and the mind gives us knowledge of things as they really are.
+
+Only after this could Kant develop his full idea that the limits of knowledge leave room for some beliefs that we can’t know for sure but can still be reasonable to hold.

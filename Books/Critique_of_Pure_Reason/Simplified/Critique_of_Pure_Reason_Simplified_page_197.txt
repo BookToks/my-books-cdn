@@ -1,14 +1,11 @@
-Part 1. The Transcendental Aesthetic <B> For if they decide in favor of the first (which is generally the position of the mathematical investigators of nature), 33 then they must assume two eternal and infinite self-subsisting non-entities (space and time), which exist (yet without there being anything real) only in order to comprehend everything real within themselves. If they adopt the secA40 ond position (as do some metaphysicians of nature), and hold space and time to be relations of appearances (next to or successive to one B 57 another) that are abstracted from experience though confusedly repre­ sented in this abstraction, then they must dispute the validity or at least the apodictic certainty of priori mathematical doctrines in regard to a real things (e.g., in space), since this certainty does not occur a posteri­ ori, and on this view the a priori concepts of space and time are only creatures of the imagination, the origin of which must really be sought in experience, out of whose abstracted relations imagination has made something that, to be sure, contains what is general in them but that cannot occur without the restrictions that nature has attached to them.34 The first succeed in opening the field of appearances for math­ ematical assertions.a However, they themselves become very confused through precisely these conditions if the understanding would go be­ yond this field. The second succeed, to be sure, with respect to the lat­ ter, in that the representations of space and time do not stand in their way if they would judge of objects not as appearances but merely in re­ lation to the understanding; but they can neither offer any ground for the possibility of a priori mathematical cognitions (since they lack a true and objectively valid a priori intuition), nor can they bring the A41 propositions of experience into necessary accord with those assertions.
- 
- B 58 On our theory of the true constitution of these two original forms of sensibility both difficulties are remedied.
- 
- Finally, that the transcendental aesthetic cannot contain more than these two elements, namely space and time, is clear from the fact that all other concepts belonging to sensibility, even that of motion, which unites both elements, presuppose something empirical. For this pre­ supposes the perception of something movable. In space considered in itself there is nothing movable; hence the movable must be something that is found in space only through experience, thus an empirical datum. In the same way the transcendental aesthetic cannot count the concept of alteration among its a priori data; for time itself does not alter, but only something that is within time. For this there is required the perception of some existence and the succession of its determina­ tions, thus experience.
- 
- a A colon in the first edition is replaced with a period in the second.
- 
- 184 <B> Section II.
- 
+Part 1. The Transcendental Aesthetic
 
- 
-(Simplified)
- 
+If people choose the first idea (which most math scientists do), they have to believe in two things that last forever and exist on their own—space and time. These things exist even if nothing real is inside them, just so we can understand everything real inside space and time.
+
+If they pick the second idea (which some nature philosophers do), they think space and time are just ways we notice things happening one after another. These ideas come from experience but are a bit mixed up when we think about them on their own. This means they have to question if math rules that don’t depend on experience are really true about real things, like objects in space. Because on this view, space and time are just made-up ideas from experience, and they only work with the limits nature gives them.
+
+The first idea lets us use math to talk about what we see. But if we try to understand more than what we see, it gets confusing. The second idea works better if we only think about objects in our mind, not what we see. But it can’t explain how math can work without experience, and it can’t fully connect what we experience with math rules.
+
+Our own idea about how space and time really work fixes these problems.
+
+Also, the transcendental aesthetic (which studies how we sense things) can only include space and time. Other ideas, like motion, need something we experience first. For example, motion needs us to see something moving. Space by itself doesn’t move, so motion must come from experience. The same goes for change; time itself doesn’t change, only things inside time do. And to notice change, we need to experience things happening over time.

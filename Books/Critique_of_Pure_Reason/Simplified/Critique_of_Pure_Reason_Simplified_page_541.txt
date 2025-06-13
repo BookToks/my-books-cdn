@@ -1,18 +1,9 @@
-Pt. II. Div. II. Bk. II. Ch. II 5 23/ B 551 the world is given only through the regress, and not given prior to it in A a collective intuition. But the regress consists only in a determining of the magnitude, and thus it does not give a determinate concept, a con­ cept of a magnitude that would be infinite in regard to a certain mea­ sure; thus it does not go to infinity (given, as it were), but goes only indeterminately far, so as to give a magnitude (of experience) that first becomes actual through this regress.
- 
- II.
- 
- Resolution of the cosmological idea of the totality of division of a given whole in intuition.
- 
- If I divide a whole that is given in intuition, then I go from a condi­ tioned to the conditions of its possibility. The division of the parts (sub­ divisio or decompositio) is a regress in the series of these conditions. The absolute totality of this series would be given only when and if the regress could attain to simple parts. But if each of the parts in a con­ tinuously progressing decomposition is once again divisible, then the division, i.e., the regress from the conditioned to its condition, goes in infinitum;U for the conditions (the parts) are contained in the condiA 5 24/ B 552 tioned itself, and since this conditioned is given as a whole in an intu­ ition enclosed within its boundaries, the conditions are all given along with it. The regress thus may not be called merely a regress in indefini­ tum, as only the previous cosmological idea allowed, where I was to proceed from the conditioned to conditions outside it, which were not given simultaneously with it, but were first added to it in the empirical regress. Despite this, it is by no means permitted to say of such a whole, which is divisible to infinity, that it consists of infinitely many parts.
- 
- For though all the parts are contained in the intuition of the whole, the whole division is not contained in it; this division consists only in the progressive decomposition, or in the regress itself, which first makes the series actual. Now since this regress is infinite, all its mem­ bers (parts) to which it has attained are of course contained in the whole as an aggregate, but the whole series of the division is not, since it is infinite successively and never is as a whole; consequently, the re­ gress cannot exhibit any infinite multiplicityb or the taking together of this multiplicity into one whole.
- 
- This general reminder is, first, very easily applied to space. Every space intuited within its boundaries is such a whole, whose parts in every de­ composition are in turn spaces, and it is therefore divisible to infinity.
- 
- P to infinity Menge b 528 Section IX.
- 
+The world is only understood by going backward step by step, not by seeing it all at once in some big picture. But going backward just measures how big something is, and it doesn’t give a clear idea of something that is infinitely big. So, it doesn’t actually reach infinity, it just goes on without a clear end, creating a size that becomes real through this process.
 
- 
-(Simplified)
- 
+If I split something whole that I can see or imagine, I start moving from something that depends on other things to the things it depends on. Breaking it into parts is like going backward through these causes. You would only get the complete list of parts if you could finally reach simple, basic pieces. But if every part can still be split into smaller parts, this breaking down goes on forever.
+
+These parts are all inside the whole thing I started with, and since the whole thing is shown clearly within its limits, all the parts are included too. So, this backward breaking down isn’t just endless in a random way, like some old ideas said, where you go from the whole to parts outside it, which you add later by looking around. But you still can’t say that a thing that can be split forever is made of infinitely many parts.
+
+Even though all the parts are in the whole, the whole dividing process is not. The division is just the ongoing breaking down, which makes the series of parts real. Since this process never ends, all the parts found so far are in the whole together, but the entire infinite series of parts is not in the whole at once because it never finishes. So, you can’t show an infinite number of parts all together as one complete thing.
+
+This idea is easy to see with space. Any space you can imagine inside its limits is a whole that can always be split into smaller spaces, so it can be divided forever.

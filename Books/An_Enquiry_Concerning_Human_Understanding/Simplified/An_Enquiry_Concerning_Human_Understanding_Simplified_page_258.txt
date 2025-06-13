@@ -1,34 +1,33 @@
-194 Notes to Pages 44–56 SECTION VII 7.0 Of the IDEA. . . CONNEXION: in the first two editions of the Enquiry (1748and1750), the title of Section VII was ‘Of theIdeaof Poweror necessaryConnexion’. Throughout the section, Hume treats ‘power’ and ‘connexion’ as virtual synonyms, as he had done also in the corresponding section of the Treatise, where he explains that ‘the terms of efficacy,agency,power,force,energy,necessity,connexion, and productive quality, are all nearly synonimous’ (T1.3.14.4).
- 
- 7.2 EUCLID: see explanatory note to 4.1.
- 
- 7.2 chimera and conceit: both terms refer to something imagined and fanciful (in Greek mythology, a chimera is a monster with a lion’s head, a goat’s body, and a snake’s tail).
- 
- 7.4 all our ideas. . . impressions: Hume refers back to his Copy Principle of Section II: see explanatory notes to 2.5and2.9.
- 
- 7.5 let us search . . . derived: for a description of Hume’s extended argument in this section, see §13of the Introduction, above.
- 
- 7.6 outward . . . inward impression: Hume follows Locke (see p. xvii of the Introduction) in distinguishing between sensation (i.e. outward senses such as sight and touch) and reflection(i.e. inward sense—awareness of our own feelings).
- 
- 7.8 n. 12 Mr. LOCKE: see Glossarial Index; the reference is to Locke’s Essay, II. xxi.
- 
- 7.8 n. 12 simple idea: Hume makes the assumption that the idea whose impression he seeks is simple (as apparent also at 7.4). This may be because he is focusing not on any very specific idea, but on the general notion of one thing following from another—the basic idea of connexion (see Introduction, p. xlii n. 24).
- 
- 7.13 palsy: paralysis.
- 
- 7.14 animal spirits: a supposed fluid providing the medium of communication within the nervous system.
- 
- 7.21 n. 14 : Greek phrase equivalent to the more familiar Latindeus ex machina, meaning ‘god out of a machine’. It refers to the practice used by some classical playwrights, of resolving a plot (often rather implausibly) through the intervention of a god, lowered onto the stage by a mechanism.
- 
- 7.21 many philosophers: Hume refers to Malebranche and other occasionalists.
- 
- See Glossarial Index and §6 of the Introduction.
- 
- 7.28 this . . . necessary connexion: for a discussion of this important but somewhat puzzling claim, see p. xliv of the Introduction.
- 
- 7.29 we may define a cause:on Hume’s famous two definitions, see pp. xlv–xlvi of the Introduction. In ‘defining’ a cause, Hume is acknowledgingthat the notion is a legitimateone, despite any impression to thecontrary that his arguments might have given. Treatise 1.4.5.32 provides perhaps the Notes to Pages 58–63 195 most explicit statement of this: ‘all objects, which are found to be constantly conjoin’d, are upon that account only to be regarded as causes and effects’.
- 
+194 Notes to Pages 44–56 SECTION VII
 
- 
-(Simplified)
- 
+7.0 Of the IDEA... CONNEXION: In the first two versions of the Enquiry (1748 and 1750), Section VII was called ‘Of the Idea of Power or Necessary Connexion’. In this section, Hume treats ‘power’ and ‘connexion’ as almost the same thing. He did this before in the Treatise, where he said words like power, force, energy, necessity, connexion, and productive quality all mean almost the same.
+
+7.2 EUCLID: See the note for 4.1.
+
+7.2 chimera and conceit: Both words mean something made-up or imaginary. In Greek myths, a chimera is a monster with a lion’s head, a goat’s body, and a snake’s tail.
+
+7.4 all our ideas... impressions: Hume is talking about his Copy Principle from Section II. See notes for 2.5 and 2.9.
+
+7.5 let us search... derived: For a full explanation of Hume’s argument here, see §13 of the Introduction above.
+
+7.6 outward... inward impression: Hume follows Locke (see Introduction p. xvii) by separating sensation (outside senses like sight and touch) from reflection (inside sense—knowing our own feelings).
+
+7.8 n. 12 Mr. LOCKE: See Glossary; this refers to Locke’s Essay, II. xxi.
+
+7.8 n. 12 simple idea: Hume assumes the idea he looks for is simple (also at 7.4). This is probably because he focuses not on a very detailed idea, but on the general idea of one thing following another—the basic idea of connexion (see Introduction, p. xlii n. 24).
+
+7.13 palsy: paralysis.
+
+7.14 animal spirits: A supposed fluid that carries signals inside the nervous system.
+
+7.21 n. 14: A Greek phrase like the more common Latin deus ex machina, meaning ‘god out of a machine’. It refers to old plays where a god would suddenly appear on stage to solve a problem in the story, often in a way that didn’t make much sense.
+
+7.21 many philosophers: Hume talks about Malebranche and other occasionalists.
+
+See Glossary and §6 of the Introduction.
+
+7.28 this... necessary connexion: For a discussion about this tricky but important idea, see p. xliv of the Introduction.
+
+7.29 we may define a cause: About Hume’s two famous definitions, see pp. xlv–xlvi of the Introduction. When Hume ‘defines’ a cause, he accepts that the idea is real, even if his earlier arguments made it seem unsure. In Treatise 1.4.5.32, he says clearly: ‘all objects which are always found together are the only ones to be seen as causes and effects’.
+
+Notes to Pages 58–63 195

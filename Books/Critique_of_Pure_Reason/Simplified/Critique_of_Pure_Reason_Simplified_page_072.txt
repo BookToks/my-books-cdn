@@ -1,22 +1,15 @@
-Perhaps this last point was only a momentary lapse, however, for in the next preserved note Kant says that "The transcendent principles are principles of the subjective unity of cognition through reason, i.e. of the agreement of reason with itself"; "Objective principles are principles of a possible empirical use."142 This suggests that whatever exactly the use of the transcendent principles of pure reason is, it is not to obtain any knowledge of external objects, which can only be achieved through the empirical use of the concepts of understanding, their application to rep­ resentations in space and time for the exposition of appearances. Kant continues with this thought in the following note, where he lays out four conflicts between "principles of the exposition of appearances," or principles applied to "appearances" for the "unity of experience," on the one hand, and "principles of rationality or comprehension" on the other. These conflicts correspond precisely to the four antinomies of the Critique. The first set of principles is: no absolute totality in composition, hence infinite progressus, I.
- 
- no absolute totality of decomposition, hence nothing absolutely 2.
- 
- simple, 3. no absolute totality of the series of generation, no unconditioned spon­ taneity, 4. no absolute necessity.
- 
- The opposing set of principles of rationality is: Unconditioned totality of the dependent whole, I.
- 
- Unconditioned simple, 2.
- 
- 3. Unconditioned spontaneity of action, 4. Unconditioned necessary being.
- 
- Kant says that the latter "propositions are subjectively necessary as principles of the use of reason in the whole of cognition: unity of the whole of the manifold of cognition of the understanding. They are practically necessary with regard to . . ." 143 He does not finish the thought, or explain the practical necessity of the principles of reason.
- 
- But he is clearly drawing back from the thought that reason by itself furnishes metaphysical cognition of real objects independent of our own thought.
- 
- Summing up our results thus far, then, it looks as if by 1777 Kant had come this far in planning the Critique: it would include (I) the account of space and time as transcendentally ideal pure forms of intuition al­ ready reached in 1770; (2) a derivation of three concepts of the under­ standing -substance, causation, and interaction -and their associated 59 r Introduction 1 principles -as necessary for the exposition of appearances given through the forms of space and time and as objectively valid only in that context, and (3) a presentation in the form of a four-part antinomy pit­ ting those principles, valid for the exposition of appearances, against four opposed transcendent principles, using the concepts of under­ standing but without restriction by the forms of sensibility which have no objective validity but can be used in an unspecified way for the uni­ fication of empirical knowledge and for some equally unspecified prac­ tical purpose.
- 
+Maybe that last idea was just a quick mistake, because in the next note Kant says that "The transcendent principles are about how our reason keeps things consistent with itself"; "Objective principles are about how we can use experience."  
 
- 
-(Simplified)
- 
+This means that the transcendent principles of pure reason don’t help us learn about things outside ourselves. We can only understand outside things by using what we learn from experience, applying ideas to what we see and feel in space and time.  
+
+Kant goes on to explain four conflicts between two types of principles. One type is about how we understand appearances and keep our experience consistent. The other type is about how reason tries to understand everything fully. These conflicts match the four big problems he talks about in his book, the Critique.  
+
+The first group of principles says: 1) There’s no absolute total in putting things together, so things can go on forever. 2) There’s no absolute simple thing that can’t be broken down. 3) There’s no absolute starting point that happens by itself. 4) There’s no absolute necessity.  
+
+The second group, from reason, says: 1) There is an absolute total whole. 2) There is an absolute simple thing. 3) There is an absolute spontaneous action. 4) There is an absolute necessary being.  
+
+Kant says the second group of ideas is necessary for how reason works when we try to understand everything together. He starts to explain why these ideas are practically important but doesn’t finish.  
+
+But he clearly moves away from the idea that reason alone can give us real knowledge about objects without using our own thinking.  
+
+So, by 1777, Kant seemed to have planned his Critique like this: (1) explaining space and time as pure ways we see things, which he had already done in 1770; (2) showing how three ideas—substance, cause, and interaction—are needed to explain appearances through space and time, but only work in that context; and (3) presenting four pairs of opposing ideas, where the ones that work for appearances are set against the transcendent ideas that reason uses without limits, which don’t have real validity but can help unify what we know from experience and have some unclear practical use.

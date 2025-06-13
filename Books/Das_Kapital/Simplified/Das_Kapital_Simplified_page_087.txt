@@ -1,16 +1,25 @@
-These reserves serve as conduits for the supply or withdrawal of money to or from the circulation, which in this way never overflows its banks.46 B. Means of Payment In the simple form of the circulation of commodities hitherto considered, we found a given value always presented to us in a double shape, as a commodity at one pole, as money at the opposite pole. The owners of commodities came therefore into contact as the respective representatives of what were already equivalents. But with the development of circulation, conditions arise under which the alienation of commodities becomes separated, by an interval of time, from the realisation of their prices. It will be sufficient to indicate the most simple of these conditions. One sort of article requires a longer, another a shorter time for its production. Again, the production of different commodities depends on different seasons of the year. One sort of commodity may be born on its own market place, another has to make a long journey to market. Commodity-owner No. 1, may therefore be ready to sell, before No. 2 is ready to buy. When the same transactions are continually repeated between the same persons, the conditions of sale are regulated in accordance with the conditions of production. On the other hand, the use of a given commodity, of a house, for instance, is sold (in common parlance, let) for a definite period. Here, it is only at the end of the term that the buyer has actually received the use-value of the commodity. He therefore buys it before he pays for it. The vendor sells an existing commodity, the purchaser buys as the mere representative of money, or rather of future money. The vendor becomes a creditor, the purchaser becomes a debtor. Since the metamorphosis of commodities, or the development of their value-form, appears here under a new aspect, money also acquires a fresh function; it becomes the means of payment.
- 
- The character of creditor, or of debtor, results here from the simple circulation. The change in the form of that circulation stamps buyer and seller with this new die. At first, therefore, these new parts are just as transient and alternating as those of seller and buyer, and are in turns played by the same actors. But the opposition is not nearly so pleasant, and is far more capable of crystallisation.47 The same characters can, however, be assumed independently of the circulation of commodities. The class-struggles of the ancient world took the form chiefly of a contest between debtors and creditors, which in Rome ended in the ruin of the plebeian debtors. They were displaced by slaves. In the middle ages the contest ended with the ruin of the feudal debtors, who lost their political power together with the economic basis on which it was established.
- 
- Nevertheless, the money relation of debtor and creditor that existed at these two periods reflected only the deeper-lying antagonism between the general economic conditions of existence of the classes in question.
- 
- Let us return to the circulation of commodities. The appearance of the two equivalents, commodities and money, at the two poles of the process of sale, has ceased to be simultaneous.
- 
- The money functions now, first as a measure of value in the determination of the price of the commodity sold; the price fixed by the contract measures the obligation of the debtor, or the sum of money that he has to pay at a fixed date. Secondly, it serves as an ideal means of purchase.
- 
- Although existing only in the promise of the buyer to pay, it causes the commodity to change hands. It is not before the day fixed for payment that the means of payment actually steps into circulation, leaves the hand of the buyer for that of the seller. The circulating medium was transformed into a hoard, because the process stopped short after the first phase, because the converted shape of the commodity, viz., the money, was withdrawn from circulation. The means of payment enters the circulation, but only after the commodity has left it. The money is no longer the means that brings about the process. It only brings it to a close, by stepping in as the 88 Chapter 3 absolute form of existence of exchange-value, or as the universal commodity.
- 
+These reserves act like channels that let money flow in or out of circulation, so the system never gets overloaded.
 
- 
-(Simplified)
- 
+B. Means of Payment
+
+When we first looked at how buying and selling works, we saw that value shows up in two ways: as a product on one side and as money on the other. The people owning the products met as equals because their goods and money had the same value.
+
+But as buying and selling got more complex, sometimes selling a product and getting paid for it didn’t happen at the same time. For example, some things take longer to make than others. Different products depend on different seasons. Some goods are sold right where they’re made, while others have to be brought from far away. So, one seller might be ready to sell before the buyer is ready to buy.
+
+When the same people keep trading regularly, they adjust their deals based on how long it takes to make things. Also, sometimes you sell the right to use something, like renting a house for a set time. The buyer only really gets to use it after paying. So, they pay after they get the use. The seller sells something that already exists, but the buyer is like a promise to pay later. The seller is now a creditor (someone owed money), and the buyer is a debtor (someone who owes money).
+
+Because buying and selling changed like this, money got a new job: it became a way to pay later.
+
+Being a creditor or debtor comes from normal buying and selling. At first, these roles change back and forth between the same people. But this difference can cause bigger problems and last longer. Sometimes, these roles happen even outside buying and selling.
+
+In history, fights between rich and poor often looked like fights between debtors and creditors. In ancient Rome, poor people who owed money lost out and were replaced by slaves. In the Middle Ages, feudal lords who owed money lost their power and land.
+
+Still, the debtor and creditor roles showed deeper conflicts between social classes.
+
+Back to buying and selling: the moment when goods and money appear on opposite sides of a sale doesn’t happen at the same time anymore.
+
+Money now first acts as a way to set the price of what’s sold. The price shows how much the buyer owes and when they have to pay. Second, money works as a promise to buy.
+
+Even if the buyer hasn’t paid yet, this promise lets the product change hands. The actual money doesn’t move until the payment day. When this happens, money stops moving around for a bit because it’s waiting to be paid later.
+
+Money only enters the process after the product has already been sold. It no longer starts the exchange but finishes it by showing the final value or the universal item everyone agrees on.

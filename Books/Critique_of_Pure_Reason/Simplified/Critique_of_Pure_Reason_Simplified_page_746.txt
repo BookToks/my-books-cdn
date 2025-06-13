@@ -1,20 +1,15 @@
-More immediate precursors of the present section can be found at R 505I (1776-78, 18:73); R 5552 (1778-81, 18:218-21), clearly a draft for the present section, which lists the specific pairs of concepts discussed below at A263-6/ B 3 19-22 as well as the classification of concepts of something and nothing (A290-2/ B346-9); and R 5554 (1778-81, 18:229-30). See also R 5907 (1785-88? 1776-79? 18:381). On the critique of Leibniz, see Real Progress, 20:281-5.
- 
- 98 See also Metaphysik Mrongovius, 29:838-43.
- 
- 99 Leibniz illustrated his principle of the identity of indiscernibles, the prin­ ciple that two things could never differ solely in spatiotemporal location without also having internal differences, which Kant is here attacking, with the example of two drops of water or milk, in his Fourth Letter to Samuel Clarke, § 4, first published in the Leibniz-Clarke correspondence in 17 I 7, the year after Leibniz's death.
- 
- 100 For us, evidence for the ascription of such a view to Leibniz would be an essay like "Primary Truths," in which Leibniz infers the identity of indis­ cernibles from the analytical nature of all proof of truth, an inference which depends upon the assumption that the analysis of concepts is the source of all truth (in G. W Leibniz, Philosophical Essays, ed. Roger Ariew and Daniel Garber [Indianapolis : Hackett, 1989], pp. 31-2). But since Kant could not have been familiar with this essay, not published until 1905, he must have based his characterization of Leibniz's reasoning on other sources, such as the derivation of the identity of indiscernibles from the claim that all differences in nature are founded on "intrinsic denom­ inations" at Monadology, § 9. Leibniz's discussion of the principle in his Fifth Paper in the Leibniz-Clarke Correspondence, §§ 21-5, does not make its origins as opposed to its implications particularly clear, although the following §§ 26-9 do suggest that the principle is connected with Leibniz's denial of the fundamentality of spatial and temporal predicates, which by implication leaves only conceptual considerations as the basis of truth.
- 
- 101 The introduction of an arithmetical example in this context is another reference to the argument of Negative Magnitudes, where Kant uses the mathematical concept of subtraction rather than the logical notion of contradiction to provide a framework for understanding opposition in real entities such as forces, emotions, and so on. See 2:172-4; in Theoreti­ cal Philosophy, I75)-I770, pp. 2I2-14.
- 
- 102 Among sources available to Kant, see, e.g., A New System of Nature, in Ariew and Garber, p. 139; Principles of Nature and Grace, § 2; and Monad­ ology, §§ 3-1 I.
- 
- I03 See the Leibniz-Clarke Correspondence, Leibniz's Fifth Paper, § 47.
- 
- 104 Aristotle's Topics begins with the proposal "to find a line of inquiry whereby we shall be able to reason from reputable opinions about any subject presented to us, and also shall ourselves, when putting forward an argument, avoid saying anything contrary to it" (IOoa2o-3; translation by 733 Notes to pages 372-374 W.
- 
+The passages before this section can be found in R 505I (1776-78), R 5552 (1778-81), which is like a draft for this part, listing pairs of ideas talked about later at A263-6/ B 319-22, and also the ideas about something and nothing (A290-2/ B346-9). Another related passage is R 5554 (1778-81). Also, see R 5907 (1785-88? or 1776-79?). For more about criticizing Leibniz, see Real Progress, 20:281-5.
 
- 
-(Simplified)
- 
+Look also at Metaphysik Mrongovius, 29:838-43.
+
+Leibniz showed his idea called the identity of indiscernibles, which means two things can’t be different just because they are in different places or times—they must also be different inside. Kant is arguing against this. Leibniz gave the example of two drops of water or milk in his Fourth Letter to Samuel Clarke, written in 1717, a year after Leibniz died.
+
+We can see Leibniz’s view in an essay called "Primary Truths," where he says the identity of indiscernibles comes from the idea that all truths come from analyzing concepts. This essay was published in 1905, so Kant didn’t know about it. Kant probably got his ideas about Leibniz from other writings, like Monadology, section 9, where Leibniz says all differences in nature come from internal features. Leibniz’s Fifth Paper in the Leibniz-Clarke Correspondence (sections 21-5) doesn’t clearly show where this idea came from, but later sections (26-9) connect it to his belief that space and time aren’t the basic things that define truth—only concepts are.
+
+Kant uses an example with numbers here, which is another reference to his argument about Negative Magnitudes. Instead of using logic and contradiction, he uses math, like subtraction, to explain how things can be opposite in the real world, like forces or feelings. See 2:172-4; Theoretical Philosophy, 1755-1770, pp. 212-14.
+
+Kant had access to sources like A New System of Nature, Principles of Nature and Grace, section 2, and Monadology, sections 3-11.
+
+See Leibniz-Clarke Correspondence, Leibniz’s Fifth Paper, section 47.
+
+Aristotle’s Topics starts by saying we should find a way to ask questions that lets us argue based on good opinions and avoid saying things that go against those opinions (100a20-3; translation by 733 Notes to pages 372-374 W).

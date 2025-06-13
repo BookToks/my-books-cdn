@@ -1,16 +1,13 @@
-Systematic representation of all synthetic principles rience. In the absence of this method, and in the delusion of wanting to prove dogmatically synthetic propositions that the empirical use of the understanding recommends as its principles,a a proof of the principle of B 265 sufficient reason was often sought, but always in vain. No one ever even thought of the other two analogies, though one always tacitly employed them, * since the clue of the categories was missing, which alone can un- A 2 I S cover and make noticeable every gap of the understanding, in concepts as well as in principles.
- 
- 4· The postulates of empirical thinking in general. 78 I. \Vhatever agrees with the formal conditions of experience (in ac­ cordance with intuition and concepts) is possible.
- 
- 2. That which is connectedb with the material conditions of experi- B 266 ence (of sensation) is actual.
- 
- 3. That whose connection' with the actual is determined in accordance with general conditions of experience is (exists) necessarily.d * The unity of the world-whole, in which all appearances are to be connected, is A2IS/B 265 obviously a mere conclusion from the tacitly assumed principle of the community of all substances that are simultaneous: for, were they isolated, they would not as parts constitute a whole, and were their connection (interaction of the manifold) not already necessary on account of simultaneity, then one could not infer from the latter, as a merely ideal relation, to the former, as a real one.
- 
- Nevertheless we have shown, in its proper place, that community is really the ground of the possibility of an empirical cognition of coexistence, and that one therefore really only infers from the latter back to the former, as its condition.
- 
- Principien n zusammenhiingt b , Zusammenha12g d The following notes are entered in Kant's copy of the first edition following A2 I 8: "The contingency of the alterable is only inferred from the fact that in accordance with the second analogy every state of its existence always requires a ground, and not vice versa, that it always requires a ground because it is contingent. We call absolutely contingent that which has no sufficient ground: never here, since it is never complete." (E LXXXVII, p. 35: 23:32) "On possibility: That the concept of which can be given in a corresponding intuition is possible." (E LXXIXV II, p. 35: 23'32) "What can be thought indeterminately in any time [is possible]." (E LXXIXX, p. 35: 23:32) "That which is determined in time [is actual]." (E XC, p. 36: 23:32) "That which is determined through the concept of time itself [is (exists) necessar­ ily]." (E XCI, p. 36: 23'32) 321 Doctrine of Elements.
- 
+Trying to explain all the rules for how we understand things without a clear method was really hard. People kept trying to prove these rules in a strict way, but it didn’t work. They tried to prove the “principle of sufficient reason” but always failed. Nobody thought about two other important ideas, even though they used them without realizing it. This happened because they didn’t have the right guide to spot all the gaps in how we think, both in ideas and rules.
 
- 
-(Simplified)
- 
+Now, here are some basic rules about how we think based on experience:
+
+1. Anything that fits with the way we experience things (using our senses and ideas) is possible.
+
+2. Anything connected to what we actually sense is real.
+
+3. Anything connected to what is real, based on general experience, must exist.
+
+The idea that the whole world is connected comes from assuming that all things happening at the same time are linked. If they were separate, they wouldn’t make a whole, and their connection wouldn’t make sense. We’ve explained before that this connection is what makes it possible to understand things happening together, and that we figure out this connection because of that.
+
+Some notes explain that something is called “contingent” if it depends on a reason or cause, not the other way around. Something is “possible” if we can imagine it in a way that fits with how we experience things. Something is “actual” if it happens at a certain time. And something is “necessary” if it must exist because of how time itself works.

@@ -1,18 +1,15 @@
-If capitalist production were introduced, the honest fellow would perhaps have to work six days a week, in order to appropriate to himself the product of one working day. The bounty of Nature does not explain why he would then have to work 6 days a week, or why he must furnish 5 days of surplus labour. It explains only why his necessary labour-time would be limited to one day a week. But in no case would his surplus-product arise from some occult quality inherent in human labour.
- 
- Thus, not only does the historically developed social productiveness of labour, but also its natural productiveness, appear to be productiveness of the capital with which that labour is incorporated.
- 
- Ricardo never concerns himself about the origin of surplus-value. He treats it as a thing inherent in the capitalist mode of production, which mode, in his eyes, is the natural form of social production. Whenever he discusses the productiveness of labour, he seeks in it, not the cause of surplus-value, but the cause that determines the magnitude of that value. On the other hand, his school has openly proclaimed the productiveness of labour to be the originating cause of profit (read: Surplus-value). This at all events is a progress as against the mercantilists who, on their side, derived the excess of the price over the cost of production of the product, from the act of exchange, from the product being sold above its value. Nevertheless, Ricardo’s school simply shirked the problem, they did not solve it. In fact these bourgeois economists instinctively saw, and rightly so, that it is very dangerous to stir too deeply the burning question of the origin of surplus-value. But what are we to think of John Stuart Mill, who, half a century after Ricardo, solemnly claims superiority over the mercantilists, by clumsily repeating the wretched evasions of Ricardo’s earliest vulgarisers?
- 
- Mill says: “The cause of profit is that labour produces more than is required for its support.” So far, nothing but the old story; but Mill wishing to add something of his own, proceeds: “To vary the form of the theorem; the reason why capital yields a profit, is because food, clothing, materials and tools, last longer than the time which was required to produce them.” He here confounds the duration of labour-time with the duration of its products. According to this view, a baker whose product lasts only a day, could never extract from his workpeople the same profit, as a machine maker whose products endure for 20 years and more. Of course it is very true, that if a bird’s nest did not last longer than the time it takes in building, birds would have to do without nests.
- 
- This fundamental truth once established, Mill establishes his own superiority over the mercantilists.
- 
- “We thus see,” he proceeds, “that profit arises, not from the incident of exchange, but from the productive power of labour; and the general profit of the country is always what the productive power of labour makes it, whether any exchange takes place or not. If there were no division of employments, there would be no buying or selling, but there would still be profit.” For Mill then, exchange, buying and selling, those general conditions of capitalist production, are but an incident, and there would always be profits even without the purchase and sale of labourpower!
- 
- “If,” he continues, “the labourers of the country collectively produce twenty per cent more than their wages, profits will be twenty per cent, whatever prices may or may not be.” This is, on the 362 Chapter 16 one hand, a rare bit of tautology; for if labourers produce a surplus-value of 20% for the capitalist, his profit will be to the total wages of the labourers as 20:100.
- 
+If capitalist production started, the honest person might have to work six days a week just to keep the product of one day’s work. Nature’s gifts don’t explain why he would need to work six days or why he has to give five days of extra work. Nature only explains why he needs to work one day a week to survive. His extra product doesn’t come from some mysterious power in human labor.
 
- 
-(Simplified)
- 
+So, both the natural and the social productivity of labor actually show the productivity of the capital put into that labor.
+
+Ricardo never tried to explain where surplus value comes from. He thought it was just part of capitalism, which he saw as the normal way society works. When he talked about labor’s productivity, he wasn’t looking for the cause of surplus value, just what affects how much it is. His followers said labor’s productivity causes profit (which means surplus value). This was better than the mercantilists, who said profit came from selling products above their value during trade. But still, Ricardo’s group didn’t really solve the problem. They knew it was a risky topic to dig into. But John Stuart Mill, many years later, said he was better than the mercantilists by copying Ricardo’s early ideas without real improvement.
+
+Mill said, “Profit happens because labor makes more than what is needed to support itself.” That’s just the old idea. Then he added, “Capital makes profit because things like food, clothes, and tools last longer than the time it took to make them.” But this mixes up how long labor lasts with how long its products last. For example, a baker’s product lasts one day, so he wouldn’t get the same profit as a machine maker whose products last 20 years. It’s true that if a bird’s nest didn’t last longer than the time it took to build, birds wouldn’t have nests.
+
+Once this basic fact is clear, Mill says he’s better than the mercantilists.
+
+He says, “Profit doesn’t come from buying and selling, but from labor’s ability to produce; the country’s total profit is always what labor’s productivity creates, even if no exchange happens. If there was no trade or job division, there still would be profits.”
+
+For Mill, buying and selling are just side things in capitalism, and profits would exist even without selling labor power!
+
+He also says, “If workers as a group produce 20% more than their wages, profits will be 20%, no matter what prices do.” This is a simple way of saying if workers create extra value equal to 20% of their wages, the capitalist’s profit is 20% compared to total wages.

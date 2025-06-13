@@ -1,24 +1,20 @@
-3.3 possible6: note 5in Beauchamp’s numbering system relates to text omitted from the 1777edition; please see Note on the Text, p. lviii, above.
- 
- For the wording of note 6in the 1772edition, see p. 182.
- 
- 3.3 compleat and entire: in all editions of the Enquiryprior to 1777, Section III continued with a discussion of the association of ideas in its application to literature: see Textual Variants, pp. 178‒83.
- 
- SECTION IV 4.1 Relations of Ideas, and Matters of Fact: a distinction commonly known asHume’s Fork: see §10of the Introduction, above.
- 
- 4.1 EUCLID: Greek mathematician who flourished in Alexandria around 300bc, and whose Elementsprovided the authoritative axiomatic treatment of geometry until the nineteenth century, when non-Euclidean geometries were discovered. Perhaps the most famous example of a proposition ‘demonstrated by Euclid’ is Pythagoras’ Theorem, that in any right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides—so for example a triangle whose sides are of lengths 3, 4, and 5metres will be right-angled, since 32+42=52(cf.12.27).
- 
- 4.2 The contrary . . . is still possible: Hume here states what is widely known as his Conceivability Principle, that any proposition which is distinctly conceivable is logically possible, implying no contradiction. The Principle has already been anticipated at 2.4, and will occur again at 4.18.
- 
- 4.6 reasonings à priori: reasonings are a priori if they do not rely on any empirical information, e.g. from observation or experience. However, Hume’s interest here is on what, if anything, can be inferred from our observations. So he uses the term ‘à priori’ in a slightly different way, to mean inference which does not rely on any rememberedempirical information(as opposed to immediate observation). See §10of the Introduction.
- 
- 4.6 ADAM: according to Genesis, the first book of the Hebrew Bible, Adam was the first man created by God. Here Hume imagines a thoughtexperiment in which Adam, newly created with ideal human faculties but no experience to call on, would be quite unable to predict the behaviour of natural objects.
- 
- 4.6 discovers: reveals. See the Glossary, below, for other words whose meaning is ambiguous or has changed since the eighteenth century.
- 
- 4.7 loadstone: a lodestone is a magnetized stone containing iron, which if suspended from a string can act as a compass by aligning itself with the Earth’s magnetic field.
- 
+3.3 possible6: Note 5 in Beauchamp’s numbering system talks about text that was left out of the 1777 edition; check the Note on the Text, page lviii, above.
 
- 
-(Simplified)
- 
+For the exact words of note 6 in the 1772 edition, see page 182.
+
+3.3 compleat and entire: In all editions of the Enquiry before 1777, Section III kept discussing how ideas connect to each other, especially in literature. See Textual Variants, pages 178–83.
+
+SECTION IV  
+4.1 Relations of Ideas, and Matters of Fact: This is a difference known as Hume’s Fork. See section 10 of the Introduction, above.
+
+4.1 EUCLID: Euclid was a Greek math genius who lived in Alexandria around 300 BC. His book, Elements, was the main guide for geometry until the 1800s when new types of geometry were found. One famous example Euclid proved is Pythagoras’ Theorem. It says that in a right-angled triangle, the square of the longest side (called the hypotenuse) equals the sum of the squares of the other two sides. For example, a triangle with sides 3, 4, and 5 meters is right-angled because 3² + 4² = 5².
+
+4.2 The contrary . . . is still possible: Here, Hume explains his Conceivability Principle. It means that if you can clearly imagine something without any contradictions, then it is logically possible. He first mentioned this at 2.4 and will talk about it again at 4.18.
+
+4.6 reasonings à priori: Reasonings are called a priori if they don’t depend on any facts from observing or experiencing the world. But Hume uses ‘à priori’ a bit differently here. He means reasoning that doesn’t depend on any remembered experiences, only on pure thinking. See section 10 of the Introduction.
+
+4.6 ADAM: According to the Bible’s first book, Genesis, Adam was the first man made by God. Hume imagines a thought experiment where Adam, who has perfect human abilities but no experience yet, wouldn’t be able to predict how natural things behave.
+
+4.6 discovers: means reveals. Check the Glossary below for other words that may have different or unclear meanings since the 1700s.
+
+4.7 loadstone: A lodestone is a naturally magnetic stone with iron in it. If you hang it from a string, it acts like a compass because it lines up with Earth’s magnetic field.

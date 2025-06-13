@@ -1,12 +1,15 @@
-Leviathan/25 Another, when men make a name of two names, whose significations are contradictory and inconsistent; as this name, an incorporeal body, or, which is all one, an incorporeal substance, and a great number more. For whensoever any affirmation is false, the two names of which it is composed, put together and made one, signify nothing at all. For example, if it be a false affirmation to say a quadrangle is round, the word round quadrangle signifies nothing, but is a mere sound. So likewise if it be false to say that virtue can be poured, or blown up and down, the words inpoured virtue, inblown virtue, are as absurd and insignificant as a round quadrangle. And therefore you shall hardly meet with a senseless and insignificant word that is not made up of some Latin or Greek names. Frenchman seldom hears our Saviour called by the name of Parole, but by the name of Verbe often; yet Verbe and Parole differ no more but that one is Latin, the other French.
- 
- When a man, upon the hearing of any speech, hath those thoughts which the words of that speech, and their connexion, were ordained and constituted to signify, then he is said to understand it: understanding being nothing else but conception caused by speech. And therefore if speech be peculiar to man, as for ought I know it is, then is understanding peculiar to him also. And therefore of absurd and false affirmations, in case they be universal, there can be no understanding; though many think they understand then, when they do but repeat the words softly, or con them in their mind.
- 
- What kinds of speeches signify the appetites, aversions, and passions of man’s mind, and of their use and abuse, I shall speak when I have spoken of the passions.
- 
- The names of such things as affect us, that is, which please and displease us, because all men be not alike affected with the same thing, nor the same man at all times, are in the common discourses of men of inconstant signification. For seeing all names are imposed to signify our conceptions, and all our affections are but conceptions; when we conceive the same things differently, we can hardly avoid different naming of them. For though the nature of that we conceive be the same; yet the diversity of our reception of it, in respect of different constitutions of body and prejudices of opinion, gives everything a tincture of our different passions. And therefore in reasoning, a man must take heed of words; which, besides the signification of what we imagine of their nature, have a signification also of the nature, disposition, and interest of the speaker; such as are the names of virtues and vices: for one man calleth wisdom 26/Thomas Hobbes what another calleth fear; and one cruelty what another justice; one prodigality what another magnanimity; and one gravity what another stupidity, etc.
- 
+Leviathan/25
 
- 
+Sometimes, people put two words together that don’t make sense because their meanings don’t match. For example, calling something “an incorporeal body” is confusing because a body is physical, but incorporeal means not physical. When two words that don’t fit together are joined, they don’t mean anything. Like saying a square is round—“round square” doesn’t make sense and is just nonsense. 
+
+The same goes for saying things like “poured virtue” or “blown virtue.” These phrases don’t make sense either, just like “round square.” Many weird or silly words come from mixing Latin or Greek words. For example, French people don’t call Jesus “Parole” much, but they do say “Verbe” instead. Both words mean the same thing, but one is Latin and the other French.
+
+When someone hears speech and thinks about what the words were meant to mean, that person is said to understand the speech. Understanding is just the idea you get from hearing words. If speech is something only humans can do, then understanding is something only humans can do too. So, if a statement is false or doesn’t make sense, people can’t really understand it, even if they repeat the words over and over in their heads.
+
+I will talk about what kinds of speech show our desires, dislikes, and feelings later, after I explain about emotions.
+
+Words that describe things that affect us—things we like or dislike—can mean different things to different people. This is because not everyone feels the same way about the same thing, and even the same person might feel differently at different times. Since words are made to show what we think, and our feelings are part of our thoughts, different feelings can cause different meanings for the same word.
+
+Even if the thing we are thinking about is the same, the way we feel about it changes how we name it. This happens because of our different bodies and opinions. So, when arguing or discussing, we have to be careful with words. Words don’t just show what we think about something, but also show the speaker’s feelings and point of view. For example, one person might call wisdom “fear,” or call cruelty “justice.” One person’s wastefulness is another’s generosity, and what one calls seriousness, another might call stupidity.
+
 my name is sandeep gautam
- 

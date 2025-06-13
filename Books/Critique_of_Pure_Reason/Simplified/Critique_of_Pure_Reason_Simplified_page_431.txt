@@ -1,16 +1,11 @@
-Pt. II. Div. Bk. II <A> its parts). Yet with thoughts, as accidents belonging inwardly to a think­ ing being, it is otherwise. For suppose that the composite were think­ ing; then every part of it would be a part of the thought, but the parts would first contain the whole thought only when taken together. Now this would be contradictory. For because the representations that are di­ v:ided among different beings (e.g., the individual words of a verse) never constitute a whole thought (a verse), the thought can never inhere in a composite as such.25 Thus it is possible only in one substance, which is not an aggregate of many, and hence it is absolutely simple. * The so-called nervus probandi a of this argument lies in the proposition that many representations have to be contained in the absolute unity of the thinking subject in order to constitute one thought. But no one can prove this proposition from concepts. For how could he set about to A353 accomplish this? The proposition "A thought can be only the effect of the absolute unity of a thinking being" cannot be treated as analytic.
- 
- For the unity of a thought consisting of many representations is collec­ tive, and, as far as mere concepts are concerned, it can be related to the collective unity of the substances cooperating in it (as the movement of a body is the composite movement of all its parts) just as easily as to the absolute unity of the subject. Thus there can be no insight into the ne­ cessity of presupposing a simple substance for a composite thought ac­ cording to the rule of identity. But that this same proposition should be cognized synthetically and fully a priori from sheer concepts -that an­ swer no one will trust himself to give when he has insight into the ground of the possibility of synthetic propositions a priori as we have es­ tablished it above.
- 
- But now it is also impossible to derive this necessary unity of the sub­ ject, as a condition of the possibility of every thought, from experience.
- 
- For experience gives us cognition of no necessity, to say nothing of the fact that the concept of absolute unity is far above its sphere. Where, then, will we get this proposition, on which the whole psychological syllogism rests?
- 
- It is obvious that if one wants to represent a thinking being, one must put oneself in its place, and thus substitute one's own subject for the ob­ A354 jectb one wants to consider (which is not the case in any other species of investigation); and it is also obvious that we demand absolute unity for the subject of a thought only because otherwise it could not be said: A 352 * It is very easy to give this proof the usual dress of scholastic precision. Yet it is sufficient for my purpose to lay before our eyes the mere ground of proof, though in a popular manner.
- 
- • the nub (literally, "nerve") of what is to be proved Object b 418 Chapter I.
- 
+Part II, Division Book II
 
- 
-(Simplified)
- 
+Thoughts are different from physical things because they belong inside a thinking being. Imagine if a group of parts were thinking together. Each part would only have a piece of the thought, and only when all the parts come together would you get the whole thought. But this doesn’t make sense. Just like the words in a poem don’t make the whole poem by themselves, the thought can’t be split among many parts. So, a thought can only happen in one simple, single thing—not a bunch of parts put together.
+
+The tricky part of this idea is the claim that many pieces have to be inside one single thinking being to make one thought. But no one can prove this just by thinking about it. How could someone even try? Saying "A thought can only happen in a completely united thinker" isn’t something you can figure out just by looking at the meaning of words.
+
+When a thought has many parts, the unity of those parts is like a team working together, like how a body moves because all its parts move together. This teamwork can be seen as a combined unity, not just a single, simple thing. So, you can’t say for sure that a simple, single thinker is needed for a thought just by using logic. And no one can fully explain this from pure ideas alone.
+
+Also, we can’t learn this for sure from experience. Experience doesn’t show us anything that absolutely must be true, and the idea of a single, simple thinker is too big for what experience can explain. So, where do we get this idea that the whole argument about thinking depends on?
+
+It’s clear that if you want to imagine what a thinking being is like, you have to put yourself in their place and think like they do. This is different from other types of study. We say the thinker must be completely united because otherwise, it wouldn’t make sense to say:

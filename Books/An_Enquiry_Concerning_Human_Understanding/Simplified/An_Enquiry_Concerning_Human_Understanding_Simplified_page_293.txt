@@ -1,32 +1,27 @@
-HUME’S INDEX [This has been produced from the index of the 1777edition, consulting also the 1772, 1770, and 1764 editions to resolve ambiguities or to correct manifest errors (i.e.
- 
- entries that are clearly wrong rather than merely incomplete). References are given to the location in this volume that seems best to match Hume’s intention in each case, specifyingfirst a paragraph (or endnote), followed in brackets by a page number.
- 
- Where Hume himself indicates two successive pages within a single entry, this sometimes results below in two references to the same paragraph, or to the same page.
- 
- His own references, of course, are to the pages of the two volumes of his Essays and Treatises on Several Subjects, and his original index therefore includes many entries for his essays and the other works in that collection, as well as those for the firstEnquirythat are listed here.
- 
- Capitalization (and also punctuation where possible) generally follows Hume’s own, except in the case of ‘Fact’ and ‘Jansenists’, which seem to have been capitalized only because they were the first entries under ‘F’ and ‘I’ respectively. Note that Hume treated ‘I’ and ‘J’ together, but modern alphabetical ordering is used here.
- 
- Some entries might seem puzzling. For instance, ‘Immortality of the Soul, on what founded’ and ‘Providence, particular, on what founded’ can refer only to paragraphs 11.21or11.22, neither of which suggests any reason for the beliefs in immortality or providence. But this is no oversight: Hume appears to be making a subtle reference to the context of the sentence ‘From their own conceit and imagination surely’ in 11.21.
- 
- This illustrates how Hume’s index can be of interest not only as a pointer to those topics that he viewed as particularly significant, but also for its various hidden messages and ironic glosses, an example of the latter being ‘Berkeley, Dr. a real Sceptic’.1] Abstraction, what, Note[P] (131). Causation, a Reason of Association, Alexander the Imposter of Lucian, his 3.2(23);5.16(37),&c.
- 
- Artifice,10.22(86). Chance, what, 6.3(41).
- 
- Animals, their Reason, 9.1(76),&c. Christian Religion founded in Faith, Atheism, whether possible, 12.1(109). not in Reason, 10.40(94).
- 
- Ciceroquoted,5.17n.9(38).
- 
- Bacon, quoted, 10.39(93). Conjunctionfrequent, constant, the Belief, what, 5.11(35),&c. only circumstance from which we Berkeley, Dr. a real Sceptic, Note[N] (130). know Cause and Effect,7.21(51), 7.27(54),7.30(56),&c.
- 
- Cartes, Des, quoted, Note[D] (124). Connexionnecessary, our Idea of it, Causeand Effectits Ideas, whence, 7.1(44),&c.
- 
- 4.4(19),4.5(19),&c. Its Definition, Contiguity, a Reason of Association, 7.29(56),Note[G] (125). 3.2(16),5.14(36).
- 
- 1 Another entry of this type, mischievously suggesting that most religious people are really sceptics, is the reference (not included here) from ‘Scepticism, Religious’ to a passage in the Natural History of Religionwhere Hume alleges that ‘the conviction of the religionists, in all ages, is more affected than real’.
- 
+HUME’S INDEX [This index was made from the 1777 edition, but I also checked the 1772, 1770, and 1764 editions to clear up any confusing parts or fix obvious mistakes (like entries that were clearly wrong, not just incomplete). The references point to places in this volume that seem to best match what Hume meant, showing first a paragraph (or endnote), and then the page number in brackets.
 
- 
-(Simplified)
- 
+Sometimes, when Hume mentions two pages in one entry, you’ll see two references to the same paragraph or page here.
+
+Hume’s own references are to the pages in his two-volume set called Essays and Treatises on Several Subjects. His original index includes many entries for those essays and other works, plus the first Enquiry, which are the ones listed here.
+
+The way words are capitalized (and sometimes punctuation) mostly follows Hume’s style, except for words like ‘Fact’ and ‘Jansenists’, which he only capitalized because they were the first entries under ‘F’ and ‘I’. Hume treated ‘I’ and ‘J’ as the same letter, but here they’re sorted the way we do now.
+
+Some entries might seem strange. For example, ‘Immortality of the Soul, on what founded’ and ‘Providence, particular, on what founded’ only point to paragraphs 11.21 or 11.22. Neither really explains why people believe in immortality or providence. But this isn’t a mistake: Hume is making a subtle hint about the sentence ‘From their own conceit and imagination surely’ in 11.21.
+
+This shows that Hume’s index is useful not just for finding important topics he cared about, but also for hidden messages and ironic comments. One example is ‘Berkeley, Dr. a real Sceptic’.
+
+Here are some example entries: Abstraction, what it is, Note[P] (131). Causation, a Reason of Association, Alexander the Imposter of Lucian, his 3.2(23); 5.16(37), and so on.
+
+Artifice, 10.22(86). Chance, what it is, 6.3(41).
+
+Animals, their Reason, 9.1(76), and others. Christian Religion is based on Faith, not Reason, 10.40(94). Atheism, whether possible, 12.1(109).
+
+Cicero is quoted, 5.17n.9(38).
+
+Bacon is quoted, 10.39(93). The belief in frequent and constant Conjunction (things happening together), what it is, 5.11(35), and others. The only way we know Cause and Effect, 7.21(51), 7.27(54), 7.30(56), and more.
+
+Descartes is quoted, Note[D] (124). Connection is necessary for our idea of Cause and Effect, 7.1(44), and others.
+
+Contiguity (things being next to each other) is a Reason of Association, 7.29(56), Note[G] (125). 3.2(16), 5.14(36).
+
+One other tricky entry, not included here, jokes that most religious people are really sceptics. It refers to a passage where Hume says that religious people’s belief has always been more about feelings than real conviction.

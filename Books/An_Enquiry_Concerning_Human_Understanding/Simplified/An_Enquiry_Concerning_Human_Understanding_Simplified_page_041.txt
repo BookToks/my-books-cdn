@@ -1,18 +1,13 @@
-Introduction xliii If we perceived an impression of necessary connexion between AandB, he reasons, thenwe could know a priori that AcausesB. But we cannot know a priori that AcausesB. So it follows that we perceive no such impression of their necessary connexion.
- 
- Having ruled out any sensory source for the impression of necessary connexion, Hume moves on to consider the possibility that it might instead be an impression of reflection acquired from our awareness of the mind’s powers, or consciousness of the actions of our will (E 7.9–20). But he denies that this can be so, using the same style of argument. He examines the operation of our will first in moving our body (E 7.10–15), and then in forming and processing ideas (E 7.16–20), emphasizing how both types of power can be known only by experience.
- 
- Hume then takes time off from his search for the impression of necessity, to mount a vigorous attack upon Malebranche’s doctrine ofoccasionalism(explained in §6,above). Malebranche had used arguments somewhat similar to Hume’s, to maintain that we have no idea of power in objects, and he concluded that only God can exert genuine power. Hume starts his critique by mischievously suggesting that occasionalism has superstitious origins (E7.21). He then dismisses it with two characteristic objections (E7.24–5),first, that it is too bold and bizarre to be credible (cf. E12.25), and secondly, that it is inconsistent, since the same reasoning that the occasionalists use to show that power in objects is inconceivable shows equally that power in minds, even in a divine mind, is also inconceivable.
- 
- Although Hume’s hunt for the elusive impression of necessary connexion has so far been in vain, his arguments of Section VII Part i have succeeded in other ways. He has attacked the foundation of Cartesian science, based as it is on the ideal of clear and distinct perception of nature’s workings, by denying outright that any causal interactions at all—even those of God—are in any way ‘intelligible’.
- 
- We cannot ‘understand’ how billiard balls communicate motion by impulse, nor how the mind has command over the body, nor even how any mind, whether human or divine, has command over itself.
- 
- And the fact that we cannot understand these operations proves that we cannot perceive the necessity which supposedly governs them.
- 
- All are equally unintelligible, equally opaque to ‘clear and distinct’ perception.
- 
+If we felt like there was a necessary connection between A and B, then we could know for sure that A causes B without needing any experience. But we can’t know that without experience. So, it means we don’t actually feel any necessary connection between them.
 
- 
-(Simplified)
- 
+Since this feeling can’t come from our senses, Hume thinks maybe it comes from thinking about how our mind works or how our will makes things happen. But he says that’s not true either. He looks at how our will moves our body and how it helps us think, and shows that we only know these things from experience.
+
+After this, Hume stops looking for this feeling of necessity and instead criticizes Malebranche’s idea called occasionalism. Malebranche said only God really has power because we can’t understand power in objects. Hume jokingly suggests this idea might come from old superstitions. Then he gives two reasons why it’s wrong: first, it’s too strange to believe, and second, if you use their own logic, it means even God’s power can’t be understood, which doesn’t make sense.
+
+Even though Hume hasn’t found the feeling of necessary connection he’s looking for, his arguments still do something important. He challenges the basic idea of Cartesian science, which says we can clearly understand how nature works. Hume says we can’t really understand how cause and effect happens—not even how God causes things.
+
+We can’t understand how billiard balls hit each other and move, how the mind controls the body, or even how any mind controls itself.
+
+Because we can’t understand these things, it means we don’t actually see the necessity that’s supposed to control them.
+
+All of these things are just as confusing and unclear—they are not “clear and distinct” at all.

@@ -1,16 +1,9 @@
-And whereas sense and memory are but knowledge of fact, which is a thing past and irrevocable, science is the knowledge of consequences, and dependence of one fact upon another; by which, out of that we can presently do, we know how to do something else when we will, or the like, another time: because when we see how anything comes about, upon what causes, and by what manner; when the like causes come into our power, we see how to make it produce the like effects.
- 
- Children therefore are not endued with reason at all, till they have attained the use of speech, but are called reasonable creatures for the possibility apparent of having the use of reason in time to come. And the most part of men, though they have the use of reasoning a little way, as in numbering to some degree; yet it serves them to little use in common life, in which they govern themselves, some better, some worse, according to their differences of experience, quickness of memory, and inclinations to several ends; but specially according to good or evil fortune, and the errors of one another. For as for science, or certain rules of their actions, they are so far from it that they know not what it is. Geometry they have thought conjuring: but for other sciences, they who have not been taught the beginnings, and some progress in them, that they may see how they be acquired and generated, are in this point like children that, having no thought of generation, are made believe by the women that their brothers and sisters are not born, but found in the garden.
- 
- But yet they that have no science are in better and nobler condition with their natural prudence than men that, by misreasoning, or by trusting them that reason wrong, fall upon false and absurd general rules.
- 
- For ignorance of causes, and of rules, does not set men so far out of their way as relying on false rules, and taking for causes of what they aspire to, those that are not so, but rather causes of the contrary.
- 
- To conclude, the light of humane minds is perspicuous words, but by exact definitions first snuffed, and purged from ambiguity; reason is the pace; increase of science, the way; and the benefit of mankind, the end. And, on the contrary, metaphors, and senseless and ambiguous words are like ignes fatui; and reasoning upon them is wandering amongst innumerable absurdities; and their end, contention and sedition, or contempt.
- 
- As much experience is prudence, so is much science sapience. For though we usually have one name of wisdom for them both; yet the Leviathan/31 Latins did always distinguish between prudentia and sapientia; ascribing the former to experience, the latter to science.
- 
+Sense and memory are just knowing facts, which are things that already happened and can't be changed. Science, on the other hand, is understanding how one fact leads to another. This helps us know how to do something now and also how to do it again later. When we understand how something happens, what causes it, and how it works, we can make the same things happen again when we want.
 
- 
-my name is sandeep gautam
- 
+Kids don’t really have reason until they can talk. They’re called reasonable creatures because they might learn to use reason later. Most people can think a little, like with simple math, but that doesn’t help much in everyday life. How well they do depends on their experience, memory, what they want, and especially luck or bad choices. Many don’t really understand science. Some think geometry is like magic, and others who haven’t learned the basics think science is something mysterious, like kids who believe their brothers and sisters just appear from the garden.
+
+Still, people without science but with good common sense are better off than those who believe wrong ideas or trust people who think wrong. Not knowing why things happen is less harmful than believing in false reasons that actually cause the opposite of what you want.
+
+In short, clear and exact words help us understand things better. Reason helps us move forward, science shows us the way, and helping people is the goal. But confusing words and unclear ideas are like chasing fake lights—they only lead to arguments, fights, or people not trusting each other.
+
+Having a lot of experience means being wise in practical ways, and having a lot of science means being wise in deeper ways. Even though we call both “wisdom,” the old Latin thinkers made a difference: they called experience “prudence” and science “sapience.”

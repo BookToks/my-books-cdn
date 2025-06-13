@@ -1,14 +1,11 @@
-(E8.22endnote [F]) Some recent interpreters have cast doubt on the extent to which passages such as these reflect a genuine subjectivism on Hume’s part.25 But in terms of its influence on epistemology, metaphysics, and the philosophy of science, this ‘anti-realism’ about causation, along with his inductive scepticism, constitutes his most prominent legacy.
- 
- Havingfinally tracked down the impression of necessary connexion, Hume sets about clarifying the notion of ‘cause’, of which necessary connexion is the central component. He gives two ‘definitions of cause’, also adding a gloss on the first of them: [1] an object, followed by another,26and where all the objects, similar to the first, are followed by objects similar to the second.
- 
- Or in other words [1′]where, if the first object had not been, the second never had existed.27 [2] an object followed by another, and whose appearance always conveys the thought to that other. (E7.29) Since Hume has already argued that the idea of necessity cannot literally be defined in the sense of a conceptual analysis or dictionary definition (i.e. through ‘enumeration of those parts . . . that compose’ the idea, E 7.4), his two definitions must be understood as doing something rather different. They seem to be intended to capture the circumstances under which we come to ascribe causal connexion, with the first definition focusing on the kind of observation that leads someone to believe in such a connexion (namely, the observation of what appears to that person to be a constant conjunction), while the second definition focuses instead on what the student of human 25 The main contributions to this ongoing debate are most easily accessible in Rupert Read and Kenneth A. Richman (eds.), The New Hume Debate(Routledge,2nd edn., 2007), to which I have also contributed an essay.
- 
- 26 In the Treatise(T1.3.14.31), Hume had insisted that a cause must be contiguous with its effect as well as temporally prior, but he dropped this condition from the Enquiry (cf. p. 207), presumably to allow for the possibility of gravitational action at a distance, or perhaps causation between mental events that have no spatial location.
- 
- 27 This gloss cannot possibly be equivalent to (1) even if it is interpreted as a straightforward past tense conditional, meaning ‘where, if the first object was not, the second was not either’. Definition (1) states that the first object has never appeared without the second, which implies that if the secondobject was not, the firstwas not either. So Hume’s gloss is puzzling, seeming to get things the wrong way round.
- 
+Some recent thinkers have questioned whether parts of Hume’s work really show that he believed in a kind of personal, subjective view of things. But his idea that cause and effect might not be real in the usual sense, along with his doubts about how we can know things from experience, have had a big impact on philosophy, especially in knowledge, reality, and science.
 
- 
-(Simplified)
- 
+After figuring out why we feel there is a “necessary connection” between events, Hume tries to explain what a ‘cause’ really means. He gives two definitions of cause and explains the first one: [1] A cause is something that happens before another thing, and every time something like the first happens, something like the second follows.
+
+Or, in other words [1′], if the first thing hadn’t happened, the second thing wouldn’t have happened either. [2] A cause is something that happens before another thing and always makes us think of that second thing.
+
+Since Hume already said we can’t fully explain what necessity means just by defining it, these two definitions are not just straight dictionary meanings. Instead, they show when we usually think something causes something else. The first definition is about noticing that one thing always comes after another, which makes us believe they are connected. The second is about how seeing the first thing makes us expect the second.
+
+Hume used to say a cause must be right next to its effect in space and time, but later he dropped the idea it must be next to it in space. This change might be because he wanted to allow things like gravity acting over distance or mental events causing things without taking up space.
+
+Also, the way Hume explains his first definition is a bit confusing because it seems to mix up which thing depends on the other.

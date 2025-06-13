@@ -1,18 +1,9 @@
-Pt. II. Div. I. Bk. II. Appendix and outer merely in relation to the understanding. Substances in gen­ eral must have something inner, which is therefore free of all outer re­ lations, consequently also of composition. The simple is therefore the foundation of the inner in things in themselves. But that which is inner in their state cannot consist in place, shape, contact, or motion (which determinations are all outer relations), and we can therefore attribute to the substances no other inner state than that through which we inter­ nally determine our sense itself, namely the state of representations.
- 
- This completes the monads, which are to constitute the fundamental matter of the entire universe, the active power of which, however, con­ sists merely in representations, through which they are properly effica­ cious merely within themselves.
- 
- For this very reason, however, his principlea of the possible commu­ nity of substances among themselves also had to be predetermined harmony and could not be a physical influence.109 For since everything is only internal, i.e., occupied with its own representations, the state of the representations of one substance could not stand in any efficacious connection at all with that of another, but some third cause influencing all of them had to make their states correspond to one another, not, to be sure, through occasional assistance specially brought about in each case (systema assistentiae),b but rather through the unity of the idea of one cause valid for all, from which, in accordance with general laws, they must all together acquire their existence and persistence, thus also their reciprocal correspondence with each other.
- 
- Fourth, Leibniz's famous doctrine of space and time, in which he intellectualized these forms of sensibility, arose solely from this very same deception of transcendental reflection. If I would represent outer relations of things through the mere understanding, this can be done only by means of a concept of their reciprocal effect, and should I con­ nect one state of the one and the same thing with another state, then this can only be done in the order of grounds and consequences. Thus Leibniz thought of space as a certain order in the community of sub­ stances, and thought of time as the dynamic sequence of their states.IIO The uniqueness and independence from things, however, which both of these seem to have in themselves, he ascribed to the confusion of these concepts, which made that which is a mere form of dynamical relations be taken for an intuition subsisting by itself and preceding the things themselves. Thus space and time became the intelligible form of the connection of the things (substances and their states) in themselves.
- 
- The things, however, were intelligible substances (substantiae noumena).
- 
- Nevertheless he wanted to make these concepts valid for appearances, " Principium b "System of assistance," i.e., the occasionalism of Nicolas Malebranche.
- 
- 374 On the amphiboly of concepts of reflection since he conceded to sensibility no kind of intuition of its own, but rather sought everything in the understanding, even the empirical rep­ resentation of objects, and left nothing for the senses but the con­ temptible occupation of confusing and upsetting the representations of the former.
- 
+Part II, Division I, Book II, Appendix talks about how things have an inner part and an outer part, but only in how we understand them. Things must have something inside that isn’t connected to anything outside. This inner part can’t be about where it is, its shape, or how it moves because those are all things on the outside. So, the inner part of things is really just about their own “pictures” or ideas inside themselves.
 
- 
-(Simplified)
- 
+These inner parts make up what we call monads, which are the basic building blocks of everything in the universe. Monads have power, but it’s only through their own inner pictures or ideas, and this power only works inside themselves.
+
+Because everything is just inside and focused on its own ideas, monads can’t directly affect each other. So, there has to be some other force or cause that makes sure their states match up. This isn’t because they physically influence each other but because they all follow the same overall plan or law made by one cause, which keeps everything working together.
+
+Leibniz’s ideas about space and time came from trying to understand these inner connections. He thought space was the way substances are arranged together, and time was the order of their changes. But space and time don’t actually exist on their own; they are just ways we understand how things relate to each other. Space and time are like the way we organize the connections between things and their changes.
+
+The things themselves are real substances that we can only understand through ideas (called noumena). But Leibniz wanted these ideas about space and time to also apply to what we see and experience. He believed that our senses don’t give us true information by themselves but just mix up and confuse the real ideas we have in our minds.

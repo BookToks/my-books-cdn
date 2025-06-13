@@ -1,22 +1,21 @@
-206 Notes to Pages 121–124 HUME’S ENDNOTES A LOCKE: John Locke (see Glossarial Index) devoted Book I of his famousEssayto an attack on ‘Innate Notions’, and is clearly the main philosopher Hume has in mind amongst ‘those, who denied innate ideas’.
- 
- the schoolmen: see Glossarial Index.
- 
- B TIBERIUS. . . NERO: Roman emperors (reigning ad14‒37and54‒68 respectively) famed for their immorality and abuse of power.
- 
- D vis inertiae: the supposed ‘force of inertia’ that makes a body resistant to change, and hence gives it a tendency to remain in a uniform state of rest or motion until acted upon by an active force.
- 
- we only mark these facts: Hume seems to be extending his generally instrumentalist interpretation of causation (see Introduction, pp. xix, xxviii) to the sorts of quantitative powers and forces found in physics.
- 
- In the Treatise, by contrast, he confined his attention to relations between types of specific events rather than variable interactions mediated by mathematical relationships. (This change might explain the contrast betweenT1.3.15andE9.5endnote [H].) Sir ISAAC NEWTON . . . second causes: see pp. xix–xx and §6 of the Introduction. Hume seems in this endnote to be distinguishing between Newton and his followers, presumably so as to refuse them the great authority of his name. ‘Second causes’ are causes in nature, as opposed to God’s own power, but some of those influenced by Newton embraced occasionalism, denying that anything but God has genuine efficacy (see also pp. 226, 228).
- 
- DES CARTES. . . MALEBRANCHE. . . LOCKE: see Glossarial Index.
- 
- CLARKE, andCUDWORTH:Samuel Clarke(1675‒1729) was an English theologian and philosopher, best known at the time for his Boyle Lectures in defence of Christianity, and today for his correspondence with Leibniz (cf. explanatory note to 5.21), in which he defended a Newtonian view of space and time. Clarke’s popular Cosmological Argument for God’s existence is thought likely to be the model for the similar argument advanced by Demea, and refuted by Cleanthes, in Part IX of Hume’s Dialogues concerning Natural Religion.Ralph Cudworth (1617‒88) was leader of the Cambridge Platonists, in its day an influential group of whom Henry More (1614‒87) was also a prominent member.
- 
- Attracted by Descartes’s dualism and also his ‘mechanical philosophy’, Cudworth adopted a combination of mechanistic atomism and Platonic metaphysics which he believed to have originated with Moses (and been transmitted to the Greeks by Pythagoras). The principal target of his arguments was Hobbes, against whom he sought both to refute determinism as applied to human action and to establish the eternal truth of morality as depending on Platonic ideas (rather than the Hobbesian state). His daughter Damaris, as Lady Masham, was a close friend of Locke and corresponded with Leibniz.
- 
+John Locke was a philosopher who wrote a famous book where he argued against the idea that people are born with certain ideas already in their minds. Hume is mostly thinking about Locke when he talks about people who don’t believe in “innate ideas.”
 
- 
-(Simplified)
- 
+The “schoolmen” were medieval thinkers you can look up in the glossary.
+
+Tiberius and Nero were Roman emperors who ruled a long time ago. They were known for being very bad and abusing their power.
+
+“Vis inertiae” means the idea that things don’t change their motion unless something forces them to. For example, if something is still, it stays still until something moves it.
+
+Hume is trying to explain cause and effect like how science does, using ideas about forces and powers in physics.
+
+In his earlier work, Hume focused more on how specific events relate to each other, not on the math behind how things interact. This might explain some differences in his ideas later on.
+
+Isaac Newton was a famous scientist, and Hume talks about how Newton and his followers thought about causes. Newton’s “second causes” are natural causes, not God’s direct action. Some of Newton’s followers believed only God really causes things to happen, which Hume didn’t agree with.
+
+Descartes, Malebranche, and Locke are other important thinkers you can find in the glossary.
+
+Samuel Clarke was an English philosopher and religious thinker who defended Christianity and had debates with other famous philosophers. He supported Newton’s ideas about space and time. Clarke’s argument for God’s existence probably inspired a similar argument in Hume’s book called Dialogues concerning Natural Religion.
+
+Ralph Cudworth was a leader of a group called the Cambridge Platonists. They were influenced by the ideas of Descartes and believed in a mix of atom theory and Platonic philosophy, which they thought came from ancient Moses and Pythagoras.
+
+Cudworth argued against Hobbes, who believed everything, including human actions, was determined by cause and effect. Cudworth wanted to prove that moral truths are eternal and come from Platonic ideas, not from the government or society like Hobbes said. Cudworth’s daughter, Lady Masham, was friends with Locke and talked with Leibniz, another important philosopher.

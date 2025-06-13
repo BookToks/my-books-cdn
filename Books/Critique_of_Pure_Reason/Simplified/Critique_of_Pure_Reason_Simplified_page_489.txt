@@ -1,6 +1,9 @@
-Proof For, assume that composite substances do not consist of simple parts: then, if all composition is removed in thought, no composite part, and (since there are no simple parts) no simple part, thus nothing at all would be left over; consequently, no substance would be given. Thus ei­ ther it is impossible to remove all composition in thought or else after its removal something must be left over that subsists without any com­ position, i.e., the simple. In the first case, the composite would once again not consist of substances (because with substances composition is only a contingent relation,a apart from which, as beings persisting by A436/B464 themselves, they must subsist). Now since this case contradicts the pre­ supposition, only the second case is left: namely, that what is a substan­ tial composite in the world consists of simple parts.6I From this it follows immediately that all things in the world are sim­ ple beings, that composition is only an external state of these beings, and that even though we can never put these elementary substances completely outside this state of combination and isolate them, reason must still think of them as the primary subjects of all composition and hence think of them prior to it as simple beings.b a Relation b In the first edition, Kant notes: "In the intellectual, if all division is brought to an end, the simple remains. In the sensible it can never be brought to an end. In thoughts, if it is cancelled, nothing remains." (E CLXVII, p. 50; 23:40) 476 The Antinomy of Pure Reason Second Conflict of the Transcendental Ideas Antithesis No composite thing in the world consists of simple parts, and nowhere in it does there exist anything simple.
- 
+Here’s the proof: imagine that things made of parts don’t actually have simple parts. If you try to take away all the parts in your mind, there wouldn’t be any parts left at all—not even simple ones—so nothing would remain. That means there would be no substance at all.
 
- 
-(Simplified)
- 
+So, either you can’t remove all the parts in your mind, or if you do, something must still be left that doesn’t have any parts—that is, something simple. 
+
+If you can’t remove all the parts, then the thing made of parts wouldn’t really be made of substances, because substances are things that exist on their own, separate from how parts are put together. This idea goes against what we assumed at the start. 
+
+That means only the other option is possible: things that are made up of parts actually have simple parts inside them.
+
+From this, it follows that everything in the world is made of simple things. Being made of parts is just how these simple things appear on the outside. Even though we can’t actually separate these simple parts completely from their combinations, our minds have to think of them as the basic building blocks before they come together.

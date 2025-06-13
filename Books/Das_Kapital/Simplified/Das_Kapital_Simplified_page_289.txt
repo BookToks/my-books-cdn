@@ -1,8 +1,35 @@
-”123 “The effect of substituting the self-acting mule for the common mule, is to discharge the greater part of the men spinners, and to retain adolescents and children.”124 The extraordinary power of expansion of the factory system owing to accumulated practical experience, to the mechanical means at hand, and to constant technical progress, was proved to us by the giant strides of that system under the pressure of a shortened working day. But who, in 1860, the Zenith year of the English cotton industry, would have dreamt of the galloping improvements in machinery, and the corresponding displacement of working people, called into being during the following 3 years, under the stimulus of the American Civil War? A couple of examples from the Reports of the Inspectors of Factories will suffice on this point. A Manchester manufacturer states: “We formerly had 75 carding engines, now we have 12, doing the same quantity of work.... We are doing with fewer hands by 14, at a saving in wages of £10 aweek. Our estimated saving in waste is about 10% in the quantity of cotton consumed.” “In another fine-spinning mill in Manchester, I was informed that through increased speed and the adoption of some self-acting processes, a reduction had been made, in number, of a fourth in one department, and of above half in another, and that the introduction of the combing machine in place of the second carding, had considerably reduced, the number of hands formerly employed in the carding-room.” Another spinning-mill is estimated to effect a saving of labour of 10%. The Messrs. Gilmour, spinners at Manchester, state: “In our blowing-room department we consider our expense with new machinery is fully one-third less in wages and hands ... in the jack-frame and drawing-frame room, about one-third less in expense, and likewise one-third less in hands; in the spinning room about one-third less in expenses. But this is not all; when our yarn goes to the manufacturers, it is so much better by the application of our new machinery, that they will produce a greater quantity of cloth, and cheaper than from the yarn produced by old machinery.”125 Mr. Redgrave further remarks in the same Report: “The reduction of hands against increased production is, in fact, constantly taking place, in woollen mills the reduction commenced some time since, and is continuing; a few days since, the master of a school in the neighbourhood of Rochdale said to me, that the great falling off in the girls’ school is not only caused by the distress, but by the changes of machinery in the woollen mills, in consequence of which a reduction of 70 short-timers had taken place.” 126 The following table shows the total result of the mechanical improvements in the English cotton industry due to the American Civil War.
- 
- Number of Factories 1857 1861 1868 England and Wales 2,046 2,715 2,405 Scotland 152 163 131 Ireland 12 9 13 United Kingdom 2,210 2,887 2,549 Number of Power Looms 1857 1861 1868 England and Wales 275,590 368,125 344,719 290 Chapter 15 Scotland 21,624 30,110 31,864 Ireland 1,633 1,757 2,746 United Kingdom 298,847 399,992 379,329 Number of Spindles 1857 1861 1868 England and Wales 25,818,576 28,352,125 30,478,228 Scotland 2,041,129 1,915,398 1,397,546 Ireland 150,512 119,944 124,240 United Kingdom 28,010,217 30,387,467 32,000,014 Number of Persons 1857 1861 1868 Employed England and Wales 341,170 407,598 357,052 Scotland 34,698 41,237 39,809 Ireland 3,345 2,734 4,203 United Kingdom 379,213 452,569 401,064 Hence, between 1861 and 1868, 338 cotton factories disappeared, in other words more productive machinery on a larger scale was concentrated in the hands of a smaller number of capitalists.
- 
+When self-acting mules replaced the old mules, most of the adult men spinners lost their jobs, and only teenagers and children were kept. The factory system grew fast because of experience, better machines, and ongoing improvements. This was clear when working hours got shorter. But in 1860, the best year for the English cotton industry, nobody could have guessed how quickly machines would improve and push workers out during the next three years, thanks to the American Civil War.
 
- 
-(Simplified)
- 
+For example, a Manchester factory used to have 75 carding engines but now only had 12 to do the same work. They also needed 14 fewer workers, saving £10 a week in wages and using about 10% less cotton. Another factory in Manchester cut workers by a quarter in one area and by more than half in another by speeding up machines and using self-acting processes. They also replaced a second carding machine with a combing machine, which reduced workers in the carding room a lot. One more mill saved about 10% of labor.
+
+The Gilmour company in Manchester said their new machines in the blowing-room, jack-frame, drawing-frame, and spinning rooms cut workers and wages by about one-third. Plus, their yarn was better, so manufacturers could make more cloth more cheaply than before.
+
+Mr. Redgrave also noted that fewer workers were needed even as production went up. For example, in woollen mills, changes in machinery caused 70 fewer girls to attend a nearby school because fewer workers were needed.
+
+The table below shows changes in the English cotton industry because of the American Civil War:
+
+Number of Factories:  
+- England and Wales: 2,046 (1857), 2,715 (1861), 2,405 (1868)  
+- Scotland: 152, 163, 131  
+- Ireland: 12, 9, 13  
+- United Kingdom: 2,210, 2,887, 2,549  
+
+Number of Power Looms:  
+- England and Wales: 275,590, 368,125, 344,719  
+- Scotland: 21,624, 30,110, 31,864  
+- Ireland: 1,633, 1,757, 2,746  
+- United Kingdom: 298,847, 399,992, 379,329  
+
+Number of Spindles:  
+- England and Wales: 25,818,576, 28,352,125, 30,478,228  
+- Scotland: 2,041,129, 1,915,398, 1,397,546  
+- Ireland: 150,512, 119,944, 124,240  
+- United Kingdom: 28,010,217, 30,387,467, 32,000,014  
+
+Number of People Employed:  
+- England and Wales: 341,170, 407,598, 357,052  
+- Scotland: 34,698, 41,237, 39,809  
+- Ireland: 3,345, 2,734, 4,203  
+- United Kingdom: 379,213, 452,569, 401,064  
+
+So, between 1861 and 1868, 338 cotton factories closed. This means fewer but bigger factories with better machines were owned by fewer rich people.

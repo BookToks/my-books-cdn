@@ -1,20 +1,15 @@
-But the value of a commodity represents human labour in the abstract, the expenditure of human labour in general. And just as in society, a general or a banker plays a great part, but mere man, on the other hand, a very shabby part,14 so here with mere human labour. It is the expenditure of simple labour power, i.e., of the labour power which, on an average, apart from any special development, exists in the organism of every ordinary individual.
- 
- Simple average labour, it is true, varies in character in different countries and at different times, but in a particular society it is given. Skilled labour counts only as simple labour intensified, or rather, as multiplied simple labour, a given quantity of skilled being considered equal to a greater quantity of simple labour. Experience shows that this reduction is constantly being made. A commodity may be the product of the most skilled labour, but its value, by equating it to the product of simple unskilled labour, represents a definite quantity of the latter labour alone.15 The different proportions in which different sorts of labour are reduced to unskilled labour as their standard, are established by a social process that goes on behind the backs of the producers, and, consequently, appear to be fixed by custom. For simplicity’s sake we shall henceforth account every kind of labour to be unskilled, simple labour; by this we do no more than save ourselves the trouble of making the reduction.
- 
- Just as, therefore, in viewing the coat and linen as values, we abstract from their different use values, so it is with the labour represented by those values: we disregard the difference between its useful forms, weaving and tailoring. As the use values, coat and linen, are combinations of special productive activities with cloth and yarn, while the values, coat and linen, are, on the other hand, mere homogeneous congelations of undifferentiated labour, so the labour embodied in these latter values does not count by virtue of its productive relation to cloth and yarn, but only as being expenditure of human labour power. Tailoring and weaving are necessary factors in the creation of the use values, coat and linen, precisely because these two kinds of labour are of different qualities; but only in so far as abstraction is made from their special qualities, only in so far as both possess the same quality of being human labour, do tailoring and weaving form the substance of the values of the same articles.
- 
- Coats and linen, however, are not merely values, but values of definite magnitude, and according to our assumption, the coat is worth twice as much as the ten yards of linen. Whence this difference in their values? It is owing to the fact that the linen contains only half as much labour as the coat, and consequently, that in the production of the latter, labour power must have been expended during twice the time necessary for the production of the former.
- 
- While, therefore, with reference to use value, the labour contained in a commodity counts only qualitatively, with reference to value it counts only quantitatively, and must first be reduced to human labour pure and simple. In the former case, it is a question of How and What, in the latter of How much? How long a time? Since the magnitude of the value of a commodity represents only the quantity of labour embodied in it, it follows that all commodities, when taken in certain proportions, must be equal in value.
- 
- If the productive power of all the different sorts of useful labour required for the production of a coat remains unchanged, the sum of the values of the coats produced increases with their number.
- 
- If one coat represents x days’ labour, two coats represent 2x days’ labour, and so on. But assume that the duration of the labour necessary for the production of a coat becomes doubled or halved.
- 
- In the first case one coat is worth as much as two coats were before; in the second case, two coats are only worth as much as one was before, although in both cases one coat renders the same service as before, and the useful labour embodied in it remains of the same quality. But the quantity of labour spent on its production has altered.
- 
+The value of something you can buy comes from the amount of human work put into making it. Just like in society, where important people like generals or bankers have big roles, but regular people don’t get as much attention, here, regular human work is what counts. This is the simple kind of work that an average person can do, without any special skills.
 
- 
-(Simplified)
- 
+Simple work can be different in different places and times, but in one society, it stays pretty much the same. Skilled work is just seen as regular work done harder or more times. So, a skilled worker’s job is considered equal to doing more simple work. This idea is used all the time. Even if something is made by very skilled workers, its value is measured by comparing it to simple unskilled work. How much skilled work counts as simple work is decided by society, and it feels like a tradition. To make things easier, we will think of all work as simple work without special skills.
+
+When we look at things like coats and linen, we forget about their different uses and the different kinds of work that made them, like weaving or tailoring. Coats and linen are made by different special jobs, but when we talk about their value, we only think about the fact that human work was put into them. Tailoring and weaving are important because they are different kinds of work, but for value, we only care that they both involve human labor.
+
+Coats and linen don’t just have value, but different amounts of value. For example, a coat might be worth twice as much as ten yards of linen. This is because making the coat took twice as much work as making the linen.
+
+When we think about the usefulness of something, the kind of work matters. But when we think about its value, only the amount of work matters, no matter what kind it was. Value is about how much work was done, or how long it took. Because value shows the amount of work, things made with the same amount of work should have the same value.
+
+If the skill needed to make a coat stays the same, the total value of all the coats made will go up as more coats are made.
+
+If one coat takes x days of work, then two coats take 2x days, and so on. But what if the time to make a coat changes?
+
+If making a coat suddenly takes twice as long, one coat is now worth as much as two coats used to be. If it takes half as long, two coats are worth as much as one used to be. Even though the coat still works the same and the quality of the work is the same, the value changes because the amount of work done changes.

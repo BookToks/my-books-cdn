@@ -1,18 +1,11 @@
-Pt. II. Div. II. Bk. II. Ch. II the series of appearances, which is always conditioned, and without any violation of principles of the understanding.
- 
- Now by the fact that the dynamical ideas allow a condition of ap­ pearances outside the series of appearances, i.e., a condition that is not appearance, something happens that is entirely different from the result of the mathematical antinomy. In the latter it was the cause of the fact that both dialectically opposed assertions had to be declared false. The thoroughly conditioned character of what is in the dynamical series, on the contrary, which is inseparable from them as appearances, is connected with a condition that is empirically unconditioned, but also nonsensible, which gives satisfaction to the understanding on one side and to reason on the other,* and while the dialectical arguments that seek unconditioned totality on the one side or the other collapse, A53z1B 560 the rational propositions, on the contrary, taken in such a corrected sig­ nificance, may both be true; which could never have occurred with the cosmological ideas dealing merely with mathematically unconditioned unity, because with them there is no condition of the series of appear­ ances that is not itself also an appearance, constituting as such a further member of the series.
- 
- III.
- 
- Resolution of the cosmological ideaa of the totality of the derivation of occurrences in the world from their causes.
- 
- In respect of what happens, one can think of causality in only two ways: either according to nature or from freedom. The first is the connec­ tion of a state with a preceding one in the world of sense upon which that state follows according to a rule. Now since the causality of ap­ pearances rests on temporal conditions, and the preceding state, if it always existed, could not have produced any effect that first arose in time, the causality of the cause of what happens or arises has also A53I/B 559 * For the understanding does not permit among appearances any condition that is itself empirically unconditioned. But if an intelligible condition, which therefore does not belong to the series of appearances as a member, may be thought for a conditioned (in appearance), without thereby interrupting in the least the series of empirical conditions, then such a condition could be admit­ ted as empirically unconditioned, in such a way that no violation of the em­ pirically continuous regress would occur anywhere.
- 
- a Ideen (plural); since the headings of the other three sections give this word in the sin­ gular, we do the same here.
- 
- 532 Section IX.
- 
+Part II, Division II, Book II, Chapter II talks about how things we see happen in a certain order, and this order always follows rules we understand.
 
- 
-(Simplified)
- 
+Now, when we think about causes that aren’t part of this order of appearances—that is, causes that we can’t actually see—something different happens compared to when we try to explain things just by using math. In the math case, both opposing ideas had to be proven wrong. But here, the causes we can’t see help explain things in a way that makes sense both logically and practically. While the arguments that try to find an ultimate cause fail, the ideas that are adjusted this way can both be true. This wouldn’t happen if we only thought about causes as part of the visible chain, because then every cause would have to be something we can see, just another link in the chain.
+
+Section III.
+
+This part explains how we can understand the idea that everything that happens in the world comes from causes.
+
+There are two main ways to think about causes: either by nature or by freedom. The first means one event follows another in a natural order based on rules. Since causes depend on time, if a cause had always existed, it couldn’t create something new that starts at a specific time. So, the cause of something happening must also follow rules about time.
+
+For understanding, we don’t allow any cause among appearances that itself isn’t caused by something else we can experience. But if we imagine a cause that can’t be seen and isn’t part of the chain of appearances, it wouldn’t break the chain of causes we do see. This hidden cause could be accepted as something that doesn’t have a cause we experience, without breaking the rule that causes happen in a continuous chain we can observe.

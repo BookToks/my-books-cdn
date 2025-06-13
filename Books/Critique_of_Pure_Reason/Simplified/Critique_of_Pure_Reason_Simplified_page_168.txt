@@ -1,14 +1,8 @@
-The Transcendental Doctrine of Elements First Part The Transcendental Aesthetica,I In whatever way and through whatever means a cognition may relate to objects, that through which it relates immediately to them, and at which all thought as a means is directed as an end, is intuition.h,2 This, however, takes place only insofar as the object is given to us; but this in turn, is possible only if it affectsC the mind in a certain way. The capac­ ity (receptivity) to acquire representations through the way in which we are affected by objects is called sensibility. Objects are therefore given to us by means of sensibility, and it alone affords us intuitions; but they are thought through the understanding, and from it arise concepts. But all thought, whether straightaway (directe) or through a detour (indirecte), must ultimately be related to intuitions, thus, in our case, to sensibility, since there is no other way in which objects can be given to us.
- 
- The effect of an object on the capacity for representation, insofar as B 34 " we are affected by it, is sensation. That intuition which is related to the A 20 object through sensation is called empirical. The undetermined object of an empirical intuition is called appearance.3 I call that in the appearance which corresponds to sensation its matter, but that which allows the manifold of appearance to be intuited as ora The "Transcendental Aesthetic" underwent major changes between the two editions of the Critique, including but not limited to the separation of the "Metaphysical" and "Transcendental" expositions of space and time and the addition of three sections to the concluding "General Remarks." We therefore present both versions in their entirety, using the marginal pagination and notes to show where specific changes were made.
- 
- The following version from the first edition also includes the notes Kant made in his own copy of that edition.
- 
- b The following note is inserted in Kant's copy: "[intuition] is opposed to the concept, which is merely the mark of intuition.
- 
- "The universal must be given in the particular. Through that it has significance." (E X, p. IS; 23=21) , Added in Kant's copy: "If the representation is not in itself the cause of the object [Objects]." (EX!, p. 1ft 2 J:2 I) Added in Kant's copy. 'Intuition is related to the object [Object], sensation merely to the d subject." (E XII, p. IS; 73:21) 155 Doctrine of Elements Part I <.
- 
+The Transcendental Doctrine of Elements  
+First Part: The Transcendental Aesthetics
 
- 
-(Simplified)
- 
+No matter how we understand something or how we connect our thoughts to objects, the way we relate to them right away is through something called intuition. This happens only when the object is given to us, which means it has to affect our mind in some way. 
+
+The ability to get ideas or images because objects affect us is called sensibility. So, objects come to us through sensibility, and only sensibility gives us intuition. But we use understanding to think about these intuitions and form ideas or concepts. All thinking, whether direct or indirect, has to connect back to intuition, which for us means it has to come from sensibility, because that's the only way objects can be given to us.
+
+When an object affects our mind and changes our ideas, this effect is called sensation. The intuition we get from sensation is called empirical intuition. The unknown object we get from this empirical intuition is called an appearance. I call the part of the appearance that matches the sensation its matter, and the part that lets us see the many parts of the appearance as one whole is called its form.

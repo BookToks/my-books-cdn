@@ -1,16 +1,9 @@
-Pt. II. Div. II. Bk. II. Ch. I <B> sion is drawn per Sophisma figurae dictionis,a hence by means of a de­ ceptive inference.
- 
- * B412 That this resolution of the famous argument into a paralogism is entirely correct shows itself clearly if one reviews in this connection the general remark to the systematic representation of the principlesb and the section on noumena,39 where it was proved that the concept of a thing that can exist for itself as subject but not as a mere predicate car­ ries with it no objective reality at all, i.e., that one cannot know whether it applies to any object, since one has no insight into the possibility of such a way of existing, and consequently that it yields absolutely no cog­ nition. Thus if that concept, by means of the term "substance," is to in­ dicate an objectC that can be given, and if it is to become a cognition, then it must be grounded on a persisting intuition as the indispensable condition of the objective reality of a concept, namely, that through B413 which alone an object is given. But now we have in inner intuition noth­ ing at all that persists, for the I is only the consciousness of my think­ ing; thus if we stay merely with thinking, we also lack the necessary condition for applying the concept of substance, i.e., of a subject sub­ sisting for itself, to itself as a thinking being; and the simplicity of sub­ stance that is bound up with the objective reality of this concept com­ pletely falls away and is transformed into a merely logically qualitative unity of self-consciousness in thinking in general, whether or not the subject is composite.
- 
- B 41 I * "Thinking" is taken in an entirely different signification in the two premises: in the major premise, as it applies to an objectd in general (hence as it may be given in intuition); but in the minor premise only as it subsists in relation to self-consciousness, where, therefore, no objecte is thought, but only the relation to oneself as subject (as the form of thinking) is represented. In the first premise, things are talked about that cannot be thought of other than as subjects; the second premise, however, talks not about things, but about B 41 2 thinking (in that one abstracts from every object),! in which the I always serves as subject of consciousness; hence in the conclusion it cannot follow that I cannot exist otherwise than as subject, but rather only that in thinking my existence I can use myself only as the subject of judgment, which is an identical proposition, that discloses absolutely nothing about the manner of my existence.
- 
- a "by a sophism of a figure of speech," i.e., a fallacy of equivocation.
- 
- b That is, the Principles of Pure Understanding.
- 
- , Object Object d , Object f Object 448 On the paralogisms of pure reason <B> Refutation of Mendelssohn's proof of the persistence of the sou1.
- 
+This argument is wrong because it tricks you with the way words are used.
 
- 
-(Simplified)
- 
+If you look closely at how ideas work, especially the idea of a "thing" that can exist by itself and not just as a description, you’ll see that this idea doesn’t actually mean anything real. We can’t know if it applies to anything because we don’t understand how something like that could actually exist. So, this idea doesn’t give us any real knowledge.
+
+For the idea of "substance" (a thing that exists on its own) to be real, it needs to be based on something we can actually experience that lasts over time. But inside our minds, there’s nothing that lasts like that. The "I" is just being aware of my own thoughts. If we only think about thinking, we don’t have what we need to say the "I" is a substance that exists by itself. So, the clear idea of substance disappears and turns into just a simple awareness of thinking, no matter if the person is simple or made up of many parts.
+
+The word "thinking" is used in two different ways in the argument: in the first part, it means thinking about objects that exist and can be experienced; in the second part, it means just the act of thinking itself, without thinking about any object. So, the first part talks about things that must be subjects, but the second part only talks about thinking related to yourself without any object.
+
+Because of this, the conclusion that "I can only exist as a subject" is wrong. Instead, it just means that when I think about myself, I only use myself as the subject of my thoughts. This is a true but obvious point and doesn’t tell us anything real about how I actually exist.

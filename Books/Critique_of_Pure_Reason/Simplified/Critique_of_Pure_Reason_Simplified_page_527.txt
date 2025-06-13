@@ -1,12 +1,13 @@
-Pt. II. Div. II. Bk. II. Ch. II unknown to me. We, however, have nothing to do with that, but only with the rule of the progress of experience, in which objects, namely ap­ pearances, are given. It is all the same to the outcome whether I say that in the empirical progress in space I could encounter stars that are a hun­ dred times farther from me than the most distant ones I see, or whether I say that perhaps they are there to be encountered in world-space even if no human being has ever perceived them or ever will perceive them; for if they were given as things in themselves, without any reference to possible experience at all, then they would be nothing for me, hence they would not be objects contained in the series of the empirical regress. Only in another relation, when these same appearances are to B 525 be used on behalf of the cosmological idea of an absolute whole and having to do with a question that goes beyond the bounds of possible experience, is it important to distinguish between the ways one might take the reality of objects of sense when thinking them, so as to prevent A497 a deceptive delusion that must inevitably arise if we misinterpret our own concepts of experience.
- 
- The Antinomy of Pure Reason Section Seven Critical decision of the cosmological conflict of reason with itself.
- 
- The entire antinomy of pure reason rests on this dialectical argument: If the conditioned is given, then the whole series of all conditions for it is also given; now objects of the senses are given as conditioned; conse­ quently, etc. Through this syllogism, whose major premise seems so natural and evident, a corresponding number of cosmological ideas are introduced, in accordance with the difference of the conditions (in the synthesis of appearances), insofar as they constitute a series, which pos­ tulate an absolute totality of these series and thereby put reason into an unavoidable conflict with itself. But before we expose what is deceptive about this sophistical argument, we have to put in place certain of the B 526 concepts occurring in it, by correcting and determining them.
- 
- First, the following proposition is clear and undoubtedly certain: If A498 the conditioned is given, then through it a regress in the series of all conditions for it is given to us as a problem;a for the concept of the conditioned already entails that something is related to a condition, and if this condition is once again conditioned, to a more remote condition, and so through all the members of the series. This proposition is there­ fore analytic and beyond any fear of a transcendental criticism. It is a a uns ...lI ufgegeben sei 514 Section VII.
- 
+Part II, Division II, Book II, Chapter II is not something I know about. But we don’t need to worry about that here. We only focus on how experience grows, where things we see, or appearances, are given to us.
 
- 
-(Simplified)
- 
+It doesn’t matter if I say that in my experience of space, I might find stars that are a hundred times farther away than the ones I see now, or if I say those stars might exist in the universe even if no one has ever seen them or will ever see them. If those stars existed as things on their own, without any connection to what we can experience, then they would mean nothing to me. So, they wouldn’t be part of what I can experience in a chain of events.
+
+It only matters to make a difference when we use these appearances to think about the idea of the universe as a whole, which goes beyond what we can experience. Then, it’s important to understand how we think about the reality of things we sense, so we don’t get tricked by wrong ideas that can happen if we misunderstand our own thoughts about experience.
+
+The Antinomy of Pure Reason, Section Seven, talks about a big problem in thinking where reason fights with itself.
+
+This problem is based on this idea: If something depends on something else, then the whole chain of everything it depends on must also exist. Since objects we sense depend on other things, this idea leads to many big ideas about the universe that try to explain everything as a complete whole. But this causes reason to get stuck and confused.
+
+Before we explain what’s wrong with this tricky argument, we need to clarify some ideas it uses.
+
+First, one thing is sure: If something depends on something else, then thinking about it means thinking about all the things it depends on, one after another. This is because the idea of depending on something already means there is a connection to a cause or condition, and if that cause also depends on something else, the chain goes on. This idea is clear and not something we should doubt.

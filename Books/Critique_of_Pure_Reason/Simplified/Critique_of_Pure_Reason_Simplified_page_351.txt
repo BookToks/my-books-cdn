@@ -1,10 +1,19 @@
-For the second edition, Kant made extensive additions and some deletions in the body of this chapter prior to the appendix on the "Amphiboly of the Concepts of Reflection." We will present each version of the chapter up to the appen­ dix in its entirety, repeating those passages that were not changed. The marginal pagi­ nation and notes will mark where the changes were made.
- 
- The following notes appear at the start of this chapter in Kant's copy of the first edition: b "Here is the question: How far does the possibility of synthetic cognition a priori extend? If there is talk of a thing through categories that is determined merely through reason, hence also through categories, then such propositions are analytic, and yield no cognition." (E CN, p. 38; 23=34) "I. On appearance and illusion.
- 
- "2. How can one say that bodies are appearances. They consist of pure relations [lauter Relationen]; soul consists of pure [lauter] synthesis and analysis of these repre­ sentations. The I is noumenon; I as intelligence." (E CV; p. 38; 23:34) "Being of sense -being of understanding; sensibilia -intelligibilia." (E CVI, p. 38; 23:34) "We can only think noumena, not cognize them." (E CVIl, p. 38; 23:34) "One must think things in themselves through the concept of a most-real being, since this excludes all experience." (E CVIII, p. 39; 23:34) "Mundus phaenomenon or a whole of substances in space may readily be thought, but not as noumenon, since they are isolated." (E CIX, p. 39; 23:35) "The same things as beings of sense or understanding. I myself am the only thing that does not intuit itself." (E CX, p. 39; 23:35) "Categories do not serve to cognize things for themselves, but only to order intu­ itions in space and time, i.e., appearances." (E CX!, p. 39; 23:35) "Until now one believed that through categories one actually already cognized something; now we see that they are only forms of thought for bringing the manifold of intuitions to synthetic unity of apperception." (E CXII, p. 39; 23:35) 338 Chapter III.
- 
+For the second edition, Kant added a lot and removed some parts in this chapter before the appendix called "Amphiboly of the Concepts of Reflection." We will show both versions of the chapter up to the appendix, including the parts that stayed the same. The page numbers and notes will point out where the changes happened.
 
- 
-(Simplified)
- 
+At the start of this chapter in Kant's first edition, there are these notes: "Here’s the question: How far can we have knowledge that is both new and known without experience? If we talk about something using categories just through reason, then those statements are just definitions and don’t give us new knowledge."
+
+Now, about appearance and illusion:
+
+How can we say that bodies are just appearances? They are made up only of pure relations. The soul is just pure combining and separating of these ideas. The "I" (self) is a thing in itself; it is intelligence.
+
+There is a difference between things we sense and things we understand. We can only think about things in themselves, called noumena, but we can’t really know them.
+
+We have to think about things in themselves by imagining the most real being, because that goes beyond experience.
+
+We can easily think of the world as a whole made of substances in space, but not as things in themselves, because these things are separate.
+
+The same things can be seen as things of sense or understanding. I am the only thing that doesn’t sense myself directly.
+
+Categories don’t help us know things as they really are; they only help us organize what we sense in space and time, which are appearances.
+
+People used to believe categories helped us know things directly, but now we see they are just ways of thinking that help us combine what we sense into a unified experience.

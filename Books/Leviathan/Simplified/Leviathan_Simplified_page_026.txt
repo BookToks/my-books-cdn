@@ -1,14 +1,9 @@
-And therefore such names can never be true grounds of any ratiocination. No more can metaphors and tropes of speech: but these are less dangerous because they profess their inconstancy, which the other do not.
- 
- V: Of Reason and Science When man reasoneth, he does nothing else but conceive a sum total, from addition of parcels; or conceive a remainder, from subtraction of one sum from another: which, if it be done by words, is conceiving of the consequence of the names of all the parts, to the name of the whole; or from the names of the whole and one part, to the name of the other part. And though in some things, as in numbers, besides adding and subtracting, men name other operations, as multiplying and dividing; yet they are the same: for multiplication is but adding together of things equal; and division, but subtracting of one thing, as often as we can.
- 
- These operations are not incident to numbers only, but to all manner of things that can be added together, and taken one out of another. For as arithmeticians teach to add and subtract in numbers, so the geometricians teach the same in lines, figures (solid and superficial), angles, proportions, times, degrees of swiftness, force, power, and the like; the logicians teach the same in consequences of words, adding together two names to make an affirmation, and two affirmations to make a syllogism, and many syllogisms to make a demonstration; and from the sum, or conclusion of a syllogism, they subtract one proposition to find the other. Writers of politics add together pactions to find men’s duties; and lawyers, laws and facts to find what is right and wrong in the actions of private men. In sum, in what matter soever there is place for addition and subtraction, there also is place for reason; and where these have no place, there reason has nothing at all to do.
- 
- Out of all which we may define (that is to say determine) what that is which is meant by this word reason when we reckon it amongst the faculties of the mind. For reason, in this sense, is nothing but reckoning (that is, adding and subtracting) of the consequences of general names agreed upon for the marking and signifying of our thoughts; I say marking them, when we reckon by ourselves; and signifying, when we demonstrate or approve our reckonings to other men.
- 
- And as in arithmetic unpractised men must, and professors them- Leviathan/27 selves may often, err, and cast up false; so also in any other subject of reasoning, the ablest, most attentive, and most practised men may deceive themselves, and infer false conclusions; not but that reason itself is always right reason, as well as arithmetic is a certain and infallible art: but no one man’s reason, nor the reason of any one number of men, makes the certainty; no more than an account is therefore well cast up because a great many men have unanimously approved it.
- 
+So, names by themselves can never be a good reason for proving something. The same goes for metaphors and figures of speech, but they’re less tricky because they admit they’re not always exact, which names don’t.
 
- 
-(Simplified)
- 
+When people use reason, they’re basically adding things up or taking things away in their minds. If they do this with words, it means they’re thinking about how the parts connect to the whole, or how one part relates to another. Even though we have other math operations like multiplying and dividing, they’re just shortcuts for adding and subtracting.
+
+These math ideas don’t only work with numbers but with anything you can add or take away. For example, geometry uses them with shapes and angles, logic uses them with words and ideas, politics adds agreements to figure out people’s duties, and law combines laws and facts to decide what’s right or wrong. Basically, wherever you can add or subtract, you can use reason. If you can’t, then reason doesn’t apply.
+
+So, reason means doing this kind of adding and subtracting with ideas or words in your mind. It’s like keeping track of your thoughts and showing others how you got to your conclusions.
+
+Just like in math, where people can make mistakes when calculating, even smart and careful people can make errors in reasoning and come to wrong conclusions. But the idea of reason itself is always correct, just like math is reliable. The problem is, no single person or group can guarantee that their reasoning is certain, just because many people agree on it.

@@ -1,14 +1,13 @@
-Pt. II. Div. I. Bk. II. Ch. II A 185 deduction of the possibility of the latter, it is no wonder that it has, to be sure, grounded all experience (for one feels the need for it in empir­ ical cognition), but has never been proved.
- 
- A philosopher was asked: How much does the smoke weigh? He replied: If you take away from the weight of the wood that was burnt the weight of the ashes that are left over, you will have the weight of the smoke. He thus assumed as incontrovertible that even in fire the mat­ ter (substance) never disappears but rather only suffers an alteration in its form.a Likewise the proposition "Nothing comes from nothing" is only another consequence of the principle of persistence, or rather of the everlasting existence of the proper subject in the appearances. For if that in the appearance which one would call substance is to be the proper substratum of all time-determination, then all existence in the past as well as in future time must be able to be determined in it and it alone. Hence we can grant an appearance the name of substance only if we presuppose its existence at all time, which is not even perfectly ex­ pressed through the word "persistence" since this pertains more to fuB 229 ture time. Nevertheless the inner necessity of persisting is inseparably connected with the necessity of always having existed, and the expresA I 86 sion may therefore stand. Gigni de nihilo nihil, in nihilum nil posse reverti, b are two propositions which the ancients connected inseparably, and which are now sometimes separated only out of misunderstanding, be­ cause one imagines that they pertain to things in themselves, and that the former would be opposed to the dependence of the world on a supreme cause (even as far as its substance is concerned); but this worry is unnecessary, for here the issue is only appearances in the field of ex­ perience, the unity of which would never be possible if we were to allow new things (as far as their substance is concerned) to arise. For then everything would disappear that alone can represent the unity of time, namely the identity of the substratum in which alone all change has its thoroughgoing unity. This persistence is therefore nothing more than the way in which we represent the existence of things (in appearance).
- 
- The determinations of a substance that are nothing other than partic­ ular ways for it to exist are called accidents. They are always real, since they concern the existence of the substance (negations are merely deter­ minations that express the non-being of something in the substance).
- 
- B230 Now if one ascribes a particular existence to this real in substance (e.g., motion, as an accident of matter), then this existence is called "inher­ ence," in contrast to the existence of the substance, which is called "sub­ AI87 sistence." Yet many misinterpretations arise from this, and it is more a Inserted in Kant's copy of the first edition: "\iVhence does he know this? Not from ex­ perience." (E LXXXV; p. 34; 23:47) Nothing comes out of nothing, and nothing can revert into nothing.
- 
- b 302 Section III.
- 
+It’s not surprising that people believe some ideas just because they feel necessary for understanding the world, even if they haven’t been proven.
 
- 
-(Simplified)
- 
+A philosopher was once asked how much smoke weighs. He said if you subtract the weight of the ashes left after burning wood from the original wood’s weight, what’s left is the weight of the smoke. This shows he believed that matter never disappears, it just changes form.
+
+The idea “Nothing comes from nothing” comes from the idea that something always stays the same underneath all changes. If the “substance” of something is what lasts through all time, then everything that happens in the past and future must happen in that same substance. So, we only call something a substance if it exists all the time. This idea goes beyond just “persistence,” which usually means continuing into the future—it also means something must have always existed.
+
+The old saying “Nothing comes from nothing, and nothing can go back into nothing” was once seen as one idea but now people sometimes separate them because they misunderstand. Some think these ideas apply to things themselves and worry they go against the idea of a supreme cause of the world. But really, these ideas only apply to what we experience. If new substances could suddenly appear, the unity of time and change wouldn’t make sense. So, “persistence” is just how we understand things existing over time in what we see.
+
+The ways a substance exists are called accidents. These are real because they show how the substance exists. Negations just show what isn’t part of the substance.
+
+If we say an accident like motion belongs to a substance, that’s called “inherence,” while the substance itself is called “subsistence.” But people often misunderstand this difference.
+
+(Inserted note: “How does he know this? Not from experience.”)

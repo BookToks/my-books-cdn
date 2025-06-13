@@ -1,12 +1,11 @@
-SECTION VI 56 Of Probability10 Though there be no such thing as Chance in the world;* our ignorance of the real cause of any event has the same influence on the understanding, and begets a like species of belief or opinion.
- 
- [2] There is certainly a probability, which arises from a superiority of chances on any side; and according as this superiority encreases, and surpasses the opposite chances, the probability receives a proportionable encrease, and begets still a higher degree of belief or assent to that side, in which we discover the superiority. If a dye were marked with one figure or number of spots on four sides, and with another figure or number of spots on the two remaining sides, it would be more probable, that the former would turn up than the latter; though, if it had a thousand sides marked in the same manner, and only one side different, the probability would be much higher, and our belief or expectation of the event more steady and secure. This process of the thought or reasoning may seem trivial and obvious; but to those who consider it more 57 narrowly, it may, perhaps, afford matter for curious speculation.
- 
- [3] It seems evident, that, when the mind looks forward to discover the event, which may result from the throw of such a dye, it considers the turning up of each particular side as alike probable; and this is the very nature of chance, to render all the particular events, comprehended in it, entirely equal. But finding a greater number of sides concur in the one event than in the other, the mind is carried more frequently to that event, and meets it oftener, in revolving the various possibilities or chances, on which the ultimate result depends.
- 
- This concurrence of several views in one particular event begets immediately, by an inexplicable contrivance of nature,*the sentiment of belief, and gives that event the advantage over its antagonist, which is supported by a smaller number of views, and recurs less frequently 10 Mr. Locke divides all arguments into demonstrative and probable. In this view, we must say, that it is only probable all men must die, or that the sun will rise to-morrow. But to conform our language more to common use, we ought to divide arguments intodemonstrations,proofs, and probabilities.*By proofs meaning such arguments from experience as leave no room for doubt or opposition.
- 
+SECTION VI 56 Of Probability
 
- 
-(Simplified)
- 
+Even though there is no real thing called Chance in the world, not knowing the true cause of something makes us think it might happen by chance. This makes us believe or expect something in a similar way.
+
+[2] Probability happens when one outcome has better chances than another. The more one chance is better than the other, the more likely we think it will happen. For example, if a die has one number on four sides and a different number on the other two sides, it’s more likely to land on the number that’s on four sides. If it had a thousand sides with the same number and only one side was different, then it would be even more likely to land on the first number. This way of thinking might seem simple, but if you think about it carefully, it can be really interesting.
+
+[3] When we try to guess what will happen when we roll a die, we think each side has the same chance to come up. That’s what chance means — every possible outcome is equal. But since more sides have one number than the other, our mind expects the number on the most sides to come up more often.
+
+This idea of many chances pointing to one outcome makes us believe that outcome more than the other one, which has fewer chances. This happens naturally in a way we can’t fully explain.
+
+10 Mr. Locke said all arguments are either certain (demonstrative) or probable. So, it’s only probable that everyone will die or that the sun will rise tomorrow. But to make things clearer, we should say arguments can be demonstrations (certain), proofs (based on experience with no real doubt), or probabilities (likely but not certain).

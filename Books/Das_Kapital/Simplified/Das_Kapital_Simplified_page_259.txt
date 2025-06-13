@@ -1,16 +1,19 @@
-[“Ου γαρ ετηελει το πραττοµενον τεν του πραττονιος σχηολεν περιµενειν, αλλ αναγκε το ν πραττοντα το πραττοµενο επακολοοτηειν µε εν παρεργου µερει. Αναγκε. Εκ δε τουτον πλειο τε εκαστα γιγνεται και καλλιον και ραον, οταν εις εν καια πηψσιν και εν καιρο σχ ηολεν τον αλλον αγον, πραττε.”] [For the workman must wait upon the work; it will not wait upon his leisure and allow itself to be done in a spare moment. — Yes, he must,— So the conclusion is that more will be produced of every thing and the work will be more easily and better done, when every man is set free from all other occupations to do, at the right time, the one thing for which he is naturally fitted.] (Rep. 1. 2. Ed. Baiter, Orelli, &c.) So in Thucydides, l.c., c.
- 
- 142: “Seafaring is an art like any other, and cannot, as circumstances require, be carried on as a subsidiary occupation; nay, other subsidiary occupations cannot be carried on alongside of this one.” If the work, says Plato, has to wait for the labourer, the critical point in the process is missed and the article spoiled, “εργου χαιρον διολλυται.” [If someone lets slip ...] The same Platonic idea is found recurring in the protest of the English bleachers against the clause in the Factory Act that provides fixed mealtimes for all operatives. Their business cannot wait the convenience of the workmen, for “in the various operations of singeing, washing, bleaching, mangling, calendering, and dyeing, none of them can be stopped at a given moment without risk of damage ... to enforce the same dinner hour for all the workpeople might occasionally subject valuable goods to the risk of danger by incomplete operations.” Le platonisme où va-t-il se nicher! [Where will Platonism be found next!] 58 Xenophon says, it is not only an honour to receive food from the table of the King of Persia, but such food is much more tasty than other food. “And there is nothing wonderful in this, for as the other arts are brought to special perfection in the great towns, so the royal food is prepared in a special way.
- 
- For in the small towns the same man makes bedsteads, doors, ploughs, and tables: often, too, he builds houses into the bargain, and is quite content if he finds custom sufficient for his sustenance. It is altogether impossible for a man who does so many things to do them all well. But in the great towns, where each can find many buyers, one trade is sufficient to maintain the man who carries it on. Nay, there is often not even need of one complete trade, but one man makes shoes for men, another for women. Here and there one man gets a living by sewing, another by cutting out shoes; one does nothing but cut out clothes, another nothing but sew the pieces together. It follows necessarily then, that he who does the simplest kind of work, undoubtedly does it better than anyone else. So it is with the art of cooking.” (Xen. Cyrop. I. viii., c. 2.) Xenophon here lays stress exclusively upon the excellence to be attained in use-value, although he well knows that the gradations of the division of labour depend on the extent of the market.
- 
- 59 He (Busiris) divided them all into special castes ... commanded that the same individuals should always carry on the same trade, for he knew that they who change their occupations become skilled in none; but that those who constantly stick to one occupation bring it to the highest perfection. In truth, we shall also find that in relation to the arts and handicrafts, they have outstripped their rivals more than a master does a bungler; and the contrivances for maintaining the monarchy and the other institutions of their State are so admirable that the most celebrated philosophers who treat of this subject praise the constitution of the Egyptian State above all others. (Isocrates, Busiris, c. 8.) 60 Cf. Diodorus Siculus.
- 
- 61 Ure, l.c., p. 20.
- 
- 62 This is more the case in England than in France, and more in France than in Holland.
- 
+A worker can’t just wait to do a job whenever they feel like it; the work needs to be done at the right time. If the worker tries to do the job in spare moments, the work won’t turn out well.
 
- 
-(Simplified)
- 
+So, it’s better when each person focuses on one job they’re good at and does it at the right time. This way, more work gets done, and it’s done better and more easily.
+
+Thucydides said that jobs like sailing can’t be done as a side task because they need full attention. If you try to do other things at the same time, the work gets messed up.
+
+Plato also said that if the work has to wait for the worker, the important moment can be missed and the work gets ruined. This idea is similar to what English factory workers said when they didn’t want fixed lunch breaks because stopping their work at the wrong time could damage the goods.
+
+Xenophon pointed out that food made for the Persian king tastes better because it’s prepared by specialists. In small towns, one person might do many jobs like making beds, doors, and ploughs, but they can’t do all of them well.
+
+In big cities, people focus on just one trade because there are many customers. Sometimes, the work is divided even more, like one person making shoes for men and another for women, or one cutting out clothes and another sewing them.
+
+Because of this, people who do simple jobs only focus on that job and do it better than anyone else. The same goes for cooking.
+
+Busiris organized people into special groups where each person always did the same job. He knew that if people kept changing jobs, they wouldn’t get good at any of them. But if they stuck to one job, they would become experts.
+
+Because of this, some societies became much better at arts and crafts than others. Their systems were so good that famous thinkers praised their governments as the best.
+
+In some countries like England, this focus on special skills is stronger than in others like France or Holland.

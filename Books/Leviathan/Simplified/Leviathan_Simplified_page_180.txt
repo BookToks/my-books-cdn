@@ -1,14 +1,15 @@
-180/Thomas Hobbes The source of every crime is some defect of the understanding, or some error in reasoning, or some sudden force of the passions. Defect in the understanding is ignorance; in reasoning, erroneous opinion. Again, ignorance is of three sorts; of the law, and of the sovereign, and of the penalty. Ignorance of the law of nature excuseth no man, because every man that hath attained to the use of reason is supposed to know he ought not to do to another what he would not have done to himself. Therefore into what place soever a man shall come, if he do anything contrary to that law, it is a crime. If a man come from the Indies hither, and persuade men here to receive a new religion, or teach them anything that tendeth to disobedience of the laws of this country, though he be never so well persuaded of the truth of what he teacheth, he commits a crime, and may be justly punished for the same, not only because his doctrine is false, but also because he does that which he would not approve in another; namely, that coming from hence, he should endeavour to alter the religion there. But ignorance of the civil law shall excuse a man in a strange country till it be declared to him, because till then no civil law is binding.
- 
- In the like manner, if the civil law of a man’s own country be not so sufficiently declared as he may know it if he will; nor the action against the law of nature; the ignorance is a good excuse: in other cases ignorance of the civil law excuseth not.
- 
- Ignorance of the sovereign power the place of a man’s ordinary residence excuseth him not, because he ought to take notice of the power by which he hath been protected there.
- 
- Ignorance of the penalty, where the law is declared, excuseth no man: for in breaking the law, which without a fear of penalty to follow were not a law, but vain words, he undergoeth the penalty, though he know not what it is; because whosoever voluntarily doth any action, accepteth all the known consequences of it; but punishment is a known consequence of the violation of the laws in every Commonwealth; which punishment, if it be determined already by the law, he is subject to that; if not, then is he subject to arbitrary punishment. For it is reason that he which does injury, without other limitation than that of his own will, should suffer punishment without other limitation than that of his will whose law is thereby violated.
- 
- But when a penalty is either annexed to the crime in the law itself, or hath been usually inflicted in the like cases, there the delinquent is excused from a greater penalty. For the punishment foreknown, if not Leviathan/181 great enough to deter men from the action, is an invitement to it: because when men compare the benefit of their injustice with the harm of their punishment, by necessity of nature they choose that which appeareth best for themselves: and therefore when they are punished more than the law had formerly determined, or more than others were punished for the same crime, it is the law that tempted and deceiveth them.
- 
+Every crime happens because someone doesn’t understand something, makes a mistake in thinking, or suddenly loses control of their feelings. Not understanding something means being ignorant; making a mistake in thinking means having wrong opinions.
 
- 
-(Simplified)
- 
+There are three kinds of ignorance: not knowing the law, not knowing who is in charge, and not knowing the punishment. Not knowing the basic rule of treating others how you want to be treated doesn’t excuse anyone. So, no matter where a person goes, if they break this rule, it’s a crime.
+
+For example, if someone comes from far away and tries to make people change their religion or disobey the laws, even if they truly believe what they say, they are committing a crime. They are doing something they wouldn’t want others to do to them. But if someone doesn’t know the local civil laws because they are new to the place, they can’t be punished until those laws are explained to them.
+
+If a person’s own country’s laws aren’t clear or they don’t know that what they did was against the basic rule of treating others right, then ignorance is a good excuse. But in other cases, not knowing the law doesn’t excuse them.
+
+Not knowing who is in charge where they live is never an excuse, because they should know who protects them. Also, not knowing the punishment for breaking a law doesn’t excuse anyone if the law is clear.
+
+When someone breaks a law, they accept all the consequences, even if they don’t know what the punishment is. Punishment is a normal part of breaking laws. If the law already says what the punishment is, they have to accept it. If not, they can be punished in any way the person in charge decides.
+
+If the punishment is already stated in the law or usually given for that crime, then the person can’t be punished more than that. If the punishment isn’t strong enough to stop people from breaking the law, it actually encourages them to do it because they think the risk is worth it.
+
+So, when people are punished more than the law says or more than others for the same crime, the law itself is to blame for tricking them into doing wrong.

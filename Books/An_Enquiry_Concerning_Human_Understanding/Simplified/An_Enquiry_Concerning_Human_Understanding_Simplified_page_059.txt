@@ -1,26 +1,29 @@
-SELECT BIBLIOGRAPHY My2002collection,Reading Hume on Human Understanding: Essays onthe First Enquiry(OUP) contains a sixty-page ‘Critical Survey of the Literature on Hume and the First Enquiry’ (pp. 413–74), summarizing and discussing around 250 selected books and papers, all organized according to the relevant topics. There is also a Web version of this Critical Survey at www.davidhume.org together with other relevant resources. Hence this small bibliography makes no attempt to identify specialist treatments of particular topics from the Enquiry.
- 
- Hume’s Life and the Intellectual Background Mossner, E. C., The Life of David Hume(OUP, 2nd edn. 1980) is the standard biography.
- 
- Gribbin, John, Science: A History (Penguin, 2002), chs. 1–5 cover the development of science from Copernicus to Newton.
- 
- Craig, Edward, The Mind of God and the Works of Man (OUP, 1987), chs.1–2suggest that Hume’s primary aim was to oppose a widespread view of reason as ‘the Image of God’.
- 
- Books on the Enquiry Millican, Peter, Reading Hume on Human Understanding: Essays on the First Enquiry (OUP, 2002) contains a general overview of the Enquiry, followed by papers from noted Hume scholars on each of its main sections.
- 
- The papers are also summarized in an introduction.
- 
- Penelhum, Terence, David Hume: An Introduction to his Philosophical System (Purdue University Press, 1992) includes selections from the Enquiry, together with helpful commentary.
- 
- Buckle, Stephen, Hume’s Enlightenment Tract(OUP, 2001) is devoted to the Enquiry, giving historical background and a significantly different perspective from that presented here.
- 
- Flew, Antony, Hume’s Philosophy of Belief(Routledge & Kegan Paul, 1961) was the first major book on the Enquiry—dated and difficult, but still rewarding.
- 
- Approachable Discussions of Specific Topics from the Enquiry Craig, Edward, ‘Hume on Thought and Belief’, in Godfrey Vesey (ed.), Philosophers Ancient and Modern(CUP,1986),93–110.
- 
- Salmon, Wesley, ‘An Encounter with David Hume’, in Joel Feinberg (ed.), Reason and Responsibility (Dickenson, 3rd edn. 1975), 190–208 (on induction).
- 
+SELECT BIBLIOGRAPHY
 
- 
-(Simplified)
- 
+My 2002 book, *Reading Hume on Human Understanding: Essays on the First Enquiry* (OUP), has a long section called ‘Critical Survey of the Literature on Hume and the First Enquiry’ (pages 413–74). It talks about and explains around 250 important books and papers, all sorted by topics. You can also find this survey online at www.davidhume.org, along with other useful resources. So, this short list doesn’t try to point out every detailed study about parts of the Enquiry.
+
+About Hume’s Life and Background
+
+The usual biography to read is *The Life of David Hume* by E. C. Mossner (OUP, 2nd edition, 1980).
+
+John Gribbin’s *Science: A History* (Penguin, 2002), chapters 1 to 5, explain how science grew from Copernicus to Newton.
+
+Edward Craig’s *The Mind of God and the Works of Man* (OUP, 1987), chapters 1 and 2, says that Hume mainly wanted to argue against the popular idea that reason is like a ‘Image of God’.
+
+Books on the Enquiry
+
+Peter Millican’s *Reading Hume on Human Understanding* (OUP, 2002) gives a general overview of the Enquiry and includes essays by famous Hume experts on its main parts.
+
+These essays are also summed up in an introduction.
+
+Terence Penelhum’s *David Hume: An Introduction to his Philosophical System* (Purdue University Press, 1992) has parts of the Enquiry with helpful explanations.
+
+Stephen Buckle’s *Hume’s Enlightenment Tract* (OUP, 2001) focuses on the Enquiry, giving history and a different view than the one here.
+
+Antony Flew’s *Hume’s Philosophy of Belief* (Routledge & Kegan Paul, 1961) was the first big book on the Enquiry. It’s old and hard but still worth reading.
+
+Easy-to-Understand Talks on Specific Topics from the Enquiry
+
+Edward Craig wrote ‘Hume on Thought and Belief’ in a book edited by Godfrey Vesey called *Philosophers Ancient and Modern* (CUP, 1986), pages 93–110.
+
+Wesley Salmon wrote ‘An Encounter with David Hume’ in a book edited by Joel Feinberg called *Reason and Responsibility* (Dickenson, 3rd edition, 1975), pages 190–208, which talks about induction.

@@ -1,14 +1,17 @@
-Thus much of the division of laws.
- 
- I find the words lex civilis and jus civile, that is to say, and law and right civil, promiscuously used for the same thing, even in the most learned authors; which nevertheless ought not to be so. For right is liberty, namely that liberty which the civil law leaves us: but civil law is an obligation, and takes from us the liberty which the law of nature gave us. Nature gave a right to every man to secure himself by his own strength, and to invade a suspected neighbour by way of prevention: but the civil law takes away that liberty, in all cases where the protection of the law may be safely stayed for. Insomuch as lex and jus are as different as obligation and liberty.
- 
- Likewise laws and charters are taken promiscuously for the same thing. Yet charters are donations of the sovereign; and not laws, but exemptions from law. The phrase of a law is jubeo, injungo; I command and enjoin: the phrase of a charter is dedi, concessi; I have given, I have granted: but what is given or granted to a man is not forced upon him by a law. A law may be made to bind all the subjects of a Commonwealth: a liberty or charter is only to one man or some one part of the people.
- 
- For to say all the people of a Commonwealth have liberty in any case whatsoever is to say that, in such case, there hath been no law made; or else, having been made, is now abrogated.
- 
- XXVII: Of Crimes, Excuses, and Extenuations A sin is not only a transgression of a law, but also any contempt of the legislator. For such contempt is a breach of all his laws at once, and therefore may consist, not only in the commission of a fact, or in the speaking of words by the laws forbidden, or in the omission of what the law commandeth, but also in the intention or purpose to transgress. For the purpose to break the law is some degree of contempt of him to whom it belonged to see it executed. To be delighted in the imagination only of being possessed of another man’s goods, servants, or wife, without any intention to take them from him by force or fraud, is no breach of the law, that saith, “Thou shalt not covet”: nor is the pleasure a man may have in imagining or dreaming of the death of him from whose life he expecteth nothing but damage and displeasure, a sin; but the resolving to put some act in execution that tendeth thereto. For to be pleased in the fiction of that which would please a man if it were real is a passion so Leviathan/179 adherent to the nature both of man and every other living creature, as to make it a sin were to make sin of being a man.
- 
+Here’s a simpler version of the passage, split into paragraphs for easier reading:
 
- 
-my name is sandeep gautam
- 
+There is a lot to say about how laws are divided.
+
+I see people use the words "lex civilis" and "jus civile," which mean "civil law" and "civil right," as if they mean the same thing. Even smart people do this, but they shouldn't. A right is freedom—specifically, the freedom that civil law allows us. But civil law is a rule that limits us and takes away some freedom that natural law gave us. Nature gave everyone the right to protect themselves by their own strength and even to attack a neighbor if they seemed dangerous. But civil law stops us from doing that when the law can protect us safely. So, "lex" (law) and "jus" (right) are very different—like the difference between rules and freedom.
+
+Also, people often mix up laws and charters. But charters are gifts from the ruler, not laws. Charters give exceptions to the law. When someone says "I command" or "I order," they mean a law. When they say "I have given" or "I have granted," they mean a charter. What is given to someone is not forced on them by law. A law is made to apply to everyone, but a charter or liberty applies only to one person or a small group.
+
+If everyone in a country is free to do something in every case, it means either no law was made about it or the law was canceled.
+
+XXVII: About Crimes, Excuses, and Lessening Punishments
+
+A sin is not just breaking a law, but also disrespecting the person who made the law. Disrespect breaks all the laws at once. Sin can be doing something wrong, saying forbidden words, not doing what the law says, or even planning to break the law. Planning to break the law shows some disrespect to the person who should enforce it.
+
+Just wanting something that belongs to someone else, like their stuff, servants, or partner, without planning to take it by force or cheating, is not breaking the law that says, "You shall not covet." Also, enjoying imagining or dreaming about someone’s death, especially if that person only causes harm, is not a sin. But deciding to do something that leads to their death is a sin. Enjoying imaginary things that would make you happy if real is a natural feeling for all living creatures. If that were a sin, then being human itself would be a sin.
+
+My name is Sandeep Gautam.

@@ -1,10 +1,15 @@
-Pt. II. Div. II. Bk. II. Ch. II finity, and here the distinction between the infinite and a progress of in­ determinate length (progressus in indefinitum) would be an empty sub­ tlety. For although when it is said, "Draw a line" it obviously sounds more correct to add in indefinitum than if it were said in infinitum, be­ cause the first means a no more than "Extend it as far as you want," but the second meansb "You ought never to stop extending it" (which is not at all intended here); yet if we are talking only about what can be done, then the first expression is entirely correct, for you could always make it greater, to infinity. And this is also the situation in all cases where one is speaking only of a forward progress,c i.e., of a progress from the con­ dition to the conditioned; this possible progress in the series of appear­ ances goes to infinity. From one pair of parents you could progress in a descending line of generation without end, and you could also think A51zlB540 that it might actually progress that way in the world. For here reason never needs an absolute totality in the series, because it is not presup­ posed as a condition as given (datum), but it is only added on as some­ thing conditioned, which is capable of being given (dabile), and this without end.
- 
- It is entirely otherwise with the problem how far does the regress ex­ tend when it ascends from the given conditioned to its conditions in the series: whether I can say here that there is a regress to infinity or only a regress extending indetenninately far (in indefinitum), and whether from human beings now living I can ascend to infinity in the series of their ancestors, or whether it can be said only that as far as I have gone back, there has never been an empirical ground for holding the series to be bounded anywhere, so that for every forefather I am justified in seek­ ing, and at the same time bound to seek, still further for his ancestors, though not to presuppose them?
- 
- To this I say: If the whole was given in empirical intuition, then the regress in the series of its inner conditions goes to infinity. But if only one member of the series is given, from which the regress to an absolute totality is first of all to proceed, then only an indeterminate kind of A513/B 541 regress (in indefinitum) takes place. Thus of the division of matter (of a body) that is given within certain boundaries, it must be said that it goes to infinity. For this matter is given in empirical intuition as a whole, and consequently with all its possible parts. Now since the condition of this whole is its part, and the condition of this part is a part made of parts, etc., and in this regress of decomposition an unconditioned (indivisible) member of this series of conditions is never encountered, not only is a bedeutet bedeutet b Progressus C 522 Section VIII.
- 
+Part II, Division II, Book II, Chapter II
 
- 
-(Simplified)
- 
+The difference between something infinite and something that goes on without a set end is kind of a small detail. For example, if you say, "Draw a line," it sounds better to say "draw it as far as you want" rather than "draw it forever without stopping." The first just means you can make it longer if you want, but the second means you should never stop, which is not the point here.
+
+When we talk about what can actually be done, the first way is totally fine because you could always keep making it longer, even to infinity. This idea works for any situation where you’re moving forward in a series, like going from one condition to the next.
+
+For example, from one pair of parents, you could keep tracing their descendants forever. You can even imagine that this could really happen in the world. Here, reason doesn’t need a complete end to the series because it’s not starting with a fixed whole; instead, it adds on parts that can keep going without stopping.
+
+But it’s different when you try to go backward from something given to its causes or conditions. The question is whether this backward chain goes on forever or just goes on without a set end. For example, can you trace human ancestors back infinitely, or only as far as you’ve looked, with no proof that it really goes on forever? You can keep searching for more ancestors, but you can’t assume they must exist without proof.
+
+Here’s my answer: If you had the entire thing in front of you, you could say the backward chain goes to infinity. But if you only have one part of the series, and you want to find all its causes, then the backward chain just goes on without a set end.  
+
+For example, if you look at a piece of matter inside certain limits, you can say it goes to infinity because the whole thing is given to you as it really is, including all its parts. Each part is made of smaller parts, and those parts are made of even smaller parts, and so on.
+
+Since you never find a smallest indivisible part, this breaking down process goes on forever.

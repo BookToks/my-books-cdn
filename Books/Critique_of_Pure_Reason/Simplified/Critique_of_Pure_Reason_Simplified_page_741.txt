@@ -1,28 +1,23 @@
-This paragraph's opening suggestion thatthere would be an infinite regress if judgment needed rules to apply rules becomes even more prominent in Critique of Judgment, preface, 5:169.
- 
- 5 I The first mention of the doctrine of schematism seems to be at R 5552 (1778-79, 18:218-2I , at p. 220). This late origin of the concept is consis­ tent with the absence of any separation between the tasks of a transcenden­ tal deduction and of a theory of principles of judgment in the reflections of the mid-I770s, especially R 4674-84 from the Duisburg Nachlafl; only once the two tasks had been separated would it have been necessary to invent the bridge between them, and so the final form of the "Transcendental Analy­ tic," in which the "Schematism" forms a bridge between the "Analytic of Concepts" and "Analytic of Principles" ("Doctrine of Judgment"), though it is formally the first chapter of the latter, does not appear to have taken shape in Kant's mind before I 778. The next mention of the "schematistic" is from the immediate period of the composition of the first edition of the Critique, in R 5636 (1780-81, 18:267-8). The doctrine of the schematism is also prominent in three reflections from the period 1783-84, R 5932-4 (18:391-4), although it is mentioned by name only in R 5933 (18:392-3).
- 
- Finally, there is a late note in which Kant holds the chapter on the schema­ tism "for one of the most important" even though his own disciple Jakob Sigismund Beck could not understand it; see R 6369 (1797, 18:685-7).
- 
- 52 The distinction between a mere image and a rule which Kant will make in this paragraph in order to undermine any empiricist criticism of abstract mathematical ideas such as Berkeley's (see A Treatise concerning the Principles of Human Knowledge, introduction, § 18) had already been suggested by Leibniz in his discussion of Locke's resolution of the Molyneux problem; see New Essays on Human Understanding, book II, chapter IX, § 8, where Leibniz says "how essential it is to distinguish images from exact ideas which are composed of definitions" (Bennett and Remnant, p. I 37).
- 
- 53 For several reflections clarifying Kant's concepts of quantity, see R 5583, 5585, and 5589 (I778-1780s, 18:240-2).
- 
- 54 To these three paragraphs, compare R 5763 (1783-84, 18:347). See also R 5764 (1783-84, 18:347-8).
- 
- 55 On the distinction between the principles of analytic and synthetic judg­ ments in this and the following section, see R 3919-23 (1769,17:344-8), R 3925-6 (1769, 17:349), and especially R 3928 (1769,17=35°-1).
- 
- 56 In addition to the reflections cited in the previous note, see also R 4476-8, 4480, and 4482 (1772, 17:565-9).
- 
- 57 Compare with this Critique of Judgment, introduction V, 5:184-5.
- 
- 58 See R 5585 (1779-81, I8:241-2), where Kant suggests that the mathemat­ ical principles are so called because they are the conditions of the possibil­ ity of applied mathematics.
- 
- 59 For some light on these terms, see R 4675 (1775, 17:648-53, at pp. 648-9) and R 4681 (1773-5, 17:665-8, at pp. 667-8).
- 
- 728 Notes to pages 285-303 60 This distinction is already well worked out in R 5758 (1775-77, 17:7°5-8, at p.
- 
+The idea that using rules to make judgments would lead to an endless loop is even clearer in Kant’s work called the Critique of Judgment, in the preface.
 
- 
-(Simplified)
- 
+The first time Kant talks about the idea of schematism is in a note from 1778-79. This makes sense because earlier writings don’t separate the job of explaining how we understand things from the job of explaining how we judge them. Only after Kant split these tasks did he need to create a connection between them. This connection, called "schematism," links the part about understanding concepts to the part about applying principles in judgment. Kant didn’t fully develop this idea until around 1778. He mentions schematism again while working on the first edition of the Critique in 1780-81, and it shows up again in some notes from 1783-84.
+
+Later, Kant says the chapter about schematism is very important, even though his student Jakob Sigismund Beck didn’t understand it.
+
+Kant also makes a difference between just an image and a rule. He does this to respond to critics like Berkeley, who questioned abstract ideas in math. This idea was also mentioned earlier by Leibniz when he talked about Locke’s work.
+
+Kant wrote several notes explaining his ideas about quantity between 1778 and the 1780s.
+
+There are also other notes from 1783-84 that relate to these ideas.
+
+Kant distinguishes between two kinds of judgments: analytic and synthetic. He wrote about this in 1769 and in other reflections from the 1770s.
+
+Some of Kant’s thoughts from the early 1770s also help explain these ideas.
+
+In the Critique of Judgment, Kant talks more about these topics in the introduction.
+
+In one note, Kant says that mathematical principles are called that because they make applied math possible.
+
+Other notes from the mid-1770s give more clarity on these terms.
+
+This distinction is explained well in a note from 1775-77.

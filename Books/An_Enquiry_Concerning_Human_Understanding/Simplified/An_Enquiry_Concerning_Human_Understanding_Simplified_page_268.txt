@@ -1,34 +1,29 @@
-204 Notes to Pages 112–118 12.13 a very unexpected circuit: Descartes famously appealed to God’s non-deceitfulness in order to establish the ultimate reliability of our faculties if used properly.
- 
- 12.15 another sceptical topic: this argument broadly follows that of Treatise 1.4.4, ‘Of the modern philosophy’.
- 
- 12.15 merely secondary: Locke’s distinction between primary and secondary qualities, against which Hume here deploys an argument of Berkeley’s, is discussed in §3of the Introduction, above. For Locke and Berkeley see also Glossarial Index.
- 
- 12.15 Abstraction: Locke appealed to the notion of abstraction to explain the origin of general ideas, see the Introduction, p. xvii.
- 
- 12.15 Isoceles nor Scalenum: an isosceles triangle is one that has two sides the same length, while a scalene triangle’s sides are all of different lengths.
- 
- Berkeley (Principles of Human Knowledge, Introduction §13) famously took advantage of Locke’s confused description of the abstract idea of a triangle (in Essay, IV. vii. 9) to ridicule his notion of abstraction.
- 
- 12.16 no sceptic . . . against it: the last sentence of this paragraph was added only in the final 1777 edition of the Enquiry, and its interpretation is unclear. Hume appears to be dismissive of the notion of ‘a certain unknown, inexplicable something, as the cause of our perceptions’, but rather than reject the notion as incoherent, he seems to suggest that it is sufficiently thin to be harmless. No dubious metaphysics (e.g. claiming to know the powers or inherent limits of matter) can possibly be based on something so meagre.
- 
- 12.21 Pyrrhonism: see Glossarial Index.
- 
- 12.22 more profound researches: Hume now summarizes his own argument from Section IV, ‘Sceptical doubts concerning the operations of the understanding’, incorporating also the lesson from Section VII (cf. 4.16n.7).
- 
- He highlights the sceptical worry that the instinct of custom, ‘like other instincts, may be fallacious and deceitful’. For an overview of Hume’s strategy at this point in Section XII, see the Introduction, p. lv.
- 
- 12.23 COPERNICAN orPTOLEMAIC: see §1of the Introduction, above.
- 
- 12.23 STOICorEPICUREAN: see Glossarial Index.
- 
- 12.24 result of this PYRRHONISM: since the arguments for Pyrrhonism are supposed to be irrefutable, Hume seems to be suggesting that it results in mitigated scepticism by a natural causal route rather than rational reflection. If we reflect on the Pyrrhonian arguments, then we will naturallyfind ourselves drawn towards mitigated scepticism even when common life renders the Pyrrhonian arguments impossible to believe.
- 
- 12.25 limitation of our enquiries: see the extract from the Dialogues(Appendix III, above) for Cleanthes’ doubts about the cogency of this recommendation.
- 
- 12.25 methodized and corrected: see pp. lv–lvi of the Introduction for a sketch of how this approach to science might work.
- 
+12.13 Descartes made a surprising point: he said that because God doesn’t lie, we can trust our thinking abilities if we use them the right way.
 
- 
-(Simplified)
- 
+12.15 Another skeptical idea: this argument is similar to one in Treatise 1.4.4 called ‘Of the modern philosophy’.
+
+12.15 Only secondary: Locke talked about primary and secondary qualities, and Hume uses an argument from Berkeley against Locke’s idea. You can find more about Locke and Berkeley in the Introduction and Glossary.
+
+12.15 Abstraction: Locke used the idea of abstraction to explain how we get general ideas. See the Introduction, page xvii.
+
+12.15 Isosceles or scalene: an isosceles triangle has two equal sides, while a scalene triangle has all sides of different lengths.
+
+Berkeley, in his Principles of Human Knowledge, made fun of Locke’s unclear idea of a triangle to criticize Locke’s idea of abstraction.
+
+12.16 No skeptic... against it: The last sentence here was added in the final 1777 edition of the Enquiry, and its meaning isn’t clear. Hume seems to dismiss the idea of “some unknown cause” behind our thoughts but doesn’t call it nonsense. Instead, he says it’s so weak that it can’t support any strange or doubtful ideas about matter.
+
+12.21 Pyrrhonism: see the Glossary.
+
+12.22 More deep research: Hume sums up his argument from Section IV about doubts on how we understand things, also including lessons from Section VII.
+
+He points out that the habit of expecting things to happen a certain way, like other habits, can be wrong or misleading. For a summary of Hume’s plan here, see the Introduction, page lv.
+
+12.23 Copernican or Ptolemaic: see Section 1 of the Introduction.
+
+12.23 Stoic or Epicurean: see the Glossary.
+
+12.24 Result of this Pyrrhonism: since Pyrrhonian arguments can’t be beaten, Hume thinks they naturally lead us to a softer kind of skepticism, even if everyday life makes those arguments hard to believe.
+
+12.25 Limits of our questions: see the part from the Dialogues (Appendix III) where Cleanthes doubts whether this advice really works.
+
+12.25 Organized and fixed: see pages lv–lvi of the Introduction for a summary of how this scientific approach could work.

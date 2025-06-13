@@ -1,14 +1,9 @@
-Proof Suppose a composite thing (as substance) consists of simple parts.
- 
- Because every external relation between substances, hence every com­ position of them, is possible only in space, there must exist as many parts of space as there are parts of the composite thing occupying it.
- 
- Now space does not consist of simple parts, but of spaces. Thus every part of the composite must occupy a space. But the absolutely primary parts of the composite are simple. Thus the simple occupies a space.
- 
- Now since everything real that occupies a space contains within itself a manifold of elements external to one another, and hence is composite, and indeed, as a real composite, it is composed not of accidents (for they cannot be external to one another apart from substance), but therefore of substances; thus the simple would be a substantial composite, which contradicts itself.
- 
- The second proposition of the antithesis, that in the world nothing at all exists that is simple, is here supposed to signify only this: The ex- A43 7 / B 465 istence of the absolutely simple cannot be established by any experience or perception, whether external or internal, and the absolutely simple is thus a mere idea, whose objective reality can never be established in any possible experience, and hence in the expositiona of appearances it has no application or object. For if we assumed that this transcendental idea could find an object in experience, then empirical intuition of some such object would have to be recognized, an intuition containing absolutely no manifold whose elements are external to one another and bound into a unity. Now since there is no inference from our not being conscious of <such a manifold to its> complete impossibility in any ina Exposition 477 Doctrine of Elements.
- 
+Imagine something made up of smaller simple parts.
 
- 
-(Simplified)
- 
+Since everything that connects substances happens in space, there must be as many parts of space as there are parts of the thing taking up that space.
+
+But space itself isn’t made of simple parts; it’s made of areas of space. So, every part of the thing must take up some space. The most basic parts are simple, so these simple parts take up space.
+
+Now, anything real that takes up space is made of different parts that are separate from each other, so it’s made of multiple parts. And since it’s a real thing made of parts, it’s made of substances, not just qualities. So, if the simple were real, it would actually be made of parts, which doesn’t make sense.
+
+The second idea says that nothing simple exists in the world. This means we can’t prove the simple exists by any experience or perception, inside or outside ourselves. The simple is just an idea, and we can’t find real examples of it in the world. If it did exist, we would be able to sense something without any parts at all, but we never do. Just because we don’t notice such a thing doesn’t mean it’s impossible.

@@ -1,8 +1,21 @@
-I. Science, that is, knowledge of consequences; which is called also Philosophy A. Consequences from accidents of bodies natural; which is called Natural Philosophy 1. Consequences from accidents common to all bodies natural; which are quantity, and motion.
- 
- a. Consequences from quantity, and motion indeterminate; which, being the principles or first foundation of philosophy, is called philosophia prima Philosophia Prima b. Consequences from motion, and quantity determined 1) Consequences from quantity, and motion determined a) By figure, By number 1] Mathematics, Geometry Arithmetic 2) Consequences from motion, and quantity of bodies in special a) Consequences from motion, and quantity of the great parts of the world, as the earth and stars, 1] Cosmography Astronomy Geography b) Consequences from motion of special kinds, and figures of body, 1] Mechanics, doctrine of weight Science of Engineers Architecture Navigation 2. Physics, or consequences from qualities a. Consequences from qualities of bodies transient, such as sometimes appear, sometimes vanish Meteorology b. Consequences from qualities of bodies permanent 1) Consequences from qualities of stars a) Consequences from the light of the stars. Out of this, and the motion of the sun, is made the science of Sciography b) Consequences from the influence of the stars, Astrology 2) Consequences of qualities from liquid bodies that fill the space between the stars; such as are the air, or substance etherial 3) Consequences from qualities of bodies terrestrial a) Consequences from parts of the earth that are without sense, 1] Consequences from qualities of minerals, as stones, metals, Leviathan/53 etc.
- 
+Science is the study of how things cause other things to happen, which is also called Philosophy.
 
- 
-(Simplified)
- 
+First, there are effects from natural things, called Natural Philosophy. These come from things all natural bodies have, like size and movement.
+
+a. Effects from size and movement that are not fixed are the basic ideas of philosophy, called first philosophy.  
+b. Effects from size and movement that are fixed:  
+1) Effects from fixed size and movement:  
+a) By shape and by number, like in Mathematics, Geometry, and Arithmetic.  
+2) Effects from the movement and size of special bodies:  
+a) Effects from the movement and size of big things like the Earth and stars, studied in Cosmography, Astronomy, and Geography.  
+b) Effects from special types of movement and shapes of bodies, studied in Mechanics, weight science, Engineering, Architecture, and Navigation.
+
+Second, Physics studies effects from qualities.  
+a. Effects from qualities that come and go, like weather, are studied in Meteorology.  
+b. Effects from qualities that stay the same:  
+1) Effects from star qualities:  
+a) Effects from the light of stars and the sun’s movement, which is Sciography.  
+b) Effects from star influences, called Astrology.  
+2) Effects from qualities of liquids that fill space between stars, like air or ether.  
+3) Effects from qualities of Earthly things:  
+a) Effects from parts of the Earth without feeling, like minerals, stones, and metals.

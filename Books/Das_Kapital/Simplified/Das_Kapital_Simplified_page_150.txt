@@ -1,16 +1,17 @@
-The capital C is made up of two components, one, the sum of money c laid out upon the means of production, and the other, the sum of money v expended upon the labour-power; c represents the portion that has become constant capital, and v the portion that has become variable capital. At first then, C = c + v: for example, if £500 is the capital advanced, its components may be such that the £500 = £410 const. + £90 var. When the process of production is finished, we get a commodity whose value = (c + v) + s, where s is the surplus-value; or taking our former figures, the value of this commodity may be (£410 const. + £90 var.) + £90 surpl. The original capital has now changed from C to C', from £500 to £590. The difference is s or a surplus-value of £90.
- 
- Since the value of the constituent elements of the product is equal to the value of the advanced capital, it is mere tautology to say, that the excess of the value of the product over the value of its constituent elements, is equal to the expansion of the capital advanced or to the surplus-value produced.
- 
- Nevertheless, we must examine this tautology a little more closely. The two things compared are, the value of the product and the value of its constituents consumed in the process of production.
- 
- Now we have seen how that portion of the constant capital which consists of the instruments of labour, transfers to the production only a fraction of its value, while the remainder of that value continues to reside in those instruments. Since this remainder plays no part in the formation of value, we may at present leave it on one side. To introduce it into the calculation would make no difference. For instance, taking our former example, c = £410: suppose this sum to consist of £312 value of raw material, £44 value of auxiliary material, and £54 value of the machinery worn away in the process; and suppose that the total value of the machinery employed is £1,054. Out of this latter sum, then, we reckon as advanced for the purpose of turning out the product, the sum of £54 alone, which the machinery loses by wear and tear in the process; for this is all it parts with to the product. Now if we also reckon the remaining £1,000, which still continues in the machinery, as transferred to the product, we ought also to reckon it as part of the value advanced, and thus make it appear on both sides of our calculation.1 We should, in this way, get £1,500 on one side and £1,590 on the other. The difference of these two sums, or the surplus-value, would still be £90. Throughout this Book therefore, by constant capital advanced for the production of value, we always mean, unless the context is repugnant thereto, the value of the means of production actually consumed in the process, and that value alone.
- 
- This being so, let us return to the formula C = c + v, which we saw was transformed into C' = (c + v) + s, C becoming C'. We know that the value of the constant capital is transferred to, and merely re-appears in the product. The new value actually created in the process, the value produced, or value-product, is therefore not the same as the value of the product; it is not, as it would at first sight appear (c + v) + s or £410 const. + £90 var. + £90 surpl.; but v + s or £90 var.
- 
- + £90 surpl., not £590 but £180. If c = 0, or in other words, if there were branches of industry in which the capitalist could dispense with all means of production made by previous labour, whether they be raw material, auxiliary material, or instruments of labour, employing only 151 Chapter 9 labour-power and materials supplied by Nature, in that case, there would be no constant capital to transfer to the product.
- 
+Capital C is made up of two parts: one is the money spent on things needed to make stuff, called c, and the other is the money spent on paying workers, called v. The c part is called constant capital, and the v part is called variable capital. So, C = c + v. For example, if you have £500 to spend, it might be split into £410 for constant capital and £90 for variable capital.
 
- 
-(Simplified)
- 
+After making the product, its value is (c + v) + s, where s is the extra value made, called surplus-value. Using the example, the product’s value would be (£410 + £90) + £90, which equals £590. So, the original £500 has grown to £590, and the extra £90 is the surplus-value.
+
+Since the value of the product’s parts equals the value of the money spent, it’s obvious that the extra value (surplus-value) shows how much the capital has grown.
+
+But we need to look closer at this. We compare the product’s value with the value of the parts used to make it.
+
+Some of the constant capital, like machines, only give part of their value to the product because they wear out slowly. The rest of their value stays in the machines. We can ignore the part that stays in the machines because it doesn’t help make the product’s value right now.
+
+For example, if c = £410, that might be £312 for raw materials, £44 for extra materials, and £54 for machine wear and tear. The total machine value might be £1,054, but only £54 is used up while making the product. If we counted the full £1,054, we’d have to count it on both sides of the calculation, which wouldn’t change the surplus-value of £90.
+
+So, when we say constant capital, we mean only the part actually used up in making the product.
+
+Going back to the formula, C = c + v changes into C' = (c + v) + s. The value of constant capital just moves into the product, it doesn’t create new value. The new value made is only from variable capital plus surplus-value—that is, v + s, or £90 + £90 = £180, not £590.
+
+If c = 0—meaning no materials or machines are needed, only workers and natural materials—then there would be no constant capital added to the product.

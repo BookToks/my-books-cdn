@@ -1,26 +1,17 @@
-49-51.
- 
- 12 For a similar suggestion, see Kant's inaugural dissertation, "On the form and principles of the sensible and intelligible worlds," § 29 (2:417).
- 
- 13 Kant refers, of course, to Hume's famous discussion of causation in the Enquiry concerning Human Understanding (1748). Hume discusses "skepti­ cal doubts" about causal reasoning in section IV, and provides his "skeptical solution" to these doubts in section V; he then discusses "the idea of nec­ essary connexion" and provides his psychological account of the origin of that idea in section VII. Kant's reference to the concepts of "cause" and of a "necessity of connection" would seem to refer primarily to the latter sec­ tion. The first Enquiry was translated into German as early as 1755.
- 
- 14 See note 4 to the first-edition introduction, above.
- 
- 15 See note 5 above.
- 
- 16 Kant's attempt to characterize the difference between mathematical and philosophical propositions goes back to his response to the 1762 Berlin Academy of Science essay competition, his Inquiry concerning the distinctness of the principles of natural theology and morality, written in 1762 and pub­ lished in 1764 (2:273-301; Theoretical Philosophy I755-I770, ed. Walford, pp. 243-75)' The synthetic character of mathematical propositions was also a central issue in Kant's polemics with Eberhard; see On a Discovery, 8:191-3, 210-13 (Allison, Kant-Eberhard Controversy, pp. IlO-12, 126-8).
- 
- 17 Kant refers to Johann Andreas Se�er, Elementa Arithmeticae, Geometriae et Caluculi (Halle, 1756; second editipn, 1767), translated into German by J. W Segner, AnfangsgrUnde der 4fithmetik, Geometrie und der geomtrischen Berechnung (Halle, 1764; second edition, 1773). Hans Vaihinger refers Kant's example specifically to figures on pp. 27 and 79 of the 1773 edition of Segner's work; Hans Vaihinger, Commentar zu Kant's Kritik der reinen VernunJt, Vol. I (Stuttgart: W Spemann, 1881), p. 299.
- 
- 18 For another example, see R 4922 (18:29), from the early 1780s: "That the radius can be carried over into the circumference 6 times cannot be derived from the concept of the circumference" ("6 times" is obviously Kant's ap­ proximation for 2Jtr).
- 
- 19 Vaihinger argues (Commentar, vol. I, pp. 303-4) that the following sen­ tences, which continue the paragraph just concluded, should actually com­ plete the previous paragraph, and Kemp Smith accordingly transposes it.
- 
- However, the disputed lines occur in the same position in the Prolegomena, so in order to make this transposition here one must also make it in the Prolegomena (as does Lewis White Beck in his edition of that work [Kant, Prolegomena to any Future Metaphysics (Indianapolis: Bobbs-Merrill, 1950), p. vi]), thereby assuming that Kant twice allowed the same misprint to stand. Given the rapidity with which Kant made his revisions for the sec­ ond edition of the Critique, this is hardly impossible; but we leave the text as originally printed, although it does seem that what follows should be read as a comment on the whole discussion of mathematical propositions rather than on the first part of the present paragraph.
- 
- 718 Notes to pages I46-I55 20 For several earlier formulations of this point, see R 5 II 5 and 5 I I6 (1776-78, 18:94-6).
- 
+12 For a similar idea, see Kant’s first big paper, “On the form and principles of the sensible and intelligible worlds,” section 29.
 
- 
-(Simplified)
- 
+13 Kant is talking about Hume’s well-known ideas about cause and effect from his book, Enquiry concerning Human Understanding (1748). Hume talks about “skeptical doubts” about how we understand cause and effect in section IV, then gives his “skeptical solution” in section V. Later, in section VII, he explains where the idea of “necessary connection” comes from in our minds. Kant’s mention of “cause” and “necessary connection” mainly refers to this last part. Hume’s book was translated into German as early as 1755.
+
+14 See note 4 from the introduction to the first edition above.
+
+15 See note 5 above.
+
+16 Kant’s idea about the difference between math and philosophy goes back to his response to a contest held by the Berlin Academy of Science in 1762. He wrote a paper called Inquiry concerning the distinctness of the principles of natural theology and morality, finished in 1762 and published in 1764. The idea that math statements add new knowledge (synthetic) was also a big topic when Kant debated with Eberhard. 
+
+17 Kant refers to Johann Andreas Segner’s math book, Elementa Arithmeticae, Geometriae et Calculi (1756; second edition 1767), which was translated into German by J. W. Segner as Anfangsgründe der Arithmetik, Geometrie und der geometrischen Berechnung (1764; second edition 1773). Hans Vaihinger points out that Kant used examples from pages 27 and 79 of the 1773 edition; Vaihinger wrote a commentary on Kant’s Critique of Pure Reason in 1881.
+
+18 Another example from Kant’s notes in the early 1780s says: “The radius can be carried over into the circumference 6 times” can’t be figured out just from the idea of the circumference. (The “6 times” is Kant’s rough way of saying 2πr.)
+
+19 Vaihinger argues that some sentences at the end of a paragraph should actually belong to the paragraph before. Kemp Smith agrees and moves them. But since these same sentences appear in the same place in Kant’s Prolegomena, moving them there too would mean Kant left the same mistake twice. Kant made changes quickly for the second edition of the Critique, so it’s possible. Still, the text is left as it was printed, though what follows is probably a comment about all the discussion on math statements, not just the first part of the paragraph.
+
+20 For earlier versions of this idea, see Kant’s notes R 5115 and 5116 from 1776-78.

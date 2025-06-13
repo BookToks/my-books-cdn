@@ -1,16 +1,17 @@
-“Order must in one way or another be established,” exclaims in 1770 the oft-cited author of the “Essay on Trade and Commerce.” “Order,” re-echoes Dr. Andrew Ure 66 years later, “Order” was wanting in manufacture based on “the scholastic dogma of division of labour,” and “Arkwright created order.” At the same time manufacture was unable, either to seize upon the production of society to its full extent, or to revolutionise that production to its very core. It towered up as an economic work of art, on the broad foundation of the town handicrafts, and of the rural domestic industries. At a given stage in its development, the narrow technical basis on which manufacture rested, came into conflict with requirements of production that were created by manufacture itself.
- 
- One of its most finished creations was the workshop for the production of the instruments of labour themselves, including especially the complicated mechanical apparatus then already employed.
- 
- A machine-factory, says Ure, “displayed the division of labour in manifold gradations ‒ the file, the drill, the lathe, having each its different workman in the order of skill.” (P. 21.) This workshop, the product of the division of labour in manufacture, produced in its turn ‒ machines. It is they that sweep away the handicraftsman’s work as the regulating principle of social production. Thus, on the one hand, the technical reason for the life-long annexation of the workman to a detail function is removed. On the other hand, the fetters that this same principle laid on the dominion of capital, fall away.
- 
- 1 To give a more modern instance: The silk spinning and weaving of Lyon and Nîmes “est toute patriarcale; elle emploie beaucoup de femmes et d’enfants, mais sans les épuiser ni les corrompre; elle les laisse dans leur belles valises de la Drôme, du Var, de l’Isère, de Vaucluse, pour y élever des vers et dévider leurs cocons; jamais elle n’entre dans une véritable fabrique. Pour être aussi bien observé ...
- 
- le principe de la division du travail s’y revêt d’un caractère spécial. Il y a bien des dévideuses, des moulineurs, des teinturiers, des encolleurs, puis des tisserands; mais ils ne sont pas réunis dans un même établissement, ne dépendent pas d’un même maître, tous ils sont indépendants” [... is entirely patriarchal; it employs a large number of women and children, but without exhausting or ruining them; it allows them to stay in their beautiful valleys of the Drôme, the Var, the Isère, the Vaucluse, cultuvating their silkworms and unwinding their cocoons; it never becomes a true factory industry.
- 
- However, the principle of the division of labour takes on a special character here. There do indeed exist winders, throwsters. dyers, sizers, and finally weavers; but they are not assembled in the same workshop, nor are they dependent on a single master; they are all independent] (A. Blanqui: “Cours, d’Econ. Industrielle.” Recueilli par A. Blaise. Paris, 1838-39, p. 79.) Since Blanqui wrote this, the various independent labourers have, to some extent, been united in factories. [And since Marx wrote the above, the power-loom has invaded these factories, and is now 1886 rapidly superseding the handloom. (Added in the 4th German edition. The Krefeld silk industry also has its tale to tell anent this subject.) F. E.] 2 “The more any manufacture of much variety shall be distributed and assigned to different artists, the same must needs be better done and with greater expedition, with less loss of time and labour.” (“The Advantages of the East India Trade,” Lond., 1720, p. 71.) 3 “Easy labour is transmitted skill.” (Th. Hodgskin, “Popular Political Economy,” p. 48.) 4 “The arts also have ... in Egypt reached the requisite degree of perfection. For it is the only country where artificers may not in any way meddle with the affairs of another class of citizens, but must 253 Chapter 14 follow that calling alone which by law is hereditary in their clan.
- 
+“Order has to be set up somehow,” says the famous writer of the “Essay on Trade and Commerce” back in 1770. Then, 66 years later, Dr. Andrew Ure repeats, “Order” was missing in manufacturing because of the strict idea of dividing work into small parts, and “Arkwright brought order.”
 
- 
-(Simplified)
- 
+At that time, manufacturing couldn’t fully take over how society made things or totally change that process. It grew as an economic masterpiece based on town crafts and rural home industries. But as it developed, the limited technical base of manufacturing started to clash with new production needs that manufacturing itself created.
+
+One of its most advanced results was a workshop that made the tools and machines needed for work, especially the complex machines already in use.
+
+Ure says a machine factory “showed the division of labor in many levels – each tool like a file, drill, or lathe had its own skilled worker.” This workshop, made possible by dividing labor in manufacturing, made machines. These machines eventually replaced the craftsman’s work as the main way society produced things. So, the idea that a worker had to do one small job forever was broken. Also, the limits that idea put on capital (money/business) were removed.
+
+For a more recent example: the silk spinning and weaving in Lyon and Nîmes is “totally family-based; it employs many women and children but doesn’t wear them out or harm them; it lets them stay in their beautiful valleys like Drôme, Var, Isère, and Vaucluse, where they raise silkworms and unwind cocoons. It never became a real factory.
+
+But the division of labor here is special. There are winders, throwsters, dyers, sizers, and weavers, but they don’t work in the same place or under one boss; they all work independently.” Since Blanqui wrote this, some of these workers have joined factories. And since Marx wrote, power-looms have entered these factories and are quickly replacing handlooms by 1886. (The Krefeld silk industry also has its own story about this.)
+
+“The more a complex manufacture is spread out and given to different specialists, the better and faster the work gets done with less wasted time and effort.” (“The Advantages of the East India Trade,” London, 1720.)
+
+“Easy work leads to learned skill.” (Th. Hodgskin, “Popular Political Economy.”)
+
+In Egypt, crafts reached a high level of skill because workers were only allowed to do the job their family clan had done by law, never interfering with other groups.

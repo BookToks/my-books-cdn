@@ -1,24 +1,25 @@
-369 Chapter 17 (2.) Every change in the relation between the magnitudes of surplus-value and of the value of labour-power arises from a change in the absolute magnitude of the surplus labour, and consequently of the surplus-value.
- 
- (3.) The absolute value of labour-power can change only in consequence of the reaction exercised by the prolongation of surplus labour upon the wear and tear of labour-power. Every change in this absolute value is therefore the effect, but never the cause, of a change in the magnitude of surplus-value.
- 
- We begin with the case in which the working day is shortened.
- 
- (1.) A shortening of the working day under the conditions given above, leaves the value of labour-power, and with it, the necessary labour time, unaltered. It reduces the surplus labour and surplus-value. Along with the absolute magnitude of the latter, its relative magnitude also falls, i.e., its magnitude relatively to the value of labour-power whose magnitude remains unaltered.
- 
- Only by lowering the price of labour-power below its value could the capitalist save himself harmless.
- 
- All the usual arguments against the shortening of the working day, assume that it takes place under the conditions we have here supposed to exist; but in reality the very contrary is the case: a change in the productiveness and intensity of labour either precedes, or immediately follows, a shortening of the working day.5 (2.) Lengthening of the working day. Let the necessary labour time be 6 hours, or the value of labour-power 3 shillings; also let the surplus labour be 6 hours or the surplus-value 3 shillings.
- 
- The whole working day then amounts to 12 hours and is embodied in a value of 6 shillings. If, now, the working day be lengthened by 2 hours and the price of labour-power remain unaltered, the surplus-value increases both absolutely and relatively. Although there is no absolute change in the value of labour-power, it suffers a relative fall. Under the conditions assumed in 1. there could not be a change of relative magnitude in the value of labour-power without a change in its absolute magnitude. Here, on the contrary, the change of relative magnitude in the value of labour-power is the result of the change of absolute magnitude in surplus-value.
- 
- Since the value in which a day's labour is embodied, increases with the length of that day, it is evident that the surplus-value and the price of labour-power may simultaneously increase, either by equal or unequal quantities. This simultaneous increase is therefore possible in two cases, one, the actual lengthening of the working day, the other, an increase in the intensity of labour unaccompanied by such lengthening.
- 
- When the working day is prolonged, the price of labour-power may fall below its value, although that price be nominally unchanged or even rise. The value of a day's labour-power is, as will be remembered, estimated from its normal average duration, or from the normal duration of life among the labourers, and from corresponding normal transformations of organised bodily matter into motion,6 in conformity with the nature of man. Up to a certain point, the increased wear and tear of labour-power, inseparable from a lengthened working day, may be compensated by higher wages. But beyond this point the wear and tear increases in geometrical progression, and every condition suitable for the normal reproduction and functioning of labour-power is suppressed.
- 
- The price of labour-power and the degree of its exploitation cease to be commensurable quantities.
- 
+Every change in the relationship between how much extra value workers create and the value of their work happens because the amount of extra work they do changes. This extra work means extra value.
 
- 
-(Simplified)
- 
+The value of a worker’s ability to work can only change because working extra hours causes more wear and tear on the worker. So, changes in this value happen because of changes in the extra value created, not the other way around.
+
+Let’s start with what happens when the working day gets shorter.
+
+If the working day is shortened, the value of the worker’s ability and the time needed for basic work stay the same. But the extra work and extra value created go down. This means both the total extra value and the extra value compared to the worker’s value drop.
+
+The only way a boss could avoid losing out is by paying the worker less than their actual value.
+
+Most arguments against shorter working days assume this situation, but in real life, changes in how productive or intense work is happen before or right after the day gets shorter.
+
+Now, let’s look at when the working day gets longer. Imagine the basic work time is 6 hours, and the value of work is 3 shillings. The extra work is also 6 hours, with extra value of 3 shillings.
+
+So, the total workday is 12 hours and worth 6 shillings. If the day is lengthened by 2 hours but the worker’s pay stays the same, the extra value goes up both in total and compared to the worker’s value. Even though the worker’s value doesn’t change in total, it becomes less compared to the extra value.
+
+Usually, the value of a worker’s ability changes only if the total value changes. But here, the value compared to the worker’s value changes because the extra value changes.
+
+Because a longer workday means more value created, both the extra value and the worker’s pay can go up at the same time, either equally or not.
+
+When the workday gets longer, the worker’s pay might actually become less than the real value of their work, even if the pay looks the same or even higher.
+
+The real value of a day’s work is based on how long people usually work and live, and how their bodies handle work. Up to a point, working longer can be balanced by higher pay. But after that, the damage to the worker increases quickly, and the conditions needed for them to work normally are lost.
+
+At that point, the worker’s pay and how much the boss exploits them can no longer be fairly compared.

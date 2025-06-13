@@ -1,18 +1,13 @@
-The labourer adds fresh value to the subject of his labour by expending upon it a given amount of additional labour, no matter what the specific character and utility of that labour may be. On the other hand, the values of the means of production used up in the process are preserved, and present themselves afresh as constituent parts of the value of the product; the values of the cotton and the spindle, for instance, re-appear again in the value of the yarn. The value of the means of production is therefore preserved, by being transferred to the product. This transfer takes place during the conversion of those means into a product, or in other words, during the labour-process.
- 
- It is brought about by labour; but how?
- 
- The labourer does not perform two operations at once, one in order to add value to the cotton, the other in order to preserve the value of the means of production, or, what amounts to the same thing, to transfer to the yarn, to the product, the value of the cotton on which he works, and part of the value of the spindle with which he works. But, by the very act of adding new value, he preserves their former values. Since, however, the addition of new value to the subject of his labour, and the preservation of its former value, are two entirely distinct results, produced simultaneously by the labourer, during one operation, it is plain that this two-fold nature of the result can be explained only by the two-fold nature of his labour; at one and the same time, it must in one character create value, and in another character preserve or transfer value.
- 
- Now, in what manner does every labourer add new labour and consequently new value?
- 
- Evidently, only by labouring productively in a particular way; the spinner by spinning, the weaver by weaving, the smith by forging. But, while thus incorporating labour generally, that is value, it is by the particular form alone of the labour, by the spinning, the weaving and the forging respectively, that the means of production, the cotton and spindle, the yarn and loom, and the iron and anvil become constituent elements of the product, of a new use-value.1 Each use-value disappears, but only to re-appear under a new form in a new use-value. Now, we saw, when we were considering the process of creating value, that, if a use-value be effectively consumed in the production of a new use-value, the quantity of labour expended in the production of the consumed article, forms a portion of the quantity of labour necessary to produce the new use-value; this portion is therefore labour transferred from the means of production to the new product. Hence, the labourer preserves the values of the consumed means of production, or transfers them as portions of its value to the product, not by virtue of his additional labour, abstractedly considered, but by virtue of the particular useful character of that labour, by virtue of its special productive form. In so far then as labour is such specific productive activity, in so far as it is spinning, weaving, or forging, it raises, by mere contact, the means of production from the dead, makes them living factors of the labour-process, and combines with them to form the new products.
- 
- If the special productive labour of the workman were not spinning, he could not convert the cotton into yarn, and therefore could not transfer the values of the cotton and spindle to the yarn.
- 
- Suppose the same workman were to change his occupation to that of a joiner, he would still by a day’s labour add value to the material he works upon. Consequently, we see, first, that the addition of new value takes place not by virtue of his labour being spinning in particular, or joinering in particular, but because it is labour in the abstract, a portion of the total labour of society; and we see next, that the value added is of a given definite amount, not because his 143 Chapter 8 labour has a special utility, but because it is exerted for a definite time.
- 
+When a worker puts effort into something, they add extra value to it, no matter what kind of work they do. At the same time, the value of the tools and materials they use doesn’t disappear. Instead, these values show up again in the final product. For example, the value of cotton and the spindle used to make yarn is included in the value of the yarn itself. This happens because the value of the tools and materials is passed on to the product during the work process.
 
- 
-(Simplified)
- 
+But how does this happen?
+
+The worker isn’t doing two separate jobs—one to add value and another to keep the value of the tools and materials. Instead, by adding new value, they also keep the old value. Since adding new value and preserving old value are two different results happening at the same time, it means the worker’s labor has two parts. At the same time, their work creates value and transfers value.
+
+So, how does a worker add new value?
+
+They add value by doing their specific job, like spinning, weaving, or forging. The way they work turns the materials and tools into part of the new product, giving it a new use. Even though the old items change form, their value stays in the new product. The value that was in the materials comes from the work that made those materials in the first place, and this value is passed on to the new product. The worker keeps this value not just by working hard, but because of the specific kind of work they do. This special work brings the materials to life and mixes with them to create the new product.
+
+If the worker wasn’t spinning, they couldn’t turn cotton into yarn, and so couldn’t pass on the value of the cotton and spindle to the yarn.
+
+Imagine the same worker changes jobs and becomes a joiner. They would still add value to the materials they work with during the day. This shows two things: first, new value is added because the worker is working in general, not because they’re doing a specific job like spinning or joinering. Second, the amount of value added depends on how long they work, not on any special usefulness of their work.

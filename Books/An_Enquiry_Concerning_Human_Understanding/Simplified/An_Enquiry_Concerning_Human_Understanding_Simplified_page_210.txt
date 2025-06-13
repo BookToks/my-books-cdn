@@ -1,14 +1,11 @@
-The two essays were replaced with ‘Of the Standard of Taste’, and the collection appeared in1757under the name Four Dissertations. The suppressed essays were eventually published posthumously and anonymously in 1777, but this text—like the standard edition of Miller (1987)—follows instead the 1755version, of which a proof-copy exists in the National Library of Scotland with twenty corrections in Hume’s handwriting. The marginal page numbers refer to Miller’s edition, to facilitate cross-reference.
- 
- Had the topic of immortality not been so dangerous, it is likely that the Enquiry would have included more explicit discussion of it, especially given Section XI’s overt concern with ‘a future state’. But quite apart from this, the philosophical style of the essay is exactly in the spirit of the Enquiry, and provides an excellent illustration of Hume’s approach. Its first and last paragraphs also illustrate the sort of ‘theological lying’ so common at the time, through which atheistic writers preserved the formal decencies by giving an appearance of orthodoxy. The Enquiryitself contains other examples, at the end of Sections VIII and X, at the beginning of Section XI, and also at 12.32.] 590 Of the Immortality of the Soul Bythe mere light of reason it seems difficult to prove the Immortality of the Soul. The arguments for it are commonly derived either from metaphysical topics, or moralorphysical. But in reality, it is the gospel, and the gospel alone, that has brought life and immortality to light.
- 
- 591 I. Metaphysicaltopics are founded on the supposition that the soul is immaterial, and that it is impossible for thought to belong to a material substance.
- 
- But just metaphysics teach us, that the notion of substance is wholly confused and imperfect, and that we have no other idea of any substance than as an aggregate of particular qualities, inhering in an unknown something. Matter, therefore, and spirit are at bottom equally unknown; and we cannot determine what qualities may inhere in the one or in the other.
- 
- Theylikewise teach us, that nothing can be decided a prioriconcerning any cause or effect; and that experience being the only source of our judgments of this nature, we cannot know from any other principle, whether ‘Of the Immortality of the Soul’ 147 matter, by its structure or arrangement, may not be the cause of thought.
- 
+The two essays were replaced with ‘Of the Standard of Taste’, and the collection came out in 1757 called Four Dissertations. The essays that were taken out were later published after the author died and without his name in 1777. But this version—like the usual one by Miller (1987)—uses the 1755 version. A proof copy of it is in the National Library of Scotland with twenty corrections written by Hume himself. The page numbers on the side match Miller’s edition to help you find things easily.
 
- 
-(Simplified)
- 
+If talking about immortality wasn’t so risky, the Enquiry would probably have talked about it more clearly, especially since Section XI is clearly about ‘a future state’. Besides that, the essay’s style fits perfectly with the Enquiry and shows how Hume thinks. The first and last paragraphs also show the kind of ‘theological lying’ that was common back then. This means that writers who didn’t really believe in religion still tried to sound respectful and follow religious rules. The Enquiry has other examples of this too—in Sections VIII and X, at the start of Section XI, and at 12.32.
+
+By just using reason, it’s hard to prove that the soul lives forever. The arguments usually come from ideas about metaphysics (the study of what exists) or morals. But really, it’s only the gospel that has shown us life and immortality.
+
+Metaphysical ideas assume that the soul isn’t physical and that thinking can’t happen in something physical.
+
+But metaphysics also teaches us that the idea of “substance” is confusing and unclear. We only think of a substance as a bunch of qualities that belong to some unknown thing. So, matter and spirit are both unknown at their core, and we can’t say for sure what qualities belong to either.
+
+Metaphysics also says we can’t decide anything about causes or effects before we experience them. Since experience is the only way we can judge these things, we don’t know if matter, because of how it’s made or arranged, might cause thought.

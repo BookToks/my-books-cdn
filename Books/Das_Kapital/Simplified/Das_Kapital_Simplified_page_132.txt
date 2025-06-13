@@ -1,20 +1,15 @@
-11 Let us now examine production as a creation of value.
- 
- We know that the value of each commodity is determined by the quantity of labour expended on and materialised in it, by the working-time necessary, under given social conditions, for its production. This rule also holds good in the case of the product that accrued to our capitalist, as the result of the labour-process carried on for him. Assuming this product to be 10 lbs. of yarn, our first step is to calculate the quantity of labour realised in it.
- 
- For spinning the yarn, raw material is required; suppose in this case 10 lbs. of cotton. We have no need at present to investigate the value of this cotton, for our capitalist has, we will assume, bought it at its full value, say of ten shillings. In this price the labour required for the production of the cotton is already expressed in terms of the average labour of society. We will further assume that the wear and tear of the spindle, which, for our present purpose, may represent all other instruments of labour employed, amounts to the value of 2s. If, then, twenty-four hours’ labour, or two working days, are required to produce the quantity of gold represented by twelve shillings, we have here, to begin with, two days’ labour already incorporated in the yarn.
- 
- We must not let ourselves be misled by the circumstance that the cotton has taken a new shape while the substance of the spindle has to a certain extent been used up. By the general law of value, if the value of 40 lbs. of yarn = the value of 40 lbs. of cotton + the value of a whole spindle, i. e., if the same working-time is required to produce the commodities on either side of this equation, then 10 lbs. of yarn are an equivalent for 10 lbs. of cotton, together with one-fourth of a spindle. In the case we are considering the same working-time is materialised in the 10 lbs. of yarn on the one hand, and in the 10 lbs. of cotton and the fraction of a spindle on the other.
- 
- Therefore, whether value appears in cotton, in a spindle, or in yarn, makes no difference in the amount of that value. The spindle and cotton, instead of resting quietly side by side, join together in the process, their forms are altered, and they are turned into yarn; but their value is no more affected by this fact than it would be if they had been simply exchanged for their equivalent in yarn.
- 
- The labour required for the production of the cotton, the raw material of the yarn, is part of the labour necessary to produce the yarn, and is therefore contained in the yarn. The same applies to the labour embodied in the spindle, without whose wear and tear the cotton could not be spun.
- 
- Hence, in determining the value of the yarn, or the labour-time required for its production, all the special processes carried on at various times and in different places, which were necessary, first to produce the cotton and the wasted portion of the spindle, and then with the cotton and spindle to spin the yarn, may together be looked on as different and successive phases of one and the same process. The whole of the labour in the yarn is past labour; and it is a matter of no importance that the operations necessary for the production of its constituent elements were carried on at times which, referred to the present, are more remote than the final operation of spinning. If a definite quantity of labour, say thirty days, is requisite to build a house, the total amount of labour incorporated in it is not altered by the fact that the work of the last day is done twenty-nine days later than that of the first. Therefore the labour contained in the raw material and the instruments of labour can be treated just as if it were labour expended in an earlier stage of the spinning process, before the labour of actual spinning commenced.
- 
- The values of the means of production, i. e., the cotton and the spindle, which values are expressed in the price of twelve shillings, are therefore constituent parts of the value of the yarn, or, in other words, of the value of the product.
- 
+Let’s look at how making something creates value.
 
- 
-(Simplified)
- 
+The value of a product depends on how much work goes into making it. This means the time and effort needed to make it, considering how things are usually done in society. This idea also works for what our business owner gets from the work done for them. Let’s say the product is 10 pounds of yarn. First, we need to figure out how much work is in that yarn.
+
+To spin the yarn, you need raw materials. Here, that’s 10 pounds of cotton. We don’t need to check the cotton’s value right now because the business owner has already paid the fair price for it, which is ten shillings. This price already includes the average work needed to grow and prepare the cotton. Also, let’s say the spindle, a tool used for spinning, loses value worth 2 shillings because it gets worn out. If it takes 24 hours (or two working days) to earn twelve shillings, then the yarn already includes two days of work.
+
+Don’t get confused just because the cotton changes form or because the spindle wears down. According to the general rule of value, if 40 pounds of yarn is worth the same as 40 pounds of cotton plus one whole spindle, it means the same amount of work went into making both. So, 10 pounds of yarn is equal in value to 10 pounds of cotton plus one-fourth of a spindle. In our case, the same amount of work is in the yarn as in the cotton and part of the spindle together.
+
+So, it doesn’t matter if the value is in cotton, the spindle, or yarn—the amount of value stays the same. The spindle and cotton don’t just sit there separately; they come together, change shape, and become yarn. But this doesn’t change their value any more than if they were simply traded for the same amount of yarn.
+
+The work needed to make the cotton, which is the yarn’s raw material, is part of the work needed to make the yarn. The same is true for the work put into the spindle, which is needed to spin the cotton.
+
+When figuring out the yarn’s value or how much work it took, all the steps done at different times and places—first to make the cotton and the spindle, then to spin the yarn—can be seen as different parts of one big process. All the work in the yarn is past work. It doesn’t matter if these steps happened a long time ago or just recently. For example, if it takes 30 days to build a house, the total work in the house doesn’t change just because the last day of work happens after 29 days. So, the work in the raw materials and tools can be treated like work done earlier in the spinning process, before spinning actually started.
+
+The value of the tools and raw materials, like the cotton and spindle, which is shown in the price of twelve shillings, is part of the total value of the yarn or the product.

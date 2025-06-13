@@ -1,12 +1,13 @@
-Pt. II. Div. 1. Bk. II. <A> the logical possibility of the concept (since it does not contradict itself) for the transcendentala possibility of things (where an object corre­ sponds to the concept) can deceive and satisfy only the inexperienced.b eThere is something strange and even nonsensical in there being a concept that must have some significance but is not capable of defini­ tion. Only in the case of the categories is there this special circumA245 stance, that they can have a determinate significance and relation to any object only by means of the general sensible condition, but that this condition is omitted from the pure category, since this can contain nothing but the logical function for bringing the manifold under a concept. From this function, i.e., the form of the concept alone, how­ ever, nothing can be cognized and distinguished about which objectd belongs under it, since abstraction has been made from just the sensi­ ble condition under which objects can belong under it at all. Hence the categories require, beyond the pure concept of the understanding, de­ terminations of their application to sensibility in general (schema), and without these are not concepts through which an object can be cog­ nized and distinguished from others, but only so many ways of think­ ing of an object for possible intuitions and of giving it its significance in accordance with some function of the understanding (under the req­ uisite conditions), i.e., of defining it: they themselves cannot there­ fore be defined. The logical functions of judgment in general-unity and multiplicity, affirmation and negation, subject and predicate -can­ not be defined without falling into a circle, since the definition would itself have to be a judgment and therefore already contain these func­ tions of judgment and therefore already contain these functions. The pure categories, however, are nothing other than the representations of things in general insofar as the manifold of their intuition must be thought through one or another of these logical functions: Magnitude is the determination that must be thought only through a judgment A246 that has quantity (judicium commune e); reality, that which can be thought only through an affirmative judgment; substance, that which, in relation to the intuition, must be the ultimate subject of all other determinations. But now what sorts of things those are in regard to which one must use one function rather than another remains hereby entirely undetermined: thus without the condition of sensible intu­ ition, the synthesis of which they contain, the categories have no rela­ tion at all to any determinate object,! thus they cannot define one, and a Altered in Kant's copy of the first edition to "real" (rea/en) (E CXXI, p. 41; 23:48).
- 
- b At this point the second edition adds a footnote; see 302-3n.
- 
- B ,. This paragraph is omitted in the second edition.
- 
- Object d , general judgment f Object 344 Chapter III.
- 
+Part II, Division 1, Book II.
 
- 
-(Simplified)
- 
+The idea of a concept being logically possible means it doesn’t contradict itself. But just because a concept is possible doesn’t mean it actually matches something real. This can trick beginners into thinking it’s true.
+
+It feels weird and even confusing that some concepts should mean something important but can’t be clearly defined. This only happens with categories. Categories only make sense when connected to something we can sense, but this connection is left out in the pure category. Pure categories only show how to group different things under one idea logically.
+
+Because pure categories leave out the sensory part, you can’t tell what kind of object fits into them. So, categories need extra rules to connect them to what we can sense, called schemas. Without these, categories are just ways to think about possible things, not clear ideas about real things. They can’t be defined on their own.
+
+The basic logical parts of judgment—like unity and many-ness, saying yes or no, or subject and predicate—can’t be defined without getting stuck in a loop, because defining them would already need those same parts.
+
+Pure categories are basically ways to think about anything in general, based on how we logically organize what we sense. For example, magnitude is about thinking in terms of quantity, reality is about something true or affirmed, and substance is the main thing all other features depend on.
+
+But the categories don’t tell us what kinds of things need each kind of thinking. Without the sensory input that connects them to real objects, categories don’t relate to any specific thing and can’t define anything clearly.

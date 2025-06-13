@@ -1,10 +1,15 @@
-A transcendental proposition is therefore a synthetic ratio­ nal cognition in accordance with mere concepts, and thus discursive, since through it all synthetic unity of empirical cognition first becomes possible, but no intuition is given by it a priori.
- 
- There are thus two uses of reason, which, regardless of the univer- A 72 3 / B 75] sality of cognition and its a priori generation, which they have in common, are nevertheless very different in procedure, precisely because there are two components to the appearance through which all objects are given to us: the form of intuition (space and time), which can be cognized and determined completely a priori, and the matter (the physical), or the content, which signifies a something that is encountered in space and time, and which thus contains an existence and corresponds to sensation. With regard to the latter, which can never be given in a determinate manner except empirically, we can have nothing a priori except indeterminate concepts of the synthesis of possible sensations insofar as they belong to the unity of apperception (in a possible experience). With regard to the former we can determine our concepts a priori in intuition, for we create the objects themselves in space and time through homogeneouso synthesis, considering them merely as quanta. The former is called the use of reason in accordance with concepts, because we can do nothing further than bring appearances under concepts, according to their real content, which cannot be determined except empirically, i.e., a posteriori (though in accord with those concepts as rules of an empirical synthesis); the latter is the use of reason through construction of concepts, because these concepts, since they al- A 724/B752 ready apply to an a priori intuition, for that very reason can be determinately given in pure intuition a priori and without any empirical data. To decide about everything that exists (a thing in space or time) whether and how far it is or is not a quantum, whether existence or the lack thereof must be represented in it, how far this something (which fills space or time) is a primary substratum or mere determination, whether it has a relation of its existence to something else as cause or effect, and * By means of the concept of cause I actually go beyond the empirical concept A 72 2 / B 750 of an occurrence (that something happens), but not to the intuition that exhibits the concept of cause in concreto, rather to the time-conditions in general that may be found to be in accord with the concept of cause in experience. I therefore proceed merely in accordance with concepts, and cannot proceed through construction of concepts, since the concept is a rule of the synthesis of perceptions, which are not pure intuitions and which therefore cannot be given priori.
- 
- a a gleichfo'rmige 635 Doctrine of Method.
- 
+A transcendental proposition is a type of knowledge that combines ideas in a logical way. It helps us understand how we can connect different pieces of information from experience, but it doesn't give us any direct, obvious sensory information on its own.
 
- 
-(Simplified)
- 
+There are two main ways we use reason, even though both are based on universal knowledge that we can have before experience. These two ways are different because things we experience come to us in two parts: the form of intuition (which means space and time), and the matter (which is the physical stuff we sense).
+
+The form of intuition, space and time, can be understood completely before we have any experience. The matter, or physical content, is something we only know through experience, and it always involves our senses.
+
+For the physical part, we can't have exact knowledge before experience, only general ideas about how sensations might come together. But for space and time, we can create exact ideas beforehand because we shape objects ourselves in these forms.
+
+The first way we use reason is by applying concepts to what we see, based on the real content we experience. We can only know this content after experiencing it.
+
+The second way is by building concepts because these ideas fit perfectly with the forms of space and time. This lets us understand things clearly without needing any experience.
+
+When we try to figure out if something exists in space or time, or how it relates to other things like cause and effect, we use concepts to think about it. But we can't create these ideas just by imagining them; they depend on how our senses connect information.
+
+For example, the idea of cause goes beyond just seeing something happen. It refers to the general time conditions that match the idea of cause in our experience. So, we use concepts as guides to link what we sense, but we can't build these concepts from scratch without relying on experience.

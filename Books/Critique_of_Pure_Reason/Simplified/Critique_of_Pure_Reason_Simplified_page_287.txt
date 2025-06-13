@@ -1,14 +1,13 @@
-Pt. II. Div. I. Bk. II. Ch. I A 142 as figures in space) is a product and as it were a monogram of pure a pri­ ori imagination, through which and in accordance with which the im­ ages first become possible, but which must be connected with the concept, to which they are in themselves never fully congruent, always only by means of the schema that they designate. The schema of a pure concept of the understanding, on the contrary, is something that can never be brought to an image at all, but is rather only the pure synthe­ sis, in accord with a rule of unity according to concepts in general, which the category expresses, and is a transcendental product of the imagination, which concerns the determination of the inner sense in general, in accordance with conditions of itsa form (time) in regard to all representations, insofar as these are to be connected together a pri­ ori in one concept in accord with the unity of apperception.
- 
- Rather than pausing now for a dry and boring analysis of what is re­ quired for transcendental schemata of pure concepts of the understand­ ing in general, we would rather present them according to the order of the categories and in connection with these.
- 
- B 182 The pure image of all magnitudes (quantorum) for outer sense is space; for all objects of the senses in general, it is time. The pure schema of magnitude (quantitatis), however, as a concept of the un­ derstanding, is number, which is a representation that summarizes the successive addition of one (homogeneous) unit to another. Thus numA 143 ber is nothing other than the unity of the synthesis of the manifold of a homogeneous intuition in general, becauseb I generate time itself in the apprehension of the intuition.53 Realityc is in the pure concept of the understanding that to which a sensationd in general corresponds, that, therefore, the concept of which in itself indicates a being (in time). Negation is that the concept of which represents a non-being (in time). The opposition of the two thus takes place in the distinction of one and the same time as either a filled or an empty time. Since time is only the form of intuition, thus of ob­ jects as appearances, that which corresponds to the sensation in these is the transcendental matter of all objects, as things in themselves (thinga In his copy of the first edition, Kant changed this from "ihrer" to "seiner," perhaps thereby intending to change its antecedent from "determination" to "inner sense" (E LIX, p. 28; 23=46).
- 
- dadurch, daft b , Realitdt Inserted in Kant's copy of the first edition: d "Sensation is that which is really empirical in our cognition, and the real of the rep­ resentations of inner sense in contrast to their form, time. Sensation therefore lies out­ side all a priori cognition. Only therein, how one sensation differs from another with regard to quality, beyond the a priori degrees, but not of their quantity. [sic]" (E LX, p.
- 
- 28; 23:27) 274 On the schematism of pure concepts of understanding hood,a reality).
- 
+When we think about shapes in space, they come from our imagination first. This imagination helps us make images, but these images don’t exactly match the ideas they represent. They only connect through a kind of mental pattern called a schema. 
 
- 
-(Simplified)
- 
+On the other hand, the schema for a pure idea from understanding can’t be turned into an image at all. Instead, it’s like a rule that combines ideas in a certain way. This rule comes from how our imagination works with time, which is how we organize our inner sense. It helps us put different thoughts together into one clear idea.
+
+Instead of giving a boring explanation of how these mental patterns work, it’s easier to look at them based on different types of ideas, or categories.
+
+For example, when we think about size or amount, space is the pure image for things we see outside ourselves, and time is the pure image for all experiences in general. The schema for understanding size or amount is number. Number shows how we add one thing after another, like counting.
+
+Number is just the way we put together many simple units into one idea, because time itself helps us understand this process. 
+
+Reality means something that causes a sensation or feeling, so the idea of reality points to something that exists in time. Negation means the idea of something that doesn’t exist in time. The difference between these two is like the difference between time that is filled with something and time that is empty.
+
+Since time is just how we experience things, the sensations we get are the real part of objects, the actual stuff behind how they seem to us.

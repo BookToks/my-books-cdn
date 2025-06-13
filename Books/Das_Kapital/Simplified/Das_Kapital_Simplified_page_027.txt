@@ -1,18 +1,13 @@
-Our investigation must therefore begin with the analysis of a commodity.
- 
- A commodity is, in the first place, an object outside us, a thing that by its properties satisfies human wants of some sort or another. The nature of such wants, whether, for instance, they spring from the stomach or from fancy, makes no difference.2 Neither are we here concerned to know how the object satisfies these wants, whether directly as means of subsistence, or indirectly as means of production.
- 
- Every useful thing, as iron, paper, &c., may be looked at from the two points of view of quality and quantity. It is an assemblage of many properties, and may therefore be of use in various ways.
- 
- To discover the various uses of things is the work of history.3 So also is the establishment of socially-recognized standards of measure for the quantities of these useful objects. The diversity of these measures has its origin partly in the diverse nature of the objects to be measured, partly in convention.
- 
- The utility of a thing makes it a use value.4 But this utility is not a thing of air. Being limited by the physical properties of the commodity, it has no existence apart from that commodity. A commodity, such as iron, corn, or a diamond, is therefore, so far as it is a material thing, a use value, something useful. This property of a commodity is independent of the amount of labour required to appropriate its useful qualities. When treating of use value, we always assume to be dealing with definite quantities, such as dozens of watches, yards of linen, or tons of iron. The use values of commodities furnish the material for a special study, that of the commercial knowledge of commodities.5 Use values become a reality only by use or consumption: they also constitute the substance of all wealth, whatever may be the social form of that wealth. In the form of society we are about to consider, they are, in addition, the material depositories of exchange value.
- 
- Exchange value, at first sight, presents itself as a quantitative relation, as the proportion in which values in use of one sort are exchanged for those of another sort,6 a relation constantly changing with time and place. Hence exchange value appears to be something accidental and purely relative, and consequently an intrinsic value, i.e., an exchange value that is inseparably connected with, inherent in commodities, seems a contradiction in terms.7 Let us consider the matter a little more closely.
- 
- A given commodity, e.g., a quarter of wheat is exchanged for x blacking, y silk, or z gold, &c. – in short, for other commodities in the most different proportions. Instead of one exchange value, the wheat has, therefore, a great many. But since x blacking, y silk, or z gold &c., each represents the exchange value of one quarter of wheat, x blacking, y silk, z gold, &c., must, as exchange values, be replaceable by each other, or equal to each other. Therefore, first: the valid exchange values of a given commodity express something equal; secondly, exchange value, generally, is only the mode of expression, the phenomenal form, of something contained in it, yet distinguishable from it.
- 
+We need to start by looking closely at what a commodity is.  
 
- 
-(Simplified)
- 
+A commodity is basically something outside of us, a thing that has qualities that satisfy human needs or wants. It doesn’t matter if these wants come from hunger or just liking something. We’re also not worried about how the thing meets these wants—whether it’s for eating or for making other things.  
+
+Every useful thing, like iron or paper, can be looked at in two ways: its quality and its quantity. It has many qualities, so it can be useful in different ways.  
+
+Finding out all the ways things can be used is a job for history. History also helps set standard ways to measure these useful things. The different ways we measure come from both the different kinds of things and from agreements people have made.  
+
+The usefulness of something makes it what we call a use value. But this usefulness isn’t just imaginary. It depends on the actual physical properties of the thing. So, a commodity like iron, corn, or a diamond is useful because of what it is. This usefulness doesn’t depend on how much work went into getting it. When we talk about use value, we always think about specific amounts, like dozens of watches or tons of iron. Use values are important for understanding how goods work in business. Use values only matter when we use or consume the things, and they are the real basis of all wealth, no matter the society. In the kind of society we’re discussing, use values also hold the exchange value.  
+
+Exchange value seems at first like a number that shows how much of one thing you can trade for another. This number changes depending on time and place. Because of this, exchange value looks like something random and only based on comparison. So it seems strange to say exchange value is a real, built-in part of commodities. But let’s think about it more carefully.  
+
+For example, a quarter of wheat might be traded for some blacking (a polish), some silk, or some gold—different things in very different amounts. So wheat has many exchange values. But since each of these things (blacking, silk, gold) represents the same exchange value as the wheat, they must be equal to each other in value. So first, exchange values of a commodity show something equal; second, exchange value is just the way we show something that’s inside the commodity but also different from it.

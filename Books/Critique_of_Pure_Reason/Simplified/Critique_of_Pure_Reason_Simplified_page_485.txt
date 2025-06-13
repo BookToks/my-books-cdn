@@ -1,14 +1,9 @@
-Pt. II. Div. II. Bk. II. Ch. II the world that fills all space as a whole, the successive synthesis of the parts of an infinite world would have to be regarded as completed, i.e., in the enumeration of all coexisting things, an infinite time would have to be regarded as having elapsed, which is impossible. Accordingly, an infinite aggregate of actual things cannot be regarded as a given whole, hence cannot be regarded as given simultaneously. Consequently, a world is not infinite in its extension in space, but is rather enclosed within its boundaries, which was the second point.
- 
- A430/B4S8 Remark on the First Antinomy 1. On the Thesis In these mutually conflicting arguments I have not sought semblancesa in order to present (as one says) a lawyer's proof, which takes advantage of an opponent's carelessness and gladly permits a misunderstanding of the law in order to build the case for his own unjust claims on the refu­ tation of the other side. Each of these proofs is drawn from the nature of the case, and any advantage that could be given to us by the fallacies of dogmatists on either side is to be set aside.
- 
- I could also have given a plausibleb proof of the thesis by presuppos­ ing a defective concept of the infinity of a given magnitude, according to the custom of the dogmatists. A magnitude is infinite if none greater than it (i.e., greater than the multiplec of a given unit contained in it) is possible.58 Now no multiplicity is the greatest, because one or more units can always be added to it. Therefore an infinite given magnitude, and hence also an infinite world (regarding either the past series or ex­ tension), is impossible; thus the world is bounded in both respects. I could have carried out my proof in this way: only this concept does not agree with what is usually understood by an infinite whole. It does not represent how great it is, hence this concept is not the concept of a A43 2/B 460 maximum; rather, it thinks only of the relation to an arbitrarily as­ sumed unit, in respect of which it is greater than any number.
- 
- According as the unit is assumed to be greater or smaller, this infinity would be greater or smaller; yet infinity, since it consists merely in the relation to this given unit, would always remain the same, even though in this way the absolute magnitude of the whole would obviously not be cognized at all, which is not here at issue.
- 
- The true (transcendental) concept of infinity is that the successive synthesis of unity in the traversal of a quantum can never be comBlendwerke a dem Scheine nach h , Menge 472 Section II.
- 
+If we think about the whole world filling all space, then putting together all the parts of an infinite world would mean that an infinite amount of time has passed, which is impossible. So, an infinite number of actual things can’t be seen as one complete whole at the same time. Because of this, the world can’t be infinite in size; instead, it has limits, which was the second point.
 
- 
-(Simplified)
- 
+Now, about the first argument, I didn’t try to trick anyone or use clever tricks like a lawyer might do to win a case unfairly. Each argument comes from the real nature of the problem, and I don’t want to take advantage of anyone’s mistakes or misunderstandings.
+
+I could have also used a different proof by assuming a wrong idea of what infinity means. People say something is infinite if there’s nothing bigger than it. But you can always add one more unit to any number, so there is no biggest number. That means an infinite size or an infinite world, whether in time or space, is impossible. So, the world must have limits in both time and space.
+
+I could explain it this way, but this idea of infinity isn’t what people usually mean by an infinite whole. It doesn’t show how big it really is. Instead, it only compares to a certain unit you choose. Depending on how big or small that unit is, the idea of infinity changes too, but infinity would stay the same because it’s just a relation to that unit. This way, you don’t really understand the full size of the whole thing, which isn’t the point here.
+
+The real idea of infinity is that you can never finish adding one thing after another when counting through something.

@@ -1,16 +1,11 @@
-Pt. II. Div. 1. Bk. 1. Ch. II <A> an object by being conscious of the composition of three straight lines in accordance with a rule according to which such an intuition can al­ ways be exhibited. Now this unity of rule determines every manifold, and limits it to conditions that make the unity of apperception possible, and the concept of this unity is the representation of the object X, = which I think through those predicates of a triangle.
- 
- A 106 All cognition requires a concept, however imperfect or obscure it may be; but as far as its form is concerned the latter is always something general, and something that serves as a rule. Thus the concept of body serves as the rule for our cognition of outer appearances by means of the unity of the manifold that is thought through it. However, it can be a rule of intuitions only if it represents the necessary reproduction of the manifold of given intuitions, hence the synthetic unity in the con­ sciousness of them. Thus in the case of the perception of something outside of us the concept of body makes necessary the representation of extension, and with it that of impenetrability, of shape, etc.
- 
- Every necessity has a transcendental condition as its ground. A tran­ scendental ground must therefore be found for the unity of the con­ sciousness in the synthesis of the manifold of all our intuitions, hence also of the concepts of objectsa in general, consequently also of all ob­ jects of experience, without which it would be impossible to think of any object for our intuitions; for the latter is nothing more than the some­ thing for which the concept expresses such a necessityb of synthesis.
- 
- Now this original and transcendental condition is nothing other than A 107 the transcendental apperception.24 The consciousness of oneself in accordance with the determinations of our state in internal perception is merely empirical, forever variable; it can provide no standing or abid­ ing self in this stream of inner appearances, and is customarily called inner sense or empirical apperception. That which should necessar-:­ ily be represented as numerically identical cannot be thought of as such through empirical data. There must be a condition that precedes all ex­ perience and makes the latter itself possible, which should make such a transcendental presupposition valid.
- 
- Now no cognitions can occur in us, no connection and unity among them, without that unity of consciousness that precedes all data of the intuitions, and in relation to which all representation of objects is alone possible. This pure, original, unchanging consciousness I will now name transcendental apperception. That it deserves this name is al­ ready obvious from this, that even the purest objective unity, namely that of the priori concepts (space and time) is possible only through a the relation of the intuitions to it. The numerical unity of this appera Objecte Following Erdmann, reading Nothwendigkeit for Nothwendig.
- 
- b 232 Section II.
- 
+Part II, Division 1, Book 1, Chapter 2
 
- 
-(Simplified)
- 
+When we think of an object, like a triangle, we understand it by knowing it’s made of three straight lines following a certain rule. This rule helps us always picture the triangle the same way. This rule is what holds everything together and lets us recognize the triangle as one object. The idea of this unity is how we think of the triangle.
+
+All knowledge needs a concept, even if it’s not perfect or clear. These concepts are always general and act like rules. For example, the idea of a body helps us understand things we see outside us by organizing all the details we notice. But this idea only works as a rule if it can bring together all the parts we sense. So, when we see something outside, the idea of a body makes us think of things like size, shape, and that objects can’t pass through each other.
+
+Every necessary idea has a deep reason behind it. We need to find this deep reason for how our minds join all the different parts we sense together, and for the ideas of objects in general. Without this, we couldn’t think about any object at all. An object is basically something that fits the rules our mind uses to combine what we sense.
+
+This deep and original reason is what I call transcendental apperception. The way we feel ourselves inside, based on how we sense things inside us, changes all the time and doesn’t give us a steady self. This changing feeling is called inner sense or empirical apperception. But the self that doesn’t change — the one that stays the same no matter what — can’t be understood just by what we sense. There has to be something before all our experiences that makes them possible, and this is that deeper self.
+
+We can’t have any thoughts or connect them without this unity of consciousness that comes before any experience. It’s only because of this unity that we can think about objects at all. This pure, original, and unchanging consciousness is what I now call transcendental apperception. It’s clear that this is the right name because even the most basic ideas, like space and time, only work because they relate to it. This unity is what makes all our thinking possible.

@@ -1,44 +1,15 @@
-” —Reynolds’ Newspaper, January 20th, 1867.
- 
- 75 James E. Thorold Rogers. (Prof. of Polit. Econ. in the University of Oxford.) “A History of Agriculture and Prices in England.” Oxford, 1866, v. 1, p. 690. This work, the fruit of patient and diligent labour, contains in the two volumes that have so far appeared, only the period from 1259 to 1400. The second volume contains simply statistics. It is the first authentic “History of Prices” of the time that we possess.
- 
- 76 “Reasons for the Late Increase of the Poor-Rates: or a comparative view of the prices of labour and provisions.” Lond., 1777, pp. 5, 11.
- 
- 77 Dr. Richard Price: “Observations on Reversionary Payments,” 6th Ed. By W. Morgan, Lond., 1803, v. II., pp. 158, 159. Price remarks on p. 159: “The nominal price of day-labour is at present no more than about four times, or, at most, five times higher than it was in the year 1514. But the price of corn is seven times, and of flesh-meat and raiment about fifteen times higher. So far, therefore, has the price of labour been even from advancing in proportion to the increase in the expenses of living, that it does not appear that it bears now half the proportion to those expenses that it did bear.” 78 Barton, l. c., p. 26. For the end of the 18th century cf. Eden, l. c.
- 
- 79 Parry, l. c., p. 86.
- 
- 80 ibid., p. 213.
- 
- 81 S. Laing, l. c., p. 62.
- 
- 82 “England and America.” Lond., 1833, Vol. 1, p. 47.
- 
- 83 London Economist, May 29th, 1845, p. 290.
- 
- 84 The landed aristocracy advanced themselves to this end, of course per Parliament, funds from the State Treasury, at a very low rate of interest, which the farmers have to make good at a much higher rate.
- 
- 85 The decrease of the middle-class farmers can be seen especially in the census category: “Farmer’s son, grandson, brother, nephew, daughter, granddaughter, sister, niece"; in a word, the members of his own family, employed by the farmer. This category numbered, in 1851, 216,851 persons; in 1861, only 176,151. From 1851 to 1871, the farms under 20 acres fell by more than 900 in number; those between 50 and 75 acres fell from 8,253 to 6,370; the same thing occurred with all other farms under 100 acres. On the other hand, during the same twenty years, the number of large farms increased; those of 300-500 acres rose from 7,771 to 8,410, those of more than 500 acres from 2,755 to 3,914, those of more than 1,000 acres from 492 to 582.
- 
- 86 The number of shepherds increased from 12,517 to 25,559.
- 
- 87 Census, l. c., p. 36.
- 
- 88 Rogers, l. c., p. 693, p. 10. Mr. Rogers belongs to the Liberal School, is a personal friend of Cobden and Bright, and therefore no laudator temporis acti.
- 
- 89 “Public Health. Seventh Report,” 1865, p. 242. It is therefore nothing unusual either for the landlord to raise a labourer’s rent as soon as he hears that he is earning a little more, or for the farmer to lower the wage of the labourer, “because his wife has found a trade,” l. c.
- 
- 90 l. c., p. 135.
- 
- 91 l. c., p. 134.
- 
- 92 “Report of the Commissioners ... relating to Transportation and Penal Servitude,” Lond., 1863, pp.
- 
- 42, 50.
- 
- 93 l. c., p. 77. “Memorandum by the Lord Chief Justice.” 498 Chapter 25 94 l.
- 
+—Reynolds’ Newspaper, January 20th, 1867.
 
- 
-(Simplified)
- 
+James E. Thorold Rogers, a professor at Oxford, wrote a book called “A History of Agriculture and Prices in England.” It took a lot of hard work to make. The two volumes published so far only cover the years 1259 to 1400. The second volume mostly has numbers and facts. This is the first real “History of Prices” we have from that time.
+
+There was a book in London in 1777 called “Reasons for the Late Increase of the Poor-Rates,” which compared the prices of work and food.
+
+Dr. Richard Price wrote about payments in 1803. He said that the wage for day labor is only about four or five times higher now than in 1514. But the price of corn is seven times higher, and meat and clothes are about fifteen times more expensive. So, wages have not kept up with the cost of living and don’t cover half the expenses like they used to.
+
+The number of middle-class farmers has gone down. In 1851, there were 216,851 family members working on farms, but by 1861, there were only 176,151. Small farms under 20 acres dropped by over 900 between 1851 and 1871. Farms between 50 and 75 acres also decreased. But during the same time, bigger farms grew. Farms with 300-500 acres increased from 7,771 to 8,410. Farms over 500 acres went up from 2,755 to 3,914, and those over 1,000 acres rose from 492 to 582.
+
+The number of shepherds went up from 12,517 to 25,559.
+
+It wasn’t unusual for landlords to raise a worker’s rent when they heard the worker was making more money. Sometimes farmers would even lower a laborer’s wages if his wife started earning money through a job.
+
+The landed aristocracy helped themselves by getting money from the government at very low interest rates, but farmers had to pay back at much higher rates.

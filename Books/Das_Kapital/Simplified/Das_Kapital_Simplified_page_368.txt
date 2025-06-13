@@ -1,14 +1,31 @@
-Section 2: Working day Constant. Productiveness of Labour Constant. Intensity of Labour Variable Increased intensity of labour means increased expenditure of labour in a given time. Hence a working day of more intense labour is embodied in more products than is one of less intense labour, the length of each day being the same. Increased productiveness of labour also, it is true, will supply more products in a given working day. But in this latter case, the value of each single product falls, for it costs less labour than before; in the former case, that value remains unchanged, for each article costs the same labour as before. Here we have an increase in the number of products, unaccompanied by a fall in their individual prices: as their number increases, so does the sum of their prices. But in the case of increased productiveness, a given value is spread over a greater mass of products. Hence the length of the working day being constant, a day's labour of increased intensity will be incorporated in an increased value, and, the value of money remaining unchanged, in more money. The value created varies with the extent to which the intensity of labour deviates from its normal intensity in the society. A given working day, therefore, no longer creates a constant, but a variable value; in a day of 12 hours of ordinary intensity, the value created is, say 6 shillings, but with increased intensity, the value created may be 7, 8, or more shillings. It is clear that, if the value created by a day's labour increases from, say, 6 to 8 shillings then the two parts into which this value is divided, viz., price of labour-power and surplus-value, may both of them increase simultaneously, and either equally or unequally.
- 
- They may both simultaneously increase from 3 shillings to 4. Here, the rise in the price of labourpower does not necessarily imply that the price has risen above the value of labour-power. On the contrary, the rise in price may be accompanied by a fall in value. This occurs whenever the rise in the price of labour-power does not compensate for its increased wear and tear.
- 
- We know that, with transitory exceptions, a change in the productiveness of labour does not cause any change in the value of labour-power, nor consequently in the magnitude of surplus-value, unless the products of the industries affected are articles habitually consumed by the labourers. In the present case this condition no longer applies. For when the variation is either in the duration or in the intensity of labour, there is always a corresponding change in the magnitude of the value created, independently of the nature of the article in which that value is embodied.
- 
- If the intensity of labour were to increase simultaneously and equally in every branch of industry, then the new and higher degree of intensity would become the normal degree for the society, and would therefore cease to be taken account of. But still, even then, the intensity of labour would be different in different countries, and would modify the international application of the law of value. The more intense working day of one nation would be represented by a greater sum of money than would the less intense day of another nation.4 Section 3: Productiveness and Intensity of Labour Constant.
- 
- Length of the Working day Variable The working day may vary in two ways. It may be made either longer or shorter. From our present data, and within the limits of the assumptions made above we obtain the following laws: (1.) The working day creates a greater or less amount of value in proportion to its length – thus, a variable and not a constant quantity of value.
- 
+Section 2: Working day Constant. Productiveness of Labour Constant. Intensity of Labour Variable
 
- 
-(Simplified)
- 
+When you work harder during the same amount of time, you use more effort in that time. So, if you work harder during a day, you make more stuff than if you worked less hard, even though the working hours are the same.
+
+If workers get better at making things, they also make more stuff in the same time. But when that happens, each thing is worth less because it took less work to make it. If you just work harder without getting better, the value of each thing stays the same because it still takes the same effort to make each one.
+
+So, working harder means more products without lowering their price, so the total value of everything made goes up. But getting better at work spreads the same value across more products, so each is worth less.
+
+If you keep the working day the same length, working harder means you create more value, and if money’s value doesn’t change, you make more money.
+
+How much value you create depends on how much harder you work compared to normal. A normal 12-hour day might create 6 shillings worth of value, but if you work harder, it could be 7 or 8 shillings.
+
+If the value you create goes from 6 to 8 shillings, both the worker’s pay and the extra profit can go up at the same time, either by the same amount or different amounts.
+
+For example, both could go from 3 shillings to 4 shillings. But this doesn’t always mean workers get paid more than their worth. Sometimes their pay goes up but the real value of their work goes down because they’re more worn out.
+
+Usually, changes in how fast or well workers make things don’t change how much their work is worth unless the products they make are things workers need themselves.
+
+But if the change is in how long or how hard they work, the value they create changes no matter what they are making.
+
+If everyone in the whole economy started working harder at the same time, that harder work would become the new normal and wouldn’t be noticed as extra anymore.
+
+But different countries work at different speeds and efforts, so the value of a day’s work can be different in each country. A harder working day in one country means more money than a less hard working day in another.
+
+Section 3: Productiveness and Intensity of Labour Constant.
+
+Length of the Working day Variable
+
+The working day can change in length—it can be longer or shorter.
+
+From what we know, the longer the working day, the more value is made. So, the value created depends on how long the working day is, not a fixed amount.

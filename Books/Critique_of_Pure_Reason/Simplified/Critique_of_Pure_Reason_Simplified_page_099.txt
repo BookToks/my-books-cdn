@@ -1,8 +1,11 @@
-The idea and the divisions of a special sciem.:e under the name of a critique of pure reason.
- 
- I. Transcendental doctrine of elements First Part. Transcendental aesthetic (as in the first edition) 153 [Introduction.] 155 First section. On space. 157 Second section. On time. 162 First Part. Transcendental aesthetic (as in the second edition) Introduction. <§ I> 172 First section. On space. <§§ 2-3> 174 Second section. On time. <§§ 4-7> 178 General remarks on the transcendental aesthetic. <§ 8> 185 Second Part. Transcendental logic 193 Introduction. The idea of a transcendental logic 193 I. On logic in general. 193 II. On transcendental logic. 195 III. On the division of general logic into analytic and dialectic. 197 IV On the division of transcendental logic into the transcendental analytic and dialectic. 199 Division one. Transcendental analytic 201 Book I. Analytic of concepts 202 Chapter I. On the clue to the discovery of all pure concepts of the understanding 204 First section. On the logical use of the understanding in general. 204 Second section. On the logical function of the understanding in judgments. <§ 9> 206 Third section. On the pure concepts of the understanding or categories. <§§ 10-12> 210 Chapter II. On the deduction oft he pure concepts oft he understanding 2 19 First section. On the principlesa of a transcendental deduction in general. <§ 13> 219 Transition to the transcendental deduction of the categories. <§ 14> 224 Second section. On the priori grounds for the possibility a of experience. (as in the first edition) 226 Principien a 86 Contents Third section.
- 
+The idea is about a special kind of science called the critique of pure reason.
 
- 
-(Simplified)
- 
+First, there is the transcendental doctrine of elements. The first part is called the transcendental aesthetic. In the first edition, it starts with an introduction on page 153. Then, the first section talks about space on page 157, and the second section talks about time on page 162.
+
+In the second edition, the first part, the transcendental aesthetic, begins with an introduction on page 172. The first section is about space (pages 174-175), and the second section is about time (pages 178-182). There are also general remarks on the transcendental aesthetic on page 185.
+
+The second part is called transcendental logic, starting on page 193. It begins with an introduction about the idea of transcendental logic. Then, it discusses logic in general on page 193, and transcendental logic on page 195. It divides general logic into analytic and dialectic on page 197. It also divides transcendental logic into transcendental analytic and dialectic on page 199.
+
+The first division is transcendental analytic, starting on page 201. Book I is the analytic of concepts, beginning on page 202. Chapter I talks about how to discover all pure concepts of understanding on page 204. The first section explains the general logical use of understanding on page 204. The second section covers the logical function of understanding in judgments on page 206. The third section discusses pure concepts of understanding, called categories, on pages 210-212.
+
+Chapter II is about proving the pure concepts of understanding, starting on page 219. The first section covers the basic principles of a transcendental deduction on page 219. Then, there is a transition to the transcendental deduction of categories on page 224. The second section explains the reasons for the possibility of experience on page 226.

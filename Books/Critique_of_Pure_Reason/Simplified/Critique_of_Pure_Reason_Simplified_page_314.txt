@@ -1,16 +1,13 @@
-Systematic representation of all synthetic principles Only through that which persists does existence in different parts of the temporal series acquire a magnitude, which one calls duration.
- 
- For in mere sequence alone existence is always disappearing and beginning, and never has the least magnitude. Without that which persists there is therefore no temporal relation. Now time cannot be perceived in itself; thus this persisting thing in the appearances is the substratum of all time-determination, consequently also the condition of the possibility of all synthetic unity of perceptions, i.e., of experience, and in this persisting thing all existence and all change in time can only be re- B 227 garded as a modus of the existencea of that which lasts and persists.
- 
- Therefore in all appearances that which persists is the object itself, i.e., the substance (phaenomenon), but everything that changes or that can change belongs only to the way in which this substance or substances A 184 exists, thus to their determinations.
- 
- I find that at all times not merely the philosopher but even the com­ mon understanding has presupposed this persistence as a substratum of all change in the appearances, and has also always accepted it as indu­ bitable, only the philosopher expresses himself somewhat more deter­ minately in saying that in all alterations in the world the substance remains and only the accidents change. But I nowhere find even the at­ tempt at a proof of this so obviously synthetic proposition, indeed it only rarely stands, as it deserves to, at the head of the pure and com­ pletely a priori laws of nature. In fact the proposition that substance per­ sists is tautological. For only this persistence is the ground for our application of the category of substance to appearance, and one should have proved that in all appearances there is something that persists, of which that which changesb is nothing but the determination of its exis­ tence. But since such a proof can never be conducted dogmatically, i.e., from concepts, because it concerns a synthetic a priori proposition, and B 228 it was never considered that such propositions are valid only in relation' to possible experience, hence that they can be proved only through a through something whose existence is not a series of successions, but which includes these in itself as its determinations, consequently per durabilitatem [through the dura­ bility] of substance.
- 
- "This proof, like all synthetic ones, is proved only from the possibility of perception.
- 
- It is valid where I cannot perceive substance outside of its alterations; but where I can­ not perceive it except through these alterations themselves, it is not valid, and I can es­ timate its endurance and in general the time of its alteration only through outer things, as I, since I think, think my own existence; my persistence is therefore not proved." (E LXXXIII, pp. 32-3; 23:3r ) "No quantum ofs ubstance is possible in the soul. Hence also nothing that one could determine through any predicate and call persistent." (E Lxxxrv, P.32; 23;3 r) Existenz a b das Wandelbare , Beziehung 301 Doctrine of Elements.
- 
+Only things that stay the same over time can be said to last or have a real length of time, which we call duration.
 
- 
-(Simplified)
- 
+If things just happened one after another without anything staying the same, there would be no sense of time. Time itself can’t be directly seen, so the thing that stays the same is what makes time noticeable. This unchanging thing is the base for how we combine what we see into experiences. All changes and existence happen as different ways this lasting thing shows up.
+
+In everything we see, the thing that stays the same is the actual object, or substance. Anything that changes is just how this substance exists or shows itself differently.
+
+People have always believed, even without thinking deeply, that something must stay the same under all the changes we see. Philosophers say that the substance stays the same while only its features change. But no one has really tried to prove this idea properly. It’s often just accepted as true without question.
+
+Saying substance lasts is kind of obvious because that’s what lets us call something a substance in the first place. But to prove that something always stays the same in all appearances is really hard and can’t be done just by thinking about it. It has to be proven by what can happen in experience, since it’s about how things are possible.
+
+The proof comes from the fact that we can only notice substances by their changes. If we can’t see something except through its changes, then we can only understand how long it lasts by looking at other things, like how I know I exist because I think. But my own lasting existence isn’t something that can be proven in this way.
+
+Also, there is no amount of substance in the soul that can be measured or said to last by any property.

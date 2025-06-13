@@ -1,22 +1,13 @@
-e. with the Sun at the centre, and Earth orbiting). His bookOn the Revolutions of the Celestial Sphereswas published in the year of his death, with an introduction presenting the theory more as a means of calculating the apparent motions of the heavens (as an aid to devising an accurate calendar) than as a claim to astronomical truth. Copernicus was not the first to put forward a heliocentric theory: Aristarchus of Samos (c.310‒230bc) proposed one, though this work was lost, like most other pagan texts, during the early Christian era.
- 
- Galileo Galilei (1564‒1642) was an Italian physicist and astronomer whose observations provided the first decisive evidence for the heliocentric theory, notably the phases of Venus which proved that Venus is sometimes on the opposite side of the Sun from the Earth. Galileo also did important work in dynamics, helping to establish the principle of inertia.
- 
- See §§1–2of the Introduction for more on all this, and §4on his famous condemnation by the Roman Catholic Inquisition. Hume greatly admired Galileo, and mentions him in the extracts from the Dialogues in this volume (see Appendix III).
- 
- Tycho Brahe (1546‒1601) was a Danish astronomer and nobleman who built an observatory on the island of Hven and made the most accurate astronomical measurements then available. In 1572he observed a supernova in the constellation Cassiopeia, indicating that the heavens are not unchanging as Aristotle had taught. However, unconvinced that the Earth moves, he proposed an alternative theory of the solar system in which the Sun orbits the Earth, while the planets orbit the Sun.
- 
- Johannes Kepler (1571‒1630) was a German astronomer and mathematician who became assistant to Brahe and inherited his observations.
- 
- Using these, he established that the planets move not in circles (as both Copernicus and Galileo had assumed), but in ellipses, and he devised three mathematical laws of planetary motion—based on a heliocentric model— that provided the first genuinely accurate method of predicting astronomical phenomena.
- 
- Robert Boyle (1627‒91) was an Irish natural philosopher, arguably the first modern chemist, and famous for Boyle’s Lawwhich relates the pressure to the volume of an enclosed quantity of gas at constant temperature.
- 
- His impact on Locke is described in §3of the Introduction, while Hume’s History of England(vi.541) provides a useful summary: there flourished during this period a Boyle and a Newton; men who trod, with cautious, and therefore the more secure steps, the only road, which leads to true philosophy.
- 
- Boyle improved the pneumatic engine invented by Otto Guericke, and was thereby enabled to make several new and curious experiments on the air as well as on other bodies: His chemistry is much admired by those who are acquainted with 228 Glossarial Index of Major Philosophers that art: His hydrostatics contain a greater mixture of reasoning and invention with experiment than any other of his works; but his reasoning is still remote from that boldness and temerity, which had led astray so many philosophers.
- 
+Copernicus thought the Sun was at the center of the universe, and the Earth moved around it. He published his book, *On the Revolutions of the Celestial Spheres*, the year he died. He introduced this idea more as a way to figure out how the stars and planets seem to move, helping to make a better calendar, rather than saying it was 100% true. He wasn’t the first to suggest the Sun was at the center; Aristarchus of Samos had the same idea long ago, but his work was lost during early Christian times.
 
- 
-(Simplified)
- 
+Galileo Galilei was an Italian scientist who lived from 1564 to 1642. He gave the first strong proof that the Sun is at the center, especially by observing Venus going through phases that showed it sometimes is on the other side of the Sun from Earth. Galileo also worked on how things move, helping to explain inertia, which means objects keep moving unless something stops them.
+
+You can learn more about Galileo and his problems with the Roman Catholic Church in the Introduction and Appendix III. David Hume, a famous philosopher, really admired Galileo and talks about him in his writings.
+
+Tycho Brahe was a Danish astronomer and nobleman who made the most accurate space observations of his time. In 1572, he saw a supernova (a new bright star) in the sky, proving that space isn’t unchanging like people thought before. But he didn’t believe Earth moves, so he suggested a different model where the Sun moves around Earth, and the other planets move around the Sun.
+
+Johannes Kepler was a German astronomer who worked with Brahe and used his data. He discovered that planets don’t move in perfect circles like people thought, but in oval shapes called ellipses. Kepler created three important laws about how planets move, based on the Sun being at the center, and these laws helped predict space events accurately for the first time.
+
+Robert Boyle was an Irish scientist, often called the first modern chemist. He is famous for Boyle’s Law, which explains how the pressure and volume of a gas are related when the temperature stays the same.
+
+Boyle influenced the philosopher John Locke, and historian David Hume praised Boyle along with Isaac Newton as great thinkers who carefully worked toward true knowledge. Boyle also improved an air pump and did many important experiments with air and other materials. His work mixed careful thinking and new ideas, though he didn’t take big risks that some other scientists did.

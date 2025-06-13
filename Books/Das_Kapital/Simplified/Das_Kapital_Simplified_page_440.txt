@@ -1,18 +1,15 @@
-Everywhere the increased scale of industrial establishments is the starting point for a more comprehensive organisation of the collective work of many, for a wider development of their material motive forces – in other words, for the progressive transformation of isolated processes of production, carried on by customary methods, into processes of production socially combined and scientifically arranged.
- 
- But accumulation, the gradual increase of capital by reproduction as it passes from the circular to the spiral form, is clearly a very slow procedure compared with centralisation, which has only to change the quantitative groupings of the constituent parts of social capital. The world would still be without railways if it had had to wait until accumulation had got a few individual capitals far enough to be adequate for the construction of a railway. Centralisation, on the contrary, accomplished this in the twinkling of an eye, by means of joint-stock companies. And whilst centralisation thus intensifies and accelerates the effects of accumulation, it simultaneously extends and speeds those revolutions in the technical composition of capital which raise its constant portion at the expense of its variable portion, thus diminishing the relative demand for labour.
- 
- The masses of capital fused together overnight by centralisation reproduce and multiply as the others do, only more rapidly, thereby becoming new and powerful levers in social accumulation.
- 
- Therefore, when we speak of the progress of social accumulation we tacitly include – today – the effects of centralisation.
- 
- The additional capitals formed in the normal course of accumulation (see Chapter XXIV, Section 1) serve particularly as vehicles for the exploitation of new inventions and discoveries, and industrial improvements in general. But in time the old capital also reaches the moment of renewal from top to toe, when it sheds its skin and is reborn like the others in a perfected technical form, in which a smaller quantity of labour will suffice to set in motion a larger quantity of machinery and raw materials. The absolute reduction in the demand for labour which necessarily follows from this is obviously so much the greater the higher the degree in which the capitals undergoing this process of renewal are already massed together by virtue of the centralisation movement.
- 
- On the one hand, therefore, the additional capital formed in the course of accumulation attracts fewer and fewer labourers in proportion to its magnitude. On the other hand, the old capital periodically reproduced with change of composition, repels more and more of the labourers formerly employed by it.
- 
- Section 3: Progressive Production of a Relative surplus population or Industrial Reserve Army The accumulation of capital, though originally appearing as its quantitative extension only, is effected, as we have seen, under a progressive qualitative change in its composition, under a constant increase of its constant, at the expense of its variable constituent.13 The specifically capitalist mode of production, the development of the productive power of labour corresponding to it, and the change thence resulting in the organic composition of capital, do not merely keep pace with the advance of accumulation, or with the growth of social wealth. They develop at a much quicker rate, because mere accumulation, the absolute increase of the total social capital, is accompanied by the centralisation of the individual capitals of which that total is made up; and because the change in the technological composition of the additional capital goes 441 Chapter 25 hand in hand with a similar change in the technological composition of the original capital.
- 
+Big factories and industries are growing everywhere, and this helps organize the work of many people better. It also helps improve the tools and machines they use. This means that instead of working alone using old ways, production becomes a group effort that is planned and arranged in a smart way.
 
- 
-(Simplified)
- 
+But saving money and growing wealth slowly over time is much slower than bringing money and resources together all at once. For example, the world wouldn’t have railways if people waited until a few individuals saved enough money to build them. Instead, companies joined money together quickly to build railways fast. This joining of money not only makes saving faster but also pushes new technology that uses more machines and less human work.
+
+When a lot of money is combined quickly through this joining process, it grows even faster and becomes a strong tool for making society richer.
+
+So, when we talk about society getting richer, we also mean the effects of joining money and resources together.
+
+New money made from saving usually helps pay for new inventions and improvements in industry. But old money also gets updated over time, like getting a makeover. This means using better machines and tools that need fewer workers to make more products. The more money is joined together, the less work is needed from people.
+
+So, on one side, new money saved needs fewer workers compared to how big it is. On the other side, old money being updated pushes away more and more workers who used to work for it.
+
+Section 3: Growing Number of Unemployed Workers or Industrial Reserve Army
+
+Saving money and growing wealth at first looks like just getting bigger, but it also changes the way money is used. More money goes into machines and tools (constant capital) and less into paying workers (variable capital). The way businesses work, the power of workers to produce things, and how money is invested all change faster than just the amount of wealth grows. This happens because money is joined together more and more, and technology used in both new and old businesses changes at the same time.

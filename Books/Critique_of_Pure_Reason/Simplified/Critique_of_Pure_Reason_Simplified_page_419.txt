@@ -1,18 +1,13 @@
-Pt. II. Div. II. Book I three classes, of which the first contains the absolute (unconditioned) unity of the thinking subject, the second the absolute unity of the se­ ries of conditions of appearance, the third the absolute unity of the condition of all objects of thought in general.
- 
- The thinking subject is the object of psychology, the sum total of all appearances (the world) is the object of cosmology, and the thing that contains the supreme condition of the possibility of everything that can be thought (the being of all beings) is the object of theology.zo Thus pure reason provides the ideas for a transcendental doctrine of the soul B 392 (psychologia rationalis),a a transcendental science of the world (cosmologia A335 rationalis),b and finally also a transcendental cognition of God (theologia transcendentalis). Even so much as the mere sketch of these sciences is c not prescribed by the understanding, even if it is combined with the highest logical use of reason, i.e., with all the inferences through which we can think of progressing from an object of the understanding (ap­ pearance) to all other objects, even to the most distant members of the empirical synthesis; rather, such a project is exclusively a pure and gen­ uine product or problemd of pure reason.
- 
- What modi of pure rational concepts stand under these three titles of transcendental ideas will be finally displayed in the following sections.
- 
- They run along the thread of the categories. For pure reason is never related directly to objects, but instead to concepts of them given by the understanding. Likewise, it can be made clear only in the complete ex­ ecution how reason, exclusively through the synthetic use of the same function it employs in the categorical syllogism, must necessarily come to the concept of the absolute unity of the thinking subject, how the logical procedure in hypothetical syllogisms [leads to] the ideas of e the absolutely unconditioned in a series of given conditions, and finally how the mere form of the disjunctive syllogism necessarily carries with it the highest rational concept of a being of all beings; a thought which at first glance appears extremely paradoxical.
- 
- No objective deduction of these transcendental ideas is really pos­ sible, such as we could provide for the categories. For just because they are ideas, they have in fact no relation to any object! that could be given congruent to them. But we can undertake a subjective introduction t� a rational psychology b rational cosmology C transcendental theology Problem d , The text here seems garbled. It reads "in hypothetischen Ideen die vom Schlechthinunbedin­ gten ...." (in the first edition: " ...d ie Idee vom ...." . We follow Erdmann in inserting the word Vernunftschlussen.
- 
- f Object Anleitung; Erdmann reads Ableitung (derivation of).
- 
- g 406 Section III.
- 
+Part II, Division II, Book I talks about three groups of ideas. The first group is about the absolute unity of the thinking subject (your mind). The second group is about the absolute unity of the series of conditions that make things appear. The third group is about the absolute unity of the condition that makes all objects of thought possible.
 
- 
-(Simplified)
- 
+The thinking subject (your mind) is what psychology studies. The whole world, which is all appearances, is what cosmology studies. And the ultimate condition that allows anything to be thought at all (like the existence of everything) is what theology studies. So, pure reason gives ideas for a special kind of soul science called rational psychology, a science of the world called rational cosmology, and a knowledge of God called transcendental theology.
+
+Even just a rough idea of these sciences isn’t something the understanding (logic and reason) tells us to do on its own. It comes purely from reason itself, not from experience or the usual way we think about things. This project is a pure idea created by reason alone.
+
+The kinds of pure rational ideas under these three titles will be explained later.
+
+These ideas follow the same path as the categories (basic concepts). Pure reason never deals directly with objects but instead works with concepts given by the understanding. It will become clear how reason, by using the same logical methods it uses in syllogisms (a kind of logical argument), must come to the idea of the absolute unity of the thinking subject.
+
+Also, how logical steps in hypothetical syllogisms lead to the idea of something absolutely unconditioned in a series of given conditions. Finally, how the form of the disjunctive syllogism (a type of logical choice) leads to the highest idea of a being that contains all beings – a thought that seems very strange at first.
+
+We can’t really prove these transcendental ideas like we can prove categories. Because they are ideas, they don’t actually relate to any object that matches them exactly. But we can still introduce these ideas subjectively to rational psychology, rational cosmology, and transcendental theology.

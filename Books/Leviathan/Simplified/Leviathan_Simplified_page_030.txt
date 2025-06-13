@@ -1,16 +1,9 @@
-And whereas sense and memory are but knowledge of fact, which is a thing past and irrevocable, science is the knowledge of consequences, and dependence of one fact upon another; by which, out of that we can presently do, we know how to do something else when we will, or the like, another time: because when we see how anything comes about, upon what causes, and by what manner; when the like causes come into our power, we see how to make it produce the like effects.
- 
- Children therefore are not endued with reason at all, till they have attained the use of speech, but are called reasonable creatures for the possibility apparent of having the use of reason in time to come. And the most part of men, though they have the use of reasoning a little way, as in numbering to some degree; yet it serves them to little use in common life, in which they govern themselves, some better, some worse, according to their differences of experience, quickness of memory, and inclinations to several ends; but specially according to good or evil fortune, and the errors of one another. For as for science, or certain rules of their actions, they are so far from it that they know not what it is. Geometry they have thought conjuring: but for other sciences, they who have not been taught the beginnings, and some progress in them, that they may see how they be acquired and generated, are in this point like children that, having no thought of generation, are made believe by the women that their brothers and sisters are not born, but found in the garden.
- 
- But yet they that have no science are in better and nobler condition with their natural prudence than men that, by misreasoning, or by trusting them that reason wrong, fall upon false and absurd general rules.
- 
- For ignorance of causes, and of rules, does not set men so far out of their way as relying on false rules, and taking for causes of what they aspire to, those that are not so, but rather causes of the contrary.
- 
- To conclude, the light of humane minds is perspicuous words, but by exact definitions first snuffed, and purged from ambiguity; reason is the pace; increase of science, the way; and the benefit of mankind, the end. And, on the contrary, metaphors, and senseless and ambiguous words are like ignes fatui; and reasoning upon them is wandering amongst innumerable absurdities; and their end, contention and sedition, or contempt.
- 
- As much experience is prudence, so is much science sapience. For though we usually have one name of wisdom for them both; yet the Leviathan/31 Latins did always distinguish between prudentia and sapientia; ascribing the former to experience, the latter to science.
- 
+Sense and memory are just knowing facts, which are things that already happened and can’t be changed. But science is knowing how one fact depends on another and what happens because of it. This helps us understand how to do something now and how to do it again later. When we see how something happens, what causes it, and how it works, we can use the same causes to get the same results.
 
- 
-(Simplified)
- 
+Kids don’t really have reason until they learn to talk. They are called reasonable because they might learn to use reason as they grow up. Most people can reason a little, like with numbers, but it doesn’t help them much in everyday life. How well they live depends on their experience, memory, goals, luck, and mistakes they make or learn from others. Most people don’t really know science or clear rules. Some think geometry is magic. If people aren’t taught the basics and how to learn more, they are like kids who don’t understand where babies come from and believe silly stories.
+
+Still, people without science but with common sense are better off than those who use wrong ideas or trust bad advice. Not knowing the real causes of things doesn’t cause as much trouble as believing in false causes that lead to the opposite of what they want.
+
+In short, clear words and exact definitions help our minds understand things better. Reason helps us move forward, learning more science shows us the path, and helping people is the goal. On the other hand, confusing words and unclear ideas are like fake lights that lead us into silly mistakes and arguments, causing fights or disrespect.
+
+Experience brings good judgment, and science brings deep understanding. Even though both are called wisdom, the old Latins made a difference: they called good judgment “prudence” and deep understanding “science.”

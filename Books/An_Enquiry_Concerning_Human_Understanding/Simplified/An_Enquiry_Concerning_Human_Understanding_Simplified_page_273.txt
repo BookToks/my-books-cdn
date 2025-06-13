@@ -1,24 +1,21 @@
-His Abrégé de l’histoire de Port-Royal reports this ‘miracle of the holy thorn’, by which Pascal’s niece Marguerite Périer was cured of an ulcerated eye through the application of a thorn (supposedly from the crown of thorns worn by Jesus).
- 
- bishop of TOURNAY: Gilbert de Choiseul du Plessis-Praslin (1613‒89), whose advocacy of the miracle of the holy thorn is reported by Racine.
- 
- queen-regent of FRANCE: Anne of Austria (1601‒66), widow of King Louis XIII and regent during the infancy of her son Louis XIV, sent her personal physician, M. Félix, to investigate the alleged miracle. He returned convinced, but she refrained from any public statement so as to avoid theological controversy.
- 
- N Dr. BERKLEY . . . BAYLE: for Berkeley, see Glossarial Index. Pierre Bayle(1647‒1706) was a French Protestant author, best known for his Dictionnaire historique et critique (1697). Bayle’s Dictionary is particularly notable for its collection of sceptical arguments, which Hume acknowledged using as a source for his Treatise of Human Nature.
- 
- However Bayle, unlike Hume, was a fideist, undermining reason only to make room for faith. As such, he may be the model, or at least a partial model, for the character of Philo in Hume’s Dialogues concerning Natural Religion(1779), who appears to advocate fideism towards the end of the work.
- 
- O mathematical points: indivisible points without any extension.
- 
- supposed infinitely divisible: in the first two editions of the Enquiry (1748and1750), the following three sentences were inserted here: ‘In general, we may pronounce, that the Ideas of greater, less, or equal, which are the chief Objects of Geometry, are far from being so exact or determinate as to be the Foundation of such extraordinary Inferences.
- 
- Ask a Mathematician what he means, when he pronounces two Quantities to be equal, and he must say, that the Idea of Equalityis one of those, which cannot be defin’d, and that ’tis sufficient to place two equal Quantities before any one, in order to suggest it. Now this is an Appeal to the general Appearance of Objects to the Imagination or Senses, and consequently can never afford Conclusions so directly contrary to these Faculties.’ P particular . . . term: a sketch of Hume’s theory of abstraction from Treatise1.1.7.
- 
- ridicule . . . ignorant: Hume has a specific motive for wanting to ‘avoid absurdities and contradictions’, because these sorts of paradoxes were standardly used to promote religion by showing the weakness of mere human reason (thus supposedly making room for faith).
- 
- Q Ex nihilo, nihil fit: most commonly rendered as ‘nothing comes from nothing’, hence anything that exists must have a cause of its existence. Hume famously discussed this causal maxim in Treatise1.3.3, concluding that it could not be proved intuitively or demonstratively, 210 Notes to Page 177 though he evinced (both there and in other sources) a belief in the maxim as based on experience.
- 
+His Abrégé de l’histoire de Port-Royal tells about the ‘miracle of the holy thorn,’ where Pascal’s niece Marguerite Périer was healed from a bad eye ulcer by using a thorn that was said to come from the crown of thorns Jesus wore.
 
- 
-(Simplified)
- 
+The bishop of Tournay, Gilbert de Choiseul du Plessis-Praslin (1613–89), supported the story of this miracle, and Racine wrote about it.
+
+The queen-regent of France, Anne of Austria (1601–66), who was the widow of King Louis XIII and ruled while her son Louis XIV was a child, sent her own doctor, M. Félix, to check out the miracle. He came back believing it was real, but she didn’t say anything publicly because she wanted to avoid religious arguments.
+
+Dr. Berkeley and Bayle: Pierre Bayle (1647–1706) was a French Protestant writer, famous for his Historical and Critical Dictionary (1697). Bayle’s book collected many skeptical ideas, which the philosopher Hume used when writing his Treatise of Human Nature.
+
+But Bayle was different from Hume because he was a fideist, meaning he thought faith was more important than reason. This might be why Hume’s character Philo in his Dialogues concerning Natural Religion (1779) seems to support fideism near the end.
+
+Mathematical points are tiny points that can’t be divided or measured.
+
+Some things are thought to be infinitely divisible. In the first two editions of Hume’s Enquiry (1748 and 1750), he added these sentences: “In general, the ideas of bigger, smaller, or equal, which are important in geometry, are not as exact as people think to base strong conclusions on.
+
+Ask a mathematician what he means by saying two things are equal, and he will say that the idea of equality can’t really be defined. Just showing two equal things is enough to understand it. This means it’s based on how things look or feel to us, so it can’t prove ideas that go against what we see or imagine.”
+
+Hume’s idea about abstraction is explained in his Treatise 1.1.7.
+
+Hume wanted to avoid silly contradictions because these kinds of confusing ideas were often used to support religion by showing that human reason is weak, which was supposed to make people rely more on faith.
+
+“Ex nihilo, nihil fit” means “nothing comes from nothing,” so everything that exists must have a cause. Hume talked about this idea in Treatise 1.3.3 and said it can’t be proven just by thinking or logic, but he believed it was true based on experience.

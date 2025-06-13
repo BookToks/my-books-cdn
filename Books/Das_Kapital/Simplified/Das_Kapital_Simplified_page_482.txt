@@ -1,36 +1,33 @@
-482 Chapter 25 Table C 121 INCREASE OR DECREASE IN THE AREA UNDER CULTIVATION, PRODUCT PER ACRE, AND TOTAL PRODUCT OF 1865 COMPARED WITH 1864 Product Acres of Product Total Product Cultivated Land per Acre Increase or Increase or Decrease, Increase or 1864 1865 Decrease, 1865 1864 1865 1865 1864 1865 Decrease, 1865 Wheat 276,483 266,989 – 9,494 cwt., 13.0 – 0.3 875,782 826,783 – 48,999 13.3 Qrs. Qrs. Qrs.
- 
- Oats 1,814,886 1,745,228 – 69,658 cwt., 12.3 0.2 – 7,826,332 7,659,727 – 166,605 12.1 Qrs. Qrs. Qrs.
- 
- Barley 172,700 177,102 4,402 – cwt., 14.9 – 1.0 761,909 732,017 – 29,892 15.9 Qrs. Qrs. Qrs.
- 
- Bere 8,894 10,091 1,197 – cwt., 14.8 – 1.6 15,160 13,989 – 1,171 16.4 Qrs. Qrs. Qrs.
- 
- Rye cwt., 10.4 1.9 – 12,680 18,314 5,684 – 8.5 Qrs. Qrs. Qrs.
- 
- Potatoes 1,039,724 1,066,260 26,536 – tons, 3.6 – 0.5 4,312,388 3,865,990 – 446,398 4.1 ts. ts. ts.
- 
- Turnips 337,355 334,212 – 3,143 tons, 9.9 – 0.4 3,467,659 3,301,683 – 165,976 10.3 ts. ts. ts.
- 
- Mangold- 14,073 14,389 316 – tons, 13.3 2.8 – 147,284 191,937 44,653 – wurzel 10.5 ts. ts. ts.
- 
- Cabbages 31,821 33,622 1,801 – tons, 10.4 1.1 – 297,375 350,252 52,877 – 9.3 ts. ts. ts.
- 
- Flax 301,693 251,433 – 50,260 st. (14 25.2 – 9.0 64,506 st. 39,561 st. – 24,945 lb.) st.
- 
- 34.2 Hay 1,609,569 1,678,493 68,9241 – tons, 1.8 0.2 – 2,607,153 3,068,707 461,554 – 1.6 ts. ts. ts.
- 
- Table D THE INCOME-TAX ON THE SUBJOINED INCOMES IN POUNDS STERLING (Tenth Report of the Commissioners of Inland Revenue, Lond. 1866.) 1860 1861 1862 1863 1864 1865 Schedule A.
- 
- 13,893,829 13,003,554 13,398,938 13,494,091 13,470,700 13,801,616 Rent of Land Schedule B.
- 
- 2,765,387 2,773,644 2,937,899 2,938,923 2,930,874 2,946,072 Farmers’ Profits.
- 
- Schedule D.
- 
- Industrial, 4,891,652 4,836,203 4,858,800 4,846,497 4,546,147 4,850,199 &c., Profits Total Schedules 22,962,885 22,998,394 23,597,574 23,658,631 23,236,298 23,930,340 A to E 483 Chapter 25 Under Schedule D.
- 
+Here’s a simple way to understand the changes in farming between 1864 and 1865.
 
- 
-(Simplified)
- 
+For wheat, the amount of land used went down by 9,494 acres. The amount of wheat produced per acre also dropped a little, from 13.0 to 12.7 quarters. Because of this, the total wheat produced dropped by 48,999 quarters.
+
+Oats were grown on 69,658 fewer acres, but the yield per acre went up slightly. Still, the total oat harvest fell by 166,605 quarters.
+
+Barley was grown on 4,402 more acres, but the amount produced per acre went down a bit. So, total barley production went down by 29,892 quarters.
+
+Bere (a type of barley) was grown on 1,197 more acres, but the yield per acre dropped. Total production also went down by 1,171 quarters.
+
+Rye was grown on fewer acres, but the yield per acre increased. Total rye production went up by 5,684 quarters.
+
+Potatoes were grown on 26,536 more acres, but the yield per acre fell a little. Still, total potato production dropped by 446,398 tons.
+
+Turnips were grown on 3,143 fewer acres, with a small drop in yield per acre. Total turnip production went down by 165,976 tons.
+
+Mangold-wurzel (a root vegetable) was grown on 316 more acres, with a better yield per acre. Total production increased by 44,653 tons.
+
+Cabbages were grown on 1,801 more acres, with a slightly higher yield. Total cabbage production rose by 52,877 tons.
+
+Flax was grown on 50,260 fewer acres, and the yield per acre fell a lot. Total flax production dropped by 24,945 stones.
+
+Hay was grown on 68,924 more acres, with a slightly higher yield. Total hay production went up by 461,554 tons.
+
+Now, about income tax in Britain from 1860 to 1865:
+
+Income from renting land (Schedule A) stayed pretty steady, with a small increase in 1865.
+
+Farmers’ profits (Schedule B) were also steady, with a small rise in 1865.
+
+Profits from industry and other sources (Schedule D) dropped a bit in 1864 but went back up in 1865.
+
+The total income from all these sources combined stayed about the same, with a slight increase in 1865.

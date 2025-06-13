@@ -1,24 +1,21 @@
-21 See again R 5320 (1776-78,18:151).
- 
- 22 This is somewhat disingenuous: Lambert at least made it clear that his reservations about Kant's account of time apply equally to the case of space.
- 
- He wrote: "The reality of time and of space appears to have something so simple and so heterogeneous from everything else that one can only think it but not define it ... I therefore cannot say that time and also space are merely an aid in behalf of human representation" (letter of 13 October 1770, at 10:107).
- 
- 23 To the whole of this paragraph, compare R 4673 (1773-75, 17=636-42).
- 
- 24 Here Kant refers to the theory of absolute space of Newton and his fol­ lowers such as Samuel Clarke. Newton's view of absolute space and time is presented in Philosophiae Naturalis Principia Mathematica (London, 1687), Scholium to Definition VIII, book I, and discussed by Clarke in his con­ tributions, beginning with Clarke's First Reply, to the Leibniz-Clarke cor­ respondence, A Collection of Papers which Passed between the Late Learned Mr. Leibnitz and Dr. Clarke, in the Years I7I5 and I7I6 (London, 1717); a German edition of the correspondence, translated by Heinrich Kohler, with an introduction by Christian Wolff and a posthumous reply to Clarke's fifth letter by L. P. Thiimmig, was published in 1720 (Frankfurt and Leipzig), as was a French edition, edited by Des Maiseaux (Amsterdam).
- 
- There is no doubt lab out Kant's familiarity with this famous controversy.
- 
- 25 Here Kant refers to the view of Leibniz and his followers. He had already anticipated his striking objection, which focuses on this epistemological problem with Leibniz's position rather than its ontology (which Kant es­ sentially shares), in the inaugural dissertation, § 15D (2:404). See also R 5298 (1776-1780s, 18:146-7), R 5327 (1776-1780s, 18:153), and R 5876 (1783-84, 18:374-5)· 26 See R 4652 (1772-78, 17:626). See also Metaphysical Foundations of Natural Science, 4:476-7.
- 
- 27 For a classical statement of the view to which Kant is objecting, see G. W Leibniz, New Essays on Human Understanding, book I, chapter I, § 1 1: "But the ideas that come from the senses are confused; and so too, at least in part, are the truths which depend on them; whereas intellectual ideas, and the truths depending on them, are distinct, and neither [the ideas nor the truths] originate in the senses; though it is true that without the senses we would never think of them" (translation by Jonathan Bennett and Peter Remnant [Cambridge: Cambridge University Press, 1981], p. 81).
- 
- 28 For a parallel passage, also using the example of a triangle, see Kant's let­ ter to Marcus Herz of 26 May 1789 (letter 362, II:48-55; translation in Arnulf Zweig, Kant: Philosophical Correspondence I759-99 [Chicago: Uni­ versity of Chicago Press, 19671, pp. 150-6).
- 
- 29 Compare to this whole section R 5637 (1780-83 or 1785-88,18:268-76), 722 Notes to pages 180-197 probably a draft for the first edition of the Critique but possibly a draft for the second edition.
- 
+21 Look again at R 5320 (1776-78,18:151).
 
- 
-(Simplified)
- 
+22 This isn’t totally honest: Lambert at least made it clear that his doubts about Kant’s idea of time also apply to space.
+
+He wrote: "The reality of time and space seems so simple and so different from everything else that you can only think about it, not really define it... So I can’t say that time and space are just tools to help us understand things" (letter from 13 October 1770, 10:107).
+
+23 For the whole paragraph, compare R 4673 (1773-75, 17:636-42).
+
+24 Here Kant talks about Newton’s idea of absolute space, which was also supported by people like Samuel Clarke. Newton’s ideas about absolute space and time are found in his book *Philosophiae Naturalis Principia Mathematica* (London, 1687), in the Scholium to Definition VIII, book I. Clarke discussed these ideas in his replies during the Leibniz-Clarke debate, which took place in 1715 and 1716. These letters were later published in different editions in German and French.
+
+It’s clear that Kant knew a lot about this famous argument.
+
+25 Here Kant refers to Leibniz and his followers’ views. He had already pointed out a key problem with Leibniz’s view, focusing on how we know things rather than the nature of things themselves (which Kant mostly agreed with), in his first dissertation, § 15D (2:404). See also R 5298 (1776-1780s, 18:146-7), R 5327 (1776-1780s, 18:153), and R 5876 (1783-84, 18:374-5).
+
+26 See R 4652 (1772-78, 17:626). Also check *Metaphysical Foundations of Natural Science*, 4:476-7.
+
+27 For a classic explanation of the view Kant is arguing against, see G. W. Leibniz’s *New Essays on Human Understanding*, book I, chapter I, § 11: "Ideas from the senses are unclear; so are some of the truths based on them. But intellectual ideas and their truths are clear and don’t come from the senses, even though without the senses we wouldn’t think of them" (translated by Jonathan Bennett and Peter Remnant, Cambridge University Press, 1981, p. 81).
+
+28 For a similar passage, also using a triangle as an example, see Kant’s letter to Marcus Herz on 26 May 1789 (letter 362, II:48-55; translated in Arnulf Zweig, *Kant: Philosophical Correspondence 1759-99*, University of Chicago Press, 1967, pp. 150-6).
+
+29 Compare this whole section to R 5637 (1780-83 or 1785-88, 18:268-76). These are probably drafts for the first or second edition of the *Critique*.

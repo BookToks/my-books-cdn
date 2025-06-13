@@ -1,12 +1,27 @@
-Pt. II. Div. I. Bk. II ori. For this reason,a as I take the actual principles of the understand­ ing as my theme I will make use of the designation of a doctrine of the power of judgment, through which this enterprise may be more pre­ cisely designated.
- 
- Introduction On the transcendental power of judgment in general.
- 
- If the understanding in general is explained as the faculty of rules, then the power of judgment is the faculty of subsuming under rules, i.e., of determining whether something stands under a given rule (casus datae h legis) or not. General logic contains no precepts at all for the power of judgment, and moreover cannot contain them. For since it abstracts from all content of cognition, nothing remains to it but the business of analytically dividing the mere form of cognition into concepts, judgAI33/BI72 ments, and inferences, and thereby achieving formal rules for all use of the understanding. Now if it wanted to show generally how one ought to subsume under these rules, i.e., distinguish whether something stands under them or not, this could not happen except once again through a rule. But just because this is a rule, it would demand another instruction for the power of judgment, and so it becomes clear that al­ though the understanding is certainly capable of being instructed and equipped through rules, the power of judgment is a special talent that cannot be taught but only practiced. Thus this is also what is specific to so-called mother-wit, the lack of which cannot be made good by any school; for,c although such a school can provide a limited understanding with plenty of rules borrowed from the insight of others and as it were graft these onto it, nevertheless the faculty for making use of them cor­ rectly must belong to the student himself, and in the absence of such a natural gift no rule that one might prescribe to him for this aim is safe A I 341B 173 from misuse.*,d A physician therefore, a judge, or a statesman, can have A I 3 3 1 B 172 * The lack of the power ofj udgment is that which is properly called stupidity, and such a failing is not to be helped. A dull or limited head, which is lacking nothing but the appropriate degree of understanding and its proper concepts, may well be trained through instruction, even to the point of becoming learned. But since it would usually still lack the power of judgment (the seA I 341 B 173 cunda Petn),e it is not at all uncommon to encounter very learned men who in n Ursache b case of the given law C In the first edition, "since." Kant struck this footnote from his copy of the first edition (E, p. 27), but nevertheless d let it remain in the second.
- 
- , the companion of Peter 268 Introduction many fine pathological, juridical, or political rules in his head, of which he can even be a thorough teacher, and yet can easily stumble in their application, either because he is lacking in natural power of judgment (though not in understanding), and to be sure understands the univer­ sal in abstracto but" cannot distinguish whether a case in concreto belongs under it, or also because he has not received adequate training for this judgment through examples and actual business.
- 
+Part II, Division I, Book II original. Because I’m focusing on the real basics of how we understand things, I’ll call this the study of the power of judgment, which explains the idea more clearly.
 
- 
-(Simplified)
- 
+Introduction: About the general power of judgment.
+
+If we think of understanding as the ability to follow rules, then the power of judgment is the skill to decide if something fits a certain rule or not.
+
+General logic doesn’t give any instructions for this skill, and it can’t, because it ignores what we actually know and only looks at how we think. It breaks thinking down into concepts, judgments, and conclusions, and creates rules for using understanding in a formal way.
+
+If it tried to explain how to decide if something fits a rule, it would need another rule for that. But since that new rule would also need a way to decide if it fits, it would go on forever.
+
+So, while understanding can be taught through rules, the power of judgment is a special skill you can only get by practicing.
+
+This is what people call “common sense” or “natural talent.” You can’t learn it in school. A school can give you lots of rules from other people’s ideas, but knowing how to use them right has to come from you.
+
+Without this natural gift, no rule you learn will help you use it correctly.
+
+For example, doctors, judges, or politicians can know many important rules and even teach them, but they can still mess up when using them if they don’t have good natural judgment.
+
+Sometimes, they understand the big ideas clearly but can’t tell if a specific situation fits those ideas.
+
+Or they might not have had enough real practice and examples to get good at this skill.
+
+The lack of judgment is what people usually call stupidity, and it can’t be fixed.
+
+A person with a slow or limited mind can learn lots of facts and ideas, but often still won’t develop good judgment.
+
+So, it’s common to find very smart people who know many rules but make mistakes when trying to apply them.

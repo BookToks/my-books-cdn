@@ -1,16 +1,13 @@
-..
- 
- "The body dies: that means, all movements now no longer appear to aim at life and the preservation of the whole ...A nd the soul? my Cebes, where will we put it? Its machine is corrupted. The parts left over from it no longer belong to it and do not constitute a whole that could have a soul. Here there are no longer any organs for sensing or tools for feeling, through which the soul could attain to any sensation. Is everything in it therefore to be empty and desolate? Are all its sensations, imagin­ ings, desires and abhorrences, its inclinations and passions have vanished, without leaving behind the least trace?" "Impossible," said Cebes. "What would that be except complete annihilation? And no annihilation, as we have seen, belongs to the faculties of nature . . ." (Phiidon, Gesammelte Schriften 3 :69-73) Yet the precise argument against the annihilation of the soul which Kant seems to have in mind was apparently added by Mendelssohn in an appen­ dix to the third edition of Phitdon in 1769: A natural action, it has been said from time immemorial, must have a beginning, a middle and an end, that is, it must occupy a stretch of time before it is completed.
- 
- This part of time may be as small as you like, but to be consistent with the nature of time, it must have moments following one after another. If the powers of nature are to produce an effect, they must approach this effect gradually and prepare for it, be­ fore it follows. But an effect that cannot be prepared, which must follow in only one instant, ceases to be natural, and cannot be produced by powers which must do everything in time. All these propositions were not unknown to the ancients, and they appear to me to be present, not without clarity, in the reasoning of Plato about opposed states and the transition from one to the other. Therefore I sought to put them before my readers in Plato's way, but with the clarity suitable to our time. They are quite evident to healthy reason; yet through the doctrine of continuity they achieve, in my opinion, a high degree of certainty. It was not reluctantly that I embraced the opportunity to acquaint my readers with this important doctrine, because they lead to correct concepts concerning the alterations of the body and the soul, without which death and life, mortality and immortality, cannot be considered from the right standpoint. (Phiidon, Gesammelte Schriften 3:1 47-8) 41 This is, however, the account of clarity given by Kant himself (Logic, 9:33).
- 
- But there he was expounding Georg Friedrich Meier (1718-1777), Auszug aus der Vernunftlehre (Extract from the Theory of Reasoning) (Halle, 1752), which he had used as a text since 1765 (2:3 IO-II). Meier is presumably the sort of logician Kant has in mind here.
- 
- 42 In fact, Descartes denies that we may infer "I exist" from "I think" by way of the general proposition "Whatever thinks exists," for precisely the rea­ son Kant mentions here. See "Reply to Second Objections," Oeuvres de Descartes TI40.
- 
- 43 To this note, compare R 5661 (1788-9°, 18:318-20), Nachtrag CLXXX to A592/B620 below (E 53, 23:42-3), and the discussion of Descartes at Metaphysik Mrongovius, 29:876-7. See also Leibniz's discussion of the cogito in New Essays, book IV, chapter VII § 7, G 6:4II, and the treatment by Nicolaus Tetens (1736 or 1737-18°7), Philosophische Versuche iiber die menschliche Natur und ihre Entwicklung (1777-78; reprint Berlin, Kant­ Gesellschaft, 1913), pp. 552, 555. Wolff divided psychology into psychologia empirica and psychologia rationalis. Psychologia empirica begins by treating of 741 the soul's existence, which he grounds on the Cartesian cogito (Psychologia em­ pirica §§ 12-15, Gesammelte Werke 1I.
- 
+When the body dies, it stops moving in ways that keep it alive. But what about the soul? Where does it go? The body is broken, and the parts left don’t work together like before. There are no senses or feelings anymore, so the soul can’t experience anything. Does that mean everything inside is empty and lifeless? Are all feelings, thoughts, wants, and fears gone without a trace?
 
- 
-(Simplified)
- 
+“No way,” said Cebes. “That would mean total destruction. And nature doesn’t work that way.”
+
+A long time ago, people said that natural actions have a beginning, middle, and end—they take time to happen. Even if it’s a very short time, things must happen one after another. For nature to cause something, it has to happen gradually, step by step. If something happens instantly without any preparation, it’s not natural and can’t be made by natural powers.
+
+These ideas were known even in ancient times. They show up clearly in Plato’s thoughts about changes and how one state turns into another. So, I wanted to explain these ideas clearly to my readers, like Plato did, but in a way people today can understand. These ideas make sense and help us think about how the body and soul change, which is important when we talk about life, death, and whether the soul lives forever.
+
+Kant himself said something similar when he explained the ideas of a thinker named Meier, who was a logician Kant used in his studies.
+
+Descartes, another famous thinker, said we can’t just say “I exist” because “I think” based on a general rule like “anything that thinks exists.” Kant agrees with this idea.
+
+There are also other philosophers like Leibniz and Tetens who talked about the soul and human nature. Some divided psychology into parts, and one part starts by proving the soul exists, using Descartes’ idea that thinking proves existence.

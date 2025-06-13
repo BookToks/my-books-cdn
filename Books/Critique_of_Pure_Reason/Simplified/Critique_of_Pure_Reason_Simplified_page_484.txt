@@ -1,10 +1,7 @@
-Proof For suppose that it has a beginning. Since the beginning is an existence preceded by a time in which the thing is not, there must be a preceding time in which the world was not, i.e., an empty time. But now no aris­ ing of any sort of thing is possible in an empty time, because no part of such a time has, in itself, prior to another part, any distinguishing con­ dition of its existence rather than its non-existence (whether one as­ sumes that it comes to be of itself or through another cause). Thus many series of things may begin in the world, but the world itself can­ not have any beginning, and so in past time it is infinite. 56 As to the second point, first assume the opposite, namely that the world is finite and bounded in space; then it exists in an empty space, which is not bounded. There would thus be encountered not only a re­ lationa between things in space, but also a relation of things to space.
- 
- Now since the world is an absolute whole, besides which there is encountered no object of intuition, and hence no correlate of the world to A429/ B457 which the world could stand in relation, the relation of the world to empty space would be a relation of the world to no object. Such a relation, however, and hence also the boundedness of the world by empty space, is nothing; therefore the world is not bounded at all in space, i.e., in its extension it is infinite.* * Space is merely the form of outer intuition (formal intuition), but not a real A429/ B457 object that can be outwardly intuited. Space, prior to all things determining (filling or bounding) it, or which, rather, give an empirical intuition as to its form, is, under the name of absolute space,5? nothing other than the mere posa Verhaltnis; this will be the only word translated "relation" in Section 2 of the Antinomies unless otherwise noted.
- 
- 471 Doctrine of Elements.
- 
+Proof: Let’s imagine the world had a beginning. That means there was a time before the world existed—an empty time with nothing in it. But nothing can start during an empty time because there’s no part of that time that comes before another part to cause anything to happen. So, many things can begin in the world, but the world itself can’t have a starting point. That means the world has always existed forever.
 
- 
-(Simplified)
- 
+Now, about the second point: imagine the world is limited in size and has edges. That would mean there’s empty space outside the world, which has no limits. So, there would be a relationship not just between things inside space, but also between the world and this empty space.
+
+But the world is everything there is—there’s nothing outside it. So, the world can’t really have a relationship with empty space because empty space doesn’t exist as a real thing. Because of this, the idea that the world has edges or limits is false. This means the world doesn’t have boundaries in space and must be infinite in size.
+
+Space isn’t an actual thing you can see or touch; it’s just the way we understand where things are. Before anything fills or limits space, it’s just an empty idea, not a real object.

@@ -1,14 +1,11 @@
-Introduction liii of a god is bound to be weak (E 11.25–7). Hume also hints at two other general principles, that it is problematic to draw conclusions about any supposed cause that is known only through a single manifestation(E11.25‒6), and—even more so—any supposed cause of a unique type (E11.30).
- 
- 18. Section XII: ‘Of the Academical or Sceptical Philosophy’ In Section XII, Hume discusses a wide array of sceptical arguments, clarifying his own finely balanced attitude to them. While acknowledging many of them to be irrefutable, he nevertheless resists, on practical rather than purely theoretical grounds, being forced by them into ‘excessive’ scepticism. This approach is typified by his short treatment of antecedent scepticism at E 12.3–4, where he contrasts the futile and self-defeating extremes of Cartesian doubt with a more moderate caution and modesty that he fully endorses.32 He then moves on to discuss several varieties of consequent scepticism— scepticism arising from specific considerations rather than generalized a priori distrust of our faculties—and these occupy most of Part i and all of Part ii.
- 
- Turning first to our sensory belief in the external world, Hume attributes this to a ‘blind and powerful instinct of nature’ (E 12.8), which, however, leads us to identify physical objects with the very images that appear to our minds. This identification raises obvious problems, because the perceptions of the mind are so fleeting (E12.9); hence to maintain our instinctive belief in a durable external world, modern philosophers such as Locke adopt the theory of representative realism: postulating physical objects that are distinct from, and causes of, those perceptions. Drawing on his theory of causation, Hume now emphasizes the impossibility of establishing any such theory.
- 
- If we are only ever directly acquainted with our perceptions, and never with their supposed causes, then no connexion between the two—no ‘constant conjunction’ (cf. E7.28,8.5)—can ever be observed. Even worse, an argument derived from Berkeley (E 12.15) suggests that the Lockean theory is not only groundless but vacuous or incoherent.
- 
- 32 Descartes used extreme scepticism as a tool for sweeping away traditional views, and claimed to establish his own first principles as ‘clearly and distinctly perceived’, supposedly immune even to the most radical doubt.
- 
+The idea of a god is probably weak (E 11.25–7). Hume also points out two other problems: it’s hard to say anything for sure about a cause we only see once (E11.25‒6), and it’s even harder if that cause is something totally unique (E11.30).
 
- 
-(Simplified)
- 
+In Section XII, called ‘Of the Academical or Sceptical Philosophy,’ Hume talks about many skeptical ideas and explains his own careful view of them. He agrees that many skeptical points can’t be easily disproved, but he doesn’t want to go too far and become extremely skeptical just for the sake of it. For example, he briefly compares extreme doubt, like Descartes’ method (E 12.3–4), which tries to question everything, with a more balanced and humble approach that he supports.
+
+Next, Hume looks at different kinds of skepticism that come from specific problems instead of just doubting everything from the start. These take up most of Part i and all of Part ii.
+
+First, he talks about how we believe in the world around us through our senses. Hume says this belief comes from a “blind and powerful instinct of nature” (E 12.8). But this leads us to confuse real objects with the pictures our minds create. This is tricky because our mental images are quick and changeable (E12.9). To explain this, philosophers like Locke say that real physical objects cause those mental images but are different from them. Hume uses his ideas about cause and effect to show that this explanation can’t really be proven.
+
+Since we only ever experience our own mental images and never directly see their causes, we can’t observe any real connection or “constant conjunction” between them (E7.28, 8.5). Even worse, an argument from Berkeley (E 12.15) shows that Locke’s theory isn’t just unproven but actually makes no sense.
+
+Descartes used extreme doubt to get rid of old beliefs and claimed he found firm truths that no one could doubt.

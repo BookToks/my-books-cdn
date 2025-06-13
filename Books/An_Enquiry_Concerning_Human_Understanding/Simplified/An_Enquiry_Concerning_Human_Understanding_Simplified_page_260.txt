@@ -1,30 +1,25 @@
-196 Notes to Pages 64–70 We should seek explanations in terms of uniform underlying causes rather than erratic superficial causes.
- 
- 8.15 A stupid . . . carriage: a dull man is uncharacteristically vivacious.
- 
- 8.16 Thus it appears . . . nature:Hume perhaps goes too far here, in apparently endorsing a strong form of psychological determinism. For examplethe obliging person of the previous paragraph, who has a toothache, is influenced behaviourally by physicalhappenings in his brain as well as motives.
- 
- 8.18 politics be a science: one of Hume’s aims in this section is to make the case that human thought and behaviour is fully amenable to scientific explanation, a natural rather than a mysterious phenomenon. The phrase is reminiscent of the title of one of his essays ‘That Politics may be Reduced to a Science’ (1741).
- 
- 8.19 interest: influence.
- 
- 8.19 wheel: an instrument of torture.
- 
- 8.20 Charing-Cross:an area commonly regarded as the centre of London, and now most familiarly associated with Charing Cross railway station.
- 
- 8.21 what . . . reason: the Introduction, p. xlvii, explains what is going on in this and the next paragraph, where Hume appeals again to his two ‘definitions of cause’ to illuminate the issue of free will.
- 
- 8.23 a power . . . will: this equates free action with intentionalaction, and is therefore not to be equated with ‘freedom’ in any more everyday sense (e.g. freedom from unwanted rules, legal constraints, or coercive threats). It is therefore dubious to see Hume’s notion of liberty here as equivalent to what in the Treatisehe referred to as ‘liberty of spontaneity, as it is call’d in the schools . . . the most common sense of the word; and . . . that species of liberty, which it concerns us to preserve’ (2.3.2.1).
- 
- a prisoner . . . chains: this example suggests that Hume’s intended meaning of ‘liberty’ is excluded only by extreme physical constraint or compulsion, and is entirely compatible with coercive threats. If I give someone access to a bank vault because they threaten my family with a gun, then in this sense I do so freely, because I act intentionally— ‘according to the determinations of my will’—in unlocking the door.
- 
- But Hume’s approach can easily accommodate the common-sense idea that I am not blameworthy for doing so. If I am blameless for opening the vault, this is not because I did not act freely. Rather, it is because I did not do anything wrong. In that situation, faced with the alternatives of opening the vault or having my family murdered, opening the vault was not a blameworthy act.
- 
- 8.25 nothing exists . . . existence: Hume discussed this Causal Maxim in Treatise, 1.3.3 See also explanatory note to 6.1.
- 
- 8.26 consistent with morality: in the final 1772 and 1777 editions of the Enquiry, ‘morality’ replaced ‘Morality and Religion’. Hume apparently decided to give up the pretence that his discussion of religionlater in the section is anything other than negative.
- 
+We should look for explanations based on steady, underlying causes instead of random, surface-level reasons.
 
- 
-(Simplified)
- 
+A boring person acting lively is unusual.
+
+Hume might be going too far by saying that all our actions are controlled by our minds. For example, a helpful person with a toothache is influenced both by what's happening in their brain and by their reasons for acting.
+
+One of Hume’s goals here is to show that human thinking and behavior can be explained scientifically. He wants to prove that it’s a natural thing, not something mysterious. This idea is similar to his essay called ‘That Politics may be Reduced to a Science’ (1741).
+
+“Interest” means influence.
+
+A “wheel” here means a torture device.
+
+Charing-Cross is an area in the middle of London, now known mostly for its train station.
+
+The Introduction explains what’s going on here and in the next paragraph. Hume uses his two “definitions of cause” to help explain the idea of free will.
+
+Saying that a “power” is the same as “will” means that free action means doing something on purpose. This is not the same as freedom in everyday life, like being free from annoying rules or threats. So, Hume’s idea of liberty here isn’t the same as the usual idea of freedom, which is about being spontaneous or having fewer limits.
+
+The example of a prisoner in chains shows that Hume’s idea of “liberty” only excludes very strong physical force and can still include threats. For example, if I open a bank vault because someone is threatening my family with a gun, I do it freely because I choose to act—that is, I act according to my will.
+
+But Hume’s view also fits with the common idea that I am not at fault for doing this. I’m not blameworthy not because I didn’t act freely, but because I didn’t do anything wrong. In that situation, opening the vault to save my family isn’t a bad thing.
+
+Hume talked about the idea that “nothing exists without a cause” in his Treatise, section 1.3.3. See also the note for section 6.1.
+
+In the last editions of his Enquiry (1772 and 1777), Hume changed “Morality and Religion” to just “morality.” He seemed to admit that his discussion of religion later in the section is mostly negative.

@@ -1,24 +1,23 @@
-140 However, the conclusion that Kant draws from this presentation of the antinomies is not yet what he will later argue. He clearly suggests that the "transcendent principles" (what will be the theses in the later antinomies) arise from using concepts of the understanding without space and time as conditions, while the "immanent principles" result from applying the concepts of the understanding to space and time and using them within the conditions imposed by the structure of our rep­ resentations of space and time -using them as "principles of the expo- .
- 
- sition of appearances." But he does not reject the "transcendent" use of the concepts of the understanding. On the contrary, he still seems to hold, as he did in the inaugural dissertation, that there is a legitimate transcendent use of the concepts of the understanding unrestricted by the conditions of space and time. Thus he reiterates the three subrep­ tic axioms of the dissertation as three "Rules of Dialectic": Do not judge what does not belong to appearances in accordance with rules I.
- 
- of appearance, e.g., God with [rules of] space and time.
- 
- Do not subject what does not belong to outer appearance, e.g., spirit, to its 2.
- 
- conditions.
- 
- 3. Do not hold to be impossible what cannot be conceived and represented in intuition, the totality of the infinite or of infinite division.
- 
- Then he lists four "principles of the absolute unity of reason" that can apparently be maintained as long as we do not violate any of these three rules: a. Simplicity of the thinking subject.
- 
- b. Freedom as the condition of rational actions.
- 
- c. Ens originarium as the substratum of all connection of one's representations in a whole.
- 
- d. Do not confuse the restriction [Einschrankung] of the world in accordance with its origin and content with its limitation [Begrenzung]!41 At this point, then, it seems as if Kant envisioned for the Critique (I) an account of the nature and structure of space and time paralleling that in the dissertation, (2) a new account of the use of a priori concepts of the understanding, according to which they yield "immanent principles for the empirical use of the understanding" only when applied to the con­ ditions of spatiotemporal representation to achieve an "exposition of 58 Introduction appearances," but (3) continued adherence to the view of the disserta­ tion that these concepts can also yield transcendent or metaphysical knowledge when freed of the restriction of the forms of sensibility.
- 
+Kant’s conclusion about the antinomies is different from what he will later say. He suggests that "transcendent principles" (which will become the theses later) come from using understanding without thinking about space and time. The "immanent principles" come from using understanding with space and time, following how we experience things.
 
- 
-(Simplified)
- 
+But he doesn’t reject using understanding beyond space and time. In fact, like in his earlier work, he thinks there is a real way to use understanding without those limits.
+
+He repeats three important rules:
+
+1. Don’t judge things that aren’t part of appearances, like God, by the rules of space and time.
+
+2. Don’t apply the conditions of outer appearance, like space and time, to things like spirit.
+
+3. Don’t say something is impossible just because we can’t imagine it, like the idea of infinity.
+
+Next, he lists four key ideas that we can keep as long as we follow those three rules:
+
+a. The thinking self is simple.
+
+b. Freedom is needed for rational actions.
+
+c. There is an original source that connects all our thoughts.
+
+d. Don’t mix up limiting the world based on its origin with saying the world is limited.
+
+So, at this point, Kant seems to plan for the Critique to do three things: (1) explain space and time like in his earlier work, (2) show how concepts of understanding work only when linked to space and time for understanding appearances, and (3) still believe these concepts can give us knowledge beyond space and time when not limited by how we sense the world.

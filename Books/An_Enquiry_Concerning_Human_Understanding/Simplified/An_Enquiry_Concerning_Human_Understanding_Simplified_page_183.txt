@@ -1,16 +1,13 @@
-Academical or Sceptical Philosophy 119 [27] It seems to me, that the only objects of the abstract sciences or of demonstration are quantity and number, and that all attempts to extend this more perfect species of knowledge beyond these bounds are mere sophistry and illusion. As the component parts of quantity and number are entirely similar,*their relations become intricate and involved; and nothing can be more curious, as well as useful, than to trace, by a variety of mediums, their equality or inequality,through their different appearances. But as all other ideas are clearly distinct and different from each other, we can never advance farther, by our outmost scrutiny, than to observe this diversity, and, by an obvious reflection, pronounce one thing not to be another. Or if there be any difficulty in these decisions, it proceeds entirely from the undeterminate meaning of words, which is corrected by juster definitions. That the square of the hypothenuse*is equal to the squares of the other two sides, cannot be known, let the terms be ever so exactly defined, without a train of reasoning and enquiry. But to convince us of this proposition, that where there is no property, there can be no injustice, it is only necessary to define the terms, and explain injustice to be a violation of property.
- 
- This proposition is, indeed, nothing but a more imperfect definition.
- 
- It is the same case with all those pretended syllogistical reasonings, which may be found in every other branch of learning, except the sciences of quantity and number; and these may safely, I think, be pronounced the only proper objects of knowledge and demonstration.
- 
- [28] All other enquiries of men regard only matter of fact and exis- 164 tence; and these are evidently incapable of demonstration. Whatever ismaynot be. No negation of a fact can involve a contradiction. The non-existence of any being, without exception, is as clear and distinct an idea as its existence. The proposition, which affirms it not to be, however false, is no less conceivable and intelligible, than that which affirms it to be. The case is different with the sciences, properly so called.
- 
- Every proposition, which is not true, is there confused and unintelligible. That the cube root of 64is equal to the half of 10, is a false proposition, and can never be distinctly conceived. But that Caesar,*or the angel Gabriel,* or any being never existed, may be a false proposition, but still is perfectly conceivable, and implies no contradiction.
- 
- [29] The existence, therefore, of any being can only be proved by arguments from its cause or its effect; and these arguments are founded entirely on experience. If we reason à priori, any thing may appear able to produce any thing. The falling of a pebble may, for 120 Section XII ought we know, extinguish the sun; or the wish of a man controul the planets in their orbits.
- 
+I think the only things we can really prove perfectly are about quantity and numbers. Trying to use perfect proof for anything else is just tricking yourself. Since parts of quantity and numbers are very similar, their relationships can get complicated. It’s interesting and helpful to explore when they are equal or not, even if they look different.
 
- 
-(Simplified)
- 
+But other ideas are clearly different from each other. No matter how hard we try, the most we can do is notice these differences and say one thing isn’t another. If it’s hard to decide, it’s usually because words aren’t clear, and that gets fixed with better definitions. For example, you can’t know that the square of the longest side of a triangle equals the sum of the squares of the other two sides just by defining the words—you need to do some reasoning.
+
+But to understand that if there is no property, there can be no injustice, you just need clear definitions. This idea is really just a less perfect way of defining things.
+
+It’s the same with all those fancy logical arguments you find in other subjects, except in the sciences of quantity and number. Those are the only real subjects where knowledge and proof work well.
+
+All other questions people ask are about facts and whether something exists, and these can’t be proven perfectly. Something that exists might not exist. Saying something doesn’t exist doesn’t contradict anything. The idea of something not existing is just as clear as the idea of it existing. Saying something doesn’t exist might be false, but it still makes sense.
+
+This is different from math and similar sciences. If a math statement isn’t true, it’s confusing and doesn’t make sense. For example, saying the cube root of 64 equals half of 10 is false and doesn’t make sense clearly. But saying Caesar or the angel Gabriel never existed might be false, but it still makes sense and doesn’t contradict anything.
+
+So, to prove that something exists, you have to look at its cause or effect, and these proofs come entirely from experience. If you try to guess without experience, anything could seem possible. For example, a falling pebble could, in theory, put out the sun, or a man’s wish could control the planets.

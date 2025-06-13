@@ -1,8 +1,13 @@
-This argument, however, even if accepted, does little to resolve the widely felt tension between determinism and moral responsibility: if everything that I do was ‘pre-ordained’ before I was even born, then how can I be genuinely responsible? It might now seem that the notion of moral responsibility has turned out to be incoherent, both requiring and yet being incompatible with determinism. Hume sketches his solution to this conundrum when discussing the religious implications of his views (E 8.34–5), a solution based on his moral theory which is sentimentalist(i.e. based on the emotions or passions) rather than rationalist: A man, who is robbed of a considerable sum; does he find his vexation for the loss any wise diminished by these sublime reflections? Why then should his moral resentment against the crime be supposed incompatible with them? (E8.35) If morality is founded on emotions of blame (etc.) that naturally arise within us in certain circumstances—for example when a crime is committed—then we should not expect that these emotions will disappear, just because we reflect on the inexorable chain of causation which led to the criminal’s action. Here Hume does little more than drop this hint; the full development of his sentimentalist moral theory comes in the companion work, his Enquiry concerning the Principles of Morals.
- 
- 15. Section IX: ‘Of the Reason of Animals’ In the wake of the Darwinian revolution, it is no surprise that there should be similarities between animal and human thinking, but in the eighteenth century the suggestion was potentially quite shocking.28 Human reason was commonly thought to be quasi-divine or angelic rather than beastlike, a faculty expressing the essence of our unique immaterial soul, capable of providing transparent insight into the nature of things and operating quite independently of brute animal 28 Darwin’s notebooks of 1838–9record that he read Hume’s section on the reason of animals just at the time that he was developing his theory of evolution.
- 
+This argument, even if we accept it, doesn’t really solve the big problem between determinism and moral responsibility. If everything I do was already decided before I was even born, how can I be truly responsible for my actions? It might seem like the idea of moral responsibility doesn’t make sense because it both depends on and doesn’t fit with determinism.
 
- 
-(Simplified)
- 
+Hume talks about a way to solve this problem when he discusses religion and his ideas. His solution is based on a moral theory that focuses on feelings and emotions, not just logic. For example, if someone steals a lot of money from a man, does thinking deeply about the cause of the crime make the man less upset? No. So why should feeling angry about the crime stop just because we understand the cause behind it?
+
+If morality is based on natural feelings of blame that come up when something bad happens, like a crime, then these feelings won’t just disappear when we think about the chain of events that caused it. Hume only briefly mentions this idea here; he explains his full moral theory based on emotions in another book called the Enquiry concerning the Principles of Morals.
+
+---
+
+Section IX: ‘Of the Reason of Animals’
+
+After Darwin’s ideas about evolution, it’s no surprise that animals and humans think in similar ways. But in the 1700s, this idea was pretty shocking. People back then often believed human reason was almost divine or angel-like, connected to a special immaterial soul. They thought human reason gave us clear understanding of the world and worked separately from animal instincts.
+
+(Darwin’s notebooks from 1838–9 show he read Hume’s section about animal reason right when he was coming up with his theory of evolution.)

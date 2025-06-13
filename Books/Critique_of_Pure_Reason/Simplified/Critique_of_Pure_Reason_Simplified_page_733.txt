@@ -1,26 +1,23 @@
-For earlier accounts of intuition, see R 3955, 3957, 3958, and 3961 (1769, 17=364-7).
- 
- 3 On the contrast between intuition and sensation, see R 4636 (1772-76, 17:619-20). More generally, on Kant's classification of the various forms of cognitive states, see the inaugural dissertation, § 5 (2:394); R 619-20 (1769, 15:268); R 2835-6 (1773-77, 16:536-40); and the scheme given at A 320/B 367 below, as well as the further reflections noted there.
- 
- 4 Kant refers in this note to Alexander Gottlieb Baumgarten (1711-1762), who was not only the author of the textbooks on metaphysics and ethics on which Kant based his lecture courses in those subjects, but also the au­ thor of the two works which introduced and gave currency to the term "aesthetics" used in its modern sense, i.e., as the name for the philosophy of art and/or beauty; these works were Baumgarten's dissertation Medi­ tationes philosophicae de nonnullis ad poema pertinentibus (Halle, 1735), and the two-volume though uncompleted Aesthetica (Halle, 1750 and 1758). It is not clear whether Kant was acquainted with Baumgarten's aesthetic the­ ory firsthand or through the three-volume work in German published by Baumgarten's disciple Georg Friedrich Meier, Die Anfangsgriinde alter schijnen Kiinste und Wissenschaften (Halle, 1748-50) (Meier was also the au­ thor of the textbook used in Kant's logic courses). In any case, although in the present footnote Kant evinced a hostility to Baumgarten's new usage which he modified only slightly in the revisions of this note in the second edition, by 1790 Kant had accepted Baumgarten's usage, and so entitled the section of the Critique of Judgment of that year dealing with what he here says should be called the "critique of taste" the "Critique of Aes­ thetic Judgment." For comments on :Baumgarten, see R 5081 (1776-78, 18:81-2). For further critical comm6nts about the status of aesthetics in Baumgarten's (and the modern) sense, see R 1578, 1579, 1587, 1588 (1760s, 16:16-23, 26-7), R 4276 (1770-71, 17:492), and R 5063 (1776-78, 18:76-7).
- 
- 5 Compare R 5298 (1776-78 or 1780s, 18:146-8).
- 
- 6 With this paragraph compare R 4188 and 4189 (1769-70, 17:449-50).
- 
- 7 See R 4199 (1769-70, 17:453).
- 
- 8 Compare R 5315 (1776-1780s, 18:151).
- 
- 9 For a contrasting assertion, see R 45 II (1772-75, 17:578). For further dis­ cussion, see R 5636 (1780s, 18:267-8).
- 
- 10 See R 5637 (1780s, 18:271-6, especially p. 271).
- 
- II See R 4071 (1769, 17:404), R 4315 (1769-71, 17:503-4), R 4425 (1771, I7=541), and R 4673 (1773-75, 17:636-42, especially p. 638).
- 
- 12 Kant suggests a quite different argument for this point in the Opus postu­ mum, where he states that it is because space is a form of intuition that it must be infinite; the unstated premise is presumably that no matter how much is given to us, we must always be able to represent it spatially because space is the form of intuition of outer objects. Of course, this might be thought to presuppose the proof that space is a form of intuition which is still being given here. See Opus postumum, 22:12,43-4, 415,417,419-20; in Kant, Opus postumum, edited by Eckart Forster (Cambridge: Cambridge 720 Notes to pages 159-165 University Press, 1993), pp.
- 
+For earlier ideas about intuition, check R 3955, 3957, 3958, and 3961 (1769, 17=364-7).
 
- 
-(Simplified)
- 
+To understand the difference between intuition and sensation, see R 4636 (1772-76, 17:619-20). More generally, to learn about Kant’s way of sorting different mental states, look at the inaugural dissertation, § 5 (2:394); R 619-20 (1769, 15:268); R 2835-6 (1773-77, 16:536-40); and the example given at A 320/B 367 below, along with more thoughts mentioned there.
+
+Kant talks here about Alexander Gottlieb Baumgarten (1711-1762). Baumgarten wrote textbooks on metaphysics and ethics that Kant used in his classes. He also introduced the word “aesthetics” as the study of art and beauty. Baumgarten’s important works were his dissertation Meditations philosophicae de nonnullis ad poema pertinentibus (1735) and the two-volume Aesthetica (1750 and 1758), which was never finished. It’s not clear if Kant read Baumgarten’s ideas directly or through the three-volume German book by Baumgarten’s student Georg Friedrich Meier, which Kant also used in his logic classes.
+
+At first, Kant didn’t like Baumgarten’s new use of the word “aesthetics,” but by 1790, Kant accepted it. That year, he named a section in his Critique of Judgment “Critique of Aesthetic Judgment,” which is about what he called the “critique of taste.” For more about Baumgarten, see R 5081 (1776-78, 18:81-2). For more critical thoughts about aesthetics as Baumgarten and others saw it, check R 1578, 1579, 1587, 1588 (1760s, 16:16-23, 26-7), R 4276 (1770-71, 17:492), and R 5063 (1776-78, 18:76-7).
+
+Compare R 5298 (1776-78 or 1780s, 18:146-8).
+
+For this paragraph, compare R 4188 and 4189 (1769-70, 17:449-50).
+
+See R 4199 (1769-70, 17:453).
+
+Compare R 5315 (1776-1780s, 18:151).
+
+For a different view, see R 4511 (1772-75, 17:578). For more discussion, see R 5636 (1780s, 18:267-8).
+
+See R 5637 (1780s, 18:271-6), especially page 271.
+
+Look at R 4071 (1769, 17:404), R 4315 (1769-71, 17:503-4), R 4425 (1771, 17=541), and R 4673 (1773-75, 17:636-42), especially page 638.
+
+Kant gives a different reason for this in his Opus postumum. He says space is a way we understand things (a form of intuition), so space must be infinite. The idea is that no matter what we experience, we can always picture it in space because space is how we see outer objects. This idea depends on the proof that space is a form of intuition, which Kant is still working on here. See Opus postumum, 22:12,43-4, 415, 417, 419-20; edited by Eckart Forster (Cambridge University Press, 1993), pages...

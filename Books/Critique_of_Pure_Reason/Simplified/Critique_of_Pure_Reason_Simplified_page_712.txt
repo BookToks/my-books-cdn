@@ -1,18 +1,9 @@
-The meta­ physics of thinking nature is called psychology, and because of the cause that has just been adduced only the rational cognition of this is here meant.
- 
- Accordingly, the entire system of metaphysics consists of four main parts. I. Ontology. 2. Rational Physiology. 3. Rational Cosmology.
- 
- 4. Rational Theology. The second part, namely the doctrine of nature of pure reason, contains two divisions,physica rationalis* andpsychologia A847/B875 rationalis.48 The original idea of a philosophy of pure reason itself prescribes this division; it is therefore architectonic, in conformity with its essential ends, and not merely technical, in accordance with contingently per­ ceived affinities and, as it were, established by good luck; and for that very reason it is unchangeable and legislative. However, there are sev­ eral points here which could arouse reservations and weaken the con­ viction of its lawfulness.
- 
- First, how can 1 expect an a priori cognition and thus a metaphysics of objects that are given to our senses, thus given a posteriori? And how is it possible to cognize the nature of things in accordance with a priori principles a and to arrive at a rational physiology? The answer is: We A848/ B 876 take from experience nothing more than what is necessary to give ourselves an object, b partly of outer and partly of inner sense. The former is accomplished through the mere concept of matter (impenetrable lifeless extension), the latter through the concept of a thinking being (in the empirically inner representation "1 think"). Otherwise, we must in the entire metaphysics of these objects abstain entirely from any empirical principles' that might add any sort of experience beyond the concept in order to judge something about these objects.
- 
- * One should not think, indeed, that I understand by this what is commonly A 847/ B 875 called physica generalis, which is more mathematics than philosophy of nature.
- 
- For the metaphysics of nature abstracts entirely from mathematics, and has nowhere near as many ampliative insights to offer as the latter, yet it is still very important with regard to the critique of the pure cognition of understanding that is to be applied to nature in general; in its absence even mathematicians, depending on certain common but in fact metaphysical concepts, have without noticing it burdened the doctrine of nature with hypotheses that d disappear in a critique of these principles without doing the least damage to the use of mathematics in this field (which is entirely indispensable).
- 
- a Principien b Object , Principien d Principien 699 Doctrine of Method.
- 
+The study of the nature of thinking is called psychology, and here we only mean understanding it through reason.
 
- 
-(Simplified)
- 
+Metaphysics has four main parts: 1. Ontology, 2. Rational Physiology, 3. Rational Cosmology, and 4. Rational Theology. The second part, which is about the nature of things based on pure reason, has two sections: rational physics and rational psychology. This split is not random but is based on the main goals of philosophy, so it’s fixed and important.
+
+There might be some doubts about this system, especially about how we can know things about the world that we usually learn through our senses, which is experience. How can we understand the nature of things before we experience them and create a rational science of nature?
+
+The answer is that we only use experience to get an object to think about, partly from the outside world and partly from inside our minds. For the outside, we think about matter as something solid and lifeless. For the inside, we think about ourselves as thinking beings. After that, metaphysics avoids using any other experience to make judgments about these things.
+
+This kind of rational physics is not the same as what people usually call general physics, which is more about math than philosophy. Metaphysics ignores math and doesn’t give as many new insights as math does, but it’s still very important for understanding how we can use pure reason to study nature. Without it, even mathematicians might accidentally rely on ideas that don’t hold up under careful critique, although this doesn’t affect how useful math is in science.

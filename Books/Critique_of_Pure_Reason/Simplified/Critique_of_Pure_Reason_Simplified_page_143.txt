@@ -1,16 +1,13 @@
-a On the difference between analytic and synthetic judgments.4 In all judgments in which the relation of a subject to the predicate is thought (if! consider only affirmative judgments, since the application to negative ones is easy), this relation is possible in two different ways.
- 
- Either the predicate B belongs to the subject A as something that is (covertly) contained in this concept A; or B lies entirely outside the concept A, though to be sure it stands in connection with it. In the first case I call the judgment analytic, in the second synthetic. Analytic A 7 judgments (affirmative ones) are thus those in which the connection of the predicate is thought through identity, but those in which this con­ nection is thought without identity are to be called synthetic judgB I I ments. One could also call the former judgments of clarification and the latter judgments of amplification,b since through the predicate the former do not add anything to the concept of the subject, but only break it up by means of analysis into its component concepts, which were already thought in it (though confusedly); while the latter, on the contrary, add to the concept of the subject a predicate that was not thought in it at all, and could not have been extracted from it through any analysis; e.g., if! say: "All bodies are extended," then this is an an­ alytic judgment. For I do not need to go outside the conceptC that I combine with the word "body" in order to find that extension is con­ nected with it, but rather I need only to analyze that concept, i.e., be­ come conscious of the manifold that I always think in it, in order to encounter this predicate therein; it is therefore an analytic judgment.
- 
- On the contrary, if I say: "All bodies are heavy," then the predicate is something entirely different from that which I think in the mere con­ cept of a body in general. The addition of such a predicate thus yields a synthetic judgment.
- 
- "Now from this it is clear: I) that through analytic judgments our A8 cognition is not amplified at all, but rather the concept, which I already a Kant's copy of the first edition has the following note: "On synthetic hypothetical and disjunctive judgments as well as categorical negative judgments." (E V, p. 14) b Erliiuterungs-and Erweiterung.mrteile. These terms are emphasized in the second but not in the first edition.
- 
- , Kant's copy of the first edition here adds: " 'I exist' is an analytic judgment; 'A body ex­ ists' is a synthetic one." (E VI, p. 14) The next two paragraphs are replaced with a single one in the second edition, the sec­ d ond of which incorporates part of the present one; see B I I-12 below.
- 
- 130 Introduction <A> have, is set out, and made intelligible to me; 2) that in synthetic judg­ ments I must have in addition to the concept of the subject something else eX) on which the understanding depends in cognizing a predicate that does not lie in that concept as nevertheless belonging to it.
- 
+When we make a judgment, like saying something about a subject, there are two ways the subject and the predicate (the thing said about the subject) can be connected.
 
- 
-(Simplified)
- 
+Either the predicate is already included in the idea of the subject, even if we don’t realize it at first; or the predicate is completely outside the subject’s idea but still connected to it in some way.  
+
+If the predicate is part of the subject’s idea, the judgment is called analytic. If the predicate is not part of the subject’s idea, the judgment is called synthetic.  
+
+Analytic judgments just explain what’s already in the subject’s idea by breaking it down into parts. Synthetic judgments add new information to the subject’s idea that wasn’t there before.  
+
+For example, if I say “All bodies are extended,” this is an analytic judgment because the idea of “body” already includes “extension.” I just have to think about the idea carefully to see it.  
+
+But if I say “All bodies are heavy,” this is a synthetic judgment because “heavy” is not part of the basic idea of a body. It adds something new.  
+
+So, analytic judgments don’t really increase what we know; they just help us understand the idea better. Synthetic judgments, on the other hand, add new knowledge that wasn’t in the original idea.

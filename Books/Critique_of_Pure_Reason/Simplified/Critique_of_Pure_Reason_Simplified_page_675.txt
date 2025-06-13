@@ -1,16 +1,11 @@
-Ch. 1. Sec. III as if one thought to prove a proposition of geometry as merely proba­ ble. Reason in abstraction from all experience can cognize everything only a priori and necessarily, or not at all; hence its judgment is never an opinion, but either abstention from all judgment or apodictic certainty.
- 
- Opinions and probable judgments about what pertains to things can occur only as grounds of explanation of that which is actually given or as consequences in accordance with empirical laws of that which actu­ ally grounds what is actually given; thus they can occur only in the se­ ries of objects of experience. To fonn opinions outside this field is the same as to play with thoughts, unless one merely has the opinion that an uncertain path of judgment can perhaps lead to truth.
- 
- A 776/ B 804 However, although in merely speculative questions of pure reason no hypotheses are allowed to ground propositions, they are nevertheless entirely admissible for defending them, i.e., not in dogmatic but in polemical use. By defense, however, I understand not the augmentation of grounds of proof for its assertion, but rather the mere frustration of the opponent's illusory insights, which would demolish our own as­ serted propositions. But now all synthetic propositions from pure rea­ son have the peculiarity that ifhe who asserts the reality of certain ideas never knows enough to make his proposition certain, on the other side his opponent can just as little know enough to assert the contrary. This equality in the lot of human reason favors neither of them in specula­ tive cognitions, and there is thus the true battleground of feuds that can never be resolved. It will be shown in what follows, however, that in re­ gard to its practical use reason still has the right to assume something which it would in no way be warranted in presupposing in the field of mere speculation without sufficient grounds of proof; for all such pre­ suppositions injure the perfection of speculation, about which, however, the practical interest does not trouble itself at al1. There it thus has a possession the legitimacy of which need not be proved, and the proof of A 777 / B 805 which it could not in fact give. The opponent should therefore prove.
- 
- But since he no more knows something about the object that is doubted which would establish its non-being than does the former, who asserts its actuality, here an advantage on the side of he who asserts something as a practically necessary presupposition (melior est conditio possidentis)a is revealed. He is, namely, free to use, as it were in an emergency, the very same means for his good causeb as his opponent would use against it, i.e., to use the hypotheses that do not serve to strengthen the proof of it but serve only to show that the opponent understands far too little about the object of the dispute to be able to flatter himself with an ad­ vantage in speculative insight over us.
- 
- a The condition of the possessor is the better.
- 
- b Sache 662 The discipline of pure reason in hypotheses Hypotheses are therefore allowed in the field of pure reason only as weapons of war, not for grounding a right but only for defending it.
- 
+Imagine trying to prove a math fact by just guessing it might be true. Pure thinking, without any experience, can only know things for sure or not at all. So, when pure reason makes a judgment, it’s never just a guess. It’s either no judgment or absolute certainty.
 
- 
-(Simplified)
- 
+Opinions and guesses about real things can only happen when we’re explaining something we actually see or when we follow rules based on experience. Making guesses outside of what we can experience is just playing with ideas, unless you think that guessing might help find the truth.
+
+Even though pure reason doesn’t allow guesses to prove ideas, guesses can be used to defend those ideas in arguments. Defending doesn’t mean giving more proof, but stopping the other person’s wrong ideas that try to break your point. For ideas from pure reason, if someone says something is true but can’t prove it, their opponent also can’t prove it wrong. This makes both sides equal in knowledge, and their arguments can’t be fully settled.
+
+However, when it comes to practical use, reason is allowed to assume some things that it couldn’t assume just by thinking alone. This kind of assumption is okay because practical life doesn’t care about perfect proof. So, if you claim something is true for practical reasons, your opponent has to prove you wrong.
+
+Since neither side really knows enough about what’s being argued to say for sure if it’s true or false, the person who assumes something practical has an advantage. They can use the same kind of guesses their opponent would use against them, not to prove their point better, but to show the opponent doesn’t understand the issue well enough to claim they’re right.
+
+In short, in pure thinking, guesses are only allowed as tools in arguments, not as a way to prove something is true.

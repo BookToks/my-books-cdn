@@ -1,10 +1,5 @@
-Pt. II. Div. I. Bk. II cepts that are to be related to their objects a priori, hence its objective A 136 validity cannot be established a posteriori, for that would leave that dig­ nity of theirs entirely untouched; rather it must at the same time offer a general but sufficient characterization of the conditions under which objects in harmony with those concepts can be given, for otherwise they would be without all content, and thus would be mere logical forms and not pure concepts of the understanding.
- 
- This transcendental doctrine of the power of judgment will con­ tain two chapters: the first, which deals with the sensible condition under which alone pure concepts of the understanding can be employed, i.e., with the schematism of the pure understanding; and the second, which deals with those synthetic judgments that How priori from pure a concepts of the understanding under these conditions and ground all other cognitions priori, i.e., with the principles of pure understanding.
- 
- a 270 aTh e Transcendental Doctrine of the Power of Judgment (or Analytic of Principles) First Chapter On the schematismb of the pure concepts of the understanding5I In all subsumptions of an object under a concept the representations of the former must be homogeneous with the latter, i.
- 
+Some ideas are connected to what they describe before we even experience anything. Because of this, we can’t prove these ideas are true just by looking at the world after the fact. Instead, these ideas need to clearly explain the conditions that make objects match them. If they didn’t, the ideas would have no real meaning and would just be empty logical forms, not true concepts we understand.
 
- 
-(Simplified)
- 
+This study of how our mind judges things has two parts. The first part looks at the way our senses help us use pure ideas in our mind, called the schematism of pure understanding. The second part talks about how we make new judgments based on these pure ideas, which then help us know other things before we experience them. This is about the basic rules of pure understanding.
+
+The first chapter is about how pure ideas are connected to what we sense. When we group an object under an idea, what we think about the object must match the idea exactly.

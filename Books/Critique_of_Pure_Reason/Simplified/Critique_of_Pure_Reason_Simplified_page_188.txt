@@ -1,16 +1,9 @@
-On Space <B> experiences. For in order for certain sensations to be relateda to some­ thing outside me (i.e., to something in another place in space from that in which I find myself), thus in order for me to represent them as out­ side <and next to> one another, thus not merely as different but as in different places, the representation of space must already be their ground. Thus the representation of space cannot be obtained from the relations of outer appearance through experience, but this outer expe­ rience is itself first possible only through this representation.
- 
- 2) Space is a necessary representation, priori, that is the ground of A24 a all outer intuitions. One can never represent that there is no space, though one can very well think that there are no objects to be encountered in it. It is therefore to be regarded as the condition of the possi- B 39 bility of appearances, not as a determination dependent on them, and is an priori representation that necessarily grounds outer appearances.b a <3» Space is not a discursive or, as is said, general concept of relations of things in general, but a pure intuition. For, first, one can only A25 represent a single space, and if one speaks of many spaces, one under­ stands by that only parts of one and the same unique space. And these parts cannot as it were precede the single all-encompassing space as its components (from which its composition would be possible), but rather are only thought in it. It is essentially single; the manifold in it, thus also the general concept of spaces in general, rests merely on limitations. From this it follows that in respect to it an priori intuition a (which is not empirical) grounds all concepts of it.C Thus also all geo­ metrical principles, e.g., that in a triangle two sides together are always greater than the third, are never derived from general concepts of line and triangle, but rather are derived from intuition and indeed derived a priori with apodictic certainty.
- 
- <d4) Space is represented as an infinite given magnitude. Now one must, to be sure, think of every concept as a representation that is con- B40 tained in an infinite set of different possible representations (as their common mark), which thus contains these under itself; but no concept, as such, can be thought as if it contained an infinite set of repre­ sentations within itself. Nevertheless space is so thought (for all the parts of space, even to infinity, are simultaneous). Therefore the original representation of space is an a priori intuition, not a concept.> a bezogen In the first edition there follows a paragraph (3) (at A24 above) that is replaced by the b "Transcendental Exposition of the Concept of Space" in the second (see 40- below); B I the following paragraphs, (3) and (4), were thus originally numbered (4) and (5); the content of the original paragraph (5), now renumbered (4), is also changed.
- 
- , In the first edition: "of them," i.e., the limitations of space.
- 
- d As previously mentioned, the content of this paragraph is changed from the first edition.
- 
- 175 Doctrine of Elements.
- 
+When I have certain feelings or sensations, I can think of them as happening somewhere outside of me, in different places. To do this, I need to already have an idea of space. So, the idea of space doesn’t come from what I experience outside, but instead, my experience of the outside world is only possible because I already understand space.
 
- 
-(Simplified)
- 
+Space is something we must understand before we experience anything outside ourselves. We can’t imagine a world without space, even if we think there might be nothing in it. Space is not something that depends on what we see or feel; it’s the basic way we understand where things are.
+
+Space isn’t just a general idea about how things relate to each other. It’s a pure way of seeing or imagining. There is only one space, and when we talk about many spaces, we really mean parts of the same one space. These parts don’t come before the whole space; they only make sense inside the one big space. Space is one whole thing, and the idea of many spaces just comes from breaking that one space into smaller parts.
+
+All the rules of geometry, like how in a triangle the sum of two sides is always longer than the third side, don’t come from just thinking about lines and triangles. They come from this way of seeing space, and we know these rules are always true without needing to check by experience.
+
+Space is thought of as something that goes on forever. Usually, a concept is an idea that includes many possible examples, but it doesn’t actually hold an infinite number of them inside itself. Space is different because all parts of it, no matter how many or how small, exist at the same time. This means the idea of space is not just a concept but a special kind of immediate understanding we have before any experience.

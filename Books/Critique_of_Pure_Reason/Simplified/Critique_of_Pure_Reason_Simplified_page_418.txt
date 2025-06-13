@@ -1,12 +1,11 @@
-System of transcendental ideas contain the totality of the condition, assuming that we could never suc­ ceed in grasping it; and the whole series must be unconditionally true if the conditioned, which is regarded as a consequence arising from it, is supposed to count as true. This is a demand of reason, which declares its cognition to be determined a priori and necessary either as it is in it­ self -in which case it needs no grounds -or else -if it is derived -as a member of a series of grounds that is itself unconditionally true.
- 
- The first book of the transcendental dialectic Third section The system of the transcendental ideas.
- 
- What we have to do with here is not a logical dialectic that abstracts from every content of cognition and merely discovers false illusion in the form of syllogisms, but rather a transcendental dialectic, that, fully a priori, is supposed to contain both the origin of certain cognitions from pure reason and inferred concepts, whose object cannot be given empirically at all, and so lies wholly outside the faculty of the pure un­ derstanding. We have gathered from the natural relation that the tran­ scendental use of our cognition must have in its inferences as well as in its judgments that there will be only three species of dialectical infer­ ences, relating to the three species of inference by which reason can ar­ rive at cognitions from principles;a and that in everything the concern of reason is to ascend from the conditioned synthesis, to which the un­ derstanding always remains bound, toward the unconditioned, which the understanding can never reach.
- 
- Now what is universal in every relation that our representations can have is r) the relation to the subject, 2) the relation to objects, b and in­ B391 deed either asC appearances, or as objects of thinking in general. If we A334 combine this subdivision with the above division, then all the relationd of representations of which we can make either a concept or an idea are of three sorts: ) the relatione to the subject, 2) to the manifold of the I object! in appearance, and 3) to all things in general. '9 Now all pure concepts have to do generally with the synthetic unity of representations, but concepts of pure reason (transcendental ideas) have to do with the unconditioned synthetic unity of all conditions in general. Consequently, all transcendental ideas will be brought under Principien a Objecte b C In the first edition: entweder erstlich als, which could be translated "either firstly as," or "either only as." Verhdltnis d Verhdltnis e f Object 405 Doctrine of Elements.
- 
+Transcendental ideas are a system that includes all conditions, even though we can never fully understand them. The whole system must be completely true if the things that depend on it are true. Reason demands this because it says that what we know must be necessary and decided before experience—either it’s true by itself or it comes from a series of truths that are definitely true.
 
- 
-(Simplified)
- 
+The first book of the transcendental dialectic, Third section: The system of transcendental ideas.
+
+Here, we’re not just talking about a simple logical argument that ignores what we actually know and only finds mistakes in reasoning. Instead, this is a transcendental dialectic, which is based entirely on reason. It explains where some ideas come from that we can’t learn from experience and that go beyond what our understanding can handle.
+
+We know from how reason works that there are three kinds of reasoning that help us get knowledge from basic principles. Reason always tries to move from things that depend on something else to something that doesn’t depend on anything—the unconditioned—which our understanding can’t fully reach.
+
+Every way our thoughts relate to things has three parts: 1) how they relate to the thinker, 2) how they relate to objects, either as things we see or as general ideas. When we put this together with the three types of reasoning, all relations in our thoughts are about 1) ourselves, 2) the different parts of objects we see, and 3) all things in general.
+
+All pure concepts deal with combining different ideas, but pure reason (transcendental ideas) deals with combining all conditions without limits. So, all transcendental ideas fit under certain principles and relate to objects in a special way.

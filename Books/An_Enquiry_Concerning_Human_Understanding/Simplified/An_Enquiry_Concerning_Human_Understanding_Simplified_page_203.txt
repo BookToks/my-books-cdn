@@ -1,22 +1,17 @@
-There is nothing in these objects, abstractly considered, and independent of experience, which leads me to form any such conclusion: and even after I have had experience of many repeated effects of this kind, there is no argument, which determines me to suppose, that the effect will be conformable to past experience. The powers, by which bodies operate, are entirely unknown. We perceive only their sensible qualities: and what reasonhave we to think, that the same powers will always be conjoined with the same sensible qualities?
- 
- [16] ’Tis not, therefore, reason, which is the guide of life, but custom. That alone determines the mind, in all instances, to suppose the future conformable to the past. However easy this step may seem, reason would never, to all eternity, be able to make it.
- 
- [17] This is a very curious discovery, but leads us to others, that are still more curious. When I see a billiard-ball moving towards another, my mind is immediately carry’d by habit to the usual effect, and anticipates my sight by conceiving the second ball in motion. But is this all? Do I nothing but conceive the motion of the second ball? No surely. I also believe that it will move.
- 
- What then is this belief? And how does it differ from the simple conception of any thing? Here is a new question unthought of by philosophers.
- 
- [18] When a demonstration convinces me of any proposition, it not only 653 makes me conceive the proposition, but also makes me sensible, that ’tis impossible to conceive any thing contrary. What is demonstratively false implies a contradiction; and what implies a contradiction cannot be conceived.But with regard to any matter of fact, however strong the proof may be from experience, I can always conceive the contrary, tho’ I cannot always believe it. The belief, therefore, makes some difference betwixt the conception to which we assent, and that to which we do not assent.
- 
- [19] To account for this, there are only two hypotheses. It may be said, that belief joins some new idea to those which we may conceive without assenting to them. But this hypothesis is false. For first, no such idea can be produced. When we simply conceive an object, we conceive it in all its parts.
- 
- We conceive it as it might exist, tho’ we do not believe it to exist. Our belief of it would discover no new qualities. We may paint out the entire object in imagination without believing it. We may set it, in a manner, before our eyes, with every circumstance of time and place. ’Tis the very object conceived as it might exist; and when we believe it, we can do no more.
- 
- [20] Secondly, The mind has a faculty of joining all ideas together, which involve not a contradiction; and therefore if belief consisted in some idea, which we add to the simple conception, it would be in a man’s power, by adding this idea to it, to believe any thing, which he can conceive.
- 
- [21] Since therefore belief implies a conception, and yet is something more; and since it adds no new idea to the conception; it follows, that it is 140 Appendix I a differentmanner of conceiving an object; somethingthat is distinguishable to the feeling, and depends not upon our will, as all our ideas do.
- 
+There is nothing about these things, just thinking about them without any experience, that makes me believe something will happen. Even after I’ve seen the same thing happen many times, there’s no proof that it will always happen that way. We don’t know the real forces that make things happen. We only notice how things look or feel, so why should we think the same forces always come with the same looks or feelings?
 
- 
-(Simplified)
- 
+So, it’s not reason that guides us in life, but habit. It’s habit that makes us expect the future to be like the past. This might seem like an easy idea, but reason alone could never figure it out.
+
+This is a very interesting idea and it leads to even more interesting ones. When I see one billiard ball rolling towards another, my mind automatically expects the second ball to move too. But is that all? Do I just imagine the second ball moving? No, I also believe it will move.
+
+So, what is this belief? How is it different from just imagining something? This is a new question that philosophers haven’t really thought about.
+
+When I’m convinced by proof that something is true, I not only imagine it but also know it’s impossible to imagine it being false. What is definitely false can’t even be imagined because it doesn’t make sense. But with things we learn from experience, no matter how strong the proof is, I can still imagine the opposite, even if I don’t really believe it. So belief is different from just imagining something without agreeing with it.
+
+To explain this, there are only two ideas. One is that belief adds a new idea to what we imagine. But this isn’t true. When we just imagine something, we imagine it completely with all its details.
+
+We imagine it as it could be, even if we don’t believe it’s real. Believing wouldn’t add anything new to the idea. We can picture the whole thing in our mind without believing. We can see it clearly in our imagination with all the details. That’s the object imagined as it might be; and when we believe it, we don’t do anything more.
+
+The second idea is that the mind can put all ideas together as long as they don’t contradict. So if belief was just adding a new idea, then by adding that idea, a person could believe anything they imagine.
+
+Since belief means imagining something but is also more than that, and since it doesn’t add a new idea, it must be a different way of imagining. It’s something we can feel as different, and it doesn’t depend on our choice like all other ideas do.

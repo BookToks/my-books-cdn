@@ -1,16 +1,21 @@
-The result of all experience and history with regard to this equation is simply that, where two commodities perform by law the functions of a measure of value, in practice one alone maintains that position.” (Karl Marx, l.c., pp. 52, 53.) 5 The peculiar circumstance, that while the ounce of gold serves in England as the unit of the standard of money, the pound sterling does not form an aliquot part of it, has been explained as follows: “Our coinage was originally adapted to the employment of silver only, hence, an ounce of silver can always be divided into a certain adequate number of pieces of coin, but as gold was introduced at a later period into a coinage adapted only to silver, an ounce of gold cannot be coined into an aliquot number of pieces.” Maclaren, “A Sketch of the History of the Currency.” London, 1858, p. 16.
- 
- 6 With English writers the confusion between measure of value and standard of price (standard of value) is indescribable. Their functions, as well as their names, are constantly interchanged.
- 
- 7 Moreover, it has not general historical validity.
- 
- 8 It is thus that the pound sterling in English denotes less than one-third of its original weight; the pound Scot, before the union, only 1-36th; the French livre, 1-74th; the Spanish maravedi, less than 11,000th; and the Portuguese rei a still smaller fraction.
- 
- 9 “Le monete le quali oggi sono ideal, sono le piû antiche d’ogni nazione, e tutte furono un tempo real, e perche erano reali con esse si contava” [“The coins which today are ideal are the oldest coins of every nation, and all of them were once real, and precisely because they were real they were used for calculation”] (Galiani: Della moneta, l.c., p. 153.) 10 David Urquhart remarks in his “Familiar Words” on the monstrosity (!) that now-a-days a pound (sterling), which is the unit of the English standard of money, is equal to about a quarter of an ounce of gold. “This is falsifying a measure, not establishing a standard.” He sees in this “false denomination” of the weight of gold, as in everything else, the falsifying hand of civilisation.
- 
- 11 When Anacharsis was asked for what purposes the Greeks used money, he replied, “For reckoning.” (Ashen. Deipn. 1. iv. 49 v. 2. ed. Schweighauser, 1802.) 12 “Owing to the fact that money, when serving as the standard of price, appears under the same reckoning names as do the prices of commodities, and that therefore the sum of £3 17s. 10 1/2d. may signify on the one hand an ounce weight of gold, and on the other, the value of a ton of iron, this reckoning name of money has been called its mint-price. Hence there sprang up the extraordinary notion, that the value of gold is estimated in its own material, and that, in contradistinction to all other commodities, its price is fixed by the State. It was erroneously thought that the giving of reckoning names to definite weights of gold, is the same thing as fixing the value of those weights.” (Karl Marx, l.c., p. 52.) 13 See “Theorien von der Masseinheit des Geldes” in “Zur Kritik der Pol Oekon. &c.,” p. 53, seq. The fantastic notions about raising or lowering the mint-price of money by transferring to greater or smaller weights of gold or silver, the names already legally appropriated to fixed weights of those metals; such notions, at least in those cases in which they aim, not at clumsy financial operations against creditors, both public and private but at economic quack remedies, have been so exhaustively treated by Wm. Petty in his “Quantulumcunque concerning money: To the Lord Marquis of Halifax, 1682,” that even his immediate followers, Sir Dudley North and John Locke, not to mention later ones, could only dilute him. “If the wealth of a nation” he remarks, “could be decupled by a proclamation, it were strange that such proclamations have not long since been made by our Governors.” (l.c., p. 36.) 14 “Ou bien, il faut consentir à dire qu’une valeur d’un million en argent vaut plus qu’une valeur égale en marchandises.” [“Or indeed it must be admitted that a million in money is worth more than an 93 Chapter 3 equal value in commodities”] (Le Trosne, l.
- 
+From experience and history, when two things are supposed to measure value, usually only one actually does that job in real life. (Karl Marx)
 
- 
-(Simplified)
- 
+In England, gold is used as the main money standard, but the pound sterling isn’t a simple part of that gold weight. This happened because the money system was first made for silver coins, so silver can be divided easily into coins. But gold came later, so an ounce of gold can’t be split into exact coin parts. (Maclaren)
+
+English writers often mix up what “measure of value” and “standard of price” mean, and they use these terms incorrectly all the time.
+
+This mix-up isn’t true everywhere or all the time.
+
+Because of this, the pound sterling now weighs less than one-third of what it used to; other old currencies like the pound Scot, the French livre, the Spanish maravedi, and the Portuguese rei weigh even less compared to their original amounts.
+
+Old coins that we don’t use physically anymore were once real coins, and because they were real, people used them for counting and calculating money. (Galiani)
+
+David Urquhart said it’s strange that a pound sterling today equals only about a quarter of an ounce of gold. He called this a “fake measure,” not a real standard, and blamed modern civilization for messing it up.
+
+When asked why the Greeks used money, Anacharsis said it was for “reckoning,” meaning for counting and keeping track of value.
+
+Money can be confusing because the same numbers can mean both the weight of gold and the price of things. For example, £3 17s. 10½d. could mean an ounce of gold or the cost of a ton of iron. This caused the wrong idea that the government sets gold’s value by naming weights, but that’s not true. (Karl Marx)
+
+Some people thought that by changing the amount of gold or silver that money represented, they could change its value. But smart thinkers like William Petty said this is nonsense, and if wealth could be increased by simply declaring it, governments would have done it a long time ago.
+
+Finally, it must be accepted that having a million in money is worth more than having the same value in goods. (Le Trosne)

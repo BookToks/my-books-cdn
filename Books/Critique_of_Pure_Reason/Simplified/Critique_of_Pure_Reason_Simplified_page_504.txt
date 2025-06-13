@@ -1,12 +1,5 @@
-Proof Suppose that either the world itself is a necessary being or that there is such a being in it; then in the series of its alterations either there would be a beginning that is unconditionally necessary, and hence without a cause, which conflicts with the dynamic law of the determination of all appearances in time; or else the series itself would be without any be­ ginning, and, although contingent and conditioned in all its parts, it would nevertheless be absolutely necessary and unconditioned as a whole, which contradicts itself, because the existence of a multiplicity cannot be necessary if no single part of it possesses an existence neces­ sary in itself.
- 
- Suppose, on the contrary, that there were an absolutely necessary cause of the world outside the world; then this cause, as the supreme A4SS/B483 member in the series of causes of alterations in the world, would first begin these changes and their series.* But it would have to begin to act then, and its causality would belong in time, and for this very reason in the sum total of appearances, i.e., in the world; consequently, it itself, the cause, would not be outside the world, which contradicts what was presupposed. Thus neither in the world nor outside it (yet in causal connection with it) is there any absolutely necessary being.
- 
- * The word "begin" is taken in two significations. The first is active, as when the cause begins (infit) a series of states as its effect. The second is passive, as when the causality in the cause itself commences (fit). I infer here from the former to the latter.
- 
- 491 Doctrine of Elements.
- 
+Imagine that either the world itself has to exist no matter what, or that there is something inside the world that must exist no matter what. If this is true, then in the changes that happen in the world, there would either be a starting point that has to exist on its own and doesn’t need a cause. But this idea goes against the rule that everything that happens in time has a cause. Or, the changes in the world could go back forever with no starting point. Even if each part depends on something else, the whole thing would still have to exist on its own, which doesn’t make sense. That’s because a group of things can’t be necessary if none of the parts are necessary by themselves.
 
- 
-(Simplified)
- 
+Now, what if there was something outside the world that had to exist no matter what and caused everything in the world? This cause would have to start all the changes in the world. But if it started to cause things, that would mean it began acting in time and became part of the world’s events. So, it wouldn’t really be outside the world, which goes against the original idea. So, there can’t be anything that absolutely has to exist either inside the world or outside it but still connected to it.
+
+*The word “begin” here means two things. First, it means when a cause starts a chain of effects. Second, it means when the cause itself starts to have the power to cause something. The argument moves from the first meaning to the second.*

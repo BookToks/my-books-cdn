@@ -1,8 +1,11 @@
-Pt. II. Div. II. Bk. II. Ch. II Remark on the Second Antinomy I. On the Thesis When I talk about a whole which necessarily consists of simple parts, I understand thereby a substantial whole only as a proper composite, i.e., as a contingent unity of a manifold that, given as separated (at least in thought), is posited in a reciprocal combination and thereby constitutes one entity. Properly speaking, one should call space not a c071p1 ositu711o but a totU711,b because its parts are possible only in the whole, and not the whole through the parts. In any case, it could be called a c071p1 ositu711 ide­ aleC but not a c071p1 ositu711 reale. d Yet this is only a subtlety. For since space is not a composite of substances (not even of real accidents), if I remove all composition from it, then nothing, not even a point, might be left over; for a point is possible only as the boundary of a space (hence of a composite). Thus space and time do not consist of simple parts. What belongs only to the state of a substance, even if it has a magnitude (e.g., alteration), does not, therefore, consist of the simple, i.e., a certain de­ gree of alteration does not arise through the accumulation of many sim­ ple alterations. Our inference from the composite to the simple is valid only for things subsisting by themselves.' But accidents of a state do not subsist by themselves. Thus one can easily ruin the proof for the neces­ sity of simples as constituent parts of every substantial composite (and thus also the whole thesis), if one extends the proof too far and tries to make it valid for all composites without distinction, as has sometimes actually happened.
- 
- a composite whole b , ideal composite real composite d , for sich 478 Section II.
- 
+When I talk about a whole made up of simple parts, I mean a real thing that is a mix of different pieces joined together. These pieces can be thought of as separate but come together to make one thing.
 
- 
-(Simplified)
- 
+Space, though, is different. It's not really made up of parts like a normal object. Its parts only exist because of the whole space, not the other way around. So, space is more like a total thing, not a mix of parts.
+
+If you take away all parts from space, nothing would be left—not even a single point. A point only exists as the edge of some space, which is a whole made of parts. So, space and time don’t have simple parts.
+
+Things like changes in an object (like getting hotter or colder) don’t happen by adding up simple changes. This is because these changes don’t exist on their own like real things do.
+
+So, the idea that everything is made of simple parts only works for things that exist on their own. It doesn’t apply to changes or states that depend on something else.
+
+If people try to use this idea for everything without thinking carefully, they can easily mess up the argument that everything has to be made of simple parts.

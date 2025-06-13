@@ -1,14 +1,13 @@
-Pt. II. Div. I. Bk. II. Ch. II out exception all laws of nature stand under higher principles of the un­ derstanding, as they only apply the latter to particular cases of appear­ ance. Thus these higher principles alone provide the concept, which contains the condition and as it were the exponents for a rule in gen­ eral, while experience provides the case which stands under the rule.
- 
- There can really be no danger that one will regard merely empirical principles as principles of the pure understanding, or vice versa; for the necessity according to concepts that distinguishes the latter, and whose lack in every empirical proposition, no matter how generally it may hold, is easily perceived, can easily prevent this confusion. There are, however, pure principles priori that I may nevertheless not properly ascribe to a the pure understanding, since they are not derived from pure concepts BI99 but rather from pure intuitions (although by means of the understand­ AI60 ing); the understanding, however, is the faculty of concepts. Mathe­ matics has principles of this sort, but their application to experience, thus their objective validity, indeed the possibility of such synthetic pri­ a ori cognition (its deduction) still always rests on the pure understanding.
- 
- Hence I will not count among my principles those of mathematics, but I will include those on which the possibility and objective priori a validity of the latter are grounded, and which are thus to be regarded as the principle of these principles,a and that proceed from concepts to the intuition but not from the intuition to concepts.
- 
- In the application of the pure concepts of understanding to possible experience the use of their synthesis is either mathematical58 or dy­ namical: for it pertains partly merely to the intuition, partly to the ex­ istence of an appearance in general. The priori conditions of intuition, a however, are necessary throughout in regard to a possible experience, while those of the existence of the objectsb of a possible empirical intu­ ition are in themselves only contingent. Hence the principles of the mathematical use will be unconditionally necessary, i.e., apodictic, while the principles of the dynamical use, to be sure, also carry with them the character of an priori necessity, but only under the condition of em­ a pirical thinking in an experience, thus only mediately and indirectly; B200 consequently these do not contain the immediate evidence that is char­ acteristic of the former (though their universal certainty in relation to experience is not thereby injured). Yet this will be better judged at the conclusion of this system of principles.
- 
- The table of categories gives us entirely natural direction for the table of principles, since these principles are nothing other than rules of a als Principium dieser Grundsdtze, i.e., as the general principle giving objective validity to the propositions of mathematics which are themselves synthetic a priori according to the "Transcendental Aesthetic." Objecte b 284 Section III.
- 
+Almost all laws of nature follow bigger rules of understanding because they apply these bigger rules to specific situations we see. These bigger rules give us a general idea or condition that acts like a formula, while experience shows us the specific example that fits the formula.
 
- 
-(Simplified)
- 
+There’s little chance someone will mix up rules based only on experience with rules based on pure understanding. That’s because pure understanding uses concepts that are necessary and always true, while experience-based ideas don’t have that kind of certainty, no matter how often they seem to work.
+
+Still, there are pure rules that come from pure intuition (clear ideas we get without experience), not from pure concepts. The understanding works with concepts, so these rules don’t fully belong to pure understanding. Math has rules like this, and applying math to experience depends on pure understanding to make sense and be valid before we even experience anything.
+
+So, I won’t count math’s rules as my main principles. Instead, I’ll focus on the rules that make math’s rules possible and valid. These go from concepts to intuition, not the other way around.
+
+When we use pure concepts of understanding for possible experience, they work in two ways: mathematically or dynamically. Some deal with how we sense things (intuition), and some deal with whether things actually exist. The rules for how we sense things are always necessary for any experience, but the rules about whether objects exist depend on experience and aren’t always necessary.
+
+That means math-based rules are absolutely necessary and certain, while dynamic rules are necessary only when we think about experience, so their certainty is indirect. But they’re still always reliable when related to experience. We’ll understand this better at the end of this system of rules.
+
+The table of categories helps us understand the table of principles because these principles are just rules based on the categories. They act as general guidelines that make the statements in math valid, and these math statements are known to be true before experience, according to the "Transcendental Aesthetic."

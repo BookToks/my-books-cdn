@@ -1,16 +1,11 @@
-We know, that, in fact, 64 heat is a constant attendant of flame; but what is the connexion between them, we have no room so much as to conjecture or imagine.
- 
- It is impossible, therefore, that the idea of power can be derived from the contemplation of bodies, in single instances of their operation; because no bodies ever discover any power, which can be the original of this idea12.
- 
- [9] Since, therefore, external objects as they appear to the senses, give us no idea of power or necessary connexion, by their operation in particular instances, let us see, whether this idea be derived from reflection on the operations of our own minds, and be copied from any internal impression. It may be said, that we are every moment conscious of internal power; while we feel, that, by the simple command of our will, we can move the organs of our body, or direct the faculties of our mind. An act of volition produces motion in our limbs, or raises a new idea in our imagination. This influence of the will we know by consciousness. Hence we acquire the idea of power or energy; and are certain, that we ourselves and all other intelligent beings are possessed of power. This idea, then, is an idea of reflection, since it arises from reflecting on the operations of our own mind, and on the command which is exercised by will, both over the organs of the body and faculties of the soul.
- 
- [10] We shall proceed to examine this pretension; and first with regard to the influence of volition over the organs of the body. This influence, we may observe, is a fact, which, like all other natural events, can be known only by experience, and can never be foreseen from any apparent energy or power in the cause, which connects it with 65 the effect, and renders the one an infallible consequence of the other.
- 
- The motion of our body follows upon the command of our will. Of this we are every moment conscious. But the means, by which this is effected; the energy, by which the will performs so extraordinary an operation; of this we are so far from being immediately conscious, that it must for ever escape our most diligent enquiry.
- 
- 12 Mr. Locke,* in his chapter of power, says, that, finding from experience, that there are several new productions in matter, and concluding that there must somewhere be a power capable of producing them, we arrive at last by this reasoning at the idea of power. But no reasoning can ever give us a new, original, simple idea;*as this philosopher himself confesses. This, therefore, can never be the origin of that idea.
- 
+We know that heat always comes with fire, but we have no idea how they are connected.
 
- 
-(Simplified)
- 
+Because of this, we can’t get the idea of power just by watching things happen in the world. No object shows us power by itself, so we can’t base the idea of power on that.
+
+Since things outside don’t show us power or a necessary connection, let’s see if this idea comes from thinking about how our own minds work. Some say we feel power inside us because we know we can move our body just by deciding to. When we want to move, our body moves or we think of something new. We know this because we are aware of it. So, we get the idea of power by thinking about how our mind controls our body and thoughts.
+
+Now, let’s look closer at how our will moves our body. This is a fact we learn from experience, like other natural events. But we can’t predict it just by looking at the cause or see the power that links the cause and effect.
+
+We know our body moves when we want it to, and we are aware of this all the time. But how exactly our will makes this happen, or the power behind it, is something we can never fully understand, no matter how hard we try.
+
+Mr. Locke said that since we see new things happen in matter, we think there must be power causing them, and this gives us the idea of power. But no amount of reasoning can give us a new simple idea, as he admits. So, this can’t be where the idea of power really comes from.

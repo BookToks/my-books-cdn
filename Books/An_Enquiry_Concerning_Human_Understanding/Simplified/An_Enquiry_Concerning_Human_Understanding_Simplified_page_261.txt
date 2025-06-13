@@ -1,26 +1,25 @@
-Notes to Pages 70–77 197 8.27 Necessity . . . cause: Hume again refers back to his two definitions of 7.29.
- 
- 8.28 All laws . . . mind: here Hume begins to argue that determinism (‘the doctrine of necessity’), so far from being incompatible with morality, is actually required by it. See pp. xlvii–xlviii of the Introduction.
- 
- 8.32 no indifference; no liberty: ‘indifference’ means behaviour that is not causally determined: immediately prior to its occurrence, suchbehaviour could not be predicted even in principle (modern quantum physics seems to provide the most convincing examples). The opponent Hume is imagining here is advocating libertarianism, by insisting that liberty— i.e. free will—requires indifference. The libertarian maintains that we cannot be genuinely free, in the sense appropriate to moral responsibility, unless we are undetermined. Typically the compatibilist will reply, as Hume does, that undetermined behaviour is merely random and hence not morally accountable. (In Treatise2.3.1‒2andAbstract31Hume’s overall position was similar, but he confusingly used ‘liberty’ to mean indifference rather than free will of the morally relevant kind.) 8.32 train: the trail of gunpowder leading to a mine (i.e. a buried store of gunpowder), which is ‘fired’ (i.e. set alight) to explode the mine, usually to bring down a castle wall or other structure.
- 
- 8.34 the ancient Stoics: see Glossarial Index.
- 
- 8.34 malignant humours: a supposed disorder of the fluids (blood, bile, and phlegm) in the body, considered in medieval medicine to be the cause of disease.
- 
- 8.35 sentiment of approbation or blame: Hume bases his own moral theory on such sentiments, and here sketches its application to the question of free will and moral responsibility. See p. xlviii of the Introduction.
- 
- 8.36 These are mysteries: an appeal to mystery enables Hume to give the appearance of orthodoxy, while he points out the serious difficulties that the Problem of Evil poses for theism.
- 
- 8.36 To reconcile . . . prescience: if what happens is not determined, then how can God possibly have foreknowledge of what will happen?
- 
- 8.36 to defend . . . sin: if what happens, including human sin, is absolutely determined by laws ordained by God, then how can God be supposed to be perfectly good? See §4of the Introduction, above for a brief discussion of some related issues.
- 
- SECTION IX 9.1 ANALOGY: Hume starts the section with a general point about analogical reasoning, which will be applied later in Section XI. See §15of the Introduction, above. Here he suggests that customary and analogical inference are closely related because both are based on similarity.
- 
- 9.2 the hare in her doubles: a hare chased by dogs will often double back on itself, sharply changing direction, so a dog which anticipates this can take advantage.
- 
+Notes to Pages 70–77 197  
+8.27 Necessity . . . cause: Hume reminds us of his two definitions from earlier in 7.29.  
 
- 
-(Simplified)
- 
+8.28 All laws . . . mind: Here, Hume starts to argue that determinism (the idea that everything happens for a reason) isn’t against morality, but actually needed for it. See pages xlvii–xlviii of the Introduction.  
+
+8.32 no indifference; no liberty: ‘Indifference’ means actions that aren’t caused by anything and can’t be predicted, like some things in quantum physics. The person Hume imagines thinks free will means we must have this kind of unpredictable freedom. They say we aren’t truly free unless our actions aren’t determined. But Hume and others who believe in compatibilism say that random actions aren’t really free because they’re just chance, so we can’t be held responsible for them. (Earlier, Hume used ‘liberty’ to mean indifference, which made things confusing.)  
+
+8.32 train: This means a line of gunpowder that leads to a hidden store of explosives. When the gunpowder is lit, it causes the big explosion, usually to blow down a castle wall or something similar.  
+
+8.34 the ancient Stoics: See the Glossarial Index for more info.  
+
+8.34 malignant humours: In old medicine, people thought diseases came from bad fluids in the body like blood, bile, and phlegm.  
+
+8.35 sentiment of approbation or blame: Hume builds his ideas about right and wrong on feelings of approval or blame. Here he shows how this fits with free will and moral responsibility. See page xlviii of the Introduction.  
+
+8.36 These are mysteries: Hume uses mystery to seem traditional, but he also points out how hard the Problem of Evil is for belief in God.  
+
+8.36 To reconcile . . . prescience: If things aren’t determined, how can God know the future?  
+
+8.36 to defend . . . sin: If everything, including sin, is caused by God’s laws, how can God be perfectly good? See Section 4 of the Introduction for more on this.  
+
+SECTION IX  
+9.1 ANALOGY: Hume starts by talking about analogical reasoning (comparing things based on similarities). He will use this later in Section XI. See Section 15 of the Introduction.  
+
+9.2 the hare in her doubles: When a hare is chased by dogs, it often suddenly changes direction. A dog that expects this can use it to catch the hare.

@@ -1,24 +1,15 @@
-71 See R 5291 (1776-78, 18:144). In several places, Kant suggests that the ar­ gument for the permanence of substance can be derived from the present definition of substance; see R 5297 (1776-77, 18:146), R 5791 (1783-84, 18:356), and R 5873 (17 83-84?, 18:373). A later reflection, however, makes it clear that a synthetic a priori proposition like the principle of conserva­ tion cannot be derived from a mere definition; see R 6305 (1790-98, 18:706), and tries to construct an argument for the permanence of sub­ stance different from any suggested in the text.
- 
- 72 To this epistemological argument for the permanence of substance, com­ pare R 5871 (1780-81? 18:373).
- 
- 73 As this remark suggests, permanence and therefore substantiality is not it­ self something that is directly perceived. See R 4054 (1769, 17:399) and R 5358 (1776-77, 18:160). The later discussion to which Kant refers is at A 204-61 B 249-51.
- 
- 74 The earliest statement of the underlying principle of Kant's argument for this principle appears to be R 4174 (1769, 1T444), which states quite ex­ plicitly that things need to stand in a "real connection" in order to be placed in a series of succession because there is no perception of their po­ sition in absolute ti'lle. In the Duisburg Nachlafl of 1774-75, there are im­ portant anticipations of the argument of the second analogy at R 4675 (17=648-53, at p. 648), R 4682 (17:668-9), and R 4684 (IT670-3, at pp.
- 
- 670-1). Important later reflections include R 5189 (1776-78, 18:II2-13), R 5202 (1776-1780s, 18:rr6), and R 5699 (1780-84, 18:329), where Kant explicitly says, "The principium rationis is valid only of experience." See also the discussion in Metaphysik Volckmann, 28:407-9.
- 
- 75 On the connection between substance and action, see R 5289-90 (1776-78? 18:144), and the later R 5650 (1785-88, 18:298-302, at p. 298).
- 
- 76 This thesis can be considered the capstone of Kant's long struggle against the idea that distinct substances are related merely by preestablished harmony, which began in his New Elucidation of the Primary Principles of Metaphysical Cognition (1755), proposition XII (2:39; in Theoretical Philosophy I 755-I7 70, p. 39). An important note on this theme from the early 1760s is R 3730 (1T272). From the 1770s, relevant notes include R 4704 (1773-n, 17=681), R 5429 (1776-79, 18:179), and R 5598 (1778-79 18:246). From approximately the same period, see also the discussion in Nletaphysik L , 28:212-13.
- 
- T 77 To this paragraph, compare similar discussions in several of Kant's versions of the "Refutation ofIdealism" from 1790, especially R 6312 (18:612-13) and R 6313 (18:613-15, at p. 614).
- 
- 78 The following postulates and their discussion bring to a head Kant's con­ trast between logical and real relations, especially between logical and real possibility, which had been the basis of his critique of rationalism since the 1763 Attempt to Introduce the Concept of Negative Magnitude into Philosophy.
- 
- For an anticipation of the mature doctrine from as early as 1764-66, see R 730 Notes to pages 321-329 3756 (17:284-5), For notes from the 1770s, see R 4288 (1771-72, 17:497), R 4298-9 (1770-71, 17:499-500), R 4302 (1770-75, 17:500), and R 4682 (1773-75, 17:668-9).
- 
+71 Kant talks about how the idea that substances stay the same over time can come from the way we define substance. He mentions this in several places, like in notes from 1776 to 1784. But later, he realizes that some important truths, like the principle that substances keep their identity, can’t just come from definitions alone. He tries to find a new way to explain why substances stay the same.
 
- 
-(Simplified)
- 
+72 There’s another argument about why substances stay the same that you can find in Kant’s notes from around 1780-81.
+
+73 Kant points out that we don’t directly see that something stays the same or is a substance. This idea isn’t something we just notice with our eyes. He talks about this more in his later work.
+
+74 The first time Kant really explains why things must be connected in a real way to follow each other in time is in his notes from 1769. He says we can’t just know where things are in absolute time by looking; they have to be linked somehow. Later, in 1774-75, he develops this idea more, showing how things follow each other because of real connections, not just because we think so. He also says that the principle that everything has a reason only works when we deal with experience.
+
+75 Kant also talks about how substances and their actions are connected in some of his notes from 1776-88.
+
+76 This idea is a key part of Kant’s long fight against the thought that substances are only connected because of a pre-set harmony, like everything was planned before time. He started arguing against this back in 1755 and kept working on it through the 1760s and 1770s, with many notes and discussions.
+
+77 You can compare this with Kant’s discussions in 1790, especially in his “Refutation of Idealism,” where he talks about similar ideas.
+
+78 The next ideas focus on the difference between logical connections and real connections, especially the difference between what is logically possible and what is really possible. This was a big part of Kant’s criticism of earlier philosophy since 1763. He started thinking about this deeply between 1764 and 1775, and it shows up in several of his notes from those years.

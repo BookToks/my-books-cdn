@@ -1,16 +1,15 @@
-Of these, the Heidemann edition appears closest to the original editions, though it does modernize spelling. Finally, we have checked the translation against facsimiles of the original editions.
- 
- Here we can add a word about our choice of typography. The origi­ nal editions were set primarily in Fraktur (gothic type). Latin words, in­ cluding such frequently used words as "a priori" and "a posteriori" as well as "phenomena" and "noumena," which Kant did not regard as natural­ ized into German, were set in roman type. Emphasis was indicated, not by the modern English method of italics nor by the modern German method of Sperrdruck (spaced type), but by the use of larger and thicker Fraktur type than is used elsewhere (boldface or Fettdruck). To try to recreate the appearance of Kant's pages, we have therefore used bold type for emphasis and italics for the foreign words that Kant had printed in roman type. In the original, a range of Fettdruck sizes was used, which makes it sometimes quite easy and sometimes very difficult to tell whether a word is being emphasized -this is a source of dis­ agreement in modern editions about which words should be empha­ sized. We have not tried to reproduce this range of type sizes. We should also note that Kant sometimes but not always uses Fettdruck to indicate that a word or sentence is being mentioned rather than used.
- 
- Where he does so, we use bold type; where he does not, we have intro­ duced quotation marks.
- 
- Now for a word about our use of previous English translations. We have followed Kemp Smith in many of his choices for translation of Kant's technical terminology, for the simple reason that Kemp Smith usually (but not always) adopted the wise procedure of letting Kant's own Latin equivalents for his German technical terms determine the English translation. (No doubt many of Kemp Smith's turns of phrase also reverberated in our minds after years of using his translation.) Nevertheless, the present work is by no means a revision of Kemp Smith, and it departs from his translation systematically and consis­ tently throughout on many points. We have always worked directly from German texts, consulting Kemp Smith from time to time but also consulting the earlier English translations as well. Of these, we found that by Friedrich Max Muller (1881) more helpful than that by J. M. D.
- 
- Meikeljohn (1855). Of surprising help was a full translation of only the second edition done by Francis Haywood (second edition, 1848). This is the earliest English translation of the Critique we have been able to discover, and often proved helpful because, like us, Haywood clearly made literalness in translation his primary objective.
- 
- 76 Introduction Bibliography In this bibliography, we list the German editions of the text of the Critique of Pure Reason that we have consulted, the earlier English trans­ lations we have consulted, and a selection of scholarly works including discussion of the genesis and text of the Critique.
- 
+The Heidemann edition is the closest to the original versions, but it updates the spelling a bit. We have also checked the translation against copies of the original editions.
 
- 
-(Simplified)
- 
+Now, a few words about the typography we chose. The original editions mainly used Fraktur, which is a gothic style of writing. Latin words like "a priori," "a posteriori," "phenomena," and "noumena" were written in a different style called roman type because Kant didn’t think they were fully part of the German language.
+
+Instead of using italics like in English or spaced letters like in modern German to show emphasis, the original used bigger and thicker Fraktur letters (kind of like bold text). To copy how Kant’s pages looked, we used bold type for emphasis and italics for foreign words printed in roman type.
+
+The original had different sizes of bold letters, which sometimes made it easy and sometimes hard to tell if a word was meant to be emphasized. This causes disagreements in modern editions about which words to emphasize. We didn’t try to copy all these size differences.
+
+Also, Kant sometimes used bold letters to show a word or sentence was being mentioned, not used in the normal way. When he did this, we used bold type; when he didn’t, we put the word in quotation marks.
+
+About earlier English translations: We followed Kemp Smith a lot in how he translated Kant’s special terms because he often used Kant’s own Latin words to help decide the English. After using Kemp Smith’s translation for years, his style stuck with us too. But this work isn’t just a revision of Kemp Smith’s; we often translate things differently on purpose.
+
+We always worked from the original German texts, checking Kemp Smith and also older English translations. Of these, Friedrich Max Muller’s (1881) was more helpful than J. M. D. Meikeljohn’s (1855). Surprisingly, Francis Haywood’s full translation of the second edition (1848) was very useful too. It’s the earliest English translation we could find, and like us, Haywood tried to be very literal.
+
+In the bibliography, we list the German editions we used, the earlier English translations we checked, and some important scholarly works about the Critique’s history and text.

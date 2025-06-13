@@ -1,14 +1,9 @@
-* Where we trace the principles of the human mind through a few steps, we may be very well satisfied with our progress; considering how soon nature throws a bar to all our enquiries concerning causes, and reduces us to an acknowledgment of our ignorance. The chief obstacle, therefore, to our improvement in the moral or metaphysical sciences is the obscurity of the ideas, and ambiguity of the terms. The principal difficulty in the mathematics is the length of inferences and compass of thought, requisite to the forming of any conclusion. And, perhaps, our progress in natural philosophy is chiefly retarded by the want of proper experiments and phaenomena, which are often discovered by chance, and cannot always be found, when requisite, even by the most diligent and prudent enquiry. As moral philosophy seems hitherto to have received less improvement than either geometry or physics, we may conclude, that, if there be any difference in this respect among these sciences, the difficulties, which obstruct the progress of the former, require superior care and capacity to be surmounted.
- 
- [3] There are no ideas, which occur in metaphysics, more obscure 62 and uncertain, than those of power,force,energy, or necessary connexion, of which it is every moment necessary for us to treat in all our disquisitions.We shall, therefore, endeavour, in this section, to fix, if possible, the precise meaning of these terms, and thereby remove some part of that obscurity, which is so much complained of in this species of philosophy.
- 
- [4] It seems a proposition, which will not admit of much dispute, that all our ideas are nothing but copies of our impressions,* or, in other words, that it is impossible for us to thinkof any thing, which we have not antecedently felt, either by our external or internal senses.
- 
- I have endeavoured11to explain and prove this proposition, and have expressed my hopes, that, by a proper application of it, men may reach a greater clearness and precision in philosophical reasonings, than what they have hitherto been able to attain. Complex ideas may, perhaps, be well known by definition, which is nothing but an enumeration of those parts or simple ideas, that compose them.
- 
- But when we have pushed up definitions to the most simple ideas, and find still some ambiguity and obscurity; what resource are we 11 Section II.
- 
+When we try to understand how the human mind works step by step, we can feel pretty good about what we learn. But nature soon stops us from finding out the real reasons behind things, and we have to admit we don’t know everything. The main problem with getting better at moral or metaphysical sciences is that the ideas are unclear and the words are confusing. In math, the biggest challenge is that it takes a long time and a lot of thinking to reach any conclusion. In natural science, progress is often slowed down because we don’t always have the right experiments or examples to study. These examples sometimes only show up by chance and can be hard to find, even if we look carefully. Since moral philosophy has improved less than geometry or physics, it seems like the problems in moral philosophy need more skill and effort to overcome.
 
- 
-(Simplified)
- 
+Some ideas in metaphysics, like power, force, energy, or necessary connection, are very unclear and uncertain. But we need to talk about them all the time. So, in this part, we will try to clearly explain what these words really mean. This might help make this kind of philosophy less confusing.
+
+It seems pretty obvious that all our ideas come from our experiences or feelings. In other words, we can’t think about anything unless we have felt it first, either through our senses or inside ourselves.
+
+I have tried to explain and prove this idea and hope that using it the right way will help people think more clearly and accurately in philosophy than they have before. Complex ideas might be easier to understand by defining them, which means listing all the simple ideas that make them up.
+
+But even after defining things down to the simplest ideas, if some confusion still remains, what should we do next?

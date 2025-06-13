@@ -1,26 +1,21 @@
-5 Especially in the original form of the power-loom, we recognise, at the first glance, the ancient loom.
- 
- In its modern form, the power-loom has undergone essential alterations.
- 
- 6 It is only during the last 15 years (i.e., since about 1850), that a constantly increasing portion of these machine tools have been made in England by machinery, and that not by the same manufacturers who make the machines. Instances of machines for the fabrication of these mechanical tools are, the automatic bobbin-making engine, the cardsetting engine, shuttle-making machines, and machines for forging mule and throstle spindles.
- 
- 7 Moses says: “Thou shalt not muzzle the ox that treads the corn.” The Christian philanthropists of Germany, on the contrary, fastened a wooden board round the necks of the serfs, whom they used as a motive power for grinding, in order to prevent them from putting flour into their mouths with their hands.
- 
- 8 It was partly the want of streams with a good fall on them, and partly their battles with superabundance of water in other respects, that compelled the Dutch to resort to wind as a motive power. The wind-mill itself they got from Germany, where its invention was the origin of a pretty squabble between the nobles, the priests, and the emperor, as to which of those three the wind “belonged.” The air makes bondage, was the cry in Germany, at the same time that the wind was making Holland free. What it reduced to bondage in this case, was not the Dutchman, but the land for the Dutchman. In 1836, 12,000 windmills of 6,000 horse-power were still employed in Holland, to prevent two-thirds of the land from being reconverted into morasses.
- 
- 9 It was, indeed, very much improved by Watt’s first so-called single acting engine; but, in this form, it continued to be a mere machine for raising water, and the liquor from salt mines.
- 
- 10 “The union of all these simple instruments, set in motion by a single motor, constitutes a machine.” (Babbage, l.c.) 11 In January, 1861, John C. Morton read before the Society of Arts a paper on “The forces employed in agriculture.” He there states: “Every improvement that furthers the uniformity of the land makes the steam-engine more and more applicable to the production of pure mechanical force.... Horse-power is requisite wherever crooked fences and other obstructions prevent uniform action. These obstructions are vanishing day by day. For operations that demand more exercise of will than actual force, the only power applicable is that controlled every instant by the human mind-in other words, man-power.” Mr.
- 
- Morton then reduces steam-power, horse-power, and man-power, to the unit in general use for steamengines, namely, the force required to raise 33,000 lbs. one foot in one minute, and reckons the cost of one horse-power from a steam-engine to be 3d., and from a horse to be 5½d. per hour. Further, if a horse must fully maintain its health, it can work no more than 8 hours a day. Three at the least out of every seven horses used on tillage land during the year can be dispensed with by using steam-power, at an expense not greater than that which, the horses dispensed with, would cost during the 3 or 4 months in which alone they can be used effectively. Lastly, steam-power, in those agricultural operations in which it can be employed, improves, in comparison with horse-power, the quality of the work. To do the work of a steam-engine would require 66 men, at a total cost of 15s. an hour, and to do the work of a horse, 32 men, at a total cost of 8s. an hour.
- 
- 12 Faulhaber, 1625; De Caus, 1688.
- 
- 13 The modern turbine frees the industrial exploitation of water-power from many of its former fetters.
- 
- 14 “In the early days of textile manufactures, the locality of the factory depended upon the existence of a stream having a sufficient fall to turn a water-wheel; and, although the establishment of the watermills was the commencement of the breaking up of the domestic system of manufacture, yet the mills 331 Chapter 15 necessarily situated upon streams, and frequently at considerable distances the one from the other, formed part of a rural, rather than an urban system; and it was not until the introduction of the steampower as a substitute for the stream that factories were congregated in towns, and localities where the coal and water required for the production of steam were found in sufficient quantities.
- 
+5 At first, the original power-loom looked a lot like the old-fashioned loom.
 
- 
-(Simplified)
- 
+But the modern power-loom has changed a lot since then.
+
+6 In the last 15 years (since about 1850), more and more of these machine tools have been made in England by other machines, not by the people who usually make the machines. Some examples are machines that make bobbins automatically, set cards, make shuttles, and forge parts for spinning machines.
+
+7 Moses said, “Don’t stop the ox from eating while it’s working.” But in Germany, some Christian people put wooden boards around the necks of workers called serfs, who powered grinding machines, so they couldn’t eat any flour with their hands.
+
+8 The Dutch used wind power because they didn’t have good streams with strong waterfalls, and sometimes had too much water. They got the windmill from Germany, where people argued about who owned the wind—the nobles, priests, or emperor. While the wind caused trouble in Germany, it helped free the Dutch by keeping their land dry. In 1836, Holland had 12,000 windmills with 6,000 horsepower to stop two-thirds of the land from flooding.
+
+9 Watt’s first steam engine made things better, but it was still mostly just a machine for pumping water and moving saltwater from mines.
+
+10 Babbage said that a machine is made when many simple tools are powered by one motor.
+
+11 In January 1861, John C. Morton gave a talk about the forces used in farming. He said that making land flat and smooth helps steam engines work better. Horses are still needed where fences and other things get in the way. But these problems are getting smaller. Tasks that need a lot of thinking still need humans. Morton compared steam power, horse power, and human power using the same unit of measurement. He said it costs less to use steam power than horses, and horses can only work about 8 hours a day to stay healthy. Using steam power can replace many horses on farms, especially since horses only work well for 3 or 4 months a year. Steam power also does better work than horses. To do the same job as one steam engine, 66 men would be needed, costing 15 shillings an hour. For one horse’s work, 32 men would be needed, costing 8 shillings an hour.
+
+12 Faulhaber in 1625 and De Caus in 1688 worked on related ideas.
+
+13 The modern turbine helps use water power much more effectively than before.
+
+14 When textile factories first started, they had to be built near streams with waterfalls to turn water wheels. These watermills helped end home-based manufacturing but were still in rural areas and far apart. It wasn’t until steam power was used instead of water that factories could be built close together in towns where coal and water for steam were easy to find.

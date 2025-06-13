@@ -1,18 +1,13 @@
-Sceptical Doubts 21 [9] But to convince us, that all the laws of nature, and all the operations of bodies without exception, are known only by experience, the following reflections may, perhaps, suffice. Were any object presented to us, and were we required to pronounce concerning the effect, which will result from it, without consulting past observation; after what manner, I beseech you, must the mind proceed in this operation?
- 
- It must invent or imagine some event, which it ascribes to the object as its effect; and it is plain that this invention must be entirely arbitrary.
- 
- The mind can never possibly find the effect in the supposed cause, by the most accurate scrutiny and examination. For the effect is totally different from the cause, and consequently can never be discovered in it. Motion in the second Billiard-ball is a quite distinct event from motion in the first; nor is there any thing in the one to suggest the smallest hint of the other. A stone or piece of metal raised into the air, and left without any support, immediately falls: But to consider the matterà priori, is there any thing we discover in this situation, which can beget the idea of a downward, rather than an upward, or any other motion, in the stone or metal?
- 
- [10] And as the first imagination or invention of a particular effect, in all natural operations, is arbitrary, where we consult not experience; so must we also esteem the supposed tye or connexion between the cause and effect, which binds them together, and renders it impossible, that any other effect could result from the operation of that cause.
- 
- When I see, for instance, a Billiard-ball moving in a straight line towards another; even suppose motion in the second ball should by accident be suggested to me, as the result of their contact or impulse; may I not conceive,* that a hundred different events might as well follow from that cause? May not both these balls remain at absolute rest? May not the first ball return in a straight line, or leap offfrom 30 the second in any line or direction? All these suppositions are consistent and conceivable. Why then should we give the preference to one, which is no more consistent or conceivable than the rest? All our reasonings à priori will never be able to shew us any foundation for this preference.
- 
- [11] In a word, then, every effect is a distinct event from its cause.
- 
- It could not, therefore, be discovered in the cause, and the first invention or conception of it, à priori, must be entirely arbitrary. And even after it is suggested, the conjunction of it with the cause must appear equally arbitrary; since there are always many other effects, which, to 22 Section IV reason, must seem fully as consistent and natural.
- 
+Doubts About Knowing Nature 21 [9] To understand that all the laws of nature and how things work are only known through experience, think about this: If someone showed you something and asked you to guess what would happen without using past experience, how would your mind figure it out?
 
- 
-(Simplified)
- 
+Your mind would have to make up or imagine some result for that thing. And it’s clear that this guess would be completely random.
+
+No matter how closely you look, you can’t find the effect just by examining the cause. The effect is totally different from the cause, so it can’t be found inside it. For example, when one billiard ball hits another, the second ball moves, which is a totally different event from the first ball’s movement. Nothing about the first ball’s motion tells you for sure that the second will move. Or think about a stone or metal piece held up in the air and then dropped. Before it falls, is there anything in its position that tells you it will move down instead of up or in some other direction?
+
+[10] Since the first guess about what will happen in nature is random without experience, the idea that the cause and effect are connected and that only one result can happen also has to be a guess.
+
+For example, if I see a billiard ball rolling straight toward another, and I accidentally think the second ball will move after they touch, can’t I also imagine many other things happening? Maybe both balls stay still, or the first ball bounces back, or it jumps off the second ball in any direction. All these ideas make sense and can be imagined. So why should I believe one over the others? Using reason alone can’t prove which one is right.
+
+[11] In short, every effect is a different event from its cause.
+
+So, it can’t be found inside the cause, and the first idea about it before seeing it has to be random. Even after we guess the effect, the link between cause and effect still seems random because many other results seem just as possible and natural when we think about them.

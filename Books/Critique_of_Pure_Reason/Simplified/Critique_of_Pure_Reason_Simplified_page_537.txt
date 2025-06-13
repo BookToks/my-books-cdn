@@ -1,14 +1,9 @@
-Pt. II. Div. II. Bk. II. Ch. II The following section will place these remarks in a suitable light by giving them an application.
- 
- The Antinomy of Pure Reason Section Nine On the empirical use of the regulative principle of reason, a in regard to all cosmological ideas.
- 
- Since, as we have repeatedly shown, there is just as little transcendental use of pure concepts of understanding as there is of concepts of reason, because the absolute totality of series of conditions in the world of sense is based solely on a transcendental use of reason that demands this un­ conditioned completeness from what it presupposes is a thing in itself; and since the world of sense, however, contains nothing like that com­ pleteness, there can never again be an issue about the absolute magni­ tude of the series in this world, whether it might be bounded or in itself unbounded, but only about how far we should go back in the empirical regress when we trace experience back to its conditions, so that, fol­ lowing the rule of reason, we do not stop with any answer to its ques­ tions except that which is appropriate to the object.
- 
- Thus the only thing left to us is the validity of the principleh of rea­ son as a rule for the continuation and magnitude of a possible experi­ ence, once its invalidity as a constitutive principle of appearances in themselves has been adequately demonstrated. If we can keep the for­ mer in view and beyond doubt, then the conflict of reason with itself will also be entirely at an end, since not only will the illusion that put reason at odds with itself have been done away with through its critical dissolution, but in place of it, that sense will have been uncovered in which reason agrees with itself, and whose misinterpretation was the sole cause of the conflict; and a principle that would otherwise be di­ alectical will be transformed into a doctrinal principle. In fact, if this principle can be preserved in its subjective signification for suitably de­ termining the greatest possible use of the understanding in experience in regard to its objects, then that would be just as if the principle were (what it is impossible to get from pure reason) an axiom determining objects in themselves priori; for even this could have no greater influ­ a ence on the extension and correction of our cognition in regard to ob­ jectsC of experience than by actively proving itself in the most extensive use of our understanding in experience.
- 
- a Princip Princip b Objecte , 524 Section IX.
- 
+Part II, Division II, Book II, Chapter II: This part will help explain what we just talked about by showing how it applies in real situations.
 
- 
-(Simplified)
- 
+The Antinomy of Pure Reason, Section Nine: About how we use the rule of reason when thinking about big ideas related to the universe.
+
+We have shown again and again that pure ideas from our mind don’t directly explain things in the real world. This is because the idea that everything has a complete cause or explanation is based on a kind of reasoning that assumes things exist on their own, beyond what we experience. But since the world we experience never shows us this kind of complete explanation, we shouldn’t argue about whether the universe has an end or goes on forever. Instead, we should focus on how far back we can trace what we experience to its causes, and only accept answers that really fit what we observe.
+
+So, what’s left is to accept that the rule of reason is useful as a guide for exploring possible experiences. But it’s not a rule that proves things are true by themselves. If we remember this clearly, the conflicts in reason will stop. The problems came from misunderstanding this idea. Once we see that, the rule of reason changes from something confusing into a helpful guide.
+
+If we use this rule properly to get the most out of our understanding when exploring the world, it’s almost like having a rule that tells us about things themselves before we experience them. But even then, it won’t help us know more about the real world than by using our mind well when dealing with actual experiences.

@@ -1,28 +1,20 @@
-Notes to Pages 25–32 191 4.16 a medium: a middle term in an inference, connecting the premiss(es) with the conclusion. We have now reached the heart of Hume’s famous sceptical argument concerning induction, outlined in §11 of the Introduction, above. Having shown that all factual arguments depend on a supposition of uniformity, he is now asking what basis there could be for such a supposition. It cannot be founded on what we perceive, nor is it known to be true by immediate intuition; hence Hume deduces that it could only be well founded if it is inferable by reasoning that involves at least one intermediate step—some medium. See explanatory note to 4.21.
- 
- 4.18 moral reasoning: in the first two editions of the Enquiry, Hume refers here to ‘moral or probable Reasonings’. The term is used by Hume to mean reasoning which is less than perfectly certain (delivering ‘probability’ or at best ‘moral certainty’), and the word ‘moral’ carries no connotation ofethicalrelevance. See §10of the Introduction, above.
- 
- 4.18 demonstrative arguments: arguments that lead with total logicalcertainty from premiss(es) to conclusion, such as valid arguments in mathematics.
- 
- See §10of the Introduction, above.
- 
- 4.19 experimental conclusions: things inferred on the basis of experience.
- 
- 4.20 I cannot imagine . . . reasoning: Hume understandably overlooks statistical inference, commonplace since the development of mathematical statistics, in which the strength of a conclusion can be shown to depend (in appropriate circumstances) on the size of the statistical sample.
- 
- However, it is doubtful whether such inference could provide a solution to Hume’s so-called Problem of Induction, because statistical inference depends on the assumption that the observed sample is representativeor randomly chosen, and this cannot be guaranteed when inferring from past to future.
- 
- 4.21 the interposing ideas: an allusion to Locke’s Essay, IV. xvii. 2, which spoke of ‘intermediate Ideas’ as forming a chain of inference from premiss to conclusion, constituting either a demonstrative or a probable argument depending on the strength of the links.
- 
- SECTION V 5.1 EPICTETUS, and other Stoics: see Glossarial Index.
- 
- 5.1 ACADEMIC orSCEPTICAL philosophy: see Glossarial Index.
- 
- 5.3 into this world: Hume briefly summarizes the sceptical argument of Section IV, starting with the Adam thought-experiment.
- 
- 5.5 CUSTOM orHABIT: see §11of the Introduction, above. As Hume goes on to explain, all he is doing here is giving a name to a causal principle of human nature that he has observed to be operative. We do in fact make factual inferences in response to repeated experience, though he has shown that all such inferences involve a step—namely the supposition of uniformity (5.2)—that cannot be founded on reason. Reason does not ‘engage us’ to make that step, but we evidently make it nonetheless, so it 192 Notes to Pages 32–38 is apparently a basic fact about human nature that we function in this way.
- 
+4.16 A medium is like a middle step in an argument that connects the reasons you start with to the conclusion you reach. Now we get to the main part of Hume’s famous doubt about induction, which was mentioned earlier. He showed that all arguments based on facts assume that things stay the same over time. Now he’s asking what reason we have to believe that. It can’t be based on what we see or on something we just know right away. So, Hume thinks the only way to be sure is if we can figure it out by reasoning that includes at least one middle step—some kind of “medium.” Check note 4.21 for more.
 
- 
-(Simplified)
- 
+4.18 Moral reasoning means reasoning that isn’t 100% certain but gives us a good guess or strong likelihood. When Hume uses “moral” here, he doesn’t mean it’s about right or wrong. It just means the reasoning isn’t absolutely sure. See the Introduction, section 10, for more.
+
+4.18 Demonstrative arguments are arguments that give us total logical certainty, like math proofs where the conclusion must be true if the starting points are true.
+
+4.19 Experimental conclusions are things we figure out based on experience.
+
+4.20 Hume didn’t think about statistical reasoning, which is common now. In statistics, how confident you are depends on how big your sample is. But even so, this might not solve Hume’s problem with induction because statistics assumes the sample represents the whole group, and we can’t be sure that’s true when predicting the future from the past.
+
+4.21 The “interposing ideas” are a reference to Locke’s idea that there are intermediate steps in reasoning that link the start to the finish. Depending on how strong these links are, the argument can be totally certain or just probably true.
+
+SECTION V  
+5.1 Epictetus and other Stoics are mentioned; see the Glossary for more info.
+
+5.1 Academic or Skeptical philosophy is also explained in the Glossary.
+
+5.3 “Into this world” is where Hume briefly sums up the skeptical argument from Section IV, starting with the idea of Adam in the thought experiment.
+
+5.5 Custom or Habit: Hume is just naming a natural human habit he saw. We do make guesses about facts based on repeated experience, but all these guesses include assuming things stay the same—which can’t be proven by reason. Reason doesn’t force us to believe this, but we do it anyway. So, it seems to be just how humans naturally think and act.

@@ -1,14 +1,15 @@
-Critique of all speculative theology is gentler and fairer to say that the deist believes in a God, but the the­ ist in a living God (summa intelligentia). a Now we want to seek out the possible sources of all these attempts of reason.
- 
- Here I content myself with defining theoretical cognition as that through which I cognize what exists, and practical cognition as that through which I represent what ought to exist. According to this, the theoretical use of reason is that through which I cognize a priori (as nec­ essary) that something is; but the practical use is that through which it is cognized a priori what ought to happen. Now if it is indubitably cer­ tain, but only conditionally, that something either is or that it should happen, then either a certain determinate condition can be absolutely necessary for it, or it can be presupposed as only optionalb and contin­ gent. In the first case the condition is postulated (per thesin),c in the sec­ ond it is supposed (per hypothesin).d Since there are practical laws that are absolutely necessary (the moral laws), then if these necessarily presuppose any existence as the condition of the possibility of their bind- A634/ B 662 ing force, this existence has to be postulated, because the conditioned from which the inference to this determinate condition proceeds is itself cognized a priori as absolutely necessary. In the future we will show about the moral laws that they not only presuppose the existence of a highest being, but also, since in a different respect they are absolutely necessary, they postulate this existence rightfully but, of course, only practically; for now we will set aside this kind of inference. I I 3 Since if it is merely a matter of what exists (not of what ought to be), the conditioned that is given to us in experience is also always thought of as contingent, then the condition that belongs to it cannot be cognized from this as absolutely necessary, but serves only as a relatively neces­ sary -Or rather as a required but in itself and a priori arbitrary -presup­ position for the rational cognition of the conditioned. If, therefore, the absolute necessity of a thing is to be cognized in theoretical cognition, then this could happen only from concepts a priori, but never as a cause in relation to an existence that is given through experience.
- 
- A theoretical cognition is speculative if it pertains to an object or concepts of an object to which one cannot attain in any experience. It is opposed to the cognition of nature, which pertains to no objects, or A63S/B663 their predicates, except those that can be given in a possible experience.
- 
- The principle of inferring from what happens (the empirically con­ tingent) as effect to a cause, is a principle< of the cognition of nature, a "highest intelligence"; Kant declines the Latin phrase in the accusative.
- 
- b beliebig , by thesis by hypothesis d , Princip 585 Doctrine of Elements.
- 
+Criticism of all ideas about God that are based only on thinking is kinder and more fair when we say that a deist believes in a God, but a theist believes in a living God (the greatest intelligence). Now, we want to find where all these ideas from reason come from.
 
- 
-(Simplified)
- 
+Here, I explain that theoretical knowledge is how I understand what exists, and practical knowledge is how I think about what should exist. Theoretical reason helps me know for sure that something is true before I experience it, but practical reason helps me know what should happen before I experience it.
+
+If it is definitely true, but only under certain conditions, that something either exists or should happen, then either a specific condition must be absolutely necessary, or it might be optional and could change. In the first case, the condition is assumed as a fact, and in the second, it is assumed as a possibility.
+
+Because moral laws are absolutely necessary, if they need something to exist to be true, this existence must be assumed as a fact. We will later show that moral laws not only assume the existence of the highest being but also rightly assume it practically. For now, we will not focus on this argument.
+
+If we only think about what exists (not what should be), the things we experience are always seen as uncertain or changeable. So, the condition connected to them cannot be known as absolutely necessary but only as somewhat necessary – required but still optional before experience.
+
+Therefore, if we want to know that something is absolutely necessary in theoretical knowledge, it can only come from ideas before experience, never as a cause related to something we experience.
+
+Theoretical knowledge is called speculative if it deals with things or ideas about things that we cannot ever experience. This is different from our knowledge of nature, which only deals with things we can experience or their qualities.
+
+The rule that we can guess a cause from an effect we see happening is a rule for understanding nature.

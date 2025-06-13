@@ -1,14 +1,11 @@
-This causes one small complication: Beauchamp’s note 5 from the 1772 edition is absent from the 1777text followed here, and hence appears only in the textual variant of Section III: p. 179below.
- 
- Apart from the change of symbolic indicators, Hume’s original footnotesremain here in exactly their original form (including the placement of the indicators). The endnote references have, however, been slightly changed to ease navigation. Thus for example the bottom line of page 174in Hume’s 1777edition was ‘*See NOTE [Q].’, with the endnote itself, on page 486, being headed ‘NOTE [Q], p. 174.’ In this edition these two lines, on pages 120and131respectively, have been changed to: 35See endnote [Q], p. 131.
- 
- Endnote [Q] to 12.29, p. 12035 thus making cross-referring easier, and incorporating the Beauchamp note numbers as superscripts (in this case note 35, the last of the book).
- 
- In editions prior to 1770, all notes appeared as footnotes, and Beauchamp’s edition follows the same practice (unfortunately without indicating what form each note took in the subsequent editions).
- 
- That Hume took an interest in such matters is clear from his letters, notably to his printer William Strahan on 8April1776: I am very much taken with Mr Gibbon’s Roman History which came from your press . . . I intended to have given him my Advice with regard to the manner of printing it . . . One is . . . plagued with his Notes, according to the present Method of printing the Book: When a note is announced, you turn to the End of the Volume; and there you often find nothing but the Reference to an Authority. All these Authorities ought only to be printed at the Margin on the Bottom of the Page. I desire, that a Copy of my new Edition [i.e. the posthumous edition then in preparation] should be sent to Mr Gibbon, as wishing that a Gentleman, whom I so highly value, shoud peruse me in the form the least imperfect, to which I can bring my work. (HLii.313) In another letter to Strahan of 8June, Hume reports the seriousness of his illness, and makes some last requests concerning the printing of ‘My Own Life’ in his forthcoming edition, and the future publication of the Dialogues concerning Natural Religion. Here again he expresses enthusiasm for the quality of what would become the 1777 lx Note on the Text edition of the Essays and Treatises on Several Subjects(including the firstEnquiry), and the 1778edition of the History of England: I am glad to find, that you have been able to set about this New Edition in earnest.
- 
+There is one small problem: Beauchamp’s note 5 from the 1772 version is missing in the 1777 text used here, so it only shows up in a different version in Section III on page 179 below.
 
- 
-(Simplified)
- 
+Besides changing some symbols, Hume’s original footnotes are kept exactly the same, including where the markers are placed. But the endnote references have been changed a little to make it easier to find things. For example, on page 174 of Hume’s 1777 edition, it said ‘*See NOTE [Q].’ at the bottom, and the endnote on page 486 was called ‘NOTE [Q], p. 174.’ In this edition, these lines on pages 120 and 131 are changed to: 35 See endnote [Q], p. 131.
+
+Endnote [Q] on page 120 now says 35, making it easier to cross-reference and including Beauchamp’s note numbers as small superscript numbers (like note 35, the last one in the book).
+
+Before 1770, all notes were footnotes, and Beauchamp’s edition does the same, but it doesn’t say what kind of notes were used in later editions.
+
+We know Hume cared about these details because of his letters, especially one to his printer William Strahan on April 8, 1776. He said he liked Mr. Gibbon’s Roman History printed by Strahan, but he wanted to give advice about printing. He didn’t like how notes were done at the end of the book because you had to keep flipping pages just to see references. He thought all authority references should be printed at the bottom of the page instead. Hume also wanted a copy of his new edition sent to Mr. Gibbon because he respected him and wanted his work to be as perfect as possible.
+
+In another letter on June 8, Hume talked about how sick he was and made final requests about how ‘My Own Life’ and the Dialogues about Natural Religion should be printed in his new edition. He was excited about the quality of the 1777 edition of his Essays and Treatises and the 1778 edition of his History of England. He said he was happy that Strahan had started working seriously on this new edition.

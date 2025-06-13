@@ -1,22 +1,15 @@
-18:334), R 5723 (1785-89, 18:335), and R 5769 (1783-84, 18:349).
- 
- 90 Kant may be referring here to Johann Heinrich Lambert, who made much use of the term "postulate" in his philosophy and was generous in his con­ ception of the grounds on which postulates could be admitted, apparently believing that if a proposition was of use in a scientific inquiry its mere pos­ sibility was adequate for postulating its truth; for example, he writes that "that which, considered in itself, is possible, can be presupposed as a pos­ tulate in a practical problem" (Dianoiologie, § 530, in Neues Organon, oder Gedanken iiber die Erforschung und Bezeichnung des Wahren und dessen Un­ terscheidung vom Irrthum und Schein, vol. I (Leipzig, 1764; in the edition by Gunter Schenk (Berlin: 1990), vol. I, p. 263]). By "practical," here, Lambert means experimental, not moral; but in spite of his criticism in the present context, Kant's later use of "postulate" as a term in his practical philosophy may not be unconnected to Lambert's use of the term.
- 
- 91 Here again Kant refers to the distinction between real and logical opposi­ tion first introduced in The Attempt to Introduce the Concept of Negative Magnitudes into Philosophy, where the relation between motions in opposite directions is one of his primary examples of real rather than logical oppo­ sition, and where rest is thus treated not as a logical contradiction but as a real state resulting from real opposition between equal motions or forces in opposite directions. See Negative Magnitudes, 2:171-2, 179-80; in Walford, ed., Theoretical Philosophy, I755-I770, pp. 2lI, 218.
- 
- 92 For statements of this Leibnizian thesis that would have been known to Kant, see P1'inciples of Natul'e and Grace, § 13; Monadology, §§ 78-90; and Leibniz-Clarke Correspondence, Leibniz's Fifth Paper, § 87. A classical state­ ment of the doctrine not available to Kant is in Discourse on Metaphysics, § 14.
- 
- 93 Kant alludes here to the section of the "Transcendental Dialectic" entitled "The Paralogisms of Pure Reason," A 341-404 and B399-432.
- 
- Transcendental analytic ("Phenomena and Noumena" and "Amphiboly'') 94 Kant's geographical imagery goes back a long way: see R 4458 (1772, 17:559). This note is found in a series of interesting notes (R 4445-76, 17:552-66), which show Kant working out the situation of his emerging philosophy in both historical (R 4446-51) and systematic (R 4452-76) terms; Kant's mature position that pure reason has only a negative use in the theoretical context and a positive use only in the practical context can already be seen emerging (R 4453,4457,4459). The present chapter's dis­ tinction between negative and positive senses of the concept of the noumenon is an important step in Kant's larger argument for this position.
- 
- 95 See R 5554 (1778-81, 18:229-30), where Kant writes that "Noumenon properly signifies something which is always the same, namely the tran­ scendental object [OijectJ of sensible intuition. However, it is not a real object [object] or given thing, but rather a concept, in relation to which ap­ pearances have unity" (p. 230).
- 
- 96 Here Kant refers to B 288-9 in the "General Remark on the System of Principles" added in B.
- 
- 732 Notes to pages 366-371 97 The view that "pure ideas of reason are ideas of reflection" that "do not represent objects, but only laws for comparing the concepts which are given to us through the senses" goes back to 1769; see R 3917 (17:342-4).
- 
+Kant might be talking about Johann Heinrich Lambert here. Lambert often used the word "postulate" in his philosophy. He was open to accepting postulates if they seemed useful for scientific research. He thought that if something is possible, it can be assumed as true in practical problems. By "practical," he meant experimental, not moral. Even though Kant criticized this idea here, his later use of "postulate" in his practical philosophy might be connected to Lambert’s way of using the term.
 
- 
-(Simplified)
- 
+Kant also talks about the difference between real and logical opposition. He first introduced this idea in a work where he used the example of motions going in opposite directions. These motions show real opposition, not just logical contradiction. For example, rest is not a contradiction but a real state caused by equal forces pushing opposite ways.
+
+Some ideas from Leibniz that Kant knew about include the Principles of Nature and Grace, Monadology, and the Leibniz-Clarke Correspondence. These works explain some important philosophical ideas that influenced Kant. There is also a famous statement in Discourse on Metaphysics, but Kant did not have access to that one.
+
+Kant also mentions a part of his work called "The Paralogisms of Pure Reason," which talks about certain mistakes in pure reasoning.
+
+Kant often used geographical images in his writing, going back many years. In a series of notes from 1772, he worked out how his philosophy fits into history and system. He started to develop the idea that pure reason is only useful negatively in theory but positively in practice. This chapter’s difference between the negative and positive meanings of the noumenon (thing-in-itself) is an important part of Kant’s argument.
+
+Kant says that the noumenon properly means something that stays the same, which is the object behind what we sense. But it is not a real object we can see or touch; it’s a concept that helps us understand how appearances are unified.
+
+He also refers to a section in his work called the "General Remark on the System of Principles," added later in his writings.
+
+Finally, Kant believed that "pure ideas of reason" are ideas we use to reflect and compare concepts we get through our senses. These ideas don’t directly represent objects but help us understand the rules for how we think about what we experience. This idea goes back to 1769.

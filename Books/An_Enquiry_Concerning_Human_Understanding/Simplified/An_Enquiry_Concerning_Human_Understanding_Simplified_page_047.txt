@@ -1,14 +1,9 @@
-Introduction xlix instincts. Perhaps for this reason Hume’s discussion is quite short, and steers clear of the dangerous implications made explicit in his essay ‘Of the Immortality of the Soul’ (included in this volume as Appendix II).
- 
- The main point Hume emphasizes here is a corollary of his inductive approach to science: since all our factual reasonings are founded on an assumption of uniformity or resemblance, their strength can be expected to depend on the degree of resemblance involved. Though Hume illustrates this point by the analogy between humans and animals—appealing to the instinctive nature of animal reasoning to corroborate his claim (from Sections IV and V) that human reasoning is instinctive also—his methodological message is more general.
- 
- This is, that reasoning from analogy is a natural extension of inference based on custom, just as probabilistic reasoning was shown to be in Section VI.
- 
- 16. Section X: ‘Of Miracles’ Though mainly concerned with miracles, Section X has a far wider significance, because here we see how Hume’s theory of induction based on custom has a critical edge, helping us to weigh up conflicting evidence appropriately, particularly in the case of evidence from testimony. Hume starts (E10.3–4) by recalling his account of probability from Section VI, making its normative implications very explicit: A wise man, therefore, proportions his belief to the evidence. . . . All probability, then, supposes an opposition of experiments and observations, where the one side is found to overbalance the other, and to produce a degree of evidence, proportioned to the superiority. (E10.4) He goes on to argue that this general principle should be applied equally in the case of testimony, hence the credit that we give to reports of witnesses should be proportioned to their experienced reliability.
- 
- However experience indicates that the reliability of witnesses varies, depending on a number of factors such as ‘the opposition of contrary testimony; . . . the character or number of the witnesses; . . . the manner of their delivering their testimony; or . . . the union of all these circumstances’ (E 10.7). These are all factors that we naturally—and rightly—take into account when assessing the overall credibility of testimony, which will depend in each case on the balance between the positive and negative factors involved.
- 
+Introduction xlix instincts. Maybe because of this, Hume’s talk about instincts is pretty short, and he avoids the tricky ideas he explains more in his essay ‘Of the Immortality of the Soul’ (which you can find in Appendix II).
 
- 
-(Simplified)
- 
+The main idea Hume wants to share is connected to his scientific way of thinking: since all our facts and reasoning depend on assuming things stay the same or are similar, how strong our conclusions are depends on how similar the things really are. Hume shows this by comparing humans and animals—he points out that animals use instincts to reason, which supports his idea (from Sections IV and V) that humans also use instincts when they think. But his idea applies more broadly.
+
+Basically, reasoning by comparing things (analogy) is just a natural step from learning by habit or custom, just like how he showed that thinking based on chance (probability) works in Section VI.
+
+16. Section X: ‘Of Miracles’ This part is mainly about miracles, but it’s important for more than that. Here, Hume’s idea about learning from habit helps us figure out how to judge different pieces of evidence, especially when we hear stories from people. He starts (E10.3–4) by reminding us about his idea of probability from Section VI, explaining that a smart person believes things based on how strong the evidence is. He says: A wise person matches their belief to the amount of proof they have. All probability means there are different tests and observations, and the side with more proof wins and gives stronger evidence (E10.4). Then, he says this rule should also apply when we listen to witnesses, so how much we trust what they say depends on how reliable they have been before.
+
+But experience shows that witnesses aren’t always reliable for lots of reasons, like if there are other witnesses who say the opposite, how many witnesses there are, their honesty, how they tell their story, or a mix of all these things (E10.7). These are all things we naturally think about when deciding if we should believe a witness, and it depends on weighing all the good and bad reasons in each situation.

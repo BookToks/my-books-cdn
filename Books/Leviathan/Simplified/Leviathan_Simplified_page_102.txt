@@ -1,6 +1,7 @@
-102/Thomas Hobbes The second is he that owneth an action or covenant of another conditionally; that is to say, he undertaketh to do it, if the other doth it not, at or before a certain time. And these authors conditional are generally called sureties, in Latin, fidejussores and sponsores; and particularly for debt, praedes and for appearance before a judge or magistrate, vades.
- 
+The second type is someone who agrees to do something for another person, but only if that person does not do it themselves by a certain time.  
 
- 
-(Simplified)
- 
+These people are usually called sureties, which is a Latin word.  
+
+If it’s about paying a debt, they are called praedes.  
+
+If it’s about showing up in court or before a judge, they are called vades.

@@ -1,12 +1,9 @@
-D Dialogues concerning Natural Religion, ed. Norman Kemp Smith (Edinburgh: Nelson, 2nd edn. 1947) E Enquiry concerning Human Understanding(this volume). References to the Enquiryare given using section and paragraph numbers. In the endmatter (such as the Explanatory Notes), the initial E is usually omitted: thus the first paragraph on p. 26of this volume can be referred to as either ‘E4.19’ or simply ‘4.19’. For detail concerning marginal numbers and footnote references within the Enquiry, see the Note on the Text, below, pp. lvii–lx.
- 
- Essays Essays, Moral, Political, and Literary, ed. Eugene F. Miller (Indianapolis: Liberty Classics, 2nd edn., 1987) History The History of England, ed. William Todd, 6vols. (Indianapolis: Liberty Classics, 1983) HL The Letters of David Hume, ed. J. Y. T. Greig, 2vols. (Oxford: Clarendon Press, 1932) NHL New Letters of David Hume, ed. R. Klibansky and E. C. Mossner (Oxford: Clarendon Press, 1954) L A Letter from a Gentleman to his Friend in Edinburgh, ed. Ernest C.
- 
- Mossner and John V. Price (Edinburgh: Edinburgh University Press,1967, containing a facsimile of the original 1745edn.) T A Treatise of Human Nature, ed. David Fate Norton and Mary J.
- 
- Norton (Oxford: Oxford University Press, 2000). References to the Treatise are given using book, part, section, and paragraph numbers. Thus, for example, ‘T1.3.6.10’ indicates paragraph 10 of Book 1, Part 3, Section 6.
- 
+D Dialogues concerning Natural Religion, edited by Norman Kemp Smith (Edinburgh: Nelson, 2nd edition, 1947)  
+E Enquiry concerning Human Understanding (this book). References to the Enquiry use section and paragraph numbers. In the notes at the end, the first E is often left out, so the first paragraph on page 26 can be called either ‘E4.19’ or just ‘4.19’. For details about the numbers in the margins and footnotes in the Enquiry, see the Note on the Text, pages lvii–lx.
 
- 
-(Simplified)
- 
+Essays Essays, Moral, Political, and Literary, edited by Eugene F. Miller (Indianapolis: Liberty Classics, 2nd edition, 1987)  
+History The History of England, edited by William Todd, 6 volumes (Indianapolis: Liberty Classics, 1983)  
+HL The Letters of David Hume, edited by J. Y. T. Greig, 2 volumes (Oxford: Clarendon Press, 1932)  
+NHL New Letters of David Hume, edited by R. Klibansky and E. C. Mossner (Oxford: Clarendon Press, 1954)  
+L A Letter from a Gentleman to his Friend in Edinburgh, edited by Ernest C. Mossner and John V. Price (Edinburgh: Edinburgh University Press, 1967, includes a copy of the original 1745 edition)  
+T A Treatise of Human Nature, edited by David Fate Norton and Mary J. Norton (Oxford: Oxford University Press, 2000). References to the Treatise use book, part, section, and paragraph numbers. For example, ‘T1.3.6.10’ means paragraph 10 of Book 1, Part 3, Section 6.

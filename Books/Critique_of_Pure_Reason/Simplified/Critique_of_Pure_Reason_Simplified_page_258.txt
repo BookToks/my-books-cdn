@@ -1,8 +1,7 @@
-The manifold of representations can be given in an intuition that is merely sensible, i.e., nothing but receptivity, and the form of this intu­ ition can lie priori in our faculty of representation without being any­ a thing other than the way in which the subject is affected. Yet the combination (conjunctio) of a manifold in general can never come to us through the senses, and therefore cannot already be contained in the pure form of sensible intuition; for it is an actb of the spontaneity of the B 130 power of representation, and, since one must call the latter understanding, in distinction from sensibility, all combination, whether we are conscious of it or not, whether it is a combination of the manifold of intuition or of several concepts, and in the first case either of sensible or non-sensible intuition, is an action of the understanding, which we would designate with the general title synthesis in order at the same time to draw attention to the fact that we can represent nothing as combined in the objectC without having previously combined it ourselves, and that among all representations combination is the only one that is not given through objectsd but can be executed only by the subject itself, since it is an acte of its self-activity. One can here easily see that this action must originally be unitary! and equally valid for all combination, n In the second edition, the following § 15 through § 27 replace the second and third sections of the "Transcendental Deduction" in the first edition (A95 to AI30)' Actus b , Object Objecte d , Actus f einig; in modern German this is used only in idioms connoting being in agreement or harmony; perhaps Kant meant to write einzig, i.e., unique.
- 
- 245 Doctrine of Elements.
- 
+The different parts of what we see can be understood through our senses, which means just receiving information. The way we take in this information is built into us from the start, and it’s just how we are affected by what’s around us.
 
- 
-(Simplified)
- 
+But putting these parts together in general doesn’t come from our senses. This means it’s not already included in the way we sense things. Instead, it’s something our mind does on its own. Since this is different from just sensing, we call this part the understanding.
+
+All the ways we combine things—whether it’s parts of what we see or ideas—are actions of our understanding. We call this process synthesis. This is important because we can’t think of something as combined in the real world unless we have put it together ourselves first. Combining ideas or pieces isn’t given to us by the world; it’s something our mind does actively.
+
+This action of combining has to be one single, unified process, and it works the same way for all combinations.

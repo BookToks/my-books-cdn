@@ -1,16 +1,11 @@
-Ch. II. Sec. II empirical principles;a for except by means of experience r can know nei­ ther which inclinations there are that would be satisfied nor what the natural causes are that could satisfy them. The second abstracts from inclinations and natural means of satisfying them, and considers only the freedom of a rational being in general and the necessary conditions under which alone jr is in agreement with the distribution of happiness in accordance with principles/ and thus it at least can rest on mere ideas of pure reason and be cognized a priori.
- 
- A 807 / B 835 r assume that there are really pure moral laws, which determine completely a priori (without regard to empirical motives, i.e., happiness) the action and omission, i.e., the use of the freedom of a rational being in general, and that these laws command absolutely (not merely hypo­ thetically under the presupposition of other empirical ends), and are thus necessary in every respect.28 r can legitimately presuppose this proposition by appealing not only to the proofs of the most enlightened moralists but also to the moral judgment of every human being, if he will distinctly think such a law.
- 
- Pure reason thus contains -not in its speculative use, to be sure, but yet in a certain practical use, namely the moral use -principles C of the possibility of experience, namely of those actions in conformity with moral precepts which could be encountered in the history of hu­ mankind. For since they command that these actions ought to happen, they must also be able to happen, and there must therefore be possible a special kind of systematic unity, namely the moral, whereas the sys­ tematic unity of nature in accordance with speculative principlesd of reason could not be proved, since reason has causality with regard to freedom in general but not with regard to the whole of nature, and moral principles of reasone can produce free actions but not laws of naA808/B 836 ture. Thus the principles! of pure reason have objective reality in their practical use, that is, in the moral use.
- 
- r call the world as it would be if it were in conformity with all moral laws (as it can be in accordance with the freedom of rational beings and should be in accordance with the necessary laws of morality) a moral world.g This is conceived thus far merely as an intelligible world, since abstraction is made therein from all conditions (ends) and even from all hindrances to morality in it (weakness or impurityh of human nature).
- 
- a Principien b Principien ( Principien d Principien , Vernunftprincipien f Principien g Here Kant uses even larger type than his ordinary emphasis.
- 
- h Unlauterkeit 678 On the ideal of the highest good Thus far it is therefore a mere, yet practical, idea, which really can and should have its influence on the sensible world, in order to make it agree as far as possible with this idea.
- 
+We can only understand what desires people have and what naturally satisfies them by experiencing the world.
 
- 
-(Simplified)
- 
+If we ignore desires and how they get satisfied, and just think about freedom in general, we can figure out the conditions needed for freedom to match up with happiness based on certain rules. This way, we can understand it using pure thought without needing experience.
+
+Let’s assume there are pure moral laws that tell us what to do or not do without thinking about feelings or happiness. These laws are absolute and must always be followed. We can believe in these laws not just because smart thinkers say so, but also because everyone can understand them if they think clearly.
+
+Pure reason, when used in a practical way—like thinking about morals—has rules about what actions can happen in real life. Since these rules say what should happen, these actions must be possible. This creates a special kind of order called the moral order. But reason can’t prove a natural order for everything, only a moral one. Moral rules can guide free actions, but they can’t control natural laws. So, these moral rules are real and important when we use reason to make moral choices.
+
+I call the world that follows all moral laws perfectly a moral world. This is an idea of a world where everyone is free and acts morally, ignoring all the problems or weaknesses humans usually have.
+
+So far, this moral world is just an idea, but it’s a practical one. It should influence the real world and help make it as close as possible to this ideal.

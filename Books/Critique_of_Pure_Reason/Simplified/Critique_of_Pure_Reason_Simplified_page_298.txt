@@ -1,24 +1,18 @@
-Systematic representation of all synthetic principles the objective use of the categories. All principles of the pure under­ standing are, accordingly, 59 I.
- 
- Axioms of intuition.
- 
- 2. 3· Anticipations Analogies of perception. of experience.
- 
- 4· Postulates of empirical thinking in general. a I have chosen these titles with care, in order not to leave unnoted the distinctions with respect to the evidence and the exercise of these principles. But it will soon be shown that as far as the evidence as well as the B 201 a priori determination of appearances according to the categories of magnitude and quality are concerned (if one attends solely to the form of the latter), their principles are importantly distinct from those of the A 162 two others; while the former are capable of an intuitive certainty, the latter are capable only of a discursive certainty, though in both cases they are capable of a complete certainty. I will therefore call the former the mathematical and the latter the dynamical principles.*,b,60 But one * [Note added in the second edition:] <All combination (conjunctio) is either B20!
- 
- composition' (compositio) or connectiond (nexus). The former is the syna The following note is inserted in Kant's copy of the first edition: "1. Axioms ofIntuition. Formal.
- 
- pure mathematics - pura applied mathematics - dynamics.
- 
- Mathematics } 2. Anticipations of Perception. Real.
- 
- Perception is the consciousness { I, of an appearance (J;efore any concept) 3. Analogies of Experience Physical Physiology 4. Postulates of empirical 2. Metaphysical Thinking in general Sensation not beyond experience" (E uav, p. 29; � 3'28) Changed in Kant's copy of the first edition to: "the physiological principles" (E Lxv, p.
- 
- b 29; 23:46), though obviously this change was not incorporated into the second edition.
- 
- Zusammenhang , Verknupfung d 285 Doctrine of Elements.
- 
+This passage explains how different basic ideas are organized to understand things clearly.
 
- 
-(Simplified)
- 
+There are four main groups of these ideas: 
+
+1. Axioms of intuition,  
+2. Anticipations of perception,  
+3. Analogies of experience, and  
+4. Postulates of empirical thinking.
+
+The writer picked these names carefully to show how these ideas differ in how we prove and use them.
+
+Some of these ideas, especially those about size and quality, can be known for sure through direct intuition. Others need reasoning and thinking to be understood, but both types can be completely certain.
+
+The first group is called "mathematical principles" because they are clear and exact like math. The second group is called "dynamical principles" because they deal with changing things and need more reasoning.
+
+There is also a note that all combinations of ideas are either joining parts together or connecting them in some way.
+
+Finally, the passage talks about how perception is our awareness of what we see or experience before we even think about it, and this fits into understanding physical and mental processes.

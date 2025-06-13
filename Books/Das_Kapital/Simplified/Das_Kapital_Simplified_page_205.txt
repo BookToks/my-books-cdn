@@ -1,20 +1,19 @@
-” (J. Wade, “History of the Middle and Working Classes,” pp. 24, 25, and 577.) The opinion that this difference is due to the difference in the price-relations between food and clothing then and now is refuted by the most cursory glance at “Chronicon Preciosum, &c.” By Bishop Fleetwood. 1st Ed., London, 1707; 2nd Ed., London, 1745.
- 
- 87 W. Petty. “Political Anatomy of Ireland, Verbum Sapienti,” 1672, Ed. 1691, p. 10.
- 
- 88 “A Discourse on the necessity of encouraging Mechanick Industry,” London, 1690, p. 13.
- 
- Macaulay, who has falsified English history in the interests of the Whigs and the bourgeoisie, declares as follows: “The practice of setting children prematurely to work ... prevailed in the 17th century to an extent which, when compared with the extent of the manufacturing system, seems almost incredible.
- 
- At Norwich, the chief seat of the clothing trade, a little creature of six years old was thought fit for labour. Several writers of that time, and among them some who were considered as eminently benevolent, mention with exultation the fact that in that single city, boys and girls of very tender age create wealth exceeding what was necessary for their own subsistence by twelve thousand pounds a year. The more carefully we examine the history of the past, the more reason shall we find to dissent from those who imagine that our age has been fruitful of new social evils.... That which is new is the intelligence and the humanity which remedies them.” (“History of England,” vol. 1., p. 417.) Macaulay might have reported further that “extremely well-disposed” amis du commerce in the 17th century, narrate with “exultation” how in a poorhouse in Holland a child of four was employed, and that this example of “vertu mise en pratique” [applied virtue] passes muster in all the humanitarian works, à la Macaulay, to the time of Adam Smith. It is true that with the substitution of manufacture for handicrafts, traces of the exploitation of children begin to appear. This exploitation existed always to a certain extent among peasants, and was the more developed, the heavier the yoke pressing on the husbandman. The tendency of capital is there unmistakably; but the facts themselves are still as isolated as the phenomena of two-headed children. Hence they were noted “with exultation” as especially worthy of remark and as wonders by the far-seeing “amis du commerce,” and recommended as models for their own time and for posterity. This same Scotch sycophant and fine talker, Macaulay, says: “We hear to-day only of retrogression and see only progress.” What eyes, and especially what ears!
- 
- 89 Among the accusers of the workpeople, the most angry is the anonymous author quoted in the text of “An Essay on Trade and Commerce, containing Observations on Taxes, &c.,” London, 1770. He had already dealt with this subject in his earlier work: “Considerations on Taxes.” London, 1765. On the same side follows Polonius Arthur Young, the unutterable statistical prattler. Among the defenders of the working-classes the foremost are: Jacob Vanderlint, in: “Money Answers all Things.” London, 1734, the Rev. Nathaniel Forster, D. D., in “An Enquiry into the Causes of the Present High Price of Provisions,” London, 1767; Dr. Price, and especially Postlethwayt, as well in the supplement to his “Universal Dictionary of Trade and Commerce,” as in his “Great Britain’s Commercial Interest explained and improved.” 2nd Edition, 1755. The facts themselves are confirmed by many other writers of the time, among others by Josiah Tucker.
- 
- 90 Postlethwayt, l.c., “First Preliminary Discourse,” p. 14.
- 
- 91 “An Essay,” &c. He himself relates on p. 96 wherein the “happiness” of the English agricultural labourer already in 1770 consisted. “Their powers are always upon the stretch, they cannot live cheaper than they do, nor work harder.” 92 Protestantism, by changing almost all the traditional holidays into workdays, plays an important part in the genesis of capital.
- 
+(J. Wade, “History of the Middle and Working Classes,” pp. 24, 25, and 577.) Some people think that the difference between the past and now is because food and clothes cost different amounts. But if you look at “Chronicon Preciosum” by Bishop Fleetwood, from 1707 and 1745, you’ll see that’s not true.
 
- 
-(Simplified)
- 
+87 W. Petty wrote “Political Anatomy of Ireland” in 1672, edited in 1691, page 10.
+
+88 “A Discourse on the necessity of encouraging Mechanick Industry” was published in London in 1690, page 13.
+
+Macaulay, who changed English history to support the Whigs and rich people, said this: “In the 1600s, it was normal for kids to start working really young, which seems unbelievable compared to how factories work today.”
+
+In Norwich, where they made clothes, kids as young as six were expected to work. Some writers back then, even kind ones, proudly said that in Norwich alone, boys and girls who were very young made more money than they needed to live—about twelve thousand pounds a year. When we study history carefully, we see that new social problems aren’t really new. What’s new is that people today understand these problems better and want to fix them. (From “History of England,” vol. 1, p. 417.) Macaulay also could have told us that some business fans in the 1600s were happy to say that in a poorhouse in Holland, a four-year-old child worked, and this was seen as a good example in books about kindness, even until Adam Smith’s time.
+
+It’s true that when factories replaced small workshops, child labor became more obvious. But child labor always existed among farmers, especially when they were very poor. Capitalism clearly wanted to use cheap labor, but these cases were still rare, like stories about two-headed children. That’s why people back then talked about them excitedly as special examples to follow. Macaulay also said, “Today we only hear about going backward but see only progress.” What strange eyes and ears he had!
+
+89 One of the angriest critics of workers was the anonymous writer in “An Essay on Trade and Commerce,” London, 1770. He had written about this before in “Considerations on Taxes,” London, 1765. On the same side was Polonius Arthur Young, who talked a lot about statistics. The biggest defenders of workers were Jacob Vanderlint, who wrote “Money Answers all Things” in London, 1734; Rev. Nathaniel Forster in “An Enquiry into the Causes of the Present High Price of Provisions,” London, 1767; Dr. Price; and especially Postlethwayt, who wrote in his “Universal Dictionary of Trade and Commerce” and “Great Britain’s Commercial Interest explained and improved,” 2nd Edition, 1755. Many other writers like Josiah Tucker agreed with their facts.
+
+90 Postlethwayt also said this in his “First Preliminary Discourse,” page 14.
+
+91 In “An Essay,” the writer explains on page 96 what made English farm workers “happy” in 1770: “They were always working as hard as they could, couldn’t live any cheaper, and couldn’t work any harder.”
+
+92 Protestantism changed almost all old holidays into workdays, which helped create capitalism.

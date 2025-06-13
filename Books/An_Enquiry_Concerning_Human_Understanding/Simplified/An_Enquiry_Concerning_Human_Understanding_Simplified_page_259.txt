@@ -1,26 +1,21 @@
-SECTION VIII 8.2 liberty and necessity: see the Introduction, §14for a discussion of Hume’s treatment of this topic, and §4for some background.
- 
- 8.3 doctrine . . . liberty: the doctrine of necessity is the thesis of universal determinism, and the doctrine of liberty is the thesis that humans have genuine free will (as presumed to be required for moral responsibility).
- 
- Both terms derive from Hobbes, see p. xxi of the Introduction.
- 
- 8.4 universally allowed: agreed by everyone. No doubt an exaggeration, but adherents of the modern ‘mechanical philosophy’ (see pp. xiv, xxi) were agreed that matter acts in a way that is causally determined.
- 
- 8.5 Beyond . . . connexion: here Hume appeals to his two ‘definitions of cause’ to illuminate the issue—see p. xlvii of the Introduction.
- 
- 8.7 ARISTOTLE, andHIPPOCRATES:Aristotle’s theory of four elements is discussed in §1of the Introduction, and see also p. 220.Hippocrates of Cos (c.460‒377 bc), known as the ‘father of medicine’, was the source of the famous ‘Hippocratic Oath’ which is still widely affirmed by doctors today. He was a major influence on the Greek physician Galen (c.ad129‒216), whose theories dominated medieval medicine until the sixteenth century, in much the same way as Ptolemy’s theories, derived mainly from Aristotle, dominated medieval astronomy.
- 
- 8.7 POLYBIUS and TACITUS: Polybius (c.200‒118 BC) was a Greek historian who lived much of his life in Rome, and whose Histories concern the rise of Rome to world supremacy. Cornelius Tacitus(c.ad56‒120) was a Roman historian known best for his AnnalsandHistories, covering the reign of Roman emperors from Tiberius (ad14) onwards.
- 
- 8.8 QUINTUSCURTIUS. . . ALEXANDER:Alexander the Great(356‒323bc) was a king of Macedonia who quickly conquered a vast empire encompassing Greece, Persia, and most of the known world as far as India, before dying of fever in Babylon at the age of 32. Although his military empire soon fell apart after his death, his conquests ushered in the Hellenistic period, in which Greek culture exerted a wide influence.
- 
- Quintus Curtius Rufus was a Roman historian who wrote a History of Alexander, very popular in medieval times. He may be the same as a Curtius Rufus mentioned by Tacitus, who became proconsul of Africa and died around ad53.
- 
- 8.9 specious colouring of a cause: superficially plausible and artfully slanted presentation of a position (what might now be called ‘spin’).
- 
- 8.13 The vulgar . . . appearance: this important paragraph, taken from the Treatise (1.3.12.5), introduces a discussion of scientific methodology which advocates the search for hidden causes of inconstant phenomena.
- 
+SECTION VIII 8.2 Liberty and necessity: For a talk about Hume’s ideas on this topic, see the Introduction, §14, and for some background, see §4.
 
- 
-(Simplified)
- 
+8.3 Doctrine of liberty: The doctrine of necessity means that everything happens because of something else (universal determinism). The doctrine of liberty means that people have real free will, which is important for being responsible for our actions.
+
+Both ideas come from Hobbes; check the Introduction, p. xxi.
+
+8.4 Universally allowed: This means everyone agrees. Maybe a bit of an exaggeration, but people who believed in the modern ‘mechanical philosophy’ (see pp. xiv, xxi) agreed that matter moves in a way that is caused by something else.
+
+8.5 Beyond connexion: Here Hume uses his two ‘definitions of cause’ to explain the problem—see the Introduction, p. xlvii.
+
+8.7 Aristotle and Hippocrates: Aristotle’s idea of four elements is talked about in §1 of the Introduction and on p. 220. Hippocrates of Cos (c.460–377 BC), called the ‘father of medicine’, created the famous ‘Hippocratic Oath’ that doctors still promise to follow today. He influenced the Greek doctor Galen (c.AD 129–216), whose ideas ruled medicine in the Middle Ages, just like Ptolemy’s ideas, based on Aristotle, controlled medieval astronomy.
+
+8.7 Polybius and Tacitus: Polybius (c.200–118 BC) was a Greek historian who lived in Rome and wrote about how Rome became so powerful. Cornelius Tacitus (c.AD 56–120) was a Roman historian best known for his Annals and Histories, which cover Roman emperors from Tiberius (AD 14) onwards.
+
+8.8 Quintus Curtius and Alexander: Alexander the Great (356–323 BC) was a king of Macedonia who quickly took over a huge empire including Greece, Persia, and most of the world known then, up to India. He died from fever in Babylon at age 32. Even though his empire soon broke apart after his death, his conquests started the Hellenistic period, when Greek culture spread widely.
+
+Quintus Curtius Rufus was a Roman historian who wrote a popular History of Alexander in medieval times. He might be the same Curtius Rufus mentioned by Tacitus, who became governor of Africa and died around AD 53.
+
+8.9 Specious colouring of a cause: This means making a reason sound believable and clever, but it’s actually just a trick or ‘spin’.
+
+8.13 The vulgar appearance: This important paragraph from the Treatise (1.3.12.5) talks about how science should look for hidden causes behind things that don’t always happen the same way.

@@ -1,16 +1,13 @@
-224 Glossarial Index of Major Philosophers Though often thought of as empiricist in outlook (for example, he denies innate principles), Hobbes is in many respects rather close to Descartes, with considerable emphasis on the role of logical demonstration—as opposed to experiment—in science. He also follows Descartes in viewing the physical world as a plenum (see §2of the Introduction). But he conspicuously differs in his materialism, denying the intelligibility of Descartes’s immaterial mental substance, and viewing all minds—both human and divine—as material things. This provoked widespread accusations of ‘atheist’ and ‘Epicurean’, with ‘Hobbist’ becoming a comparable term of abuse in the seventeenth century. Hence Hume’s reluctance to make reference to Hobbes’s views, except when he has something critical to say (e.g.
- 
- Treatise1.3.3.4n,Moral Enquiry3.15n), as when summing Hobbes up in theHistory of England(vi.153): Hobbes’s politics are fitted only to promote tyranny, and his ethics to encourage licentiousness. Though an enemy to religion, he partakes nothing of the spirit of scepticism; but is as positive and dogmatical as if human reason, and his reason in particular, could attain a thorough conviction in these subjects. Clearness and propriety of style are the chief excellencies of Hobbes’s writings.
- 
- Bacon and Gassendi: Precursors of Modern Empiricism Francis Bacon (1561‒1626) was a prominent lawyer and politician under Queen Elizabeth I and James I of England, rising to the position of Lord Chancellor. He also wrote on history, science, and scientific method, the latter works being strongly critical of Aristotelianism and its emphasis on logical deduction from first principles. Bacon instead advocated an inductive, empirical approach based largely on ‘eliminative’ methods (i.e. identifying the correct hypothesis by experimentally ruling out alternatives).
- 
- He is mentioned approvingly by Hume in the introduction to the Treatise, described as ‘the father of experimental physicks’ in the second paragraph of the Abstract, and quoted in the Enquiryat10.39. This last paragraph is of particular interest for its implication that the sceptical attitude which Hume shows towards miracles is not to be confined either to religious contexts or to allegedly unique events, but is also to be extended to ‘every thing that is to be found in the writers of natural magic or alchimy’, and hence presumably what we would now call ‘New Age’ or allegedly paranormal phenomena.
- 
- Pierre Gassendi (1592‒1655) was a French philosopher and scientist, best known today for his authorship of a set of Objections to Descartes’s Meditations, but in his time arguably the first modern empiricist. Influenced both by Epicurus and scepticism, he attacked Aristotle, denied innate ideas, emphasized sense experience as the source of all ideas and knowledge, and displayed a Lockean agnosticism about the essences of things.
- 
- He also anticipated Hume’s views about the reason of animals, though Glossarial Index of Major Philosophers 225 whether Hume ever read him is doubtful.
- 
+Hobbes is often seen as someone who believes in learning from experience (empiricism) because he doesn’t believe in ideas we’re born with. But in many ways, he’s similar to Descartes, especially in how much he trusts logical reasoning rather than experiments in science. Like Descartes, he thinks the physical world is completely full of matter.
 
- 
-(Simplified)
- 
+However, Hobbes is very different in that he is a materialist. He doesn’t believe in Descartes’ idea of a non-physical mind. Instead, Hobbes thinks all minds, including human and divine, are made of physical stuff. This made many people call him an atheist and accuse him of following the ideas of Epicurus. In the 1600s, calling someone a “Hobbist” was an insult.
+
+Because of this, the philosopher Hume didn’t like to talk about Hobbes unless he was criticizing him. For example, Hume said Hobbes’ politics promote tyranny (cruel rule), and his ethics encourage bad behavior. Even though Hobbes was against religion, he wasn’t a skeptic (someone who doubts everything). He was very sure of his ideas, especially about human reason. Hobbes’ writing is known for being clear and well-organized.
+
+Francis Bacon (1561–1626) was a lawyer and politician in England, and he became Lord Chancellor. He wrote about history, science, and how science should be done. Bacon didn’t like the old way of thinking based on Aristotle, which focused on logical deduction from first ideas. Instead, Bacon believed in learning through experiments by ruling out wrong ideas one by one.
+
+Hume praised Bacon in his writings, calling him “the father of experimental physics.” Hume also used Bacon’s ideas to explain why we should doubt miracles and other strange claims, like what we now call “New Age” or paranormal stuff.
+
+Pierre Gassendi (1592–1655) was a French philosopher and scientist. He is famous for criticizing Descartes’ ideas but was also one of the first modern empiricists. Influenced by Epicurus and skepticism, Gassendi rejected the idea of innate knowledge, believed all ideas come from our senses, and was unsure about the true nature of things.
+
+He also had ideas about animal reasoning that were similar to Hume’s, but it’s not clear if Hume ever read his work.

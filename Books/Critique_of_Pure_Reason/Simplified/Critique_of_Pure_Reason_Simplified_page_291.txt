@@ -1,12 +1,7 @@
-Now our task is to exhibit in sys­ tematic combination the judgments that the understanding actually brings about a priori subject to this critical warning, for which our table of the categories must doubtless give us natural and secure guidance.
- 
- For it is precisely these whose relation to possible experience must constitute all pure cognition of the understanding a priori, and whose relationa to sensibility in general will, on that very account, display all B 188 transcendental principles of the use of the understanding completely and in a system.
- 
- A priori principles bear this name not merely because they contain in themselves the grounds of other judgments, but also because they are not themselves grounded in higher and more general cognitions. Yet A 149 this property does not elevate them beyond all proof. For although this could not be carried further objectively, but rather grounds all cogni­ tion of its object,b yet this does not prevent a proof from the subjective sources of the possibility of a cognition of an object in general from being possible, indeed even necessary, since otherwise the proposition would raise the greatest suspicion of being a merely surreptitious assertion.
- 
- Second, we will limit ourselves merely to those principles that are rea Verhdltnis Objects b 278 Section I.
- 
+Now our job is to show, in a clear and organized way, the judgments that the understanding makes before any experience, keeping in mind an important warning. Our list of categories will definitely help guide us safely.
 
- 
-(Simplified)
- 
+These categories are important because their connection to possible experiences makes all pure understanding before experience possible. Their link to our senses will also explain all the basic rules about how we use understanding, fully and in a system.
+
+A priori principles are called that not just because they explain other judgments, but because they don’t depend on any higher or more general knowledge. But this doesn’t mean they don’t need proof. Even though they can’t be proven objectively beyond a certain point, they still need proof based on how we can understand objects at all. Without this, the idea would seem very suspicious and like a hidden assumption.
+
+Finally, we will only focus on the principles that really relate to objects.

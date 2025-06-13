@@ -1,6 +1,69 @@
-5,1.15) chimerical fanciful (see p. 194;1.14) apprehend to understand (1.8,1.13, chuse to choose (5.15,8.19,8.23) 7.1,7.4,7.30,11.3) chymistry chemistry (12.31) apprehensive fearful (9.3, B.4) circumscribed confined (7.12,7.18) apprized of knowledgeable of (7.24) cloaths clothes (5.18) approbation approval (1.2,1.15, cognizance observation (4.16) 8.31,8.35,8.35) commodities useful things (8.17) artifice devious trick (Advertisement, compass range (1.14,1.15,5.13,7.2) 10.37,11.24) compleat complete (3.3,3.3,4.22, artificer craftsman (8.12,8.17) 8.17, F.1) asseverations solemn declarations complexion temperament (F.1) (10.7) compounded complex (2.6,3.1) atchieve to achieve (1.12,1.15) comprehend to understand (1.5, atheism disbelief in God (see p. 203; 1.14,7.21,7.25,7.26,11.6, D.1, 10.25,12.1, L.12, N.1) H.2, H.4) attend to accompany (passim) comprehend to include (3.1,6.3, attest to bear witness to (10.8,10.15, 8.17,8.25,8.34,11.25,11.26,11.30) 10.25,10.27) comprehension understanding auditor listener (5.17n.9,10.17) (1.5,1.14,1.16,4.16,4.22,7.11, aught anything (4.16,11.17, 7.14,7.17,8.14,8.25,10.34) 11.28, Q.1) conceit imagination (7.2,11.21) ax axe (8.19) concession thing admitted or allowed bane ruin (4.3) (7.22,10.14,11.11) bar barrier (7.2) concourse coming together (11.10) barely merely (1.13,8.21) condition social status (10.19) batteries guns (Advertisement) confound to defeat (10.40,12.23, L.5) beget to produce or give rise to confounded confused (2.9,12.18) (4.9,5.14,6.1,6.2,6.3,6.4,10.4, confutation refutation (7.23) 10.19,12.2) consistence consistency, texture bent inclination (1.6) (4.16,4.21) bereave to rob (12.16) controul to control (8.35,12.25,12.29) beseech to ask earnestly (4.9,7.25) correspondent corresponding biass bias (1.6,5.1) (2.7,2.8,2.8,5.22,7.4) big with full of; pregnant with (12.18) cotemporary contemporary, of the bondage slavery (10.40) same time (10.25,10.26, A.1) bottom, at basically (8.27, B.3) couched expressed (4.21) byasses biases (H.10) counterpoise (-ize) to calumny malicious slander (11.2) counterbalance (10.8,12.24) canvass to discuss (8.1,8.2,10.17) craft trickery (1.11) caprice whimsical fancy (1.4,8.15) criticism artistic (e.g. literary) careless carefree, unconcerned (1.12) criticism (1.2,8.18,12.33) catholic universally applicable (1.12) custom source of habitual inference cavils quibbling arguments (12.10) (see pp. 191‒2;passim) celestial heavenly (11.16) deceitful misleading or deceptive chace to chase (9.2,1.11) (1.12,12.3,12.22) check to restrain (12.24) deduct to subtract (10.4,10.13) 214 Glossary deliberate carefully considered (1.
- 
+Here are some old or difficult words and what they mean:
 
- 
-(Simplified)
- 
+"Chimerical" means something imaginary or fanciful.  
+"Apprehend" means to understand.  
+"Chuse" means to choose.  
+"Chymistry" is an old word for chemistry.  
+"Apprehensive" means fearful or worried.  
+"Circumscribed" means confined or limited.  
+"Apprized of" means being informed or knowledgeable about something.  
+"Cloaths" means clothes.  
+"Approbation" means approval.  
+"Cognizance" means observation or awareness.  
+"Commodities" are useful things or goods.  
+"Artifice" means a tricky or clever trick.  
+"Compass" means the range or area something covers.  
+"Compleat" means complete or perfect.  
+"Artificer" means a craftsman or skilled worker.  
+"Asseverations" are solemn or serious statements.  
+"Complexion" means temperament or nature.  
+"Compounded" means made up of different parts.  
+"Atchieve" means to achieve or accomplish.  
+"Comprehend" means to understand or include.  
+"Atheism" means disbelief in God.  
+"Attend" means to go with or accompany.  
+"Attest" means to confirm or give proof.  
+"Comprehension" means understanding.  
+"Auditor" means listener.  
+"Aught" means anything.  
+"Conceit" means imagination or idea.  
+"Ax" means axe, a tool for chopping.  
+"Concession" means something allowed or accepted.  
+"Bane" means ruin or cause of harm.  
+"Bar" means barrier or obstacle.  
+"Concourse" means a coming together or gathering.  
+"Barely" means just or only.  
+"Condition" means social status or situation.  
+"Batteries" means guns or weapons.  
+"Confound" means to confuse or defeat.  
+"Beget" means to produce or cause.  
+"Confutation" means a refutation or contradiction.  
+"Consistence" means consistency or texture.  
+"Bent" means a natural liking or tendency.  
+"Bereave" means to rob or take away.  
+"Controul" means to control.  
+"Beseech" means to ask earnestly or beg.  
+"Correspondent" means matching or related.  
+"Biass" means bias or unfair preference.  
+"Big with" means full of or pregnant with.  
+"Cotemporary" means living at the same time.  
+"Bottom, at" means basically or fundamentally.  
+"Couched" means expressed in words.  
+"Byasses" means biases.  
+"Counterpoise" means to balance or offset.  
+"Calumny" means malicious slander or lying about someone.  
+"Counterbalance" means to balance out.  
+"Canvass" means to discuss or ask opinions.  
+"Craft" means trickery or skill.  
+"Caprice" means a sudden change of mind or whim.  
+"Criticism" means careful judgment or artistic review.  
+"Careless" means not worried or unconcerned.  
+"Catholic" means universal or applying to everyone.  
+"Custom" means habit or usual way.  
+"Cavils" means small, petty arguments.  
+"Celestial" means heavenly or related to the sky.  
+"Deceitful" means misleading or lying.  
+"Chace" means to chase or follow.  
+"Check" means to stop or restrain.  
+"Deduct" means to subtract.  
+"Deliberate" means carefully thought out.

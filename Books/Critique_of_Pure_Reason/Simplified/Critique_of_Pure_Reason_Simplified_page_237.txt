@@ -1,14 +1,9 @@
-Pt. II. Div. 1. Bk. I. Ch. II "Transition to the transcendental deduction of the categories.
- 
- There are only two possible cases in which synthetic representation and its objects can come together, necessarily relate to each other, and, as it were, meet each other: Either if the object alone makes the representaB 125 tion possible, or if the representation alone makes the object possible.
- 
- If it is the first, then this relation is only empirical, and the representa­ tion is never possible priori. And this is the case with appearance in re­ a spect of that in it which belongs to sensation. But if it is the second, then since representation in itself (for we are not here talking about its causality by means of the will) does not produce its object as far as its existence is concerned, the representation is still determinant of the object priori if it is possible through it alone to cognize something as a an object. But there are two conditions under which alone the cogni­ tion of an object is possible: first, intuition, through which it is given, but only as appearance; second, concept, through which an object is A93 thought that corresponds to this intuition. It is clear from what has been said above, however, that the first condition, namely that under which alone objects can be intuited, in fact does lieh in the mind pri­ a ori as the ground of the form of objects.' All appearances therefore nec­ essarily agree with this formal condition of sensibility, because only through it can they appear, i.e., be empirically intuited and given. The question now is whether priori concepts do not also precede, as con­ a ditions under which alone something can be, if not intuited, neverthe­ less thought as object in general, for then all empirical cognition of B 126 objects is necessarily in accord with such concepts, since without their presupposition nothing is possible as objectd of experience. Now, however, all experience contains in addition to the intuition of the senses, through which something is given, a concept of an object that is given in intuition, or appears;IS hence concepts of objects in general lie at the ground of all experiential cognition as priori conditions; con­ a sequently the objective validity of the categories, as priori concepts, a rests on the fact that through them alone is experience possible (as far as the form of thinking is concerned). For they then are related neces­ sarily and priori to objects of experience, since only by means of them a can any object of experience be thought at all.
- 
- a No section number appears here in the second edition, but "§ 14 " should have been added to avoid an unnumbered section between § 13 and § 15.
- 
- b Following Erdmann in reading "liegt" for "liegen"; Kant seems to have confused the sin­ gular antecedent (Bedingnng) with the plural, perhaps because of the intervening occur­ rence of the plural "objects." Objecten C Object d 224 Section I.
- 
+There are only two ways that a new idea and the thing it’s about can come together and connect for sure. Either the thing itself makes the idea possible, or the idea itself makes the thing possible.
 
- 
-(Simplified)
- 
+If the first is true, then this connection only happens from experience, and the idea can’t exist before we experience the thing. This is like how we sense things around us. But if the second is true, then even though the idea doesn’t create the thing, the idea still decides what the thing is before we experience it.
+
+For us to know something as an object, two things need to happen: first, we have to see or sense it, but only as it appears to us; second, we have to have a concept or idea that matches what we sense. We know that the first condition, sensing, is something our mind sets up before we experience anything, because it shapes how things appear to us.
+
+So, all appearances follow this rule because only through it can we sense and experience things. Now, the question is if the ideas we have before experience also come before and make it possible to think about objects at all, even if we don’t see them yet.
+
+Since all experience includes both sensing something and having an idea of that thing, these ideas must be the foundation of all knowledge from experience. This means these ideas (called categories) are necessary and come before experience because without them, we couldn’t think about objects at all.

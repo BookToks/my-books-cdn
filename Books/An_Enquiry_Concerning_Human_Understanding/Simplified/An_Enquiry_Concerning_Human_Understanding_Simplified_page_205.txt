@@ -1,16 +1,19 @@
-I see a billiard-ball moving towards another. I cannot distinguish whether it moves upon its axis, or was struck so as to skim along the table. In the first case, I know it will not stop after the shock. In the second it may stop. The first is most common, and therefore I lay my account with that effect. But I also conceive the other effect, and conceive it as possible, and as connected with the cause.
- 
- Were not the one conception different in the feeling or sentiment from the other, there would be no difference betwixt them.
- 
- [25] We have confin’d ourselves in this whole reasoning to the relation of cause and effect, as discovered in the motions and operations of matter.
- 
- But the same reasoning extends to the operations of the mind. Whether we consider the influence of the will in moving our body, or in governing our thought, it may safely be affirmed, that we could never foretel the effect, merely from the consideration of the cause, without experience. And even after we have experience of these effects, ’tis custom alone, not reason, which 656 determines us to make it the standard of our future judgments. When the cause is presented, the mind, from habit, immediately passes to the conception and belief of the usual effect. This belief is something different from the conception. It does not, however, join any new idea to it. It only makes it be felt differently, and renders it stronger and more lively.
- 
- [26] Having dispatcht this material point concerning the nature of the inference from cause and effect, our author returns upon his footsteps, and examines anew the idea of that relation. In the considering of motion communicated from one ball to another, we could find nothing but contiguity, priority in the cause, and constant conjunction. But, beside these circumstances, ’tis commonly suppos’d, that there is a necessary connexion betwixt the cause and effect, and that the cause possesses something, which we call apower, or force, or energy. The question is, what idea is annex’d to these terms? If all our ideas or thoughts be derived from our impressions, this power must either discover itself to our senses, or to our internal feeling.
- 
- But so little does any powerdiscover itself to the senses in the operations of matter, that the Cartesians have made no scruple to assert, that matter is utterly deprived of energy, and that all its operations are perform’d merely by the energy of the supreme Being. But the question still recurs, What idea have we of energy or power even in the supreme Being?All our idea of a Deity (according to those who deny innate ideas) is nothing but a composition of those ideas, which we acquire from reflecting on the operations of our own minds. Now our own minds afford us no more notion of energy than matter does. When we consider our will or volition apriori, abstracting from experience, we are never able to infer any effect from it. And when we take the assistance of experience, it only shows us objects contiguous, successive, 657 and constantly conjoined. Uponthe whole, then, either we have no idea at 142 Appendix I all of force and energy, and these words are altogether insignificant, or they can mean nothing but that determination of the thought, acquir’d by habit, to pass from the cause to its usual effect.
- 
+I see one billiard ball moving toward another. I can’t tell if it’s spinning on its own axis or just sliding across the table. 
 
- 
-(Simplified)
- 
+If it’s spinning, I know it won’t stop after hitting the other ball. If it’s sliding, it might stop. Spinning is more common, so I expect that to happen. But I can also imagine the sliding case as possible and connected to the cause.
+
+If these two ideas didn’t feel different, then there wouldn’t be a difference between them.
+
+We have been talking only about cause and effect when it comes to how things move and work in the physical world.
+
+But the same idea applies to how the mind works. Whether it’s moving our body or controlling our thoughts, we can’t predict what will happen just from knowing the cause without experience. Even after we have experience, it’s habit, not reason, that makes us expect the usual result. When we see the cause, our mind quickly jumps to expecting the usual effect. This expectation is different from just thinking about it. It doesn’t add any new idea, but it makes the thought feel stronger and more real.
+
+After explaining this important point about cause and effect, the author looks again at the idea of that connection. When we think about one ball hitting another, we only find that they touch, that one happens first, and that they always happen together. But people usually believe there is a necessary connection between cause and effect, and that the cause has some power or energy.
+
+The question is, what do we actually mean by power or energy? If all our ideas come from what we sense, this power should be something we can sense or feel inside.
+
+But we don’t really sense any power in how matter works. Some thinkers even say matter has no energy at all, and that all action comes from the power of a supreme Being. But then we have to ask, what idea do we have of that power in the supreme Being? People who say we have no built-in ideas believe that all our ideas of God come from thinking about how our own minds work.
+
+But our minds don’t really give us a clear idea of power either. When we think about our will without experience, we can’t predict what it will cause. And with experience, we only see things happening one after another, always together.
+
+So, in the end, either we have no real idea of force or energy, and those words don’t mean anything, or they just mean that our mind is used to moving from cause to effect because of habit.

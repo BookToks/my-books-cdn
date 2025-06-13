@@ -1,10 +1,9 @@
-Boyle was a great partizan of the mechanical philosophy; a theory, which, by discovering some of the secrets of nature, and allowing us to imagine the rest, is so agreeable to the natural vanity and curiosity of men. He died in 1691, aged 65.
- 
- Isaac Newton (1643‒1727), perhaps the most celebrated scientist in history, was an English mathematician and physicist. He invented the calculus (but delayed publication, provoking a bitter priority battle with the German philosopher Leibniz), and used it to give the first comprehensive account of terrestrial and astronomical motion, as explained in §3 of the Introduction, above. Hume’s History of England(vi.542) gives a glowing summary, highlighting the significant irony that Newton’s physics, while establishing accurate laws describing phenomena, at the same time seemed to make nature less ‘intelligible’ because gravity could not be explained mechanically: In Newton this island may boast of having produced the greatest and rarest genius that ever arose for the ornament and instruction of the species. Cautious in admitting no principles but such as were founded on experiment; but resolute to adopt every such principle, however new or unusual: From modesty, ignorant of his superiority above the rest of mankind; and thence, less careful to accommodate his reasonings to common apprehensions: More anxious to merit than acquire fame: He was from these causes long unknown to the world; but his reputation at last broke out with a lustre, which scarcely any writer, during his own lifetime, had ever before attained. While Newton seemed to draw offthe veil from some of the mysteries of nature, he shewed at the same time the imperfections of the mechanical philosophy; and thereby restored her ultimate secrets to that obscurity, in which they ever did and ever will remain. He died in 1727, aged 85.
- 
- Newton is mentioned in the important endnote [D] to E 7.25, which aims to dissociate him from some of his ‘Newtonian’ followers who— as explained in §6of the Introduction—tended towards occasionalismwith a theological agenda.
- 
+Boyle really liked the mechanical philosophy. This idea helped people discover some secrets of nature and imagine the rest. It made people feel proud and curious. He died in 1691 when he was 65 years old.
 
- 
-(Simplified)
- 
+Isaac Newton (1643–1727) was one of the most famous scientists ever. He was an English mathematician and physicist. He invented calculus but waited a long time to publish it, which caused a big fight with a German philosopher named Leibniz. Newton used calculus to explain how things move on Earth and in space, as mentioned earlier.  
+
+Hume’s History of England praises Newton a lot. It says Newton was careful to only believe ideas based on experiments but open to new and unusual ideas. He was humble and didn’t try to make his ideas easy for everyone to understand. He cared more about doing good work than becoming famous. Because of this, people didn’t know about him for a long time, but when they did, he became very famous.  
+
+Even though Newton explained some mysteries of nature, his work also showed that the mechanical philosophy was not perfect. For example, gravity couldn’t be explained by machines or simple parts. This meant some secrets of nature would always stay mysterious. Newton died in 1727 at the age of 85.
+
+Newton is mentioned in an important note [D] to a section called E 7.25. This note tries to separate Newton himself from some of his followers, who had religious ideas and believed in occasionalism, as explained earlier.

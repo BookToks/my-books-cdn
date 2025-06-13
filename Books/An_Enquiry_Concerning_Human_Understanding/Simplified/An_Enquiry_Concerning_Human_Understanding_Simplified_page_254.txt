@@ -1,24 +1,19 @@
-190 Notes to Pages 20–24 4.8 one Billiard-ball . . . upon impulse:Hume borrows Malebranche’s example of two colliding balls (Search after Truth, VI. ii. 3.10) to make the point that even the most familiar and apparently ‘intelligible’ causal interactions can only be known through experience. See §2 of the Introduction, above.
- 
- 4.10 may I not conceive: it might seem that Hume is appealing to his Conceivability Principle (4.2) here, to establish only that other effects are logically possible. However, he is claiming much more: that a priori many different effects are equally possible, with no basis for choosing between them, so that the choice between them would be ‘entirely arbitrary’ (4.9).
- 
- 4.12 reduce the principles. . . observation: Hume spells out what he sees as the only legitimate ambition of science, given that a priori intelligibility is not to be had. See §7of the Introduction, above. It is in this unifying spirit that he will later sketch some hypotheses of his own in the science of mind, arguing that custom is analogous to the associationof ideas (5.20) and that it can account for probabilistic inference (6.3). Later in the paragraph, the phrase ‘springs and principles’ recalls 1.15: see explanatory notes to 1.13and1.15.
- 
- 4.13 mixed mathematics: what we would now call ‘applied mathematics’,the application of mathematics to the physical world.
- 
- 4.13 the moment or force . . . motion: Hume here alludes to what is nowknown asmomentum, the mass of a body multiplied by its velocity(i.e. its speed in a particular direction). One of the most fundamental laws of mechanics is the conservation of momentum, whereby the total momentum of a number of colliding bodies will be the same after the collision as it was before. It follows, as Hume remarks, that a small body, if acceleratedto a great enough speed, can achieve sufficient momentum to displace a much larger body which is moving relatively slowly.
- 
- 4.13 the discovery . . . experience: though demonstrative mathematical reasoning is useful in physics, this does not mean that the behaviour of objects can be known a priori through mathematics, because the physical laws through which the mathematics is applied (e.g. the conservation of momentum) can be discovered only by experience.
- 
- 4.14 sifting humour: probing frame of mind.
- 
- 4.15 pretend: claim, or aspire, with no connotation of pretencein the modern sense.
- 
- 4.16 force or power . . . others: the inertia of bodies was supposed to involve a force, the vis inertiaeor inert power; see explanatory note to endnote [D].
- 
- 4.16 n. 7 See Sect. 7: this note was added in the 1750 edition, and seems designed to obviate an objection made by Kames, that Hume was inconsistent in referring to objects’ powers in the previous threesentences, when Section VII will go on to deny that objects in themselvesstrictly have any powers. Hume here indicates that his language of ‘powers’ should not be taken to prejudge how that language is to be interpreted.
- 
+4.8 One billiard ball hitting another: Hume uses Malebranche’s example of two billiard balls crashing into each other to show that even the easiest-to-understand causes can only be known by experience. See §2 of the Introduction above.
 
- 
-(Simplified)
- 
+4.10 Can I imagine it? It might seem like Hume is just saying that other effects could logically happen. But he is actually saying more: before experience, many different effects seem equally possible, and there’s no good reason to pick one over the others, so choosing would be totally random (4.9).
+
+4.12 Reduce the principles to observation: Hume explains that science’s only real goal is to work from observation because we can’t know everything just by thinking about it. See §7 of the Introduction above. With this idea, he later suggests some ideas about the mind, saying that habits work like how ideas connect (5.20) and can explain how we guess things based on chance (6.3). The phrase “springs and principles” reminds us of 1.15; see notes for 1.13 and 1.15.
+
+4.13 Mixed mathematics: what we now call “applied math,” which means using math to understand the physical world.
+
+4.13 The moment or force of motion: Hume is talking about momentum, which is how much motion something has, found by multiplying its mass by its speed and direction. One big rule in physics is that momentum stays the same before and after objects bump into each other. So, as Hume says, a small object moving really fast can push a bigger object that’s moving slowly.
+
+4.13 The discovery through experience: Even though math is helpful in physics, we can’t figure out how objects behave just by math alone because the physical laws (like momentum staying the same) are found through experience.
+
+4.14 Sifting humour: A curious and questioning attitude.
+
+4.15 Pretend: To claim or hope for something, without the modern idea of tricking someone.
+
+4.16 Force or power of bodies: People once thought that inertia (an object’s resistance to change in motion) was a kind of force called “vis inertiae” or inert power; see note [D].
+
+4.16 Note 7: This note was added in the 1750 edition to answer a criticism by Kames, who said Hume was being inconsistent when he talked about objects having powers but later said they don’t really have powers. Hume says the word “powers” shouldn’t be taken as a final meaning here.

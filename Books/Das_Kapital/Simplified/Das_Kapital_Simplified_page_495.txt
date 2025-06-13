@@ -1,34 +1,33 @@
-” (Hansard, 13th Feb.) 40 Gladstone in the House of Commons, April 16th, 1863. Morning Star, April 17th.
- 
- 41 See the official accounts in the Blue book: “Miscellaneous Statistics of the United Kingdom,” Part vi., London, 1866, pp. 260-273, passim. Instead of the statistics of orphan asylums, &c., the declamations of the ministerial journals in recommending dowries for the Royal children might also serve. The greater dearness of the means of subsistence is never forgotten there.
- 
- 42 Gladstone, House of Commons, 7th April, 1864. — “The Hansard version runs: ‘Again, and yet more at large — what is human life, but, in the majority of cases, a struggle for existence.’ The continual crying contradictions in Gladstone’s Budget speeches of 1863 and 1864 were characterised by an English writer by the following quotation from Boileau: “Voilà l’homme en effet. Il va du blanc au noir, Il condamne au matin ses sentiments du soir.
- 
- Importun à tout autre, à soi-même incommode, Il change à tout moment d’esprit comme de mode.” [Such is the man: he goes from black to white. / He condemns in the morning what he felt in the evening. / A nuisance to everyone else, and an inconvenience to himself, / he changes his way of thinking as easily as he changes his way of dressing] (“The Theory of Exchanges, &c.,” London, 1864, p. 135.) 43 H. Fawcett, l. c., pp. 67-82. As to the increasing dependence of labourers on the retail shopkeepers, this is the consequence of the frequent oscillations and interruptions of their employment.
- 
- 44 Wales here is always included in England.
- 
- 45 A peculiar light is thrown on the advance made since the time of Adam Smith, by the fact that by him the word “workhouse” is still occasionally used as synonymous with “manufactory”; e.g., the opening of his chapter on the division of labour; “those employed in every different branch of the work can often be collected into the same workhouse.” 46 “Public Health. Sixth Report, 1864,” p. 13.
- 
- 47 l. c., p. 17.
- 
- 48 l. c., p. 13.
- 
- 49 l. c., Appendix, p. 232.
- 
- 50 l. c., pp. 232, 233.
- 
- 51 l. c., pp. 14, 15.
- 
- 52 “In no particular have the rights of persons been so avowedly and shamefully sacrificed to the rights of property as in regard to the lodging of the labouring class. Every large town may be looked upon as a place of human sacrifice, a shrine where thousands pass yearly through the fire as offerings to the moloch of avarice,” S. Laing, l. c., p. 150.
- 
- 53 “Public Health, Eighth Report. 1866.” p. 14, note.
- 
- 54 . c., p. 89. With reference to the children in these colonies, Dr. Hunter says: “People are not now alive to tell us how children were brought up before this age of dense agglomerations of poor began, and he would be a rash prophet who should tell us what future behaviour is to be expected from the present growth of children, who, under circumstances probably never before paralleled in this country, are now completing their education for future practice, as ’dangerous classes’ by sitting up half the night with persons of every age, half naked, drunken, obscene, and quarrelsome.” (l. c., p. 56.) 55 l. c., p. 62.
- 
- 56 “Report of the Officer of Health of St. Martins-in-the-Fields, 1865.” 496 Chapter 25 57 “Public Health, Eighth Report, 1866,” p.
- 
+(Hansard, 13th Feb.) Gladstone spoke in the House of Commons on April 16th, 1863. The Morning Star reported it on April 17th.
 
- 
-(Simplified)
- 
+You can find the official numbers in the Blue book called “Miscellaneous Statistics of the United Kingdom,” Part 6, published in London in 1866, pages 260-273. Instead of using the statistics about orphanages, some political newspapers suggested giving dowries to the Royal children. They never forget to mention how expensive it is to live.
+
+Gladstone spoke again in the House of Commons on April 7th, 1864. The Hansard transcript says: “Again, and more clearly — what is human life, but, in most cases, a fight to survive.” An English writer described Gladstone’s confusing Budget speeches from 1863 and 1864 by quoting Boileau: “This is what people are like. They change their minds a lot. / They say in the morning that they don’t agree with how they felt the night before. / They bother everyone else and even themselves, / changing their thoughts as easily as changing clothes.” (“The Theory of Exchanges,” London, 1864, p. 135.)
+
+H. Fawcett wrote about how workers rely more and more on small shopkeepers because their jobs are often unstable and stop and start a lot.
+
+When the text says “England,” it always includes Wales.
+
+Long ago, the word “workhouse” sometimes meant “factory.” For example, Adam Smith said that people working in different parts of a job could be gathered into the same workhouse.
+
+The “Public Health Sixth Report” from 1864 talks about these issues on page 13.
+
+Pages 17 and 13 of the same report also give more details.
+
+The appendix on page 232 has extra information.
+
+Pages 232 and 233 continue this information.
+
+Pages 14 and 15 of the report add more facts.
+
+No group’s rights have been more openly and shamefully ignored than those of working-class people when it comes to housing. Every big city can be seen as a place where people suffer and are treated badly because of greed, according to S. Laing on page 150.
+
+The “Public Health Eighth Report” from 1866 mentions this on page 14, note.
+
+On page 89, the report talks about children living in crowded poor areas. Dr. Hunter says no one alive now can explain how kids were raised before these crowded poor neighborhoods existed. He warns that the kids growing up now, often staying up late with people of all ages who are half-naked, drunk, rude, and fighting, are being prepared to become a “dangerous class” in the future (page 56).
+
+More information is on page 62.
+
+The “Report of the Officer of Health of St. Martins-in-the-Fields, 1865” also discusses these problems (page 496, Chapter 25).
+
+The “Public Health Eighth Report, 1866” gives more details on page 57.

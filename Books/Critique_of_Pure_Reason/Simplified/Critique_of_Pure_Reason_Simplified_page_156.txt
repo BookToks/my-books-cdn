@@ -1,26 +1,11 @@
-, and from that analytic judgments can be drawn. But the concept of a cause lies entirely outside that concept, anda indicates something different than the concept of what happens in general, and is thereforeb not contained in the latter representation at all. How then do I come to say something quite different about that which happens in general, and to cognize the concept of cause as be­ longing to it, indeed necessarily,' even though not contained in it?d What is the unknown =eX here on which the understanding depends when it believes itself to discover beyond the concept of A a predicate that is foreign to it yet which it nevertheless believes to be connected with it?fIt cannot be experience, for the principle that has been adduced adds the latter representations to the former not only with greater gen­ erality than experience can provide, but also with the expression of ne­ cessity, hence entirely priori and from mere concepts. Now the entire a final aim of our speculative priori cognition rests on such synthetic, A 10 a i.e., ampliative principles; for the analytic ones are, to be sure, most im­ portant and necessary, but only for attaining that distinctness of con- B 14 cepts which is requisite for a secure and extended synthesis as a really new acquisition.g hV.
- 
- Synthetic priori judgments are contained as principlesi a in all theoretical sciences of reason.
- 
- h. Mathematical judgments are all synthetic.'6 This proposition seems to have escaped the notice of the analysts of human reason until now, indeed to be diametrically opposed to all of their conjectures, al­ though it is incontrovertibly certain and is very important in the sequel.
- 
- For since one found that the inferences of the mathematicians all pro­ ceed in accordance with the principle of contradiction (which is rea "liegt ganz auflerj enem Begriffe, und" added in the second edition.
- 
- "ist also" in the second edition instead of "und ist" in the first.
- 
- b , "und so gar notwendig" added in the second edition.
- 
- d Kant ends this and the next sentence with periods, for which we have substituted ques­ tion marks.
- 
- , "unbekannte =" added in the second edition.
- 
- f In the second edition, "welches er gleichwohl damit verkniipft zu sein erachtet?" substituted for" das gleichwohl damit verkniipft sei. " In the second edition, "Erwerb" replaces "Anbau." g At this point one paragraph from the first edition is omitted and replaced with the fol­ h lowing Sections V and VI, BI4 through B2S.
- 
- ; Principien j Kant adapts the following five paragraphs from the Prolegomena, § 2 (4:268-9).
- 
- 143 Introduction <B> quired by the nature of any apodictic certainty), one was persuaded that the principles could also be cognized from the principlea of contradic­ tion, in which, however, theyb erred; for a synthetic proposition can of course be comprehended in accordance with the principle of contradic­ tion, but only insofar as another synthetic proposition is presupposed from which it can be deduced, never in itself.
- 
+When we think about causes, the idea of cause is actually different from just thinking about what usually happens. The cause isn’t included in the general idea of what happens. So, how can I say something new about what usually happens and understand the idea of cause as part of it, even though it’s not actually in that general idea?
 
- 
-(Simplified)
- 
+What is this unknown thing that helps our mind believe it can find something new beyond the original idea, something that seems connected but isn’t really part of it? It can’t be just from experience, because the rule we use adds more general ideas than experience can, and it shows these ideas are necessary, meaning they come from thinking alone, not from experience.
+
+The main goal of our thinking is based on these kinds of ideas that add new information, called synthetic judgments. Analytic judgments are important for understanding ideas clearly, but synthetic judgments help us learn new things.
+
+Synthetic judgments that come before experience are the foundation of all science based on reason.
+
+All math judgments are synthetic. This fact seems to have been missed by many who study human thinking, even though it’s very important and clearly true.
+
+People used to think math just follows the rule that a statement can’t contradict itself, so they believed all math principles come from that rule. But they were wrong. A synthetic statement can fit with the rule of no contradictions only if it’s based on another synthetic statement. It can’t come from that rule alone.

@@ -1,12 +1,13 @@
-Pt. II. Div. II. Bk. II. Ch. II A477/B 505 pearances of nature, however, much must remain uncertain and many questions insoluble, because what we know about nature is in many cases far from sufficient for what we would explain. The question now is whether there is any question in transcendental philosophy dealing with an objecta placed before us by reason that is unanswerable by this same pure reason, and whether one could have a right to avoid answer­ ing it decisively because one counts as absolutely uncertain (on the basis of what we can knowl that of which we have enough of a concept of it to be able to raise a question about it, but are so entirely lacking in means or faculties that we can never give the answer.
- 
- Now I assert that among all speculative cognition, transcendental philosophy has the special property that there is no question at all deal­ ing with an object given by pure reason that is insoluble by this very same human reason; and that no plea of unavoidable ignorance and the unfathomable depth of the problem can release us from the obligation of answering it thoroughlyr and completely; for the very same concept that puts us in a position to ask the question must also make us compe­ tent to answer it, since the object is not encountered at all outside the concept (as it is in the case of justice and injustice).
- 
- A478/B506 In transcendental philosophy, however, there are no questions other than the cosmological ones in regard to which one can rightfully de­ mand a sufficient answer concerning the constitution of the object itself; the philosopher is not allowed to evade them by pleading their impene­ trable obscurity, and these questions can have to do only with cosmo­ logical ideas. For the object must be given empirically, and the question concerns only its conformity with an idea. If the object is transcendental and thus in itself unknown, e.g., whether the something whose appear­ ance (in ourselves) is thinking (the soul) is in itself a simple being, whether there is a cause of all things taken together that is absolutely necessary, etc., then we should seek an object for our idea, which we can concede to be unknown to us, but not on that account impossible.* The * To the question, "What kind of constitution does a transcendental object have?" one cannot indeed give an answer saying what it is, but one can answer that the question itself is nothing, because no object for the question is given.
- 
- Hence all questions of the transcendental doctrine of the soul are answerable and actually answered; for they have to do with the transcendental subject of all inner appearances, which is not itself an appearance and hence is not given as an object, and regarding which none of the categories (at which the question A47 9/B 507 is really being aimed) encounter conditions of their application. Thus here is a case where the common saying holds, that no answer is an answer, namely that Object a b erkennen , grftndlich 504 Section IV.
- 
+We don’t know everything about nature, so some things will always stay uncertain and some questions can’t be solved because we don’t have enough information to explain them.
 
- 
-(Simplified)
- 
+The big question now is: Are there any questions in philosophy that reason gives us, but that reason can’t answer? And is it okay to just say, “We can’t answer this because it’s completely uncertain,” even when we have enough of an idea to ask the question but no way to find the answer?
+
+I say that in philosophy, especially the kind that deals with basic ideas (transcendental philosophy), there are no questions about things reason gives us that can’t be answered by reason. We can’t just say, “It’s too hard to know.” The same idea that makes us ask the question also means we should be able to find the answer, because the thing we’re asking about only exists as part of that idea.
+
+In transcendental philosophy, the only questions that really need a clear answer are about the nature of the universe (cosmological questions). Philosophers can’t ignore these questions by saying they’re too confusing. These questions are about real things we experience, and whether they fit with our ideas.
+
+If the thing we’re asking about is totally unknown, like what the soul really is or if there’s a cause of everything that always exists, we can’t say exactly what it is. But we can say that these questions only make sense if there’s something there to ask about.
+
+So, all questions about the soul in this kind of philosophy can be answered because they deal with the part inside us that thinks but isn’t just a thing we can see or touch. These questions don’t fit with the usual rules we use to understand things.
+
+In some cases, not having an answer is itself an answer, meaning sometimes saying “we don’t know” is the best response.

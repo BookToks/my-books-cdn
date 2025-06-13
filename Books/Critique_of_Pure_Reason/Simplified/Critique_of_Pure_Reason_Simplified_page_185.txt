@@ -1,16 +1,5 @@
-This, however, takes place only insofar as the object is given to us; but this in turn, <at least for us humans,> is possible only if it affects the mind in a certain way. The capacity (receptivity) to acquire representations through the way in which we are affected by objects is called sensibility. Objects are therefore given to us by means of sensibility, and it alone affords us in­ tuitions; but they are thought through the understanding, and from it arise concepts. But all thought, whether straightaway (directe) or through a detour (indirecte), must, <by means of certain marks,> ulti­ mately be related to intuitions, thus, in our case, to sensibility, since there is no other way in which objects can be given to us.
- 
- B 34 The effect of an object on the capacity for representation, insofar as A20 we are affected by it, is sensation. That intuition which is related to the object through sensation is called empirical. The undetermined object of an empirical intuition is called appearance.
- 
- I call that in the appearance which corresponds to sensation its mat­ ter, but that which allows the manifold of appearance to be orderedc in a We here present the revised version of the "Transcendental Aesthetic" that Kant pre­ pared for the second edition of the Critique. Since in addition to the major changes that he made, all of which will be noted, Kant also made numerous minor changes that it would be cumbersome to note individually, we will enclose all the changes Kant made in B within angled brackets « ...
- 
- », w hether or not they are otherwise noted. Editorial notes on passages unchanged from A will not be repeated.
- 
- b In the second edition, Kant divided the "Transcendental Doctrine of Elements" from the beginning of the "Transcendental Aesthetic" through the end of the "Transcen­ dental Deduction of the Pure Concepts of the Understanding" into twenty-seven num­ bered sections. In the case of some sections, new titles were also added for material otherwise taken over without other change from the first edition.
- 
- , In the first edition this reads "intuited as ordered in certain relations ..." 172 The Transcendental Aesthetic <B> certain relationsa I call the form of appearance.
- 
+This only happens when the object is given to us, but for humans, this can only happen if it affects our mind in a certain way. The ability to get images or ideas from how objects affect us is called sensibility. Objects are given to us through sensibility, and sensibility alone gives us intuitions. But we think about these objects using our understanding, which creates concepts. All thinking, whether direct or indirect, must connect to intuitions, which for us means sensibility, because that's the only way objects can be given to us.
 
- 
-(Simplified)
- 
+The effect an object has on our ability to form ideas, when it affects us, is called sensation. The intuition connected to the object through sensation is called empirical. The unknown object behind an empirical intuition is called appearance.
+
+I call the part of the appearance that matches the sensation its matter, and the part that organizes the different parts of the appearance in certain ways I call the form of appearance.

@@ -1,14 +1,11 @@
-Human are those punishments that be inflicted by the commandment of man; and are either corporal, or pecuniary, or ignominy, or imprisonment, or exile, or mixed of these.
- 
- Corporal punishment is that which is inflicted on the body directly, and according to the intention of him that inflicteth it: such as are stripes, or wounds, or deprivation of such pleasures of the body as were before lawfully enjoyed.
- 
- And of these, some be capital, some less than capital. Capital is the infliction of death; and that either simply or with torment. Less than capital are stripes, wounds, chains, and any other corporal pain not in its own nature mortal. For if upon the infliction of a punishment death follow, not in the intention of the inflicter, the punishment is not to be esteemed capital, though the harm prove mortal by an accident not to be foreseen; in which case death is not inflicted, but hastened.
- 
- Pecuniary punishment is that which consisteth not only in the deprivation of a sum of money, but also of lands, or any other goods which are usually bought and sold for money. And in case the law that ordaineth such a punishment be made with design to gather money from such as shall transgress the same, it is not properly a punishment, but the price of privilege and exemption from the law, which doth not absolutely forbid the fact but only to those that are not able to pay the money: except where the law is natural, or part of religion; for in that case it is not an exemption from the law, but a transgression of it. As where a law exacteth a pecuniary mulct of them that take the name of God in vain, the payment of the mulct is not the price of a dispensation to swear, but the punishment of the transgression of a law indispensable. In like manner if the law impose a sum of money to be paid to him that has been injured, this is but a satisfaction for the hurt done him, and extinguisheth the accusation of the party injured, not the crime of the offender.
- 
- Ignominy is the infliction of such evil as is made dishonourable; or the deprivation of such good as is made honourable by the Commonwealth. For there be some things honourable by nature; as the effects of courage, magnanimity, strength, wisdom, and other abilities of body and mind: others made honourable by the Commonwealth; as badges, titles, offices, or any other singular mark of the sovereigns favour. The former, though they may fail by nature or accident, cannot be taken away by a law; and therefore the loss of them is not punishment. But the latter may be taken away by the public authority that made them 194/Thomas Hobbes honourable, and are properly punishments: such are, degrading men condemned, of their badges, titles, and offices; or declaring them incapable of the like in time to come.
- 
+Human punishments are penalties given by people’s laws. These punishments can be physical, money-related, shameful, or involve jail, exile, or a mix of these.
 
- 
-my name is sandeep gautam
- 
+Physical punishment is when the body is hurt directly, like being whipped, wounded, or losing pleasures that were once allowed.
+
+Some physical punishments lead to death, which is called capital punishment. Others don’t cause death, like whipping, wounds, or being chained. If someone dies by accident during a punishment that wasn’t meant to kill, it’s not considered capital punishment.
+
+Money punishment means losing money, land, or things you can buy and sell. Sometimes, laws charge money to break rules, but if the law is designed just to get money, it’s not truly a punishment but a fee to avoid the law—unless the law is natural or religious. For example, if someone swears using God’s name wrongly and has to pay money, that money isn’t to allow swearing but is a real punishment. Also, if a law says the offender must pay the person they hurt, that money is to make up for the damage, not to erase the crime.
+
+Shameful punishment is when someone loses honor or respect given by the community. Some honors, like bravery or intelligence, come naturally and can’t be taken away by law, so losing them isn’t a punishment. But honors given by the government, like titles or official jobs, can be taken away as a punishment. For example, a person can be stripped of their title or job if they are found guilty.  
+
+My name is Sandeep Gautam.

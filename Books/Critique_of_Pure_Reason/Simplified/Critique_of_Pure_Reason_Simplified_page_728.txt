@@ -1,26 +1,21 @@
-It emphasized appeals to healthy common sense over rigorous argument, and the popular dissemination of progres­ sive ideas with practical import over the investigation of metaphysical ques­ tions, toward which they often expressed contempt.
- 
- 6 The term "critique" or "criticism" (Kritik) was apparently first derived by Kant from Henry Home, Lord Kames (1696-1762), Elements of Criticism (1762), in which he referred to judgments in matters of beauty or taste (see 9: I 5)· Kant's first use of it is in an announcement of lectures for 1765-66 (see 2:311). As early as 1769, Kant defines "critique as a science not for bringing forth but for assessing certain things in accordance with rules of perfection; thus metaphysics is a science for assessing cognitions from pure re-ason" (R 4148, 17:434).
- 
- 7 To this paragraph, compare R 4945 (1776-78, 18:37).
- 
- 8 See R 4900-1 (1776-78, 18:23).
- 
- 9 Jean Terrasson (1670-1750), Philosoplie nach ihrem allgemeinen Eillflusse auf aIle Gegenstiinde des Geistes und der Sitten, tr. Frau Gottsched (Berlin, 1762), p. I 17. The original (French) edition was: La philosophie explicable it tous les objets de l'esprit et de la raison. Precede des rejlexions de M. d'Alembert, d'une let­ tre de M. Moncrif & d'une autre lettre de M. *** sur la personne et les ouvrages de l'auteur. Paris: Chez Prault & Fils, 175410 See also Kant's comments about the length and style of his work at R 5015 (1776-78, 18:60-61) and R 5031 (1776-78, 18:67).
- 
- 11 The Cape of Good Hope, the southernmost point in Africa.
- 
- 12 In his letter to Schutz of 25 June 1787, Kant says he has in mind the demonstration in Euclid, Elements, bk. I, prop. 5 (10:466). Diogenes Laertius actually reports that Thales learned geometry from the Egyp­ tians, but also that he taught them to measure the height of the pyramids using the lengths of their shadows (Lives of Eminent Philosophers [London: Heinemann, 1924] 1.24,27).
- 
- 13 Galileo Galilei (1564-1647) described these experiments concerning ac­ celeration in his De Motu Accelerato and the "Third Day" of Dialogues on the Two World Systems (1632).
- 
- 14 Evangelista Torricelli (1608-I 647), a follower of Galileo, invented the baro­ meter, described here, in 1643. His findings were first published posthu­ mously in the edition of his academic lectures (1715).
- 
- IS Georg Ernst Stahl (1660-1734) performed experiments with combustion and the smelting of metals which led to his formulation of the phlogiston theory in 1702. Antoine Lavoisier's discoveries, which eventually led to the replacement of the phlogiston theory, were first made in 1777, but were un­ available to Kant in 178 I. The phlogiston theory was still accepted by many chemists, such as Joseph Priestley, for many years afterward. Kant followed the revolution in chemistry very closely and in 1796 attended a replication of Lavoisier's crucial experiments by his colleague Carl Gottfried Hagen (as reported by A. F. Gehlen, Neues allgemeines Journal der Chemie 2 [1804], p. 240). Kant's acceptance of Lavoisier's oxidation theory is evident in the Opus postumum (22:508).
- 
- 16 "All apprehended change of place is due to movement either of the ob­ served object or of the observer, or to differences in movements that are 715 Notes to pages II5-127 occurring simultaneously in both.
- 
+It focused on using common sense instead of complicated arguments. It also spread progressive ideas that could be used in real life, rather than getting into deep, abstract questions, which it often looked down on.
 
- 
-(Simplified)
- 
+The word "critique" or "criticism" was first taken by Kant from Henry Home, Lord Kames, who wrote about judging beauty or taste. Kant first used the word in a lecture announcement in 1765-66. By 1769, Kant explained that "critique" means a science that doesn't create new things but judges them based on perfect rules. For example, metaphysics is a science that judges knowledge based on pure reason.
+
+You can compare this idea with another of Kant's writings from 1776-78.
+
+There are also related notes from Kant's works during 1776-78 that give more details.
+
+Jean Terrasson wrote a book in 1762 about philosophy and its influence on the mind and morals. The original French edition had some letters from famous people included. Kant also wrote about the length and style of his work in some of his notes from 1776-78.
+
+The Cape of Good Hope is the southernmost point in Africa.
+
+In a letter from 1787, Kant mentioned a proof from Euclid’s Elements about geometry. Diogenes Laertius said that Thales learned geometry from the Egyptians and also taught them how to measure pyramid heights by using their shadows.
+
+Galileo Galilei described experiments about acceleration in his works from the early 1600s.
+
+Evangelista Torricelli, who followed Galileo, invented the barometer in 1643. His work was published after he died.
+
+Georg Ernst Stahl did experiments with burning and metal melting, leading to the phlogiston theory in 1702. Antoine Lavoisier made discoveries that eventually replaced this theory, but Kant didn’t know about them until later. Many chemists still believed in the phlogiston theory for a long time. Kant kept up with changes in chemistry and in 1796 saw experiments supporting Lavoisier’s ideas. Kant accepted Lavoisier’s oxidation theory in his later writings.
+
+All changes in position happen because either the object moves, the observer moves, or both move in different ways at the same time.

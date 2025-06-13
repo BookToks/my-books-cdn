@@ -1,18 +1,17 @@
-But aversion we have for things, not only which we know have hurt us, but also that we do not know whether they will hurt us, or not.
- 
- Those things which we neither desire nor hate, we are said to contemn: contempt being nothing else but an immobility or contumacy of the heart in resisting the action of certain things; and proceeding from that the heart is already moved otherwise, by other more potent objects, or from want of experience of them.
- 
- And because the constitution of a man’s body is in continual mutation, it is impossible that all the same things should always cause in him the same appetites and aversions: much less can all men consent in the desire of almost any one and the same object.
- 
- But whatsoever is the object of any man’s appetite or desire, that is it which he for his part calleth good; and the object of his hate and aversion, evil; and of his contempt, vile and inconsiderable. For these words of good, evil, and contemptible are ever used with relation to the person that useth them: there being nothing simply and absolutely so; nor any common rule of good and evil to be taken from the nature of the objects themselves; but from the person of the man, where there is no Commonwealth; or, in a Commonwealth, from the person that representeth it; or from an arbitrator or judge, whom men disagreeing shall by consent set up and make his sentence the rule thereof.
- 
- The Latin tongue has two words whose significations approach to those of good and evil, but are not precisely the same; and those are pulchrum and turpe. Whereof the former signifies that which by some apparent signs promiseth good; and the latter, that which promiseth evil.
- 
- But in our tongue we have not so general names to express them by. But for pulchrum we say in some things, fair; in others, beautiful, or handsome, or gallant, or honourable, or comely, or amiable: and for turpe; foul, deformed, ugly, base, nauseous, and the like, as the subject shall require; all which words, in their proper places, signify nothing else but the mien, or countenance, that promiseth good and evil. So that of good there be three kinds: good in the promise, that is pulchrum; good in effect, as the end desired, which is called jucundum, delightful; and good as the means, which is called utile, profitable; and as many of evil: for evil in promise is that they call turpe; evil in effect and end is molestum, unpleasant, troublesome; and evil in the means, inutile, unprofitable, hurtful.
- 
- As in sense that which is really within us is, as I have said before, 34/Thomas Hobbes only motion, caused by the action of external objects but in appearance; to the sight, light and colour; to the ear, sound; to the nostril, odour, etc.
- 
+We don’t just dislike things that have hurt us before, but also things that might hurt us, even if we’re not sure.
 
- 
-my name is sandeep gautam
- 
+If there are things we don’t want or hate, but also don’t care about, we say we "contemn" them. Contempt means our heart just doesn’t react to those things because it’s focused on other, stronger feelings or because we haven’t experienced them enough.
+
+Since our bodies and minds keep changing, it’s impossible for the same things to always make us want or avoid them in the same way. Also, not everyone wants the same things or feels the same about them.
+
+Whatever someone wants or desires, they call that good. Whatever they hate or avoid, they call evil. And things they don’t care about, they call worthless or ugly. These words—good, evil, and worthless—depend on the person using them. There’s no absolute rule for what is good or evil. In a society, these rules come from the person or group in charge, or from a judge that everyone agrees on.
+
+In Latin, there are two words close to good and evil: "pulchrum" and "turpe." Pulchrum means something that looks like it will be good, and turpe means something that looks like it will be bad.
+
+In English, we don’t have exact words like that. Instead, for pulchrum, we say fair, beautiful, handsome, honorable, or nice, depending on the situation. For turpe, we say ugly, nasty, or gross. These words describe how something looks or feels like it will be good or bad.
+
+So, there are three kinds of good: good as a promise (pulchrum), good as the actual result (delightful), and good as the way to get there (useful). There are also three kinds of evil: evil as a promise (turpe), evil as the result (unpleasant), and evil as the way to get there (harmful).
+
+When we sense things, what’s really happening inside us is just motion caused by things outside. For example, what we see is really light and color, what we hear is sound, and what we smell is odor.
+
+My name is Sandeep Gautam.

@@ -1,10 +1,23 @@
-471 Chapter 25 WEEKLY AMOUNT OF NUTRIENTS Quantity Of Quantity Of Quantity Of TOTAL Nitrogenous Non-Nitro- Mineral Ingredients genous In- Matter gredients Ounces Ounces Ounces Ounces Portland (convict) 28.95 150.06 4.68 183.69 Sailor in the Navy 29.63 152.91 4.52 187.06 Soldier 25.55 114.49 3.94 143.98 Working Coachmaker 24.53 162.06 4.23 190.82 Compositor 21.24 100.83 3.12 125.19 Agricultural 17.73 118.06 3.29 139.08 labourer96 The general result of the inquiry by the medical commission of 1863 on the food of the lowest fed classes, is already known to the reader. He will remember that the diet of a great part of the agricultural labourers’ families is below the minimum necessary “to arrest starvation diseases.” This is especially the case in all the purely rural districts of Cornwall, Devon, Somerset, Wilts, Stafford, Oxford, Berks, and Herts.
- 
- “The nourishment obtained by the labourer himself,” says Dr. E. Smith, “is larger than the average quantity indicates, since he eats a larger share ... necessary to enable him to perform his labour ... of food than the other members of the family, including in the poorer districts nearly all the meat and bacon.... The quantity of food obtained by the wife and also by the children at the period of rapid growth, is in many cases, in almost every county, deficient, and particularly in nitrogen.”97 The male and female servants living with the farmers themselves are sufficiently nourished. Their number fell from 288,277 in 1851, to 204,962 in 1861.
- 
- “The labour of women in the fields,” says Dr. Smith, “whatever may be its disadvantages, ... is under present circumstances of great advantage to the family, since it adds that amount of income which ... provides shoes and clothing and pays the rent, and thus enables the family to be better fed.” 98 One of the most remarkable results of the inquiry was that the agricultural labourer of England, as compared with other parts of the United Kingdom, “is considerably the worst fed,” as the appended table shows: Quantities of Carbon and Nitrogen weekly consumed by an average agricultural adult: Carbon, Nitrogen, grains grains England 46,673 1,594 Wales 48,354 2,031 Scotland 48,980 2,348 Ireland99 43,366 2,434 “To the insufficient quantity and miserable quality of the house accommodation generally had,” says Dr. Simon, in his official Health Report, “by our agricultural 472 Chapter 25 labourers, almost every page of Dr.
- 
+Here is a table showing the weekly amounts of different nutrients people get from their food:
 
- 
-(Simplified)
- 
+Portland (convict) gets 28.95 ounces of nitrogenous ingredients, 150.06 ounces of non-nitrogenous ingredients, 4.68 ounces of mineral matter, totaling 183.69 ounces.  
+A sailor in the Navy gets 29.63 ounces of nitrogenous ingredients, 152.91 ounces of non-nitrogenous ingredients, 4.52 ounces of mineral matter, totaling 187.06 ounces.  
+A soldier gets 25.55 ounces of nitrogenous ingredients, 114.49 ounces of non-nitrogenous ingredients, 3.94 ounces of mineral matter, totaling 143.98 ounces.  
+A working coachmaker gets 24.53 ounces of nitrogenous ingredients, 162.06 ounces of non-nitrogenous ingredients, 4.23 ounces of mineral matter, totaling 190.82 ounces.  
+A compositor gets 21.24 ounces of nitrogenous ingredients, 100.83 ounces of non-nitrogenous ingredients, 3.12 ounces of mineral matter, totaling 125.19 ounces.  
+An agricultural labourer gets 17.73 ounces of nitrogenous ingredients, 118.06 ounces of non-nitrogenous ingredients, 3.29 ounces of mineral matter, totaling 139.08 ounces.  
+
+The medical commission in 1863 found that many poor farming families don’t get enough food to stop starvation diseases. This is especially true in rural areas like Cornwall, Devon, Somerset, Wilts, Stafford, Oxford, Berks, and Herts.
+
+Dr. E. Smith said the labourer usually eats more than the average because he needs more energy for his work. He often eats most of the meat and bacon in the family. But the wife and children, especially when they are growing fast, often don’t get enough food, especially protein. Male and female servants living on farms usually get enough food. Their numbers dropped from 288,277 in 1851 to 204,962 in 1861.
+
+Dr. Smith also said that women working in the fields, even if it’s hard work, helps the family. Their earnings help pay for clothes, shoes, and rent, which means the family can afford better food.
+
+One big finding was that English farm workers are the worst fed compared to other parts of the UK. The table below shows the weekly amounts of carbon and nitrogen, which are important nutrients, eaten by an average farming adult:
+
+England: 46,673 grains of carbon, 1,594 grains of nitrogen  
+Wales: 48,354 grains of carbon, 2,031 grains of nitrogen  
+Scotland: 48,980 grains of carbon, 2,348 grains of nitrogen  
+Ireland: 43,366 grains of carbon, 2,434 grains of nitrogen  
+
+Dr. Simon said in his Health Report that the poor housing conditions for farm workers also add to their problems.

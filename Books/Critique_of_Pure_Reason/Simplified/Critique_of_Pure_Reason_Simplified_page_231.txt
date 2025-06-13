@@ -1,6 +1,7 @@
-Pt. II. Div. 1. Bk 1. Ch. I priori. The transcendental table of the categories is thus not com­ pleted with the concepts of unity, truth, and perfection, as if it were lacking something, but rather, the relationa of these concepts to objects b B 16 being entirely set aside, our procedure with these concepts is only being I thought under general logical rules for the agreement of cognition with itself.> Verhiiltnis a b Objecte 218 The Transcendental Analytic A84 Second Chapter On the Deduction of the Pure Concepts of the Understanding First Section <§ 13·>a On the principlesb of a transcendental deduction in general.
- 
+The transcendental table of categories does not miss anything by leaving out the ideas of unity, truth, and perfection. These ideas are not part of the table because they don’t relate directly to objects.
 
- 
-(Simplified)
- 
+Instead, we think about these ideas only by using basic logical rules that check if our thoughts make sense with each other.
+
+This is about how our understanding works, and it helps explain the pure concepts we use when we think about things.
+
+The next part talks about how we prove these pure concepts are real and important for understanding.

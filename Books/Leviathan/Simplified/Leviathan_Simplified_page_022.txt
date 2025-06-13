@@ -1,16 +1,11 @@
-And thus the consequence found in one particular comes to be registered and remembered as a universal rule; and discharges our mental reckoning of time and place, and delivers us from all labour of the mind, saving the first; and makes that which was found true here, and now, to be true in all times and places.
- 
- But the use of words in registering our thoughts is in nothing so evident as in numbering. A natural fool that could never learn by heart the order of numeral words, as one, two, and three, may observe every stroke of the clock, and nod to it, or say one, one, one, but can never know what hour it strikes. And it seems there was a time when those names of number were not in use; and men were fain to apply their fingers of one or both hands to those things they desired to keep account of; and that thence it proceeded that now our numeral words are but ten, in any nation, and in some but five, and then they begin again. And he that can tell ten, if he recite them out of order, will lose himself, and not know when he has done: much less will he be able to add, and subtract, and perform all other operations of arithmetic. So that without words there is no possibility of reckoning of numbers; much less of magnitudes, of swiftness, of force, and other things, the reckonings whereof are necessary to the being or well-being of mankind.
- 
- When two names are joined together into a consequence, or affirmation, as thus, A man is a living creature; or thus, If he be a man, he is a living creature; if the latter name living creature signify all that the former name man signifieth, then the affirmation, or consequence, is true; otherwise false. For true and false are attributes of speech, not of things. And where speech is not, there is neither truth nor falsehood.
- 
- Error there may be, as when we expect that which shall not be, or suspect what has not been; but in neither case can a man be charged with untruth.
- 
- Seeing then that truth consisteth in the right ordering of names in our affirmations, a man that seeketh precise truth had need to remember what every name he uses stands for, and to place it accordingly; or else he will find himself entangled in words, as a bird in lime twigs; the more he struggles, the more belimed. And therefore in geometry (which is the only science that it hath pleased God hitherto to bestow on mankind), men begin at settling the significations of their words; which settling of significations, they call definitions, and place them in the beginning of their reckoning.
- 
- By this it appears how necessary it is for any man that aspires to Leviathan/23 true knowledge to examine the definitions of former authors; and either to correct them, where they are negligently set down, or to make them himself.
- 
+When something happens in one situation, we start to think it will happen the same way everywhere and every time. This helps us stop worrying about when and where things happen, and saves us from using too much brainpower after the first time. It makes what’s true here and now true everywhere.
 
- 
-(Simplified)
- 
+Using words to keep track of our thoughts is especially clear when it comes to numbers. Someone who can’t remember the order of number words like one, two, and three might hear a clock ticking and say “one, one, one,” but won’t know what time it is. There was a time when people didn’t have number words and had to use their fingers to count things. That’s why most languages only have words for numbers up to ten or five before starting over again. If you say the numbers out of order, you get confused and don’t know when you’re finished. Without words, you can’t really count or do math, or measure things like speed or strength, which are important for people.
+
+When we put two names together like “A man is a living creature” or “If he’s a man, he’s a living creature,” the statement is true if the second name means everything the first one means. If not, it’s false. Truth and falsehood are about what we say, not about the things themselves. Without speech, there’s no truth or falsehood.
+
+People can make mistakes by expecting things that won’t happen or thinking things happened when they didn’t, but that’s not lying.
+
+Since truth comes from using words correctly in what we say, anyone who wants to be exact needs to remember what each word means and use them right. Otherwise, they’ll get stuck in confusing words, like a bird caught in sticky twigs—the more they struggle, the worse it gets. That’s why in geometry (the only science God has given us so far), people start by clearly explaining what their words mean. These explanations are called definitions and come at the beginning.
+
+So, anyone who wants real knowledge should look at the definitions other people have made before and fix them if they’re wrong or make new ones themselves.

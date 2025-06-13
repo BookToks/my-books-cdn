@@ -1,16 +1,11 @@
-It is not any thing that reason sees in the cause, which makes us inferthe effect. Such an inference, were it possible, would amount to a demonstration, as being founded merely on the comparison of ideas. But no inference from cause to effect amounts to a demonstration. Of which there is this evident proof. The mind can always conceiveany effect to follow from any cause, and indeed any event to follow upon another: whatever we conceive is possible, at least in a metaphysical sense: but wherever a demonstration takes place, the contrary is impossible, and implies a contradiction. There is no demonstration, therefore, for any 651 conjunction of cause and effect. And this is a principle, which is generally allowed by philosophers.
- 
- [12] It would have been necessary, therefore, for Adam(if he was not inspired) to have had experience of the effect, which followed upon the impulse of these two balls. He must have seen, in several instances, that when the one ball struck upon the other, the second always acquired motion.
- 
- If he had seen a sufficient number of instances of this kind, whenever he saw the one ball moving towards the other, he would always concludewithout hesitation, that the second would acquire motion. His understanding would anticipate his sight, and form a conclusion suitable to his past experience.
- 
- [13] It follows, then, that all reasonings concerning cause and effect, are founded on experience, and that all reasonings from experience are founded on the supposition, that the course of nature will continue uniformly the same. We conclude, that like causes, in like circumstances, will always produce like effects. It may now be worth while to consider, what determines us to form a conclusion of such infinite consequence.
- 
- [14] ’Tis evident, that Adamwith all his science, would never have been able to demonstrate, that the course of nature must continue uniformly the same, and that the future must be conformable to the past. What is possible can never be demonstrated to be false; and ’tis possible the course of nature may change, since we can conceive such a change. Nay, I will go farther, and assert, that he could not so much as prove by any probablearguments, that the future must be conformable to the past. All probable arguments are built on the supposition, that there is this conformity betwixt the future and the past, and therefore can never prove it. This conformity is a matter of fact, and if it must be proved, will admit of no proof but from experience. But our 652 experience in the past can be a proof of nothing for the future, but upon a supposition, that there is a resemblance betwixt them. This therefore is a point, which can admit of no proofat all, and which we take for granted without any proof.
- 
- [15] We are determined by customalone to suppose the future conformable to the past. When I see a billiard-ball moving towards another, my mind is immediately carry’d by habit to the usual effect, and anticipates my sight AbstractofA Treatise of Human Nature 139 by conceiving the second ball in motion.
- 
+Reason doesn’t tell us that a cause will definitely lead to an effect. If it did, that would be like a proof based just on comparing ideas. But no cause-and-effect connection can be proven like that. Here’s why: our mind can imagine any effect coming from any cause, or any event happening after another one. If something is imaginable, it’s at least possible in a basic sense. But when there’s a real proof, the opposite can’t happen without causing a contradiction. So, there’s no solid proof that a cause will always lead to an effect. Most philosophers agree on this.
 
- 
-(Simplified)
- 
+If Adam wasn’t inspired, he would have needed to see the effect happen after the cause many times. For example, he would have had to watch one ball hit another and then see the second ball start moving.
+
+After seeing this happen enough times, whenever he saw one ball moving toward another, he would be sure the second ball would move too. His mind would expect it before he even saw it happen, based on what he had learned from experience.
+
+So, all reasoning about cause and effect comes from experience, and all reasoning from experience assumes nature will keep working the same way. We believe that the same causes in the same conditions will make the same effects. It’s worth thinking about what makes us come to this important conclusion.
+
+It’s clear that Adam, no matter how smart, couldn’t prove that nature will always stay the same and that the future will be like the past. Something possible can never be proven false, and it’s possible nature could change because we can imagine that. In fact, he couldn’t even prove with good reasons that the future must be like the past. All good reasons assume that the future will be like the past, so they can’t actually prove it. This idea is a fact, and if it needs proof, it can only come from experience. But past experience can only prove the future if we assume they will be similar. So, this is something we accept without any proof.
+
+We believe the future will be like the past simply because we’re used to it. When I see one billiard ball moving toward another, my mind automatically expects the usual result and imagines the second ball moving before I actually see it.

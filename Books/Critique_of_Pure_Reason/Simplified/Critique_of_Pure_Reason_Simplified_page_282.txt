@@ -1,20 +1,9 @@
-This is also the sole and great utility of examples: that they sharpen the power of judgment.
- 
- F or as far as the correctness and precision of the insight of the under­ standing is concerned, examples more usually do it some damage, since they only seldom adequately fulfill the condition of the rule (as casus in terminis)b and beyond this often weaken the effort of the understanding to gain sufficient insight into rules in the universal and independently of the particular circumstances of experience, and thus in the end ac­ custom us to use those rules more like formulas than like principles.
- 
- Thus examples are the leading-strings of the power of judgment, which B 174 he who lacks the natural talent for judgment can never do without. 50 But now although general logic can give no precepts to the power AI3 5 of judgment, things are quite different with transcendental logic, so that it even seems that the latter has as its proper business to correct and secure the power of judgment in the use of the pure understanding through determinate rules. For although for expansion of the role of the understanding in the field of pure cognitions a priori, hence as a doctrine, philosophy seems entirely unnecessary or rather ill-suited, since after all its previous attempts little or no territory has been won, yet as critique, in order to avoid missteps in judgment (lapsus judici)d in the use of the few pure concepts of the understanding that we have, phi­ losophy with all of its perspicacity and art of scrutiny is called up (even though its utility is then only negative).
- 
- But the peculiar thing about transcendental philosophy is this: that in addition to the rule (or rather the general condition for rules), which is given in the pure concept of the understanding, it can at the same time indicate a priori the case to which the rules ought to be applied. The B 175 cause of the advantage that it has in this regard over all other didactic sciences (except for mathematics) lies just here: that it deals with conthe use of their science frequently give glimpses of that lack, which is never to be ameliorated.
- 
- a "but" added in the second edition.
- 
- I.e., as a limiting case.
- 
- b , Following Erdmann in reading "derselben" instead of "desselben, " thus taking "the power of judgment" as its antecedent.
- 
- lapses of judp:lent d 269 Doctrine of Elements.
- 
+Examples are really useful because they help us get better at making good decisions.
 
- 
-(Simplified)
- 
+But sometimes, examples can actually make it harder to understand things clearly. This is because examples don’t always fit the rule perfectly. They can also make us rely too much on specific cases instead of understanding the general idea behind the rule. So, we might start treating rules like simple formulas instead of important principles.
+
+Examples are like training wheels for judgment. People who aren’t naturally good at judging things often need them. 
+
+General logic can’t really teach us exactly how to judge well, but transcendental logic is different. It helps improve judgment by giving clear rules for using pure understanding. Philosophy might not help much in learning new knowledge, but it’s useful for avoiding mistakes when we use the few pure ideas we have. Its role is mostly to warn us about errors.
+
+What’s special about transcendental philosophy is that, besides giving us the rules, it also shows us the exact situations where these rules apply. This is why it’s better than most other teaching methods (except math). It focuses on clear cases where rules can be used, which helps us learn better.

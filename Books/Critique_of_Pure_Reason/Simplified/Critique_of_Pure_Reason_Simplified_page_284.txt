@@ -1,8 +1,11 @@
-e., the concept must contain that which is represented in the object that is to be sub­ sumed under it, for that is just what is meant by the expression "an ob­ ject is contained under a concept." Thus the e pirical concept of a m plate has homogeneity with the pure geometrical concept of a circle, for the roundness that is tho ght in the former can be intuited in the u latter.
- 
- Now pure concepts of the understanding, however, in comparison with empirical (indeed in general sensible) intuitions, are entirely un­ homogeneous, and can never be encountered in any intuition. Now n The following notes pertaining to the general argument of the next section are all in­ serted on A I 3 7 in Kant's copy of the first edition : "We cannot think any intuitions or relations [Verhiiltni.l:,e] of intuitions for the cate­ gories, rather they must be given in experience. Thus all principles pertain merely to possible experience, since this is possible only in accordance with the form of the unity of understanding." (E LUI, p. 27; 23: 27) "The incomprehensibility of the categories sterns from the fact that we cannot have insight into the synthetic unity of apperception." (E LIv, p. 27; 23:27) "The schema of time a line." (E LV; p. 27; 23:27) "The possibility of an object [Objects] of the concept of the understanding, e.g., a cause or alf1tntcrciult,t c a nnot be thought a priori, consequently only an experience can be thought with the conditions under which it can become experience in combination with the concept of the understanding." (E LVI, p. 27; 23:27) b Kant's copy of the first edition adds this note: "The synthesis of the understanding is call ed thus if it determines the inner sense in accordance with the unity of appercep­ tion." (E LVII, p. 27; 23:27) 271 Doctrine of Elements.
- 
+A concept has to include what the object it represents has. This is what it means when we say "an object is contained under a concept." For example, the idea of a plate has something in common with the pure idea of a circle because both include the idea of roundness.
 
- 
-(Simplified)
- 
+Now, pure ideas that come from understanding are very different from ideas based on what we sense or experience. Pure ideas can’t be found in any actual experience or sense.
+
+Kant wrote some notes about this. He said we can’t think of any experiences or relationships of experiences for the categories (basic ideas of understanding). Instead, these have to come from actual experience. All rules about understanding only apply to what we can experience, and experience is only possible because our understanding works in a certain unified way.
+
+He also said we can’t fully understand these categories because we can’t fully see how our mind unifies our experiences. He compared the way we understand time to a line.
+
+Kant explained that ideas like cause and effect can’t be known just by thinking; we can only know them through experience combined with our understanding.
+
+Finally, he said that the mind’s work is called “synthesis of understanding” when it organizes our inner sense (how we feel things inside) in a way that keeps all our experiences connected.

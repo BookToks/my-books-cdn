@@ -1,18 +1,13 @@
-” Little as he understands the movement of production, at least he feels, that machinery must needs be a very fatal institution, if its introduction converts busy workmen into paupers, and its development calls more slaves of labour into existence than it has suppressed. It is not possible to bring out the cretinism of his standpoint, except by his own words: “Les classes condamnées à produire et à consommer diminuent, et les classes qui dirigent le travail, qui soulagent, consolent, et éclairent toute la population, se multiplient ... et s’approprient tous les bienfaits qui résultent de la diminution des frais du travail, de l’abondance des productions, et du bon marché des consommations. Dans cette direction, l’espéce humaine s’élève aux plus hautes conceptions du génie, pénètre dans les profoundeurs mystérieuses de la religion, établit les principes salutaires de la morale (which consists in ‘s’approprier tous les beinfaits,’ &c.), les lois tutélaires de la liberté (liberty of ‘les classes condamnées à produire?’) et du pouvoir, de l’obéissance et de la justice, du devoir et de la l’humanité.” [The classes condemned to produce and to consume diminish, and the classes which direct labour, which relieve, console and enlighten the whole population, multiply ...
- 
- and appropriate all the benefits which result from the diminution of the costs of labour, from the abundance of products and the cheapness of consumer goods. In this way, the human species rises to the highest creations of genius, penetrates the mysterious depths of religion, and establishes the salutory principles of morality, the laws for the protection of liberty, and power, of obedience and justice, of obligation and humanity] For this twaddle, see “Des Systèmes d’Economie Politique, &c., Par M. Ch. Ganilh,” 2ème ed., Paris, 1821, t. I, p. 224, and see p. 212.
- 
- 147 “Reports of Insp. of Fact., 31 Oct., 1865,” p. 58, sq. At the same time, however, means of employment for an increased number of hands was ready in 110 new mills with 11,625 looms, 628,576 spindles and 2,695 total horse-power of steam and water (l.c.).
- 
- 148 “Reports, &c., for 31 Oct., 1862,” p. 79. At the end of 1871, Mr. A. Redgrave, the factory inspector, in a lecture given at Bradford, in the New Mechanics’ Institution, said: “What has struck me for some time past is the altered appearance of the woollen factories. Formerly they were filled with women and children, now machinery seems to do all the work. At my asking for an explanation of this from a manufacturer, he gave me the following: ‘Under the old system I employed 63 persons; after the introduction of improved machinery I reduced my hands to 33, and lately, in consequence of new and extensive alterations, I have been in a position to reduce those 33 to 13’.” 149 See “Reports, &c., 31 Oct., 1856,” p. 16.
- 
- 150 “The sufferings of the hand-loom weavers were the subject of an inquiry by a Royal Commission, but although their distress was acknowledged and lamented, the amelioration of their condition was left, and probably necessarily so, to the chances and changes of time, which it may now be hoped” [20 years later!] “have nearly obliterated those miseries, and not improbably by the present great extention of the power-loom.” (“Rep. Insp. of Fact., 31 Oct., 1856,” p. 15.) 151 Other ways in which machinery affects the production of raw material will be mentioned in the third book.
- 
- 152 EXPORT OF COTTON FROM INDIA TO GREAT BRITAIN.1846. —34,540,143 lbs.1860. —204,141,168 lbs.1865. —445,947,600 lbs.EXPORT OF WOOL FROM INDIA TO GREAT BRITAIN.1846. —4,570,581 lbs.1860. —20,214,173 lbs.1865. — 20,679,111 lbs.
- 
- 153 EXPORT OF WOOL FROM THE CAPE TO GREAT BRITAIN.1846. —2,958,457 lbs.1860. —16,574,345 lbs.1865. —29,920,623 lbs.EXPORT OF WOOL FROM 347 Chapter 15 AUSTRALIA TO GREAT BRITAIN.
- 
+Even though he doesn’t really understand how production works, he feels that machines must be a very bad thing if they turn hard-working people into poor beggars. He thinks that new machines create more workers who are like slaves than the ones they replace.
 
- 
-(Simplified)
- 
+You can see how wrong his view is from his own words: “The groups of people who have to work and buy stuff are getting smaller, and the groups who control the work, help, comfort, and teach everyone are growing. These groups take all the benefits that come from cheaper work, more products, and lower prices. Because of this, humans rise to great achievements, understand deep religious ideas, and set up important rules about morality, freedom, power, obedience, justice, duty, and kindness.” 
+
+At the same time, there were new jobs ready in 110 new factories with thousands of machines and lots of power from steam and water.
+
+In 1871, Mr. A. Redgrave, a factory inspector, said that wool factories have changed a lot. They used to have many women and children working, but now machines do most of the work. A factory owner told him, “Before, I had 63 workers. After new machines, I needed only 33. Now, with even better machines, I only need 13.”
+
+There was a special investigation into the hard times of hand-loom weavers. Even though people knew about their suffering and felt sorry for them, improving their situation was left to time and changes. Now, about 20 years later, things have gotten much better, mostly because of the power-loom.
+
+There are other ways machines affect the production of raw materials, which will be explained later.
+
+Exports of cotton and wool from India and other places to Great Britain grew a lot between 1846 and 1865. For example, cotton exports from India went from about 34 million pounds in 1846 to over 445 million pounds in 1865. Wool exports from India and other regions also increased greatly during this time.

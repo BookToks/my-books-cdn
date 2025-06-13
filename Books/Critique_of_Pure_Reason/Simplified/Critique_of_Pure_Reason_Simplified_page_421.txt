@@ -1,8 +1,5 @@
-Pt. II. Div. II. Book I kind that grounds the logical and transcendental procedures is one of the questions we must expect to answer in the course of our investiga­ tion. We have provisionally reached our end already, since we have re­ moved from this ambiguous position the transcendental concepts of reason, which are usually mixed with other concepts in the theories of philosophers who do not distinguish them from concepts of the under­ standing, and thereby provided their determinate number, since there can never be any more of them, and we have been able to represent them in a systematic connection, through which a special field of pure reason has been marked out and its limits have been set.
- 
- which is a synthetic one, would be the most appropriate; but in working through them, which must necessarily be done first, the analytic order, which inverts this one, is more suitable to the end of completing our great project, proceeding from what experience makes immediately available to us from the doctrine of the soul, to the doctrine of the world and from there all the way to the cognition of God.> 408 The Transcendental Dialectic Book Two The dialectical inferences of pure reason It can be said that the object of a merely transcendental idea is some­ thing of which we have no concept, even though this idea is generated in an entirely necessary way by reason according to its original laws.
- 
+Part II, Division II, Book I talks about an important question we need to answer during our study. We have already made some progress because we separated the special ideas of reason from other ideas. These special ideas are often mixed up by philosophers who don’t clearly see the difference between reason and understanding. Now, we know exactly how many of these ideas there are, and there can’t be more. We also showed how they connect in a system, which helps us understand the limits of pure reason.
 
- 
-(Simplified)
- 
+It would be best to study these ideas by putting them together first, which is called the synthetic method. But to finish our big project, it’s better to start by breaking things down, called the analytic method. This means we begin with what we experience directly, starting from the soul, then moving to the world, and finally to the knowledge of God.
+
+The Transcendental Dialectic, in Book Two, talks about how pure reason sometimes makes guesses based on ideas we don’t fully understand. These ideas come from reason naturally, following its own rules, even though we don’t have clear concepts of what they really are.

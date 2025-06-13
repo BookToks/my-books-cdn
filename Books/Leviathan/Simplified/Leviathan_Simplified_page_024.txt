@@ -1,20 +1,15 @@
-This diversity of names may be reduced to four general heads.
- 
- First, a thing may enter into account for matter, or body; as living, sensible, rational, hot, cold, moved, quiet; with all which names the word matter, or body, is understood; all such being names of matter.
- 
- Secondly, it may enter into account, or be considered, for some accident or quality which we conceive to be in it; as for being moved, for being so long, for being hot, etc.; and then, of the name of the thing itself, by a little change or wresting, we make a name for that accident which we consider; and for living put into the account life; for moved, motion; for hot, heat; for long, length, and the like: and all such names are the names of the accidents and properties by which one matter and body is distinguished from another. These are called names abstract, because severed, not from matter, but from the account of matter.
- 
- Thirdly, we bring into account the properties of our own bodies, whereby we make such distinction: as when anything is seen by us, we reckon not the thing itself, but the sight, the colour, the idea of it in the fancy; and when anything is heard, we reckon it not, but the hearing or sound only, which is our fancy or conception of it by the ear: and such are names of fancies.
- 
- Fourthly, we bring into account, consider, and give names, to names themselves, and to speeches: for, general, universal, special, equivocal, are names of names. And affirmation, interrogation, commandment, narration, syllogism, sermon, oration, and many other such are names of speeches. And this is all the variety of names positive; which are put to mark somewhat which is in nature, or may be feigned by the mind of man, as bodies that are, or may be conceived to be; or of bodies, the properties that are, or may be feigned to be; or words and speech.
- 
- There be also other names, called negative; which are notes to signify that a word is not the name of the thing in question; as these words: nothing, no man, infinite, indocible, three want four, and the like; which are nevertheless of use in reckoning, or in correcting of reckoning, and call to mind our past cogitations, though they be not names of anything; because they make us refuse to admit of names not rightly used.
- 
- All other names are but insignificant sounds; and those of two sorts.
- 
- One, when they are new, and yet their meaning not explained by definition; whereof there have been abundance coined by Schoolmen and puzzled philosophers.
- 
+There are four main types of names.
 
- 
-(Simplified)
- 
+First, a thing can be named based on what it is made of, like matter or body. For example, words like living, sensible, rational, hot, cold, moving, or still are all names that describe matter or body.
+
+Second, a thing can be named based on a quality or accident it has. For example, instead of saying “living,” we say “life”; instead of “moved,” we say “motion”; instead of “hot,” we say “heat”; instead of “long,” we say “length.” These names describe qualities that help us tell one thing from another. These are called abstract names because they come from qualities, not the matter itself.
+
+Third, we name things based on how our own bodies experience them. For example, when we see something, we don’t just think about the thing, but about the sight, the color, or the idea in our mind. When we hear something, we think about the sound or hearing, which is how our mind understands it. These are names of ideas or images in our minds.
+
+Fourth, we also give names to names and to types of speech. Words like general, universal, special, and equivocal are names of names. Words like affirmation, question, command, story, argument, and speech are names for different kinds of talking. These are all the different kinds of positive names, which name things in nature, ideas we imagine, qualities, or words and speech themselves.
+
+There are also negative names, which show that a word is NOT the name of the thing we’re talking about. For example, words like nothing, no man, infinite, unexplainable, or “three minus four” are negative names. Even though they don’t name real things, they help us think clearly and avoid mistakes.
+
+All other names are just meaningless sounds. These are of two types.
+
+One type is new words that don’t have clear meanings yet. Many of these were made up by old scholars and confusing philosophers.

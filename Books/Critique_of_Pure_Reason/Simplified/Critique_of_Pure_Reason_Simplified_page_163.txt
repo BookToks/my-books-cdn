@@ -1,16 +1,11 @@
-Such a critique is accordingly a preparation, if possible, for an organon, and, if this cannot be accomplished, then at least for a canon, in accordance with which the complete system of the philosophy of pure reason, whether it is to consist in the amplification or mere limi­ tationa of its cognition, can in any case at least some day be exhibited both analytically and synthetically. For that this should be possible, in­ deed that such a system should not be too great in scope for us to hope to be able entirely to complete it, can be assessed in advance from the fact that our object is not the nature of things, which is inexhaustible, A 13 but the understanding, which judges about the nature oft hings, and this in turn only in regard to its priori cognition, the supply of which, since a we do not need to search for it externally, cannot remain hidden from us, and in all likelihood is small enough to be completely recorded, its worth or worthlessness assessed, and subjected to a correct appraisal.
- 
- B 27 bEven less can one expect here a critique of the books and systems of pure reason, but rather that of the pure faculty of reason itself. Only if this is one's ground does one have a secure touchstone for appraising the philosophical content of old and new works in this specialty; other­ wise the unqualified historian and judge assesses the groundless asser­ tions of others through his own, which are equally groundless.
- 
- 'Transcendental philosophy is here the idea of a science,d for which the critique of pure reason is to outline the entire plan architectonically, i.e., from principles," with a full guarantee for the completeness and cer­ tainty of all the components that comprise this edifice. It is the system of all principles! of pure reason.g That this critique is not itself already called transcendental philosophy rests solely on the fact that in order to be a complete system it would also have to contain an exhaustive analy­ sis of all of human cognition priori. Now our critique must, to be sure, a lay before us a complete enumeration of all of the ancestral conceptsh that comprise the pure cognition in question. Only it properly refrains from the exhaustive analysis of these concepts themselves as well as a Begrenzung The next two sentences are added in the second edition.
- 
- b C The title "II. Division of transcendental philosophy" present in the first edition is omitted in the second.
- 
- "Die Idee einer Wissenschaft" substituted in the second edition for "hier nur eine Idee." d , Principien f Principien This sentence inserted in the second edition.
- 
- g Stammbegriffe h 150 Introduction <B> from the complete review of all of those derived from them, partly be­ cause this analysis would not be purposefut,a since it does not contain the difficulty encountered in the synthesis on account of which the whole critique is actually undertaken, partly because it would be con­ trary to the unity of the plan to take on responsibility for the com­ pleteness of such an analysis and derivation, from which one could yet be relieved given its aim.
- 
+This critique is meant to prepare, if possible, a tool or a set of rules that can help us understand the whole system of pure reason. Whether this system grows bigger or is limited, one day it should be possible to show it clearly in two ways: by breaking it down and by putting it together.
 
- 
-(Simplified)
- 
+We can hope to finish this system because we are not studying the endless nature of things, but the understanding that judges about things. This understanding works based on knowledge we have before experience, which doesn’t come from outside us. This kind of knowledge is probably small enough that we can list it all, judge if it’s good or bad, and understand it well.
+
+Also, this critique is not about judging books or systems of pure reason, but about judging pure reason itself. Only by doing this can we have a solid way to judge old and new philosophical works. Otherwise, people just judge others without a solid base, using their own weak ideas.
+
+Transcendental philosophy is the idea of a science that the critique of pure reason plans out completely, based on principles. It promises to cover all parts of this system fully and correctly. It is the system of all principles of pure reason. 
+
+This critique is not called transcendental philosophy itself because a full system would also have to include a complete study of all human knowledge before experience. Our critique lists all the main ideas that make up this pure knowledge but stops short of fully analyzing these ideas or their details. 
+
+This is partly because such a full analysis isn’t needed for our main goal, which is to understand how these ideas come together. Also, doing a full analysis would go against our plan’s unity and would be a big task that isn’t necessary for what we want to achieve.

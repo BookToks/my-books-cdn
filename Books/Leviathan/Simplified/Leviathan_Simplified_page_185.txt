@@ -1,16 +1,11 @@
-For the fact committed once against the law, if he that committed it be obliged to the law, can be no other than a crime.
- 
- The want of means to know the law totally excuseth: for the law whereof a man has no means to inform himself is not obligatory. But the want of diligence to enquire shall not be considered as a want of means; nor shall any man that pretendeth to reason enough for the government of his own affairs be supposed to want means to know the laws of nature; because they are known by the reason he pretends to: only children and madmen are excused from offences against the law natural.
- 
- Where a man is captive, or in the power of the enemy (and he is then in the power of the enemy when his person, or his means of living, is so), if it be without his own fault, the obligation of the law ceaseth; because he must obey the enemy, or die, and consequently such obedience is no crime: for no man is obliged (when the protection of the law faileth) not to protect himself by the best means he can.
- 
- If a man by the terror of present death be compelled to do a fact against the law, he is totally excused; because no law can oblige a man to abandon his own preservation. And supposing such a law were obligatory, yet a man would reason thus: “If I do it not, I die presently; if I do it, I die afterwards; therefore by doing it, there is time of life gained.” Nature therefore compels him to the fact.
- 
- When a man is destitute of food or other thing necessary for his life, and cannot preserve himself any other way but by some fact against the law; as if in a great famine he take the food by force, or stealth, which he cannot obtain for money, nor charity; or in defence of his life, snatch away another man’s sword; he is totally excused for the reason next before alleged.
- 
- Again, facts done against the law, by the authority of another, are by that authority excused against the author, because no man ought to accuse his own fact in another that is but his instrument: but it is not excused against a third person thereby injured, because in the violation of the law both the author and actor are criminals. From hence it followeth that when that man or assembly that hath the sovereign power commandeth a man to do that which is contrary to a former law, the doing of it is totally excused: for he ought not to condemn it himself, because he is the author; and what cannot justly be condemned by the sovereign cannot justly be punished by any other. Besides, when the 186/Thomas Hobbes sovereign commandeth anything to be done against his own former law, the command, as to that particular fact, is an abrogation of the law.
- 
+If someone breaks the law, and they are supposed to follow it, then what they did is a crime.
 
- 
-(Simplified)
- 
+If a person can’t know the law because they have no way to find out about it, they aren’t blamed. But if they just don’t try to learn the law, that’s not an excuse. Anyone who can think for themselves should know the basic rules of nature, except for kids and people who aren’t mentally well.
+
+If someone is a prisoner or controlled by an enemy, and it’s not their fault, then they don’t have to follow the law. They have to obey the enemy to stay alive, and obeying isn’t a crime. No one has to risk their life if the law can’t protect them.
+
+If a person is forced to do something illegal because they are scared of dying right away, they are not blamed. No law can make someone give up their own life. Even if such a law existed, the person would think, “If I don’t do it, I die now. If I do it, I might live longer.” So, nature forces them to act that way.
+
+If someone has no food or other things they need to live, and the only way to survive is by breaking the law—like stealing food during a famine or taking a weapon to defend themselves—they are excused for doing it, for the same reason as before.
+
+Also, if someone breaks the law because another person in power tells them to, they are excused from blame by the one who gave the order, because that person is responsible. But the person hurt by this is still right to say both are wrong. When a leader or government tells someone to do something against an old law, the person following the order is not blamed. The leader can’t punish them for obeying their command. In fact, when the leader orders something against a previous law, that order replaces the old law for that action.

@@ -1,16 +1,11 @@
-No member therefore is obliged to pay the debt so borrowed, but the representative himself: because he that lendeth it, being a stranger to the letters, and to the qualification of the body, understandeth those only for his debtors that are engaged; and seeing the representer can engage himself, and none else, has him only debtor, who must therefore pay him, out of the common stock, if there be any, or, if there be none, out of his own estate.
- 
- If he come into debt by contract, or mulct, the case is the same.
- 
- But when the representative is an assembly, and the debt to a stranger; all they, and only they, are responsible for the debt that gave their votes to the borrowing of it, or to the contract that made it due, or to the fact for which the mulct was imposed; because every one of those in voting did engage himself for the payment: for he that is author of the borrowing is obliged to the payment, even of the whole debt, though when paid by any one, he be discharged.
- 
- But if the debt be to one of the assembly, the assembly only is obliged to the payment, out of their common stock, if they have any: for having liberty of vote, if he vote the money shall be borrowed, he votes it shall be paid; if he vote it shall not be borrowed, or be absent, yet because in lending he voteth the borrowing, he contradicteth his former vote, and is obliged by the latter, and becomes both borrower and lender, and consequently cannot demand payment from any particular man, but from the common treasury only; which failing, he hath no remedy, nor complaint but against himself, that being privy to the acts of the assembly, and to their means to pay, and not being enforced, did nevertheless through his own folly lend his money.
- 
- It is manifest by this that in bodies politic subordinate, and subject to a sovereign power, it is sometimes not only lawful, but expedient, for a particular man to make open protestation against the decrees of the representative assembly, and cause their dissent to be registered, or to take witness of it; because otherwise they may be obliged to pay debts contracted, and be responsible for crimes committed by other men. But in a sovereign assembly that liberty is taken away, both because he that protesteth there denies their sovereignty, and also because whatsoever is commanded by the sovereign power is as to the subject (though not so always in the sight of God) justified by the command: for of such command every subject is the author.
- 
- The variety of bodies is almost infinite: for they are not only distinguished by the several affairs for which they are constituted, wherein Leviathan/141 there is an unspeakable diversity; but also by the times, places, and numbers, subject to many limitations.
- 
+No one has to pay back a debt except the person in charge. This is because the lender doesn’t know about the group or its rules and only sees the person who agreed to borrow the money as responsible. So, if the person in charge borrows money, they have to pay it back either from the group’s funds or, if there’s no money, from their own money.
 
- 
-(Simplified)
- 
+If the person in charge owes money because of a contract or a fine, it’s the same situation.
+
+But if the person in charge is a group of people, and the debt is owed to someone outside the group, only those who agreed to borrow the money or made the contract are responsible. Everyone who voted yes on borrowing the money promised to pay it back. Even if one person pays it all, the others are still responsible until it’s fully paid.
+
+If the debt is owed to someone inside the group, the whole group has to pay from their shared money if they have any. If a person votes to borrow money, they also agree it must be paid back. If they vote no or don’t vote but still lend money, they go against their own vote and become both the borrower and lender. This means they can only get paid from the group’s money, not from any one person. If the group has no money, they can’t complain because they chose to lend money knowing the risks.
+
+This shows that in smaller groups under a higher power, it’s sometimes okay and smart for someone to openly disagree with the group’s decisions and make sure their disagreement is recorded. Otherwise, they might have to pay debts or take blame for things they didn’t agree to. But in a group with full power, this freedom doesn’t exist because disagreeing means denying the group’s authority. Also, when the group makes a command, it’s as if everyone has agreed to it, so they are responsible for following it.
+
+There are many kinds of groups, different in what they do, when and where they meet, and how many people they include.

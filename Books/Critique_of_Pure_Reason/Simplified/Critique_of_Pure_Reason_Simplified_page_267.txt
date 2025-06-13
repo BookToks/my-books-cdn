@@ -1,18 +1,17 @@
-Pt. II. Div. I. Bk. I. Ch. II. <B> itself, a but only combines and orders the material for cognition, the in­ tuition, which must be given to it through the object.b But for the pe­ culiarity of our understanding, that it is able to bring about the unity of apperception priori only by means of the categories and only through a B I46 precisely this kind and number of them, a further ground may be of­ fered just as little as one can be offered for why we have precisely these and no other functions for judgment or for why space and time are the sole forms of our possible intuition.
- 
- § 22.
- 
- The category has no other use for the cognition of things than its application to objects of experience.
- 
- To think of an object and to cognize an object are thus not the same.
- 
- For two components belong to cognition: first, the concept, through which an object is thought at all (the category), and second, the intu­ ition, through which it is given; for if an intuition corresponding to the concept could not be given at all, then it would be a thought as far as its form is concerned, but without any object, and by its means no cogni­ tion of anything at all would be possible, since, as far as I would know, nothing would be given nor could be given to which my thought could be applied. Now all intuition that is possible for us is sensible (Aes­ thetic), thus for us thinking of an object in general through a pure con­ cept of the understanding can become cognition only insofar as this concept is related to objects of the senses. Sensible intuition is either B 147 pure intuition (space and time) or empirical intuition of that which, through sensation, is immediately represented as real in space and time.
- 
- Through determination of the former we can acquire priori cognitions a of objects (in mathematics), but only as far as their form is concerned, as appearances; whether there can be things that must be intuited in this form is still left unsettled. Consequently all mathematical concepts are not by themselves cognitions, except insofar as one presupposes that there are things that can be presented to us only in accordance with the form of that pure sensible intuition. Things in space and time, how­ ever, are only given insofar as they are perceptions (representations ac­ companied with sensation), hence through empirical representation.
- 
- The pure concepts of the understanding, consequently, even if they are applied to priori intuitions (as in mathematics), provide cognition only a insofar as these priori intuitions, and by means of them also the con­ a cepts of the understanding, can be applied to empirical intuitions. Confor sich a Object b 254 Section II.
- 
+Part II, Division I, Book I, Chapter II. The mind itself just puts together and organizes what we know, but the actual information comes from the object we are noticing. Our understanding is special because it can connect everything we experience by using certain basic ideas called categories. We don’t really know why these specific categories exist or why space and time are the only ways we can sense things.
 
- 
-(Simplified)
- 
+Section 22.
+
+Categories only help us understand things we experience.
+
+Thinking about something and actually knowing it are not the same.
+
+There are two parts to knowing something: first, the idea or concept that lets us think about it (the category), and second, the way we sense or see it (intuition). If we had a concept but no way to sense the object, then we would only have an idea without any real thing to connect it to. Since all our sensing comes from what we can feel or see, thinking about something using just a concept only becomes real knowledge if that idea matches something we can sense.
+
+Sensing can be pure, like space and time themselves, or based on actual experiences where we feel or see things happening in space and time.
+
+By understanding space and time, we can know some things in math before we actually experience them, but only about their shape or form. We don’t know for sure if things really exist exactly like that. So, math ideas alone don’t give us real knowledge unless we assume things can appear that way.
+
+Things that exist in space and time are only real to us when we sense them, meaning when we actually experience them.
+
+The pure ideas we have, even when used with math, only help us understand things as long as they connect to real experiences.

@@ -1,22 +1,7 @@
-The addition of such a predicate thus yields a synthetic judgment.
- 
- aJudgments of experience, as such, are all synthetic. For it would be absurd to ground an analytic judgment on experience, since I do not need to go beyond my concept at all in order to formulate the judg­ ment, and therefore need no testimony from experience for that. That a body is extended is a proposition that is established priori, and is not a B 12 a judgment of experience. For before I go to experience, I already have all the conditions for my judgment in the concept, from which I merely draw out the predicate in accordance with the principle of contradic­ tion, and can thereby at the same time become conscious of the neces­ sity of the judgment, which experience could never teach me. On the A8 contrary, although I bdo not at all include the predicate of weight in the concept of a body in general, the concept nevertheless designates an ob­ ject of experience' through a part of it, to which I can therefore add stilI other parts of the same experience as belonging with the former. I can first cognize the concept of body analytically through the marks of ex­ tension, of impenetrability, of shape, etc., which are all thought in this concept. But now I amplify my cognition and, looking back to the ex­ perience from which I had extracted this concept of body, I find that weight is also always connected with the previous marks, dand I there­ fore add this synthetically as predicate to that concept. It is thus expe­ rience Con which the possibility of the synthesis of the predicate of weight with the concept of body is grounded, since both concepts, though the one is not contained in the other, nevertheless belong to­ gether, though only contingently, as parts of a whole, namely experi­ ence, which is itself a synthetic combination of intuitions.
- 
- A9 fBut in synthetic pri01'i judgments this means of help is entirely a B 13 lacking.I5 If I am to go beyondg the concept A in order to cognize an­ other B as combined with it, what is it on which I depend and by means of which the synthesis becomes possible, since I here do not have the advantage of looking around for it in the field of experience? Take the proposition: "Everything that happens has its cause." In the concept of a The first part of the following paragraph replaces two paragraphs in the first edition; see 7-8 above.
- 
- A The text common to the first edition resumes here.
- 
- b C The second edition has "einen Gegenstand der Erfahrung" instead of the first edition's "die vollstdndige Erfahrung." The remainder of this sentence is added in the second edition.
- 
- d , The remainder of this sentence is modified and expanded in the second edition.
- 
- f The common text resumes here.
- 
- "iiber" substituted in the second edition for "ausser" in the first.
- 
- g 142 Introduction <B> something that happens, I think, to be sure, of an existence that was preceded by a time, etc.
- 
+When you add a new part to a statement, it becomes a synthetic judgment.
 
- 
-(Simplified)
- 
+All judgments based on experience are synthetic. It wouldn’t make sense to base an analytic judgment on experience because analytic judgments only use what’s already in the concept. You don’t need to check with experience to make them. For example, "a body takes up space" is something we know without experience. Before seeing anything, the idea already has everything needed to understand it, and we realize it must be true just by thinking about it. Experience can’t teach us this.
+
+On the other hand, the idea of a body doesn’t include weight by itself, but since a body is something we can experience, we can add weight to the idea based on what we observe. First, we understand the concept of a body by its features like size, shape, and being solid. But then, by looking back at our experience, we notice that weight is always connected to these features. So, we add weight to the concept as a new part. This is possible because both ideas come from experience, even though one isn’t inside the other. They belong together only because they are parts of the bigger picture—our experience, which combines different observations.
+
+But for synthetic judgments that are known without experience (called synthetic a priori), we don’t have this experience to help us. If we want to add something new to a concept without checking the world, what do we rely on? For example, when we say, "Everything that happens has a cause," we think about something that happens, something that exists after a certain time, and so on.

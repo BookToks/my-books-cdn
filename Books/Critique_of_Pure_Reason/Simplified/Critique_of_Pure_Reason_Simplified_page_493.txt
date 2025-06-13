@@ -1,10 +1,7 @@
-Pt. II. Div. II. Bk. II. Ch. II Moreover, I am talking here only about the simple insofar as it is nec­ essarily given in the composite, so that the latter can be resolved into the former as its constituent parts. The proper signification of the word A442/B470 (in Leibniz's usage)63 refers only to the simple given immedi­ monas ately as simple substance (e.g., in self-consciousness) and not as ele­ ment of the composite, which one could better call the atom. And since it is only in regard to composites that I want to prove simple substances, as their elements, I could call the antithesis of the second antinomy a "transcendental atomistic." But because this word has for some time al­ ready been used to indicate a special way of explaining corporeal ap­ pearances (molecularum),b and hence presupposes empirical concepts, it may be called the dialectical principle of monadology.
- 
- a Antithese; following Erdmann, we read These.
- 
- b of molecules 480 Section II.
- 
+Also, I’m only talking about simple things as they appear inside more complex things, so that the complex things can be broken down into these simple parts.  
 
- 
-(Simplified)
- 
+The word “simple,” as Leibniz uses it, means something that is given directly as a simple substance (like in self-awareness), not just as a part of a more complex thing, which you might better call an atom.  
+
+Since I only want to prove that simple substances exist as parts of complex things, I could call the opposite idea of the second antinomy a “transcendental atomistic.”  
+
+But this word has already been used to explain physical things (like molecules), which involves real-world ideas, so it’s better to call it the dialectical principle of monadology.

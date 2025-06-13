@@ -1,18 +1,13 @@
-A. Pickard-Cambridge, in The Complete Works of Aristotle, ed. Jonathan Barnes [Princeton: Princeton University Press, 1984], vol. i, p. 167). In the words ofW. D. Ross, the object of the Topics "is to study the dialecti­ cal syllogism," where "The dialectical syllogism is distinguished from the scientific by the fact that its premises are not true and immediate but are merely probable, i.e., such as commend themselves to all men, to most men, or to wise men" (Aristotle, fifth edition, revised [London: Methuen, 1949], p. 56). Kant seems to be suggesting that the Topics was used to sug­ gest arguments that would appear credible because of their form without regard to the plausibility of their premises at all.
- 
- 105 Presumably Kant here has in mind Locke's claim that sensation and reflection are the two sources of all our ideas (Essay concerning Human Understanding, bk. II, ch. i, §§ 3-4), and is understanding Locke's reflec­ tion to be reflection on ideas of sensation only. This would be a misun­ derstanding of Locke, since Locke says that we can get simple ideas from reflection on the "operations of our own Mind," a doctrine which is ac­ tually a precursor to Kant's view that the laws of our own intuition and thinking furnish the forms of knowledge to be added to the empirical contents furnished by sensation, although of course Locke did not go very far in developing this doctrine; in particular, he did not see that mathematics and logic could be used as sources of information about the operations of the mind.
- 
- 106 See Negative Magnitudes, 2:176-7; in Theoretical Philosophy, I755-I770, pp.216-17· 107 Here Kant is referring to Leibniz's doctrine that all the properties of things are perfections in virtue of which they have a claim to existence, with those that actually exist being those that have the most perfection and thus comprise the most perfect world; on this account, there are no actually negative properties, but only limitations to the positive perfec­ tions of things (see, e.g., The Principles of Nature and Grace, §§ 9-10). This was a doctrine with which Kant had been arguing since the essay on Negative Magnitudes; see especially its section 3, 2:189-93; in Theoretical Philosophy, I755-I770, pp. 227-30.
- 
- 108 Here Kant is alluding to Leibniz's emendation of Descartes's ontological argument, where Leibniz argued that the latter is sound as long as it is preceded by a proof that the concept of God is internally non­ contradictory, a proof easily supplied since the concept of an all-perfect being contains nothing but positive determinations which cannot conflict with each other (see the third paragraph of Meditations on Knowledge, Truth and Ideas, originally published in 1684, as well as many later expo­ sitions of the claim).
- 
- 109 For some of the many statements of this doctrine with which Kant would have been familiar, see A New System of Nature (1695) (in Ariew and Garber, eds., Philosophical Essays, pp. 143-4); Principles of Nature and Grace, §§ I2-13; and Monadology, §§ 56-9.
- 
- I 10 See Leibniz-Clarke Correspondence, Leibniz's Third Letter, § 4, and -Leib­ niz's Fifth Letter, §§ 29, 33.
- 
- 734 Notes to pages 375-384 III This is a misquotation from the poem "Die Falschheit menschlicher Tu­ genden" by Viktor Albrecht von Haller, Gedichte (Bern, 1732); Haller's lines are: Ins Innere der Natur dringt kein erschaffener Geist.
- 
+A. Pickard-Cambridge, in The Complete Works of Aristotle, edited by Jonathan Barnes, says that the main goal of the Topics is to study a type of argument called the dialectical syllogism. W. D. Ross explains that this kind of argument is different from scientific ones because its starting points are not definitely true but just probably true. These premises are ideas that most people, or at least wise people, agree with. Kant seems to think the Topics were used to make arguments that look convincing because of how they are set up, even if their starting points might not actually be believable.
 
- 
-(Simplified)
- 
+Kant is probably thinking about Locke’s idea that all our ideas come from two sources: sensation and reflection. Locke wrote this in his book Essay Concerning Human Understanding. But Kant seems to misunderstand Locke by thinking that reflection only means thinking about ideas we get from our senses. Actually, Locke said we can also get simple ideas by reflecting on how our own mind works. This idea is a bit like Kant’s idea that the mind’s own rules shape how we understand things, adding to what we learn from our senses. However, Locke didn’t explore this much or realize that math and logic could teach us about how the mind works.
+
+Kant also talks about Leibniz’s idea that everything’s qualities are positive and make it deserve to exist. The things that really exist are the ones with the most positive qualities, making the world as perfect as possible. According to this, there are no truly negative qualities, just limits on the positive ones. Kant had been debating this idea since his essay on Negative Magnitudes.
+
+Kant mentions Leibniz’s update of Descartes’s ontological argument. Leibniz said the argument works if you first prove that the idea of God doesn’t contradict itself. This is easy because the idea of God is of a perfect being with only positive traits that don’t conflict. Leibniz explained this in his writings, including his Meditations on Knowledge, Truth, and Ideas.
+
+Kant would also know about many other statements of this idea from Leibniz’s works like A New System of Nature, Principles of Nature and Grace, and Monadology.
+
+For more details, see the Leibniz-Clarke Correspondence, especially Leibniz’s Third and Fifth Letters.
+
+Finally, there is a misquote from a poem by Viktor Albrecht von Haller. The correct line says: “No created spirit can penetrate the inner nature.”

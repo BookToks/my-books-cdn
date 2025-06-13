@@ -1,6 +1,5 @@
-.. the proportion which the other kinds bear to it being easily ascertained.” (“Outlines of Pol. Econ.,” Lond., 1832, pp. 22 and 23.) Chapter 8: Constant Capital and Variable Capital The various factors of the labour-process play different parts in forming the value of the product.
- 
+The different parts used in making something each have a different role in deciding how much the final product is worth.
 
- 
-(Simplified)
- 
+Some parts, like machines and tools, are called constant capital because their value stays the same during production.
+
+Other parts, like workers' effort, are called variable capital because they can change and add new value to the product.

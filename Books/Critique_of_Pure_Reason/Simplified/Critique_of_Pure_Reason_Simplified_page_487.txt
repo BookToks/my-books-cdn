@@ -1,12 +1,9 @@
-Pt. II. Div. II. Bk. II. Ch. II pleted." From this it follows with complete certainty that an eternity of actual states, each following upon another up to a given point in time (the present), cannot have passed away, and so the world must have a beginning.
- 
- In regard to the second part of the thesis, the difficulty of a series that is infinite and yet elapsed does not arise; for the manifold of an infi­ nitely extended world is given simultaneously. Yet in order to think the totality of such a multiplicity, where we cannot appeal to boundaries which would of themselves constitute this totality in intuition, we have to give an account of our concept, since in such a case it cannot go from the whole to a determinate multiplicity of parts, but must establish the possibility of a whole through the successive synthesis of the parts. Now since this synthesis has to constitute a series that is never to be com­ pleted, one can never think a totality prior to it and thus also through it. For in this case the concept of the totality itself is the representation of a completed synthesis of the parts, and this completion, hence also its concept, is impossible.
- 
- A432 / B460 * This [quantum] thereby contains a multiplicity (of given units) that is greater a than any number, and that is the mathematical concept of the infinite.
- 
- a Menge 474 Section II.
- 
+It is certain that an endless series of actual moments, each one coming after the other up to now, cannot have already happened. So, the world must have had a beginning.
 
- 
-(Simplified)
- 
+For the second part, the problem of an infinite series that already passed doesn't come up because an infinitely large world exists all at once.
+
+But to understand the whole of such a huge collection, where we can't use clear boundaries to define it, we have to explain how our idea works. We can't think of the whole first and then its parts. Instead, we have to build the idea of the whole by putting the parts together one after another.
+
+Since this building process never finishes, we can never think of the whole as completed before or during the process. The idea of the whole means the parts have been fully put together, but this completion is impossible.
+
+This [quantum] includes many parts, more than any number we can think of, and that is what the math idea of infinity means.

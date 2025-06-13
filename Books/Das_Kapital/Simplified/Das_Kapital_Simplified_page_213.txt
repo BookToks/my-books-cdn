@@ -1,18 +1,21 @@
-Chapter 11: Rate and Mass of Surplus-Value In this chapter, as hitherto, the value of labour-power, and therefore the part of the working day necessary for the reproduction or maintenance of that labour-power, are supposed to be given, constant magnitudes.
- 
- This premised, with the rate, the mass is at the same time given of the surplus-value that the individual labourer furnishes to the capitalist in a definite period of time. If, e.g., the necessary labour amounts to 6 hours daily, expressed in a quantum of gold = 3 shillings, then 3s. is the daily value of one labour-power or the value of the capital advanced in the buying of one labour-power.
- 
- If, further, the rate of surplus-value be = 100%, this variable capital of 3s. produces a mass of surplus-value of 3s., or the labourer supplies daily a mass of surplus labour equal to 6 hours.
- 
- But the variable capital of a capitalist is the expression in money of the total value of all the labour-powers that he employs simultaneously. Its value is, therefore, equal to the average value of one labour-power, multiplied by the number of labour-powers employed. With a given value of labour-power, therefore, the magnitude of the variable capital varies directly as the number of labourers employed simultaneously. If the daily value of one labour-power = 3s., then a capital of 300s. must be advanced in order to exploit daily 100 labour-powers, of n times 3s., in order to exploit daily n labour-powers.
- 
- In the same way, if a variable capital of 3s., being the daily value of one labour-power, produce a daily surplus-value of 3s., a variable capital of 300s. will produce a daily surplus-value of 300s., and one of n times 3s. a daily surplus-value of n × 3s. The mass of the surplus-value produced is therefore equal to the surplus-value which the working day of one labourer supplies multiplied by the number of labourers employed. But as further the mass of surplus-value which a single labourer produces, the value of labour-power being given, is determined by the rate of the surplus-value, this law follows: the mass of the surplus-value produced is equal to the amount of the variable capital advanced, multiplied by the rate of surplus-value, in other words: it is determined by the compound ratio between the number of labour-powers exploited simultaneously by the same capitalist and the degree of exploitation of each individual labourpower.
- 
- Let the mass of the surplus-value be S, the surplus-value supplied by the individual labourer in the average day s the variable capital daily advanced in the purchase of one individual labourpower v, the sum total of the variable capital V, the value of an average labour-power P, its degree of exploitation (a'/a) (surplus labour/necessary-labour) and the number of labourers employed n; we would have: (s/v) × V { S = P × (a'/a) × n It is always supposed, not only that the value of an average labour-power is constant, but that the labourers employed by a capitalist are reduced to average labourers. There are exceptional cases in which the surplus-value produced does not increase in proportion to the number of labourers exploited, but then the value of the labour-power does not remain constant.
- 
- In the production of a definite mass of surplus-value, therefore the decrease of one factor may be compensated by the increase of the other. If the variable capital diminishes, and at the same time the rate of surplus-value increases in the same ratio, the mass of surplus-value produced remains 214 Chapter 11 unaltered.
- 
+Chapter 11: Rate and Mass of Surplus-Value
 
- 
-(Simplified)
- 
+In this chapter, we keep assuming that the value of labor power—basically, the cost to keep a worker able to work—and the time needed for that are fixed and don’t change.
+
+If that’s true, then both the rate and total amount of surplus value a worker creates for the boss in a certain time are fixed too. For example, if the worker needs to work 6 hours to cover their own cost, which equals 3 shillings, then 3 shillings is the daily value of that worker’s labor power, or how much the boss spends to hire that worker each day.
+
+If the surplus value rate is 100%, this means the boss gets an extra 3 shillings worth of work each day from that worker—the worker works 6 hours total but only needs 3 hours to cover their own cost, so the extra 3 hours create surplus value.
+
+The total variable capital a boss spends is the money used to pay all the workers at once. This total equals the average value of one worker’s labor power multiplied by the number of workers hired. So, if one worker costs 3 shillings per day, then to hire 100 workers, the boss must pay 300 shillings daily.
+
+Similarly, if 3 shillings of variable capital from one worker produces 3 shillings of surplus value daily, then 300 shillings of variable capital for 100 workers will produce 300 shillings of surplus value daily. For any number n of workers, the surplus value equals n times 3 shillings.
+
+So, the total surplus value made depends on how much surplus value one worker creates, multiplied by the number of workers hired. Since the surplus value per worker depends on the rate of surplus value, the total surplus value depends on the number of workers and how much each worker is exploited.
+
+If we call the total surplus value S, the surplus value per worker s, the daily cost of one worker’s labor power v, the total variable capital V, the value of one average worker’s labor power P, the rate of exploitation (surplus labor divided by necessary labor) (a'/a), and the number of workers n, then the formula is:
+
+S = P × (a'/a) × n
+
+We always assume that the value of an average worker’s labor power stays the same, and that the workers hired are average workers. Sometimes, the total surplus value doesn’t grow exactly with the number of workers, but then the cost of labor power changes.
+
+So, to produce a certain amount of surplus value, if one factor goes down, another can go up to keep the total the same. For example, if the variable capital (money spent on wages) goes down but the rate of surplus value goes up by the same amount, the total surplus value stays unchanged.

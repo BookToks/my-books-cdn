@@ -1,10 +1,13 @@
-The summaries below are intended to facilitate this, while also providing an aide-memoire and an organized catalogue of Hume’s references to other philosophers within the text of the Enquiry.] Aristotle and the Medieval ‘Schools’ Aristotle (384‒322 bc) is widely considered the greatest philosopher of antiquity, making seminal contributions in the philosophy of logic and language, metaphysics, aesthetics, ethics, and politics, as well as developing influential theories of physics, psychology, and biology. A pupil of Plato in the Academy(see below), he went on to be tutor to Alexander the Great of Macedonia, and in 355bcfounded his own school near Athens, at the Lyceum. For discussion of his theory of the world, and its long influence, see §1of the Introduction, above. By medieval times the pagan schools of philosophy had been suppressed, and Aristotelianism, incorporated into a Christian framework, was so dominant that it was often referred to as simply the philosophy of ‘the schools’, with Aristotle himself known as ‘the Philosopher’. Nevertheless the Philosopher’s own works were not always taken as uniquely authoritative, and some of the most influential elements of the medieval synthesis were later developments of Aristotelianism, such as Ptolemy’s system of the heavens and Galen’s medicine.
- 
- Aristotle is mentioned twice in the main text of the Enquiry, an example of an ‘abstract reasoner’ whose ‘fame is utterly decayed’ (1.4) and whose theory of the elements is antiquated (8.7). Aristotle’s theory of literary criticism also gets a mention in the long deleted passage from Section III (3.10variant). The medieval ‘schools’ are mentioned twice in Section VIII (8.22endnote [F], 8.27), and ‘schoolmen’ at 2.9endnote [A]. Most famously, at the end of the Enquiry, Aristotelian ‘school metaphysics’ typifiesthe sort of philosophy that is to be committed to the flames (12.34).
- 
- Pyrrhonian and Academic Scepticism Pyrrho of Elis (c.365‒270 bc) was the best-known sceptic of antiquity, who supposedly had to be accompanied by friends for his own safety, since Glossarial Index of Major Philosophers 221 he saw no reason for believing that carts, precipices, or wild animals would do him harm.
- 
+The summaries below are meant to help with this, while also giving a quick reminder and an organized list of Hume’s mentions of other philosophers in the Enquiry.
 
- 
-(Simplified)
- 
+Aristotle and the Medieval ‘Schools’
+
+Aristotle (384–322 BC) is often called the greatest philosopher of ancient times. He made important ideas in logic, language, metaphysics, art, ethics, and politics. He also came up with big theories in physics, psychology, and biology. He was a student of Plato and later became the tutor of Alexander the Great. In 355 BC, he started his own school near Athens called the Lyceum. For more about his ideas on the world and their long-lasting effects, see §1 of the Introduction above.
+
+By medieval times, the old pagan schools of philosophy were banned. Aristotle’s ideas became part of Christian teaching and were so popular they were often just called the philosophy of ‘the schools’. People even called Aristotle ‘the Philosopher’. Still, not all of his works were accepted as the final truth. Some important medieval ideas were later changes of Aristotle’s work, like Ptolemy’s model of the heavens and Galen’s medicine.
+
+Aristotle is mentioned twice in the main text of the Enquiry. He is used as an example of an ‘abstract reasoner’ whose ‘fame is utterly decayed’ (1.4) and whose theory about the elements is outdated (8.7). His ideas on literary criticism are also mentioned in a long deleted part from Section III (3.10 variant). The medieval ‘schools’ are mentioned twice in Section VIII (8.22 endnote [F], 8.27), and the ‘schoolmen’ appear at 2.9 endnote [A]. Most famously, at the end of the Enquiry, Aristotle’s ‘school metaphysics’ is the type of philosophy that should be destroyed by fire (12.34).
+
+Pyrrhonian and Academic Scepticism
+
+Pyrrho of Elis (around 365–270 BC) was the most famous sceptic of ancient times. He didn’t believe there was a good reason to think carts, cliffs, or wild animals would harm him. People say he needed friends to be with him for safety because of this.

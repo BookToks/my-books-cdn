@@ -1,14 +1,11 @@
-For if one removes from our experiences every­ thing that belongs to the senses, there still remain certain original concepts and the judgments generated from them, which must have arisen entirely priori, independently of experience, because they a make one able to say more about the objects that appear to the senses than mere experience would teach, or at least make one believe that one can say this, and make assertions contain true universality and strict necessity, the likes of which merely empirical cognition can never afford.
- 
- B 6 But what says still more is this, that certain cognitions even aban­ A 3 don the field of all possible experiences, and seem to expand the do­ main of our judgments beyond all bounds of experience through concepts to which no corresponding object at all can be given in expenence.
- 
- And precisely in these latter cognitions, which go beyond the world of the senses, where experience can give neither guidance nor correc­ tion, lie the investigations of our reason that we hold to be far more B 7 preeminent in their importance and sublime in their final aim than everything that the understanding can learn in the field of appearances, and on which we would rather venture everything, even at the risk of erring, than give up such important investigations because of any sort of reservation or from contempt and indifference. a Now it may seem natural that as soon as one has abandoned the ter­ rain of experience, one would not immediately erect an edifice with cognitions that one possesses without knowing whence, and on the credit of principles whose origin one does not know, without having first assured oneself of its foundation through careful investigations, thus that one would have long since raised the question how the un­ derstanding could come to all these cognitions priori and what doa A4 main, validity, and value they might have. And in fact nothing is more natural, if one understands by this word that which properly and B 8 reasonably ought to happen; but if one understands by it that which usually happens, then conversely nothing is more natural and compre­ hensible than that this investigation should long have been neglected.
- 
- For one part of these cognitions, the mathematical, has long been re­ liable, and thereby gives rise to a favorable expectation about others as well, although these may be of an entirely different nature. Fura Here the second edition adds two sentences characterizing the tasks of pure reason. See B7 below.
- 
- 128 Introduction <A> thermore, if one is beyond the circle of experience, then one is sure not to be contradicted through experience.
- 
+If you take away everything we learn through our senses, there are still some basic ideas and judgments we have that must come from somewhere else, not from experience. These ideas help us say more about things we see or feel than just what experience alone can teach us. They also help us make statements that are always true and necessary, which we can’t get just from what we observe.
 
- 
-(Simplified)
- 
+Even more surprising is that some ideas go beyond anything we could possibly experience. These ideas let us make judgments about things that don’t have any real example in the world around us.
+
+These kinds of ideas, which go beyond what we can sense or experience, are very important for how we think and reason. They are more exciting and meaningful than anything we learn just by observing the world. We are willing to take risks and make mistakes to explore these ideas because they are so valuable, and we would not want to ignore them just because they seem difficult or strange.
+
+It makes sense that once we step away from what we can experience, we shouldn’t just believe in ideas without knowing where they come from or if they are true. We should first ask how our mind can have these ideas without experience, and whether they are really valid and useful. This is a natural question to ask if we think about what should happen. But if we think about what usually happens, it’s not surprising that people have often ignored this question for a long time.
+
+Some of these ideas, like those in math, have long been trusted and proven useful. This makes us hopeful that other kinds of ideas, even if different, might also be trustworthy.
+
+Also, if we go beyond experience, we don’t have to worry about being proven wrong by what we see or sense.

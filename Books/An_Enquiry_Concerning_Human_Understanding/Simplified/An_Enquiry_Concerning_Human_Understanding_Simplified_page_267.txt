@@ -1,38 +1,37 @@
-Notes to Pages 98–111 203 11.7 fill all . . . white beans: in ancient Greece, beans were commonly used for voting, with white beans signifying agreement and black beans disagreement.
- 
- 11.11 argument drawn . . . to causes: see §17of the Introduction, above.
- 
- 11.13 ZEUXIS: a celebrated Greek painter of the late fifth century bc.
- 
- 11.14 JUPITER: the supreme god of the Romans, based on the Greek god Zeus (though the Roman name would have been more familiar in the eighteenth century). By portraying the speech as made by Epicurus to the Athenians, Hume is able to avoid any direct reference to the God of Christianity, and thus reduces the overt impression of impiety.
- 
- 11.17 ill appearances of nature: Hume introduces a brief discussion of the Problem of Evil, dealt with at far greater length in his Dialogues, Parts X and XI.
- 
- 11.21 this life . . . porch: ‘the porch view’, whose irrationality Hume quickly demonstrates.
- 
- 11.23 the field . . . senate . . . school . . . closet: ‘the field’ alludes to battle, ‘the senate’ to government, ‘the school’ to education, and ‘the closet’ to private study.
- 
- 11.27 who discovers himself: who reveals himself.
- 
- 11.27 my apology for EPICURUS: my defence on behalf of Epicurus.
- 
- 11.29 enthusiasm: see explanatory note to 10.17.
- 
- SECTION XII 12.1 Atheists: in the Enquiry Hume never overtly expresses support for atheism, though a hint might be detectable here in his association of atheism with scepticism (cf. also 5.1). By far the best evidence for Hume’s atheism is the general tendency of his arguments, especially in Sections VIII, X, and XI of the Enquiry; ‘Of the Immortality of the Soul’; The Natural History of Religion; and the Dialogues concerning Natural Religion. For a brief review of this evidence, see chapter 1, §3 in my Reading Hume on Human Understanding(OUP, 2002).
- 
- 12.3 scepticism, antecedent: see §18of the Introduction, above for an outline of Hume’s discussion of the varieties of scepticism.
- 
- 12.3 DES CARTES: see Glossarial Index.
- 
- 12.3 diffident: mistrustful, lacking confidence.
- 
- 12.4 education or rash opinion: the word ‘education’ often, in Hume, carries connotations of indoctrination.
- 
- 12.6 the evidence of sense: ‘scepticism with regard to the senses’ is covered in far greater detail in Treatise1.4.2, but with a very differentfocus. The Enquiry’s argument is summarized in the Introduction above, pp. liii–liv.
- 
- 12.10 cavils: quibbling arguments.
- 
+Notes to Pages 98–111 203
 
- 
-(Simplified)
- 
+11.7 fill all . . . white beans: In ancient Greece, people used beans for voting. White beans meant yes, and black beans meant no.
+
+11.11 argument drawn . . . to causes: See section 17 of the Introduction above.
+
+11.13 ZEUXIS: A famous Greek painter from the late 5th century BC.
+
+11.14 JUPITER: The main god of the Romans, based on the Greek god Zeus. People in the 18th century would know the Roman name better. Hume makes Epicurus speak to the Athenians so he doesn’t have to talk about the Christian God directly, which makes it seem less disrespectful.
+
+11.17 ill appearances of nature: Hume talks a little about the Problem of Evil here. He talks about it more in his Dialogues, parts 10 and 11.
+
+11.21 this life . . . porch: This is called ‘the porch view,’ and Hume quickly shows it doesn’t make sense.
+
+11.23 the field . . . senate . . . school . . . closet: ‘The field’ means battle, ‘the senate’ means government, ‘the school’ means education, and ‘the closet’ means private study.
+
+11.27 who discovers himself: Who shows who he really is.
+
+11.27 my apology for EPICURUS: My defense of Epicurus.
+
+11.29 enthusiasm: See the note at 10.17.
+
+SECTION XII
+
+12.1 Atheists: In the Enquiry, Hume never clearly says he supports atheism, but you can see a hint when he links atheism with doubt. The best proof of Hume’s atheism is in his arguments in Sections 8, 10, and 11 of the Enquiry; in ‘Of the Immortality of the Soul’; in The Natural History of Religion; and in the Dialogues concerning Natural Religion. For a short review, see chapter 1, section 3 in my book Reading Hume on Human Understanding (OUP, 2002).
+
+12.3 scepticism, antecedent: See section 18 of the Introduction above for an overview of the different kinds of scepticism Hume talks about.
+
+12.3 DES CARTES: See the Glossarial Index.
+
+12.3 diffident: Means not trusting or lacking confidence.
+
+12.4 education or rash opinion: For Hume, ‘education’ often means being taught to believe something without question.
+
+12.6 the evidence of sense: Hume talks about doubting what we see and feel much more in Treatise 1.4.2, but with a different focus. The Enquiry’s argument is summed up in the Introduction above, pages liii–liv.
+
+12.10 cavils: Nitpicky or picky arguments.

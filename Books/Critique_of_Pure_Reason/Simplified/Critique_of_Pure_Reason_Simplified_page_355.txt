@@ -1,18 +1,13 @@
-Pt. II. Div. I. Bk. II. <A> really intended by concepts of that sort.a Above, in the presentation of the table of the categories, we spared ourselves the definitions of each of them, on the ground that our aim, which pertains solely to their syn­ thetic use, does not make that necessary, and one must not make one­ self responsible for unnecessary undertakings that one can spare oneself. This was no excuse, but a not inconsiderable rule of prudence, not immediately to venture a definition and seek or pretend to com­ pleteness or precision in the determination of the concept if one can make do with one or another of its marks, without requiring a complete derivation of everything that constitutes the entire concept. But now it turns out that the ground of this precaution lies even deeper, namely, that we could not define them even if we wanted to, *, b but rather, if one A242 does away with all conditions of sensibility that distinguish them as con­ cepts of a possible empirical use, and takes them for concepts of things in general (thus of transcendental use), then that is to do nothing more than to regard the logical functions of judgments as the condition of the possibility of things themselves, without in the least being able to show whence they could have their application and their object,c thus how in pure understanding without sensibility they could have any significance B 300 and objective validity. dNo one can define the concept of magnitude in general except by something like this: That it is the determination of a thing through which it can be thought how many units are posited in it.
- 
- Only this how-many-times is grounded on successive repetition, thus on time and the synthesis (of the homogeneous) in it. Reality, in con­ trast to negation, can be defined only if one thinks of a time (as the sum total of all being) that is either filled by it or empty. If I leave out perA 241 I mean here the real definition,' which does not merely supply other and more * intelligible words for the name of a thing, but rather contains in itself a clear mark by means of which the object (definitum) can always be securely cogA 242 nized, and that makes the concept that is to be explained usable in application.
- 
- A real definition! would therefore be that which does not merely make dis­ tinct a concept but at the same time its objective reality. Mathematical defi­ nitions, which exhibit the object in accordance with the concept in intuition, are of the latter sort.
- 
- a The next three sentences, as well as Kant's footnote, are omitted in the second edition.
- 
- b Before he dropped this note from the second edition, Kant had drafted an additional sentence for it in his copy of the first: "Instead of define [erklarenJone could also use the expression to substantiate through example" (E CXX, p. 41; 23:47).
- 
- an , Object The text common to the two editions resumes here, although in the second edition d Kant here begins a new paragraph.
- 
- Realdefiniti(}1Z e f Realerkldrung 342 Chapter III.
- 
+In the part above, when we showed the table of categories, we didn’t give definitions for each one. That’s because our goal was only to use them together, so defining each wasn’t needed. It’s smart not to try to fully explain something if you don’t have to.
 
- 
-(Simplified)
- 
+But there’s a deeper reason for this. We actually couldn’t define them properly even if we wanted to. If you take away all the ways we sense things that make these concepts useful for experience, and think of them as ideas about things in general, then you’re just looking at how logic works with judgments. But you can’t really show how these ideas apply to real things or have meaning without using our senses.
+
+For example, no one can define the idea of “magnitude” in a simple way except by saying it’s how we figure out how many units something has. This “how many times” idea depends on repeating something over time.
+
+Reality, which is the opposite of something not being real, can only be explained if you think about time as a total space that is either full or empty of being.
+
+Here, by a “real definition,” I mean one that doesn’t just use other words to describe something, but gives a clear way to always recognize the thing itself, so the concept can be used properly.
+
+A real definition not only makes a concept clear but also shows what is real about it. For example, math definitions do this by showing the object in a way we can picture or understand clearly.
+
+(Some parts and notes were left out in the second edition of this work.)

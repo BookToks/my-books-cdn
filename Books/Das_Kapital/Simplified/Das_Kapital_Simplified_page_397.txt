@@ -1,8 +1,11 @@
-397 Chapter 22 1 “It is not accurate to say that wages” (he deals here with their money expression) “are increased, because they purchase more of a cheaper article.” (David Buchanan in his edition of Adam Smith’s “Wealth of Nations,” 1814, Vol. 1, p. 417, note.) 2 We shall inquire, in another place, what circumstances in relation to productivity may modify this law for individual branches of industry.
- 
- 3 James Anderson remarks in his polemic against Adam Smith: “It deserves, likewise, to be remarked, that although the apparent price of Labour is usually lower in poor countries, where the produce of the soil, and grain in general, is cheap; yet it is in fact for the most part really higher than in other countries. For it is not the wages that is given to the labourer per day that constitutes the real price of labour, although it is its apparent price. The real price is that which a certain quantity of work performed actually costs the employer; and considered in this light, labour is in almost all cases cheaper in rich countries than in those that are poorer, although the price of grain and other provisions is usually much lower in the last than in the first.... Labour estimated by the day is much lower in Scotland than in England.... Labour by the piece is generally cheaper in England.” (James Anderson, “Observations on the Means of Exciting a Spirit of National Industry,” &tc., Edin. 1777, pp. 350, 351.) On the contrary, lowness of wages produces, in its turn, dearness of labour. “Labour being dearer in Ireland than it is in England ... because the wages are so much lower.” (N. 2079 in “Royal Commission on Railways, Minutes,” 1867.) 4 (Ure, op. cit., p. 314.) 5 (“Reports of Insp. of Fact.,” 31st Oct., 1866, pp. 31-37, passim.) 6 “Essay on the Rate of Wages, with an Examination of the Causes of the Differences in the Condition of the Labouring Population throughout the World,” Philadelphia, 1835.
- 
+1 It’s not correct to say that wages go up just because workers can buy more of a cheaper product.
 
- 
-(Simplified)
- 
+2 Later, we will look at how productivity can change this rule for certain types of work.
+
+3 James Anderson points out in his argument against Adam Smith that even though wages seem lower in poor countries where food is cheap, the real cost of labor is often higher there. This is because the real price of labor is what the employer actually pays for the work done, not just the daily wage. So, labor is usually cheaper in rich countries than in poor ones, even if food costs less in poor countries. For example, daily wages are lower in Scotland than in England, but piecework is usually cheaper in England.
+
+4 On the other hand, low wages can actually make labor more expensive. For instance, labor is more costly in Ireland than in England because wages are much lower there.
+
+5 (References to reports and studies supporting these points.)
+
+6 (Mention of an essay from 1835 discussing wage rates and why workers’ conditions differ worldwide.)

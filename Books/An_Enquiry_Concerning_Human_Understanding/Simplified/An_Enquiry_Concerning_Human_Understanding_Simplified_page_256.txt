@@ -1,26 +1,19 @@
-It is a form of habituation in response to repetition, hence ‘habit’ seems an appropriate name for this ‘principle of human nature’.
- 
- But Hume usually prefers the term custom, which Locke had used (see explanatory note to 3.0), though with highly negative connotations which Hume reverses.
- 
- 5.6 Custom, then, is the great guide of human life: Hume pointedly echoes Bishop Joseph Butler’s famous phrase in the introduction to his Analogy of Religion (1736), that ‘Probability is the very guide of life’. He agrees with Butler on the importance of probable or factual reasoning, our only means of discovering anything about the world. However, such reasoning does not depend—as Locke and Butler had assumed—on any type of rational insight into why things must (or are likely to) behave uniformly.
- 
- Instead it depends on custom, an instinctive principle of human nature that just leads us to assume that they will do so.
- 
- 5.8 What then . . . matter?: the upshot of Hume’s discussion is that all human belief about the world that goes beyond what is perceived or remembered is based on customary inference from something that we have perceived or remembered.
- 
- 5.8 It is an operation of the soul: Hume emphasizes that custom is involuntary and instinctive, at its most basic level not subject to rational control.
- 
- ‘Soul’ here is just another word for ‘mind’, with no religious connotation intended.
- 
- 5.9 the remaining . . . neglected: see the Introduction, p. xl.
- 
- 5.12 Were we to . . . sentiment: inTreatise1.3.7.5, Hume had purported to give a definition of belief as ‘A livelyidearelatedto orassociatedwith apresentimpresssion’. In the Appendix to the Treatise, as here, he acknowledged that the difference between imagining something and believing it cannot be characterized so crudely, as just a matter of liveliness (i.e. the same thing that is supposed to distinguish ideas from impressions, as at 2.3).
- 
- 5.16 shadow out: represent or symbolize, by an imperfect image.
- 
- 5.17 n. 9 “Naturane nobis . . . disciplina”: this passage, from Cicero’s De Finibus Bonorum et Malorum(On the Chief Good and Evil), is translated thus by H. Rackham (Loeb, 1921): ‘Why are we more affected, asked Piso, when we learn that the places we see were often frequented by famous men than we are when we hear a report of the same men’s exploits or read a written account of them? Is it a natural endowment we have, or is it some sort of aberration? I feel the effect now, for example. For I am put in mind of Plato, who we are told was the first to practice disputation here; indeed the adjoining gardens not only bring him back to mind but seem to place the man himself before my eyes. Here is Speusippus, here Xenocrates, and here his follower Polemo: The bench we see over there was Polemo’s. In the same way, even when looking at our own senate building—I mean the Hostilia, not the new building, which looks slighter to me since it was enlarged—I used to think of Notes to Pages 39–43 193 Scipio, Cato, Laelius, and especially my grandfather.
- 
+Habits form because we get used to things happening over and over. That’s why calling it a ‘habit’ makes sense when talking about human nature.
 
- 
-(Simplified)
- 
+But Hume usually uses the word ‘custom’ instead. Locke used this word too, but he thought of it in a negative way. Hume, however, sees it differently.
+
+Custom is very important in how people live. Hume agrees with Bishop Joseph Butler, who said that “Probability is the very guide of life.” This means we rely on what probably happens to understand the world. But unlike Locke and Butler, Hume thinks this doesn’t come from logical thinking about why things should happen the same way.
+
+Instead, it comes from custom, which is a natural, automatic part of being human that makes us expect things to happen the same way again.
+
+So, what does this mean? Basically, all the beliefs we have about the world beyond what we see or remember come from habits of thinking based on past experiences.
+
+Hume says this process happens automatically in our mind and we don’t control it with reason.
+
+When Hume talks about the ‘soul,’ he just means the ‘mind.’ He’s not talking about religion.
+
+In his earlier work, Hume tried to explain belief as a strong idea connected to a real feeling. Later, he admitted belief is more complicated than just how lively the idea feels.
+
+When Hume says something ‘shadows out’ an idea, he means it shows or represents it, but in an imperfect way.
+
+There’s a passage from Cicero that Hume mentions. It talks about why we feel more connected when we visit places where famous people once were, compared to just hearing stories or reading about them. Seeing the place makes those people seem more real in our minds. For example, looking at a bench where a philosopher once sat can make us think about him as if he were there.

@@ -1,32 +1,21 @@
-1780-81, 18:245)· II For further comments on Plato, see R 6050 (I780s? I776-79? 18:434-7) under the title "On philosophical enthusiasm"; R 6051 (I780s? I776-79?
- 
- 18:437-9); and R 6055 (1783-84, 18:439)· 12 On Plato's doctrine of recollection (anamnesis), see Meno 8 I, Phaedo 73-7, Phaedrus 243-57. Also see an allusion to it at Republic 5 I8c, which speaks of turning the eye of the soul toward the forms.
- 
- 13 Johann Jakob Brucker (1696-177°), author of Historia critica philosophica (Leipzig: Breitkopf, 1742-44); the section on Plato is volume I, pp.
- 
- 627-728, and the disparaging remarks about the political applications of Plato's theory of ideas are on p. 726.
- 
- 14 Plato never asserts that punishment would be unnecessary in the perfect state, in the Republic or anywhere else. On the contrary, he often empha­ sizes the educational value of punishment in making people more just (Re­ public 59Ib; cf. Gorgias 476-9).
- 
- IS Plato did hold that forms or ideas are causes (aitiai) of natural things. See Phaedo roOC-IOza, Republic 508e, Timaeus 29a-30b.
- 
- 16 There are a number of reflections that should be compared to this classi­ fication of kinds of representation. These include R 1705 (1776-79,16:889); R 2834-6 (I769-70? I764-68? 16:536), R 2835 (I773-75? I762-64?
- 
- I769? 16:536-7), and R 2836 (I775-77? I776-78? 16:538-9), and R 4073 (1769, 17:404-5)' 17 To this paragraph, compare R 5093 (1776-78, 18:85)· 18 The foundation of the ideas of reason in the categories of relation is clearly sketched at R 5555 (1778-1780s, 18:231-2).
- 
- 19 The argument of the preceding paragraph, which differs from that of the previous section by grounding the tripartite division of the "Dialectic" on a tripartite division of kinds of objects rather than on the three relational categories (as at A 323 1B 379), is anticipated at R 5553 (I778-79? 1780-81?
- 
- 221-9, at pp. 225-6 and 229)' In R 5642 (1780-81, 18:279-82), Kant not only uses this new foundation but even connects it instead of the three re­ lational categories to the three forms of rational inference (categorical, hy­ pothetical, disjunctive; see 18:281).
- 
- 20 The Wolffian system of metaphysics, as expounded by Baumgarten in Metaphysica (Halle, 1738), is divided into the general science of "ontology" (Metaphysica §§ 4-350), followed by the three special sciences of "cosmol­ ogy" (Metaphysica §§ 351-5°0), "psychology" (Metaphysica §§ 501-799), and "natural theology" (Metaphysica §§ 800-rooo).
- 
- 2 I Kant defines a paralogism as "an inference which is false in its form (al­ though its matter (the premises) are correct)" at R 5552 (I778-79? 1780s?
- 
- 18:218-21, at p. 218).
- 
- 22 Kant expounds in several places the traditional rational psychology which is criticized here: Among them are R 4230 (I769-70? 17:467-69), Meta­ physik L[ (28:265-8); the lengthiest treatment in the later Metaphysik Mron­ govius (29:9°3-20) refers to many criticisms made in the Critique. Kant treats the subject of rational psychology as part of the antinomies at R 4758-9 (1775-77, 17:705-II). He is clearly working out further details of 737 Notes to pages 416-422 his critique of rational psychology at R 5451-6r (1776-78, 18:186-9).
- 
+Between 1780 and 1781, there were more thoughts shared about Plato. For more on this, see references R 6050, R 6051, and R 6055, which discuss "philosophical enthusiasm."
 
- 
-(Simplified)
- 
+Plato’s idea of recollection, or anamnesis, is explained in his works Meno, Phaedo, and Phaedrus. There is also a mention of it in the Republic, where it talks about the soul looking toward perfect forms.
+
+Johann Jakob Brucker, who lived from 1696 to 1770, wrote a book called Historia critica philosophica. The part about Plato is in volume I, pages 627-728. He didn’t think Plato’s ideas worked well in politics, and he says this on page 726.
+
+Plato never said that punishment wouldn’t be needed in a perfect society. Actually, he believed punishment helps teach people to be more just, as shown in the Republic and the Gorgias.
+
+Plato also believed that forms or ideas cause natural things to exist. You can find this in Phaedo, Republic, and Timaeus.
+
+There are several writings that talk about different types of representation, including R 1705, R 2834-6, R 2835, R 2836, and R 4073.
+
+You can compare these ideas with R 5093. The foundation for ideas of reason based on relations is explained clearly in R 5555.
+
+The argument mentioned earlier, which is different because it divides the "Dialectic" into three parts based on types of objects instead of relations, is found in R 5553. In R 5642, Kant uses this new idea and connects it to three forms of reasoning: categorical, hypothetical, and disjunctive.
+
+Baumgarten explained the Wolffian system of metaphysics in his 1738 book Metaphysica. It is split into a general science called "ontology," followed by three special sciences: "cosmology," "psychology," and "natural theology."
+
+Kant defines a paralogism as a wrong conclusion that looks correct because the premises are true but the form is false. This is explained in R 5552.
+
+Kant talks about traditional rational psychology in several places, including R 4230, Metaphysik L, and Metaphysik Mrongovius, where he criticizes it. He also discusses it as part of the antinomies in R 4758-9 and gives more details in R 5451-61.

@@ -1,26 +1,19 @@
-155 Chapter 9 If the value of 30s. is contained in 20 lbs. of yarn, then 8/10ths of this value, or the 24s. that form its constant part, is contained in 8/10ths of the product or in 16 lbs. of yarn. Of the latter 13 1/3 lbs. represent the value of the raw material, the 20s. worth of cotton spun, and 2 2/3 lbs. represent the 4s. worth of spindle, &c., worn away in the process.
- 
- Hence the whole of the cotton used up in spinning the 20 lbs. of yarn, is represented by 13 1/3 lbs. of yarn. This latter weight of yarn contains, it is true, by weight, no more than 13 1/3 lbs. of cotton, worth 13 1/3 shillings; but the 6 2/3 shillings additional value contained in it, are the equivalent for the cotton consumed in spinning the remaining 6 2/3 lbs. of yarn. The effect is the same as if these 6 2/3 lbs. of yarn contained no cotton at all, and the whole 20 lbs. of cotton were concentrated in the 13 1/3 lbs. of yarn. The latter weight, on the other hand, does not contain an atom either of the value of the auxiliary materials and implements, or of the value newly created in the process.
- 
- In the same way, the 2 2/3 lbs. of yarn, in which the 4s., the remainder of the constant capital, is embodied, represents nothing but the value of the auxiliary materials and instruments of labour consumed in producing the 20 lbs. of yarn.
- 
- We have, therefore, arrived at this result: although eight-tenths of the product, or 16 lbs. of yarn, is, in its character of an article of utility, just as much the fabric of the spinner’s labour, as the remainder of the same product, yet when viewed in this connexion, it does not contain, and has not absorbed any labour expended during the process of spinning. It is just as if the cotton had converted itself into yarn, without help; as if the shape it had assumed was mere trickery and deceit: for so soon as our capitalist sells it for 24s., and with the money replaces his means of production, it becomes evident that this 16 lbs. of yarn is nothing more than so much cotton and spindle-waste in disguise.
- 
- On the other hand, the remaining 2/10ths of the product, or 4 lbs of yarn, represent nothing but the new value of 6s., created during the 12 hours’ spinning process. All the value transferred to those 4 lbs, from the raw material and instruments of labour consumed, was, so to say, intercepted in order to be incorporated in the 16 lbs. first spun. In this case, it is as if the spinner had spun 4 lbs. of yarn out of air, or, as if he had spun them with the aid of cotton and spindles, that, being the spontaneous gift of Nature, transferred no value to the product.
- 
- Of this 4 lbs. of yarn, in which the whole of the value newly created during the process, is condensed, one half represents the equivalent for the value of the labour consumed, or the 3s.
- 
- variable capital, the other half represents the 3s. surplus-value.
- 
- Since 12 working-hours of the spinner are embodied in 6s., it follows that in yarn of the value of 30s., there must be embodied 60 working-hours. And this quantity of labour-time does in fact exist in the 20 lbs of yarn; for in 8/10ths or 16 lbs there are materialised the 48 hours of labour expended, before the commencement of the spinning process, on the means of production; and in the remaining 2/10ths or 4 lbs there are materialised the 12 hours’ work done during the process itself.
- 
- On a former page we saw that the value of the yarn is equal to the sum of the new value created during the production of that yarn plus the value previously existing in the means of production.
- 
- It has now been shown how the various component parts of the value of the product, parts that differ functionally from each other, may be represented by corresponding proportional parts of the product itself.
- 
- To split up in this manner the product into different parts, of which one represents only the labour previously spent on the means of production, or the constant capital, another, only the necessary labour spent during the process of production, or the variable capital, and another and last part, 156 Chapter 9 only the surplus labour expended during the same process, or the surplus-value; to do this, is, as will be seen later on from its application to complicated and hitherto unsolved problems, no less important than it is simple.
- 
+If 30 shillings’ worth of value is inside 20 pounds of yarn, then 8/10 of that value, or the 24 shillings that make up its fixed part, is inside 8/10 of the yarn, which is 16 pounds. Out of those 16 pounds, 13 1/3 pounds represent the value of the raw cotton used (worth 20 shillings), and 2 2/3 pounds represent the 4 shillings' worth of spindle and other tools worn out during the process.
 
- 
-(Simplified)
- 
+So, all the cotton used to spin the 20 pounds of yarn is shown by 13 1/3 pounds of yarn. This weight of yarn actually has only 13 1/3 pounds of cotton, worth 13 1/3 shillings. But the extra 6 2/3 shillings in value are like payment for the cotton used to make the other 6 2/3 pounds of yarn. It’s as if those 6 2/3 pounds of yarn had no cotton at all, and all the cotton was packed into the 13 1/3 pounds. However, that 13 1/3 pounds doesn’t include any value from the tools or the new value made during spinning.
+
+Similarly, the 2 2/3 pounds of yarn that contain the 4 shillings of fixed capital only represent the value of the tools and materials used up to make the 20 pounds of yarn.
+
+So here’s what we find: even though 8/10 of the yarn, or 16 pounds, is just as much a product of the spinner’s work as the rest, it doesn’t actually contain or show any of the labor done during spinning. It’s like the cotton turned into yarn all by itself, like a trick. When the capitalist sells it for 24 shillings and replaces the tools, it’s clear that this 16 pounds of yarn is just disguised cotton and worn-out spindle parts.
+
+On the other hand, the remaining 2/10 of the yarn, or 4 pounds, represent only the new value of 6 shillings created during the 12 hours of spinning. All the value from the raw cotton and tools was “used up” in the first 16 pounds. So it’s like the spinner made 4 pounds of yarn out of thin air, or used cotton and spindles that were free gifts of nature and added no value.
+
+Out of these 4 pounds of yarn, which hold all the new value made during spinning, half is payment for the labor used (3 shillings variable capital), and the other half is the extra profit (3 shillings surplus value).
+
+Since 12 work hours equal 6 shillings, yarn worth 30 shillings must have 60 work hours in it. These work hours really exist in the 20 pounds of yarn: 48 hours are in the 16 pounds (the labor spent before spinning on making tools and preparing cotton), and 12 hours are in the 4 pounds (the labor done during spinning).
+
+Earlier, we saw that the yarn’s value equals the new value made during production plus the value already in the tools and cotton.
+
+Now, it’s shown how different parts of the product’s value, which work differently, can be shown by matching parts of the product itself.
+
+Breaking the product down this way—into parts that show only the labor spent before production (constant capital), only the necessary labor during production (variable capital), and only the extra labor making profit (surplus value)—is very important and useful, as will be clear when dealing with harder problems later.

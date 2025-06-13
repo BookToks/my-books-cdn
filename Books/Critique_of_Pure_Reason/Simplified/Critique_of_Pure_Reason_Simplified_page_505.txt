@@ -1,14 +1,9 @@
-Pt. II. Div. II. Bk. II. Ch. II ity of the necessary cause of the alterations, hence the cause itself, be­ longs to time,a hence to appearance (in which alone time is possible, as its form); consequently, it cannot be thought as detached from the world of sense as the sum total of all appearances. Thus in the world itself there is contained something absolutely necessary (whether as the whole world-series itself or as a part of it).
- 
- A4S6/B484 Remark on the Fourth Antinomy I. On the Thesis In order to prove the existence of a necessary being, I am here obliged to use no argument except the cosmological one, which ascends from the conditioned in appearance to the unconditioned in concept by view­ ing the latter as the necessary condition for the absolute totality of the series. It belongs to another principleb of reason to attempt the proof using only the idea of a being that is supreme over all others, and such a proof will therefore have to be put forward separately.
- 
- Now the pure cosmological proof can establish the existence of a necessary being in no other way than by leaving it unsettled whether this being is the world itself or a thing distinct from it. For in order to ascertain the latter, principles would be required that are no longer cos­ mological and do not continue in the series of appearances, but proceed from concepts of contingent beings in general (insofar as they are con­ sidered merely as objects of understanding), and a principle connecting such beings with a necessary being through mere concepts; all this be­ longs to a transcendent philosophy, for which this is still not the place.
- 
- But if one begins the proof cosmologically, by grounding it on the se­ ries of appearances and the regress in this series in accordance with em­ pirical laws of causality, then one cannot later shift from this and go over to something that does not belong to the series as one of its mem­ bers. For something regarded as a condition must be taken in just the A4S8/B486 same significance as it has in the relatione of conditioned to its condi­ tion in the series, if it is to lead this series to its highest condition through a continuous progress. Now if this relation is sensible and be­ longs to a possible empirical use of the understanding, then the highest condition or cause can conclude the regress only in accordance with laws of sensibility, hence only as something belonging to the time-se­ ries, and the necessary being must be regarded as the supreme member of the world-series.
- 
- Nevertheless, some have taken the liberty of making such a shift a Fifth edition: "to a time" b Princip , Relation 492 Section II.
- 
+Part of what causes changes has to do with time, and because time only exists in the world we can see and experience, the cause has to be connected to that world. So, something absolutely necessary exists within the world itself—either the whole world or part of it.
 
- 
-(Simplified)
- 
+Now, to prove that a necessary being exists, I have to use a certain kind of argument called the cosmological argument. This argument starts with things we see and moves to the idea that there must be something unchanging behind everything. Another kind of proof, which focuses on the idea of a being greater than all others, is different and needs its own explanation.
+
+The cosmological argument can only show that a necessary being exists, but it can’t say for sure if this being is the world itself or something separate from it. To figure that out, you would need different ideas that go beyond just what we see and experience, and that’s a bigger topic for another time.
+
+If you start with the cosmological argument based on what we can observe, you have to keep using only those observations. You can’t suddenly switch to something outside of what we see. Since conditions and causes are connected to what we experience through our senses and time, the necessary being has to be part of the world we know, like the most important part of the series of causes.
+
+Even so, some people have tried to make that switch anyway.

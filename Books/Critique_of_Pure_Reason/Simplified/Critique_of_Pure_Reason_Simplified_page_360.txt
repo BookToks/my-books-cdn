@@ -1,14 +1,9 @@
-On the Ground of the Distinction <A> aAppearances, to the extent that as objects they are thought in ac­ cordance with the unity of the categories, are called phaenomena. If, A249 however, I suppose there to be things that are merely objects of the un­ derstanding and that, nevertheless, can be given to an intuition, although not to sensible intuition (as coram intuiti intellectuali),b then such things would be called noumena (intelligibilia).
- 
- Now one might have thought that the concept of appearances, lim­ ited by the Transcendental Aesthetic, already yields by itself the objec­ tive reality of the noumenaC and justifies the division of objects into phenomena and noumena, thus also the division of the world into a world of the senses and of the understanding (mundus sensibilis & intelligibilis), indeed in such a way that the difference here would not concern merely the logical form of the indistinct or distinct cognition of one and the same thing, but rather the difference between how they can originally be given to our cognition, in accordance with which they are in them­ selves different species. For if the senses merely represent something to us as it appears, then this something must also be in itself a thing, and an object of a non-sensible intuition, i.e., of the understanding, i.e., a cognition must be possible in which no sensibility is encountered, and which alone has absolutely objective reality, through which, namely, objects are represented to us as they are, in contrast to the empirical use of our understanding, in which things are only cognized as they A 2 50 appear. Thus there would be, in addition to the empirical use of the categories (which is limited to sensible conditions), a pU_'e and yet ob­ jectively valid one, and we could not assert, what we have previously maintained, that our pure cognitions of the understanding are in general nothing more than principlesd of the expositione of appearances that do not go a priori beyond the formal possibility of experience, for here an entirely different field would stand open before us, as it were a world thought in spirit (perhaps also even intuited), which could not less but even more nobly occupy our understanding.
- 
- All our representations are in fact related to some object! through the understanding, and, since appearances are nothing but representa"We have seen at the end of the Principles that the concept of causality serves to de­ termine the relation [Verhaltnis] of the temporal sequence in the course of its appear­ ances priori; if we take time away, then it is for nothing." (E CXXIXI, p. 43; 23:36) a a The next seven paragraphs (A 249-53) are replaced with four paragraphs in the second edition (B 306-9)' b by means of intellectual intuition , Kant uses the Latin plural genitive noumenorum.
- 
- Principien d , Kant altered this to "synthesis of the manifold" in his copy of the first edition (E CXXIXII, p. 43; 23:48).
- 
- f Object 347 Doctrine of Elements.
- 
+Appearances are what we think of as objects based on how our mind groups things together. These are called phenomena. But imagine there are things that only our mind understands and can picture, but not through our senses—these are called noumena.
 
- 
-(Simplified)
- 
+You might think that just by looking at appearances, we can prove that noumena exist. This would mean there are two types of things: things we sense (phenomena) and things we understand without sensing (noumena). This would also mean the world is split into the world we see and the world we think about.
+
+If our senses only show us how things appear, then there must be real things behind those appearances that we can understand without using our senses. This kind of understanding would show us things as they really are, not just how they seem.
+
+So, besides using our senses to understand things, there could be a pure way to understand objects that is totally real and valid. This would open up a whole new way of thinking, like a world made just of ideas, which could be even more important than what we learn from our senses.
+
+All our thoughts are connected to objects through our understanding. And since appearances are just how things show up to us, they depend on our mind organizing them.

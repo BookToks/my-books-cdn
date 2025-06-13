@@ -1,12 +1,11 @@
-For the advantage that has made it so successful logic has solely its own limitation to thank, since it is thereby justified in abstracting -is indeed obliged to abstract -from all objectsb of cognition and all the distinctions between them; and in logic, therefore, the understanding has to do with nothing further than itself and its own form. How much more difficult, naturally, must it be for reason to enter upon the secure path of a science if it does not have to do merely with itself, but has to deal with objectsC too; hence logic as a propadeutic constitutes only the outer courtyard, as it were, to the sciences; and when it comes to infor­ mation, a logic may indeed be presupposed in judging about the latter, but its acquisition must be sought in the sciences properly and objec­ tively so called.
- 
- Insofar as there is to be reason in these sciences, something in them must be cognized a priori, and this cognition can relate to its object in either of two ways, either merely determining the object and its con­ BX cept (which must be given from elsewhere), or else also making the ob­ ject actual. The former is theoretical, the latter practical cognition of reason. In both the pure part, the part in which reason determines its objecti wholly a priori, must be expounded all by itself, however much or little it may contain, and that part that comes from other sources must not be mixed up with it; for it is bad economy to spend blindly whatever comes in without being able later, when the economy comes to a standstill, to distinguish the part of the revenue that can cover the expenses from the part that must be cut.
- 
- Mathematics and physics are the two theoretical cognitions of rea­ son that are supposed to determine their objectse a priori, the former entirely purely, the latter at least in part purely but also following the standards of sources of cognition other than reason.
- 
- Mathematics has, from the earliest times to which the history of human reason reaches, in that admirable people the Greeks, traveled the secure path of a science. Yet it must not be thought that it was as easy for it as for logic -in which reason has to do only with itself -to find that royal path, or rather itself to open it up; rather, I believe that Bxi mathematics was left groping about for a long time (chiefly among the Egyptians), and that its transformation is to be ascribed to a revolu­ tion, brought about by the happy inspiration of a single man in an ata Object Objecte b , Objecte d Object , Objecte 107 Preface tempt from which the road to be taken onward could no longer be missed, and the secure course of a science was entered on and pre­ scribed for all time and to an infinite extent.
- 
+Logic has been very successful, but it also has its limits because it only focuses on itself. It ignores all the things it thinks about and the differences between them. So, logic deals only with its own form and nothing else.  
 
- 
-(Simplified)
- 
+Because of this, it's much harder for reason to become a true science when it has to think about real things and not just itself. Logic is like the outside part of a science, a starting point. When we want to learn about real things, we need to look at actual sciences, not just logic.  
+
+For reason to work in these sciences, there must be some knowledge that comes before any experience (a priori). This knowledge can relate to its object in two ways: either it just defines the object and its idea (which has to come from somewhere else), or it actually makes the object real. The first is called theoretical knowledge, and the second is practical knowledge.  
+
+The pure part of reason, which deals only with knowledge that comes before experience, needs to be explained all by itself. We shouldn’t mix this pure knowledge with knowledge that comes from other places because it’s important to know what part is reliable and what part isn’t.  
+
+Math and physics are two kinds of theoretical knowledge where reason tries to define their objects before experience. Math does this completely on its own, while physics partly depends on other sources too.  
+
+Math has been studied for a very long time, starting with the ancient Greeks. But it wasn’t always easy for math to become a true science like logic, which only deals with itself. Math struggled for a long time, mostly with the Egyptians, until one smart person had a sudden great idea. This idea changed everything and showed the right path for math to become a real science forever.

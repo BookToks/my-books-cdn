@@ -1,14 +1,13 @@
-Pt. II. Div. II. Bk. II. Ch. I <B> the object of outer sense, since to the former only time pertains as the formal condition of its intuition, while to the latter space pertains also.
- 
- But if one considers that the two kinds of objects are different not in­ wardly but only insofar as one of them appears outwardly to the other, B428 hence that what grounds the appearance of matter as thing in itself might perhaps not be so different in kind, then this difficulty vanishes, and the only difficulty remaining is that concerning how a community of substances is possible at all, the resolution of which lies entirely out­ side the field of psychology, and, as the reader can easily judge from what was said in the Analytic about fundamental powers and faculties, this without any doubt also lies outside the field of all human cognition.
- 
- General remark concerning the transition from rational psychology to cosmology.
- 
- The proposition "I think," or "I exist thinking," is an empirical propo­ sition. But such a proposition is grounded on empirical intuition, con­ sequently also on the object thought, as an appearance; and thus it seems as if, according to our theory, the whole, even in thinking, is completely transformed into appearance, and in such a way our con­ sciousness itself, as mere illusion, would in fact come down to nothing.o Thinking, taken in itself,b is merely the logical function and hence the sheer spontaneity of combining the manifold of a merely possible intuition; and in no way does it present the subject of consciousness as B429 appearance, merely because it takes no account at all of the kind of in­ tuition, whether it is sensible or intellectual. In this way I represent my­ self to myself neither as I am nor as I appear to myself, but rather I think myself only as I do every objectd in general from whose kind of intuition I abstract. If here I represent myself as subject of a thought or even as ground of thinking, then these ways of representing do not signify the categories of substance or cause, for these categories are those functions of thinking (of judging) applied to our sensible intuition, which would obviously be demanded if I wanted to cognize myself. But now I want to become conscious of myself only as thinking; I put to one side how my proper self is given in intuition, and then it could be a mere ap­ pearance that I think, but not insofar as I think; in the consciousness of myself in mere thinking I am the being itself, about which, however, nothing yet is thereby given to me for thinking.
- 
- auf nichts gehen a b for sich , tauter Object d 456 On the paralogisms of pure reason <B> But the proposition "I think," insofar as it says only that I exist thinking, is not a merely logical function, but rather determines the subject (which is then at the same time an object)O in regard to existence, and this cannot take place without inner sense, whose intuition always makes available the objectb not as thing in itself but merely as appearance.
- 
+Part II, Division II, Book II, Chapter I
 
- 
-(Simplified)
- 
+The outer world we sense is different from our inner experiences because outer sense depends on space, while inner sense depends only on time.
+
+But if we think about it, the two kinds of objects aren’t really different inside; they only seem different because one appears outside the other. So, the idea that matter exists as a thing on its own might not be so different after all. This clears up some confusion. The only real problem left is understanding how different substances can exist together, which is a question beyond psychology. As explained earlier, this is also beyond what humans can fully understand.
+
+A general note about moving from thinking about the mind to thinking about the universe:
+
+Saying “I think” or “I exist because I think” is based on experience. This means it depends on what we sense, which is just an appearance. So, it might seem like even our thinking is just an illusion, and our consciousness isn’t real.
+
+But thinking itself is just how we logically put ideas together. It doesn’t show us how we really are or how we seem to ourselves. Instead, when I think about myself, I do it the same way I think about any object, without focusing on how I sense myself. When I think of myself as the one who thinks, this doesn’t mean I am a physical thing or a cause, because those ideas only apply when thinking about things we sense. When I focus only on thinking, ignoring how I sense myself, it might seem like my thinking is just an appearance—but not the fact that I am thinking. In pure thinking, I am the being itself, although thinking alone doesn’t tell me anything else about myself.
+
+The statement “I think” means more than just a logical function; it shows that the subject (me) exists. But this can’t happen without inner sense, which always presents the object not as it really is, but only as it appears.

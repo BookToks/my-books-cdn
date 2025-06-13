@@ -1,22 +1,17 @@
-Among Kant's notes, see R 29II-68 (various periods, 16:572-89) and R 2993-3008 (1769-80s, 16:606-11).
- 
- Kant's conception of "arbitrarily thought" concepts here is similar to Locke's 9 conception of ideas of mixed modes, which are always "adequate," because "not being intended for Copies of Things really existing, but for Archetypes made by the Mind," a mixed mode is "referred to nothing else but it self" (Essay concerning Human Understanding, book II, chapter xxxi, § 3).
- 
- 10 Kant is referring to the technological challenge in the eighteenth century of making a clock precise enough for computation of longitude, a task so difficult that the prize of £20,000 offered for its successful accomplishment by the British parliament in 1714 was not fully awarded until 1773. For a detailed account, see John Noble Wilford, The Mapmakers (New York: Knopf, 1981), pp. 130-6.
- 
- II See R 2920-8 (1769-75, 16:576-9) and R 2950 (1778-80s, 16:585).
- 
- 12 Here Kant is using "characteristic" (characteristisch) in the sense of a com­ putational method in which concepts are assigned numerical values, the sense underlying Leibniz's project of a "universal characteristic," in which all questions could be solved by analysis by assigning a numerical value to all concepts (see, e.g., Leibniz's draft "Preface to a Universal Character­ istic" of 1678-79, in Ariew and Garber, pp. 5-10).
- 
- 13 Kant here refers to the "Antinomy of Pure Reason," of course.
- 
- 14 Johann Georg Sulzer (1720-1779), Wolffian philosopher and director of the philosophical section of the Berlin Academy of Sciences, now remem­ bered primarily for his work in aesthetics, especially Unterredungen iiber die Schonheit der Natur (Berlin, 1750) and Allgemeine Theorie der schon en Kiinste (Leipzig, 1771-74), where he extended Baumgarten's approach into an even more psychological theory .that the primary object of enjoyment in aesthetic experience is the state of our own cognitive condition. Sulzer was the translator of Hume's first Enquiry (1755), and also the author of the Berlin Academy prize question for 1763 in response to which Kant's 1764 Inquiry was written, as well as one of the original critics of Kant's theory of the ideality of time in the inaugural dissertation. The present reference is to Sulzer's Vermischte Schriften of 1773.
- 
- 15 Kant is obviously referring to the arguments of Hume's posthumously published Dialogues concerning Natural Religion (1779). The Dialogues were published in German in 1781, in a translation by the Konigsberg writer Johann Georg Hamann (1730-1788) who, like his follower Friedrich Heinrich Jacobi (1743-1819), enlisted Hume in the cause of his own dog­ matic fideism. Because of his earlier connection with Hamann as well as his interest in Hume, Kant would certainly have read Hamann's translation immediately upon publication, if not indeed prior to it.
- 
- 16 Joseph Priestley (1733-1804), English dissenting minister, teacher, scientist, and philosopher. As a scientist, Priestley's major accomplishment was the isolation of oxygen, although it was left to Cavendish and Lavoisier to in­ terpret the theoretical significance of Priestley's discovery. As a philosopher, he was a defender of the associationism of David Hartley (1705-57), and de­ fended materialism, with the consequence that immortality could not be a natural condition of mankind, and determinism, especially in two works of 752 Notes to pages 650-673 1777, Disquisitions Relating to Matter and Spirit and The Doctrine of Philosoph­ ical Necessity Illustrated.
- 
+Among Kant's notes, check R 29II-68 (from different times, 16:572-89) and R 2993-3008 (from 1769 to the 1780s, 16:606-11).
 
- 
-(Simplified)
- 
+Kant’s idea of “arbitrarily thought” concepts is similar to Locke’s idea of mixed modes. Mixed modes are always “adequate” because they aren’t made to copy real things but are created by the mind itself, so they only relate to themselves (from Locke’s Essay concerning Human Understanding, book II, chapter 31, section 3).
+
+Kant is talking about a big technical problem in the 18th century: making a clock precise enough to figure out longitude at sea. This was so hard that the British government offered a prize of £20,000 in 1714, but no one fully earned it until 1773. For more details, see John Noble Wilford’s book The Mapmakers (New York: Knopf, 1981), pages 130-6.
+
+Look at R 2920-8 (from 1769-75, 16:576-9) and R 2950 (from the late 1770s to 1780s, 16:585).
+
+Here, Kant uses the word “characteristic” to mean a way of solving problems by giving numbers to ideas. This idea comes from Leibniz, who wanted a “universal characteristic” where all questions could be solved by turning ideas into numbers (see Leibniz’s draft “Preface to a Universal Characteristic” from 1678-79, in Ariew and Garber, pages 5-10).
+
+Kant is talking about the “Antinomy of Pure Reason,” which is a famous problem he worked on.
+
+Johann Georg Sulzer (1720-1779) was a philosopher who led the philosophy section of the Berlin Academy of Sciences. He is mainly remembered for his work on aesthetics, especially in his books about the beauty of nature (Berlin, 1750) and art (Leipzig, 1771-74). He developed a psychological theory saying the main joy in art comes from how our minds feel. Sulzer translated Hume’s first Enquiry (1755) and wrote a prize question for the Berlin Academy in 1763, which Kant answered in 1764. Sulzer also criticized Kant’s early ideas about time. The current reference is to Sulzer’s mixed writings from 1773.
+
+Kant is clearly referring to the arguments in Hume’s Dialogues concerning Natural Religion, published after Hume’s death in 1779. The Dialogues were translated into German in 1781 by Johann Georg Hamann, a writer from Konigsberg who, like his follower Friedrich Heinrich Jacobi, used Hume’s ideas to support their own religious beliefs. Because Kant knew Hamann and was interested in Hume, he probably read this translation as soon as it came out or even before.
+
+Joseph Priestley (1733-1804) was an English minister, teacher, scientist, and philosopher. As a scientist, he is famous for discovering oxygen, though others like Cavendish and Lavoisier explained what it meant. As a philosopher, he supported David Hartley’s idea of associationism, believed in materialism (the idea that everything is physical), and said immortality isn’t natural for humans. He also believed in determinism, which means everything is caused by something else. He explained these ideas in two works from 1777: Disquisitions Relating to Matter and Spirit and The Doctrine of Philosophical Necessity Illustrated.

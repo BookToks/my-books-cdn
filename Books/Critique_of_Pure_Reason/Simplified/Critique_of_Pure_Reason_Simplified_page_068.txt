@@ -1,14 +1,19 @@
-With regard to that which is simultaneous there is always a connection (condi­ tion of perception).
- 
- But it can be accompanied with all sorts of things; however, what is to be con­ sidered as objectively connected is a mutual determination of the manifold by one another.
- 
- If there were not something that always was, thus something permanent, stabile, there would be no firm point or determination of the point in time, thus no per­ ception, i.e., determination of something in time.
- 
- If there were not something that always preceded an occurrence, then among the many things that precede there would be nothing with which that which oc­ curs belongs in a series, it would have no determinate place in the series.
- 
- Through the rules of perception the objects of the senses are determinable in time; in intuition they are merely given as appearances. In accordance with those rules there is found an entirely different series than that in which the ob­ jectwas given.'l2 Here Kant suggests that what he has previously called the "exposition of appearances" is the determination of a definite order and position for occurrences in time. He does not say whether the occurrences are rep­ resentations in a subject or states of objects, but in either case to order them in time is to determine whether at some particular point or period in time such occurrences succeed one another in a specific order or are simultaneous with each other. In order to determine this, Kant holds, we have to posit the existence of objects that endure through time -substances -and the existence of determinate patterns of causa­ tion and interaction among them. Thus we need to use the fundamen­ tal categories of substance, causation, and interaction for time­ determination or the "exposition of appearances." Kant does not explain in any detail why we must use these categories to accomplish this end -a fuller explanation of that will await the sec­ tion of the published Critique called the "Analogies of Experience" (A 176-2I8/B 2 18-65). In the Critique, the "Analogies" follow a separate argument for the universal and necessary validity of the categories from certain more abstract conceptions of both objects and apperception, which he calls the "Transcendental Deduction of the Pure Concepts of the Understanding" (A 84-1 30 and B 116-69). Since in Kant's original sketches of the central argument of his planned Critique there is no sep­ aration between the discussion of apperception, objects, and the expo­ sition of appearances, and the original discussion of the relation between apperception and objects already has the form of an analogy, it is an enduring question for the interpretation of the Critique whether or not these two sections have rendered asunder considerations that should have remained joined. This is a question for any reader of the 55 Introduction Critique to consider in trying to analyze the relation between the "Transcendental Deduction" and the "Analogies.
- 
+When things happen at the same time, they are always connected in some way that we can notice.
 
- 
-(Simplified)
- 
+But this connection can come with lots of different things. What really matters is that the different parts affect each other.
+
+If nothing stayed the same all the time, there wouldn’t be a clear moment to point to in time. That means we couldn’t really notice or understand when something happens.
+
+Also, if nothing always came before something else, then things wouldn’t have a clear order. We wouldn’t know where something fits in a sequence.
+
+Our senses help us figure out when things happen in time. When we just see something, it’s like an appearance, but by using certain rules, we can put events in a specific order.
+
+Kant says that this ordering means deciding if things happen one after another or at the same time. To do this, we need to believe that some objects last over time and that they cause and affect each other in certain ways.
+
+So, we use basic ideas like “substance,” “cause,” and “interaction” to put things in order in time. Kant doesn’t fully explain why we have to use these ideas here, but he plans to do that later in a section called the “Analogies of Experience.”
+
+Before that, he talks about why these ideas are always true based on how we understand objects and ourselves, which he calls the “Transcendental Deduction of the Pure Concepts of the Understanding.”
+
+Some people wonder if Kant should have kept these two parts connected because his early notes didn’t separate them.
+
+This is something readers think about when they try to understand how these two sections relate to each other.

@@ -1,20 +1,15 @@
-Notes to Pages 119–120 205 12.27 As the component . . . similar: Hume’s reason for restricting demonstration to mathematics is that only mathematical ideas have sufficiently precise and intricate relations with each other to make demonstration fruitful.
- 
- 12.27 the square of the hypothenuse: this result is known as Pythagoras’ Theorem; see explanatory note to 4.1.
- 
- 12.28 CAESAR: Julius Caesar (100‒44 bc) became dictator of Rome by defeating his rivals in the first Triumvirate, and hence ended the Republic. His murder by Brutus and Cassius, intended to restore the Republic, led to a second civil war in which Octavian triumphed to become the first Roman emperor, under the name Augustus (cf. explanatory note to 10.28). Hume refers to Caesar’s famous book The Gallic War in various places, and takes his existence as a paradigm example of a fact securely established by moral evidence (e.g. Treatise 1.3.4.2, 1.3.13.4,2.3.1.15).
- 
- 12.28 the angel GABRIEL: best known from the New Testament book of Luke (1: 26‒38), where as God’s messenger he informs Mary about the forthcoming birth of Jesus. In making reference to Gabriel, Hume is clearly hinting at a more significant application of his principle, namely that the non-existence of God Himself is ‘perfectly conceivable, and implies no contradiction’. Hence any attempt to prove the existence of God a priori (e.g. by Anselm’s or Descartes’s so-called Ontological Argument) must be doomed to failure.
- 
- 12.29 It is only experience: Hume here repeats his result about our knowledge of causation from 4.11. In the context of the previous sentence, he also seems to be hinting at a corollary, that any causal argument for God’s existence must be founded entirely on causal principles established by experience. This cripples any attempt to argue beyond what is manifest in experience, as already demonstrated in Section XI, and hence any form of the so-called Cosmological Argument.
- 
- 12.32 But its best . . . revelation: this pious sentence seems to be disingenuous, another instance of ‘theological lying’ (see p. 146). Hume suggests that ‘Divinity . . . has a foundation in reason, so far as it is supported by experience’, but Sections X and XI have argued—based on Hume’s theory of experiential reasoning—that the specific doctrines of Christianity cannot be backed up by miraculous endorsement, while natural theology establishes nothing. So divinity is not‘supported by experience’ at all. Note also the fate of books of divinity at 12.34.
- 
- 12.33 Morals . . . sentiment: ‘criticism’ means artistic criticism or aesthetic judgement. Hume grounds both morality and aesthetics on sentiment rather than reason—see the Introduction, p. xlviii.
- 
- 12.34 Commit it then to the flames: Burning had long been a common fate of atheistic books. Perhaps Hume is suggesting here that the wrong books have been destroyed, bearing in mind that Section XII started with a comment on atheism.
- 
+12.27 Hume says that only math can really prove things because math ideas are clear and connected in just the right way.  
 
- 
-(Simplified)
- 
+12.27 The square of the hypotenuse: This is called Pythagoras’ Theorem. You can check the note at 4.1 for more about it.  
+
+12.28 CAESAR: Julius Caesar lived a long time ago (100–44 BC). He became the ruler of Rome after beating his rivals and ended the Republic. After he was killed by Brutus and Cassius, who wanted to bring the Republic back, there was another civil war. Octavian won and became the first Roman emperor, called Augustus. Hume talks about Caesar’s book The Gallic War to show a fact that we can trust based on good evidence.  
+
+12.28 the angel GABRIEL: Gabriel appears in the Bible, in the book of Luke, where he tells Mary she will have Jesus. When Hume talks about Gabriel, he is hinting that it’s possible God might not exist, because there’s no contradiction in thinking that. So, any argument trying to prove God exists just by thinking about it (like Anselm’s or Descartes’s Ontological Argument) will fail.  
+
+12.29 It is only experience: Hume repeats his idea from earlier that we only know about cause and effect through experience. He also suggests that any argument trying to prove God exists by cause and effect has to be based on what we experience. This makes it impossible to argue about God beyond what we can actually see or feel, like in the Cosmological Argument.  
+
+12.32 But its best . . . revelation: This sentence sounds religious but might be fake or misleading. Hume says that belief in God is based on reason only if it’s supported by experience. But earlier sections show that Christian beliefs don’t have real proof through miracles, and natural theology doesn’t prove anything. So, belief in God isn’t really based on experience at all. Also, see what happened to religious books at 12.34.  
+
+12.33 Morals . . . sentiment: Here, ‘criticism’ means judging art or beauty. Hume says that both morals and judging art come from feelings, not reason. You can see this in the Introduction, page xlviii.  
+
+12.34 Commit it then to the flames: Burning books that go against religion was common. Maybe Hume is saying the wrong books got burned, especially since this section started by talking about atheism.

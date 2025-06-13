@@ -1,20 +1,11 @@
-Pt. II. Div. I. Bk. I. Ch. II <A> We have above explained the understanding in various ways -through a spontaneity of cognition (in contrast to the receptivity of the sensibil­ ity), through a faculty for thinking, or a faculty of concepts, or also of judgments -which explanations, if one looks at them properly, come down to the same thing. Now we can characterize it as the faculty of rules. This designation is more fruitful, and comes closer to its essence.
- 
- Sensibility gives us forms (of intuition), but the understanding gives us rules. It is always busy poring through the appearances with the aim of finding some sort of rule in them. Rules, so far as they are objectivea (and thus necessarily pertain to the cognition of objects) are called laws.
- 
- Although we learn many laws through experience, these are only partic­ ular determinations of yet higher laws, the highest of which (under which all others stand) come from the understanding itself priori, and a are not borrowed from experience, but rather must provide the appear­ ances with their lawfulness and by that very means make experience pos­ sible. The understanding is thus not merely a faculty for making rules through the comparison of the appearances; it is itself the legislation for nature, i.e., without understanding there would not be any nature at all, AI27 i.e. synthetic unity of the manifold of appearances in accordance with rules; for appearances, as such, cannot occur outside us, but exist only in our sensibility. The latter, however, as the object of cognition in an ex­ perience, with everything it may contain, is possible only in the unity of apperception. The unity of apperception, however, is the transcendental ground of the necessary lawfulness of all appearances in an experience.
- 
- This very same unity of apperception with regard to a manifold of rep­ resentations (that namely of determining it out of a single one) is the rule, and the faculty of these rules is the understanding. All appearances as possible experiences, therefore, lie priori in the understanding, and a receive their formal possibility from it, just as they lie in the sensibility as mere intuitions, and are only possible through the latter as far as their form is concerned.
- 
- Thus as exaggerated and contradictory as it may sound to say that the understanding is itself the source of the laws of nature, and thus of the formal unity of nature, such an assertion is nevertheless correct and ap­ propriate to the object, namely experience. To be sure, empirical laws, as such, can by no means derive their origin from the pure understand­ ing, just as the immeasurable manifoldness of the appearances cannot be adequately conceived through the pure form of sensible intuition.
- 
- AI28 But all empirical laws are only particular determinations of the pure edition deduction, from which he infers that Kant in fact very early gave up hope of im­ proving the deduction by minor changes.
- 
- a Changed to "Rules, so far as they [represent] existence as necessary ..." in Kant's copy of the first edition (E LII, p. 27; 23:46).
- 
- 242 Section III.
- 
+We have talked about understanding in different ways—like how it works naturally with thoughts, or how it helps us think and make judgments. But all these ways really mean the same thing. Now, we can say that understanding is like a skill for making rules. This idea helps us understand it better.
 
- 
-(Simplified)
- 
+Our senses give us shapes and images, but understanding gives us rules. It’s always trying to find rules in what we see and experience. When these rules are about real things and always true, we call them laws.
+
+We learn many laws from experience, but these are just specific parts of bigger laws. The biggest laws don’t come from experience. Instead, they come from understanding itself, before we even have any experience. These laws make it possible for us to have experiences in the first place. So, understanding doesn’t just make rules by looking at what happens; it actually creates the basic laws of nature. Without understanding, there wouldn’t be any nature at all.
+
+The way we keep all our experiences connected and make sense of many different things as one is called the “unity of apperception.” This unity is why all the rules and laws in our experiences have to be true and fit together. The understanding is the part of us that makes sure all these rules work together.
+
+All possible experiences are built on this understanding first, and they get their shape from our senses. So, even though it sounds strange, it’s true that understanding is where the laws of nature come from. But, the specific laws we learn from experience don’t come from understanding alone, and the huge variety of things we see can’t be explained just by how we sense them.
+
+In short, all the specific laws we find in nature are just parts of bigger, pure laws that come from understanding itself.

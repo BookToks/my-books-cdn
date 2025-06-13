@@ -1,6 +1,45 @@
-1,10.20) side of a right-angled triangle fabric constitution (1.8,4.4,7.22) (4.1,12.27) fabulous legendary (10.40) ideaa thought (see p. xxxiii; passim) facility ease (4.2,7.2) illiberal narrow-minded (1.5) faculties abilities (see p. 188;passim) illustrious renowned (1.1) false counterfeit (1.12,10.22, F.1) imagination, the faculty of fancied imagined (7.24) imagination (see p. 188;passim) fancy imagination (see p. 188;4.8, imbibed absorbed (12.4) 5.11,5.16,7.21,10.18, O.1) impediment obstruction (8.13) faster firmer (5.12) impel to force or push (5.5, D.1) feign to imagine, invent (5.10) impertinent impudent, brazen (10.2) fiat decree (7.20) imports is important (7.29) fine subtle, refined (1.9,1.13,1.14, impression a sensation or feeling 7.1,10.34) (see p. xxxiii; passim) fly toflee (1.11) imprudent ill-advised (5.1, B.1) forbear to refrain from (3.3) impulse impact (4.8,4.10,4.12,5.5, forborne refrained from (8.26) 5.11,6.4,7.6,7.21,7.25,7.28) foretel to foretell, prophesy imputation allegation (10.25) (7.27,7.28,10.41) inculcated persistently urged (12.3) fortuitous random (11.10) incumbent a duty (2.6,4.16,8.21) foster to encourage (5.1) incur to bring on oneself (B.4) frame construction (8.35,10.20) indifference chance, absence of furnish to provide (5.10,8.7,11.27) necessity (8.32,8.36, F.1) gaoler jailer (8.19) indifferent impartial, neutral (11.9) generation procreation (7.21) indolence laziness (1.12,5.1) genius spirit or aptitude (1.5,1.9, infinitum, in to infinity (5.7,12.18) 10.25,10.26, L.12) inforces enforces (5.12) governour governor (11.20) infringement violation (11.28) graces divine favours (L.9) ingenuous frank (A.3) graver more serious or insensible too small or gradual to be solemn (12.2) perceived (2.8,5.14) gross flagrant, glaring (10.22,10.23, insinuated introduced subtly (D.1) 10.25,11.20) intangling entangling (1.11) gross solid or earthy (7.4,7.11, intercourse interactions (8.17,12.9) 7.25,10.18) interest benefit, stake (1.9,1.12,8.35, hands, on all by everyone 10.7,11.3,11.9,11.27,11.29) (4.16,8.2,10.1) interposition intervention (K.1) harangue speech (11.7,11.24) interred buried (10.37) haughtiness pride (12.24) inundation flood (11.24) head topic (12.21) invent to make up or devise heads headings (1.13) (4.9,4.10,4.11,12.18) hid hidden (8.13) invested authorized (L.6) hither here (11.9) inveterate obstinate, bitter (2.7,11.3) humane tending to civilize (1.8) inviolable unbreakable (4.13,10.20) husbandman farmer (8.9) irresolution hesitation (N.1) 216 Glossary isoceles isosceles (12.
- 
+Here is a list of words with their meanings to help you understand them better.
 
- 
-(Simplified)
- 
+A right-angled triangle has sides with specific lengths, like (1.8, 4.4, 7.22) or (4.1, 12.27). The word "fabulous" means something legendary or amazing.
+
+An "idea" is a thought. A "facility" means ease or skill in doing something. "Illiberal" describes someone who is narrow-minded.
+
+"Faculties" are abilities or powers we have. "Illustrious" means famous or well-known. "False" means fake or not true.
+
+"Imagination" is the ability to picture things in your mind. To "feign" is to pretend or make up something.
+
+"Impertinent" means rude or disrespectful. A "fiat" is an official order or decree. "Imports" means something important.
+
+"Fine" means something subtle or delicate. An "impression" is a feeling or idea you get from something. To "fly" means to run away or escape.
+
+"Imprudent" means not careful or wise. To "forbear" means to stop yourself from doing something. An "impulse" is a sudden urge or feeling.
+
+To "foretell" is to predict the future. An "imputation" is an accusation or blame. To "inculcate" means to teach something repeatedly.
+
+"Fortuitous" means happening by chance. "Incumbent" is a duty or responsibility. To "foster" means to encourage or support.
+
+To "incur" means to bring something bad on yourself. A "frame" is a structure or shape. "Indifference" means not caring about something.
+
+To "furnish" means to provide. "Gaoler" is an old word for jailer. "Indifferent" means neutral or not taking sides.
+
+"Generation" means having children or producing new life. "Indolence" means laziness. "Genius" is a great talent or spirit.
+
+"In infinitum" means forever or without end. To "enforce" means to make sure rules are followed. A "governor" is a leader.
+
+An "infringement" is breaking a rule. "Graces" are special gifts or favors. "Ingenuous" means honest or straightforward.
+
+"Graver" means more serious. "Gross" means obvious or big. To "insinuate" is to suggest something in a sneaky way.
+
+"Intangling" means getting tangled up. "Intercourse" means interactions or communication between people.
+
+"Interest" means a benefit or stake in something. "Interposition" means stepping in or interfering. A "harangue" is a long speech.
+
+"Interred" means buried. "Haughtiness" means being proud or arrogant. "Inundation" means a flood.
+
+A "head" is a topic or main point. To "invent" means to create something new. "Heads" are titles or headings.
+
+"Hid" means hidden. "Invested" means given power or authority. "Hither" means here.
+
+"Inveterate" means stubborn or deeply fixed. "Humane" means kind and caring. "Inviolable" means cannot be broken.
+
+A "husbandman" is a farmer. "Irresolution" means hesitation or not being sure. "Isosceles" is a type of triangle with two equal sides.
