@@ -1,14 +1,13 @@
-TRUTH AND FALSEHOOD 198 For the above two reasons, coherence cannot be accepted as giving the meaning of truth, though it is often a most important test of truth after a certain amount of truth has become known.
- 
- Hence we are driven back to correspondence with fact as constituting the nature of truth.
- 
- It remains to define precisely what we mean by " fact," and what is the nature of the correspondence which must subsist between beUef and fact, in order that behef may be true.
- 
- In accordance with our three requisites, we have to seek a theory of truth which!
- 
- (1) allows truth to have an opposite, namely falsehood, (2) makes truth a property of beliefs, but (3) makes it a property wholly dependent upon the relation of the beliefs, to outside things. 1 The necessity of allowing for falsehood makes it impossible to regard belief as a relation of the mind to a single object, which could be said to be what is believed. If belief were so regarded, we should find that, like acquaintance, it would not admit of the a 194 THE PROBLEMS OF PHILOSOPHY opposition of truth and falsehood, but would have to be always true.
- 
+Coherence can’t be used to explain what truth really means, even though it’s often a helpful way to check if something is true once we already know some truth.
 
- 
-(Simplified)
- 
+So, we have to go back to the idea that truth means matching up with facts.
+
+But first, we need to be clear about what we mean by “fact” and how a belief has to match a fact for the belief to be true.
+
+Based on three important points, we need a theory of truth that:
+
+(1) says truth can have an opposite, which is falsehood,  
+(2) says truth is something that beliefs can have, and  
+(3) says truth depends completely on how beliefs relate to things outside our minds.
+
+Because we have to allow for falsehood, we can’t think of belief as just a connection between our mind and one single object that we believe in. If belief worked like that, it would always be true, and there wouldn’t be any difference between truth and falsehood.

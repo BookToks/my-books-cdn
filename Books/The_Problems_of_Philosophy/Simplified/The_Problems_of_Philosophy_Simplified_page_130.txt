@@ -1,6 +1,3 @@
-And more particularly, how can there be knowledge of general propositions in cases where we have not examined all the instances, and indeed never can examine them all, because their number is infinite ? These questions, which were first brought prominently forward by the German philosopher Kant (1724-1804), are very difficult, and historically very important.
- 
+How can we know general facts when we haven't checked every single example? In fact, we can never check them all because there are endless examples.
 
- 
-(Simplified)
- 
+These questions were first made famous by the German thinker Kant, who lived from 1724 to 1804. They are really hard and have been very important in history.

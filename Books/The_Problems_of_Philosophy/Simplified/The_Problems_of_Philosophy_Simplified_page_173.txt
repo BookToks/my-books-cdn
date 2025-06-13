@@ -1,8 +1,7 @@
-Hence it follows that there are pairs of integers which never have been and never will be thought of by human beings, and that all of them deal with integers the product of which is over 10(^ Hence we arrive at the proposition : " All products of two integers, which never have been and never will be thought of by any human being, are over 100." Here is a general proposition of which the truth is undeniable, and yet, from the very nature of the case, we can never give an instance ;b ecause any two numbers we may think of are excluded by the terms of the proposition.
- 
- This possibility, of knowledge of general propositions of which no instance can be given, is often denied, because it is not perceived that the knowledge of such propositions only requires a knowledge of the relations of universals, and does not require any knowledge of instances of the universals in question. Yet the knowledge of such general propositions is quite vital to a great deal of what is generally admitted to be known. For example, we 170 THE PROBLEMS OF PHILOSOPHY saw, in our early chapters, that physical objects, as opposed to sense-data, are only obtained by an inference, and are not things with which we are acquainted.
- 
+So, there are pairs of whole numbers that no one has ever thought about and never will. All these pairs have products bigger than 100.
 
- 
-(Simplified)
- 
+This means: "All products of two whole numbers, which no one has ever thought about and never will, are more than 100." This idea is definitely true, but we can never give an example because any numbers we think of don't count.
+
+Some people say you can't know general ideas without examples. But actually, knowing these ideas just means understanding how general things relate, not needing examples.
+
+Knowing these general ideas is really important for a lot of what we say we know. For example, we learned earlier that physical objects aren’t things we directly see but are understood by reasoning.

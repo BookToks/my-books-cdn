@@ -1,10 +1,5 @@
-Further, it is probable, though not certain, that we have acquaintance with Self, as that which is aware of things or has desires towards things.
- 
- In addition to our acquaintance with particular existing things, we also have acquaintance with what we shall call universals, that is to say, general ideas, such as whiteness, diversity, brotherhood, and so on. Every complete sentence must contain at least one word which stands for a universal, since all verbs have a meaning which is universal. We shall return to universals later on, in Chapter IX ; for the present, it is only necessary to guard against the supposition that whatever we can be acquainted with must be something particular and existent. Awareness of universals is called conceiving, and a universal of which we are aware is called a concept.
- 
- It will be seen that among the objects with which we are acquainted are not included physical objects (as opposed to sense-data), nor other people's minds. These things are known to us by what I call " knowledge by description," which we must now consider.
- 
+Also, it’s likely, but not totally sure, that we know ourselves as the part that notices things or wants things.
 
- 
-(Simplified)
- 
+Besides knowing specific things around us, we also know general ideas, like whiteness, being different, or brotherhood. Every full sentence has at least one word that stands for a general idea, because all verbs have a general meaning. We will talk more about these general ideas in Chapter IX. For now, just remember that not everything we know has to be a specific, real thing. Knowing these general ideas is called conceiving, and the general idea we know is called a concept.
+
+You can see that things we know don’t include physical objects (different from what we sense) or other people’s minds. We learn about those by something I call "knowledge by description," which we will look at next.

@@ -1,8 +1,5 @@
-The probabihty of the general law is obviously less than the probability of the particular case, since if the general law is true, the particular case must also be true, whereas the particular case may be true without the general law being true. Nevertheless the probability of the general law is increased by repetitions, just as the probability of the particular case is.
- 
- We may therefore repeat the two parts of our principle as regards the general law, thus : (a) The greater the number of cases in which a thing of the sort A has been found associated with a thing of the sort B, the more probable it is (if no cases of failure of association are known) that A is always associated with B ; {b) Under the same circumstances, a sufficient number of cases of the association of A with B will make it nearlv certain that A is always associated with B, and will make ON INDUCTION 105 this general law approach certainty without limit.
- 
+The chance of a general rule being true is obviously less than the chance of a specific example being true. This is because if the general rule is true, then the specific example must be true too. But the specific example can be true even if the general rule is not.
 
- 
-(Simplified)
- 
+Still, the chance of the general rule being true gets higher when we see it happen again and again, just like the chance of the specific example being true does.
+
+So, we can say two things about the general rule: (a) The more times we see something like A happening with something like B, the more likely it is that A always happens with B, as long as we don’t find any cases where it doesn’t. (b) If we see enough cases where A happens with B, it becomes almost certain that A always happens with B, and this general rule gets closer and closer to being 100% true.

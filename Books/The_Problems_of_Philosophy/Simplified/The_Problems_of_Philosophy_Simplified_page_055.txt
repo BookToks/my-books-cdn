@@ -1,6 +1,5 @@
-Times when we are bored or suffering pain pass slowly, times when we are agreeably occupied pass quickly, and times when we are sleeping pass almost as if they did not exist. Thus, in so far as time is constituted by duration, there is the same necessity for distinguishing a public and a private time as there was in the case of space. But in so far as time consists in an order of before and after, there is no need to make such a distinction ; the time-order which events seem to have is, so far as we can see, the same as the time-order which they do have. At any rate no reason can be given for supposing that the two orders are not the same. The same is usually true of space : if a regiment of men are marching along a road, the shape of the regiment will look different from different points of view, but the men will appear arranged in the same order from all points of view. Hence we regard the order as true also in physical space, whereas the shape is only supposed to correspond to the physical space so far 52 THE PROBLEMS OF PHILOSOPHY as is required for the preservation of the order.
- 
+When we are bored or in pain, time feels like it goes very slowly. But when we are doing something fun, time seems to fly by. When we are sleeping, time feels like it almost disappears.
 
- 
-(Simplified)
- 
+Because time is about how long things last, we need to think about public time and private time, just like we think about space. But when we think about time as the order of events happening one after another, we don’t need to make that distinction. The way events seem to happen in order is the same as how they actually happen.
+
+This is also true for space. For example, if a group of soldiers is marching down a road, their shape might look different depending on where you are standing. But the order of the soldiers stays the same no matter where you look from. So, we believe the order is real in physical space, while the shape only matches the space enough to keep the order correct.

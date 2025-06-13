@@ -1,12 +1,7 @@
-" The belief in the uniformity of nature is the belief that everything that has happened or will happen is an instance of some general law to which there are no exceptions. The crude expectations which we have been considering are all subject to exceptions, and therefore liable to disappoint those who entertain them.
- 
- But science habitually assumes, at least as a working hypothesis, that general rules which have exceptions can be replaced by general rules which have no exceptions.
- 
- " Unsupported bodies in air fall " is a general rule to which balloons and aeroplanes are exceptions. But the laws of motion and the law of gravitation, which account for the fact that most bodies fall, also account for the fact that balloons and aeroplanes can rise ; thus the laws of motion and the law of gravitation are not subject to these exceptions.
- 
- The belief that the sun will rise to-morrow might be falsified if the earth came suddenly into contact with a large body which destroyed its rotation ; but the laws of motion and the law of gravitation would not be infringed by 100 THE PROBLEMS OF PHILOSOPHY such an event.
- 
+The belief in the uniformity of nature means thinking that everything that has happened or will happen follows some general rule with no exceptions. The simple expectations we have can sometimes be broken, so they might let us down.
 
- 
-(Simplified)
- 
+But science usually works on the idea that rules with exceptions can be replaced by rules that have no exceptions.
+
+For example, "things that are not held up fall" is a rule, but balloons and airplanes are exceptions. However, the laws of motion and gravity explain why most things fall and also why balloons and airplanes can rise. So, these laws don’t have exceptions.
+
+We believe the sun will rise tomorrow, but this could be proven wrong if something big hit the Earth and stopped it from spinning. Still, the laws of motion and gravity wouldn’t be broken by that kind of event.

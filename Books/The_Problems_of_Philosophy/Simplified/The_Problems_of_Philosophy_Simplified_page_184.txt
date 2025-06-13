@@ -1,8 +1,7 @@
-180 THE PROBLEMS OF PHILOSOPHY Another class of intuitive judgments, analogous to those of sense and yet quite distinct from them, are judgments of memory.
- 
- There is some danger of confusion as to the nature of memory, owing to the fact that memory of an object is apt to be accompanied by an image of the object, and yet the image cannot be what constitutes memory. This is easily seen by merely noticing that the image is in the present, whereas what is remembered is known to be in the past. Moreover, we are certainly able to some extent to compare our image with the object remembered, so t hat we often know, within somewhat wide limits, how far our image is accurate ; but this would be impossible, unless the object, as opposed to the image, were in some way before the mind. Thus the essence of memory is not constituted by the image, but by having immediately before the mind an object which is recognised as past. But for the fact of memory in this sense, we should not know that there evei was a past at all, nor should we be able to understand the word " past," any more than ON INTUITIVE KNOWLEDGE 181 a man born blind can understand the word " light.
- 
+Another type of judgment we make, similar to those from our senses but different, comes from memory.
 
- 
-(Simplified)
- 
+Memory can be confusing because when we remember something, we often see a mental picture of it. But this picture is not what memory really is. The picture happens right now, but what we remember happened in the past.
+
+We can also compare our mental picture with the real thing we remember. This helps us know if our picture is close to the actual memory. This wouldn’t be possible unless the real thing we remember is somehow in our mind too.
+
+So, memory isn’t just about the mental picture. It’s about having something in our mind that we know happened before now. Without memory like this, we wouldn’t even know there was a past, and we wouldn’t understand the word "past," just like a person who was born blind can’t understand the word "light."

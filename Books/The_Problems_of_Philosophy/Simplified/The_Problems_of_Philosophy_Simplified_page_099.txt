@@ -1,8 +1,7 @@
-It is obvious that if we are asked why we believe that the sun will rise to-morrow, we shall naturally answer, " Because it always has risen every day." We have a firm belief that it will rise in the future, because it has risen in the past. If we are challenged as to why we believe that it will continue to rise as heretofore, we may appeal to the laws of motion : the earth, we shall say, is a freely rotating body, and such bodies do not cease to rotate unless something interferes from outside, and there is nothing outside to interfere with the earth between now and to-morrow. Of course it might be doubted whether we are quite certain that there is nothing outside to interfere, but this is not the interesting doubt. The interesting doubt is as to whether the laws of motion will remain in operation until to-morrow. If this doubt is raised, we find ourselves in the same position as when the doubt about the sunrise was first raised.
- 
- The only reason for believing that the laws 96 THE PROBLEMS OF PHILOSOPHY of motion will remain in operation is that they have operated hitherto, so far as our knowledge of the past enables us to judge.
- 
+If someone asks why we think the sun will rise tomorrow, we usually say, "Because it always has risen every day." We believe it will rise again because it has done so in the past.
 
- 
-(Simplified)
- 
+If someone asks why we think it will keep rising, we might say it’s because of the laws of motion. The Earth spins freely, and things that spin don’t stop unless something else messes with them. Since nothing is going to stop the Earth from spinning tonight, the sun should rise tomorrow.
+
+But maybe we can’t be 100% sure nothing will interfere. Still, that’s not the main question. The main question is whether the laws of motion will still work tomorrow. If we doubt that, then we’re back to the same problem as with the sunrise.
+
+The only reason we believe the laws of motion will keep working is because they have always worked in the past, as far as we know.

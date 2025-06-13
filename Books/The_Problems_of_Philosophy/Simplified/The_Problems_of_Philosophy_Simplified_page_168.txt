@@ -1,10 +1,7 @@
-" It is quite unnecessary to know all the couples in the world : if it were necessary, obviously we could never understand the proposition, since the couples are infinitely numerous and therefore cannot all be known to us . Thus although our general statement implies statements about particular couples, as soon as we know that there are such particular couples, yet it does not itself assert or imply that there are such particular couples, and thus fails to make any statement whatever about any actual particular couple.
- 
- The statement made is about "couple," the universal, and not about this or that couple.
- 
- Thus the statement " two and two are four ** deals exclusively with universals, and therefore may be known by anybody who is acquainted with the universals concerned and can perceive the relation between them which the statement asserts. It must be taken as a fact, discovered by reflecting upon our knowledge, that we have the power of sometimes ON KNOWLEDGE OF UNIVERSALS 165 perceiving such relations between universals, and therefore of sometimes knowing general a priori propositions such as those of arithmetic and logic.
- 
+It’s not necessary to know every single pair in the world. If it were, we could never understand the idea because there are endless pairs, and we can’t know them all.
 
- 
-(Simplified)
- 
+Even though our general statement talks about pairs in general, it doesn’t say anything about any specific pair. So, it doesn’t make a claim about any actual pair.
+
+The statement is about the idea of “pair” in general, not about any one particular pair.
+
+For example, the statement “two and two are four” is about general ideas, and anyone who understands those ideas and how they connect can know it. It’s a fact that we can sometimes understand these connections between general ideas, which lets us know things like math and logic without needing to check every case.

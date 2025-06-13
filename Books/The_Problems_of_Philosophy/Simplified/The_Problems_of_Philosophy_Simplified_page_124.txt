@@ -1,8 +1,5 @@
-If, h owever, this were the source of our knowledge that two and two are four, we should proceed differently, in persuading ourselves of its truth, from the way in which we do actually proceed. In fact, a certain number of instances are needed to make us think of two abstractly, rather than of two coins or two books or two people, or two of any other specified kind. But as soon as we are able to divest our thoughts of irrelevant particularity, we become able to see the general principle that two and two are four ; any one instance is seen to be typical, and the examination of other instances becomes unnecessary.* The same thing is exemplified in geometry.
- 
- If we want to prove some property of all triangles, we draw some one triangle and * Cf. A. N. Whitehead, Introduction to Mathematics (Home University Library).
- 
+If this were how we learned that two plus two equals four, we would convince ourselves in a different way than we actually do. First, we need to see a few examples to understand the idea of "two" by itself, not just two coins, two books, two people, or any other specific things.
 
- 
-(Simplified)
- 
+But once we can think about "two" without focusing on the details, we can understand the general rule that two plus two equals four. Then, seeing one example is enough, and we don’t need to check more examples. The same idea applies in geometry.
+
+For example, if we want to prove something about all triangles, we start by drawing one triangle and...

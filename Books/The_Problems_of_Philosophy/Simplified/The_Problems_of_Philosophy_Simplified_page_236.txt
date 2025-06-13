@@ -1,8 +1,7 @@
-The same applies to the law of causality, or, to descend to what is less general, to such principles as t he law of gravitation.
- 
- Principles such as the law of gravitation are proved, or rather are rendered highly probable, by a combination of experience with some wholly a priori principle, such as the principle of induction. Thus our intuitive knowledge, which is the source of all our other knowledge of truths, is of two sorts ; pure empirical knowledge, which tells us of the existence and some of the properties of particular things with which we are acquainted, and pure a priori knowledge, which gives us connections between universals, and enables us to draw inferences from the particular facts given in empirical knowledge. Our derivative knowledge always depends upon some pure a priori knowledge and usually also depends upon some pure empirical knowledge.
- 
+The same goes for the law of cause and effect, or more specifically, for rules like the law of gravity.
 
- 
-(Simplified)
- 
+Rules like gravity are proven, or at least made very likely, by combining what we experience with some basic ideas we accept without needing proof, like the idea of induction. 
+
+So, our natural understanding, which is where all our knowledge comes from, is of two types. One is pure experience-based knowledge, which tells us about the things we see and some of their features. The other is pure logical knowledge, which helps us understand how general ideas connect and lets us make conclusions from the facts we get from experience.
+
+All the knowledge we build depends on some pure logical ideas and usually also on some pure experience-based facts.

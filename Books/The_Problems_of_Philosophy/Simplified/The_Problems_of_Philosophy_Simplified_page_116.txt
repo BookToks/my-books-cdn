@@ -1,8 +1,3 @@
-" This principle is really involved — at least, concrete instances of it are involved — in all demonstrations. Whenever one thing which we believe is used to prove something else, which we consequently believe, this principle is relevant. If any one asks : " Why should I accept the results of valid arguments based on true premisses ? " we can only answer by appealing to our principle. In fact, the truth of the principle is impossible to doubt, and its obviousness is so great that at first sight it seems almost trivial. Such principles, however, » are not trivial to the philosopher, for they show that we may have indubitable knowledge which is in no way derived from objects of sense.
- 
- The above principle is merely one of a certain number of self-evident logical principles. Some at least of these principles must be granted before any argument or proof becomes possible. When some of them have been granted, others can be proved, though GENERAL PRINCIPLES 113 these others, so long as they are simple, are just as obvious as the principles taken for granted.
- 
+This idea is really involved — or at least, real examples of it are involved — in all proofs. Whenever we use something we believe to show that something else is true, this idea matters. If someone asks, "Why should I trust the results of good arguments based on true facts?" we can only answer by using this idea. Actually, it’s impossible to doubt this idea, and it seems so obvious that at first it looks almost too simple. But these ideas are not simple to philosophers, because they show we can have certain knowledge that doesn’t come from what we see or feel.
 
- 
-(Simplified)
- 
+The idea above is just one of several self-evident logical ideas. At least some of these ideas have to be accepted before any argument or proof can work. Once some are accepted, others can be proven, but these others, as long as they are simple, are just as obvious as the ideas we start with.

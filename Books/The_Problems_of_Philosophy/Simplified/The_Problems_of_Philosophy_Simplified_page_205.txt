@@ -1,8 +1,7 @@
-If Othello believes falsely that Desdemona loves Cassio, then there is no such complex unity as " Desdemona's love for Cassio." Thus a belief is true when it corresponds to a certain associated complex, and false when it does not. Assuming, for the sake of definiteness, that the objects of the belief are two terms and a relation, the terms being put in a certain order by the " sense " of the believing, then if the two terms in that order are united by the relation into a complex, the belief is true ; if not, it is false. This constitutes the definition of truth and falsehood that we were in search of. Judging or believing is a certain complex unity of which a mind is a constituent ; if the remaining constituents, taken in the order which they have in the belief, form a complex unity, then the belief is true ; i f not, it is false.
- 
- Thus although truth and falsehood are properties of beliefs, yet they are in a sense extrinsic properties, for the condition of the truth of a belief is something not involving beliefs, or (in general) any mind at all, but 202 THE PROBLEMS OF PHILOSOPHY only the objects of the belief.
- 
+If Othello wrongly thinks that Desdemona loves Cassio, then there isn’t really a real connection like “Desdemona’s love for Cassio.” A belief is true when it matches up with a certain connection, and false when it doesn’t.
 
- 
-(Simplified)
- 
+Let’s say a belief involves two things and a relationship between them. If these two things are joined by that relationship in the right order, the belief is true. If they aren’t, the belief is false. This is how we can define what truth and falsehood mean.
+
+When someone believes or judges something, their mind is part of a bigger connection. If the other parts of that connection fit together in the way the belief says, then the belief is true. If they don’t, it’s false.
+
+So, even though truth and falsehood belong to beliefs, they actually depend on things outside of the mind, like the actual objects or facts the belief is about.

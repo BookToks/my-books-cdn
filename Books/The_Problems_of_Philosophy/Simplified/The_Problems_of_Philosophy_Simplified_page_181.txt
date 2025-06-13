@@ -1,8 +1,7 @@
-For example, the law of contradiction states that nothing can both have a certain property and not have it. This is evident as soon as it is understood, but it is not so evident as that a particular rose which we see cannot be both red and not red. (It is of course possible, that parts of the rose may be red and parts not red, or that the rose may be of a shade of pink which we hardly know whether to call red or not ; but in the former case it is plain that the rose as a whole is not red, while in the latter case the answer is theoretically definite as soon as we have decided on a precise definition of " red.") It is usually through particular instances that we come to be able to see the general principle. Only those who are practised in dealing with abstractions can readily grasp a general principle without the help of instances.
- 
- In addition to general principles, the other kind of self-evident truths are those immediately derived from sensation. We will call such truths " truths of perception," and the 178 THE PROBLEMS OF PHILOSOPHY judgments expressing them we will call " judgments of perception.
- 
+For example, the law of contradiction says that something can’t both have a certain quality and not have it at the same time. This idea is clear once you understand it, but it’s not as obvious as saying a rose we see can’t be both red and not red.
 
- 
-(Simplified)
- 
+Of course, it’s possible that parts of the rose are red and parts are not, or that the rose is a shade of pink that’s hard to decide if it’s red or not. But if parts are red and parts aren’t, then the whole rose isn’t red. If it’s a tricky color like pink, we can decide for sure if it’s red once we agree on what "red" means exactly.
+
+Usually, we learn these general ideas by looking at specific examples. Only people who are used to thinking about abstract ideas can understand a general rule without examples.
+
+Besides these general rules, there are also truths that come straight from what we sense. We’ll call these "truths of perception," and the opinions we form from them are "judgments of perception."

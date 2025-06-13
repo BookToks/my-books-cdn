@@ -1,8 +1,5 @@
-The way the problem arose for Plato was more or less as follows. Let us consider, say, such a notion as justice. If we ask ourselves what justice is, it is natural to proceed by considering this, that, and the other just act, with a view to discovering what they have in common. They must all, in some sense, partake of a common nature, which will be found in whatever is just and in nothing else.
- 
- This common nature, in virtue of which they are all just, will be justice itself, the pure essence the admixture of which with facts of ordinary life produces the multiplicity of just acts. Similarly with any other word which may be applicable to common facts, such as " whiteness " for example. The word will be applicable to a number of particular things because they all participate in a common nature or essence. This pure essence is what Plato calls an "" idea " or " form." (It must not be supposed that " ideas," in his sense, exist in minds, though they may be apprehended by m inds.) The " idea " justice is not 144 THE PROBLEMS OF PHILOSOPHY identical with anything that is just : i t is something other than particular things, which particular things partake of.
- 
+Here’s how the problem came up for Plato. Let’s think about something like justice. If we ask what justice really is, it makes sense to look at different just actions to see what they have in common. They must all share some kind of common nature that only belongs to what is just.
 
- 
-(Simplified)
- 
+This common nature, which makes all these actions just, is what justice really is—the pure idea of justice. When this idea mixes with real-life situations, it creates many different just actions. The same goes for other words that describe things we see a lot, like “whiteness.” The word fits many things because they all share a common nature or essence.
+
+Plato calls this pure essence an "idea" or "form." (These "ideas" don’t exist in our minds, but we can understand them.) The "idea" of justice isn’t the same as any one just thing; it’s something different that all just things have in common.

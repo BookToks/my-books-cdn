@@ -1,10 +1,5 @@
-In this way I become acquainted with the universal resemblance or similarity.
- 
- Between universals, as between particulars, there are relations of which we may be immediately aware. We have just seen that we can perceive that the resemblance between two shades of green is greater than the resemblance between a shade of red and a shade of green. Here we are dealing with a relation, namely " greater than," between two relations. Our knowledge of such relations, though it requires more power of abstraction than is required for perceiving the qualities of sense-data, appears to be equally immediate, and (at least in some cases) equally indubitable. Thus there is immediate knowledge concerning universals as well as concerning sense-data.
- 
- Returning now to the problem of a priori knowledge, which we left unsolved when we began the consideration of universals, we find ourselves in a position to deal with it in a F 162 THE PROBLEMS OF PHILOSOPHY much more satisfactory manner than was possible before.
- 
+This way, I get to know how things can be similar in a general way.
 
- 
-(Simplified)
- 
+Between general things, just like with specific things, there are connections we can notice right away. For example, we can see that two shades of green are more alike than a shade of red and a shade of green. Here, we're talking about a connection called "greater than" between two other connections. Understanding these connections takes more thinking than just noticing colors, but it still feels immediate and certain in some cases. So, we can know about general things just as clearly as we know about what we see and feel.
+
+Now, going back to the question about knowledge we have before experience, which we couldn’t solve before when we talked about general things, we are now able to look at it in a much better way than before.

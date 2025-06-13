@@ -1,8 +1,7 @@
-But if the word " nature " is used in this sense, we shall have to hold that the thing may be known when its " nature " is not known, or at any rate is not known completely.
- 
- There is a confusion, when this use of the word " nature " is employed, between knowledge of t hings and knowledge of truths. We may have knowledge of a thing by acquaintance even if we know very few propositions about it — theoretically we need not know any propositions about it. Thus, acquaintance with a thing does not involve knowledge of its " nature " in the above sense. And although acquaintance with a thing is involved in our knowing any one proposition about a thing, knowledge of its " nature," in the above sense, is n ot involved. Hence, (1 ) a cquaintance with a thing does not logically involve a knowledge of its relations, and (2) a knowledge of some of its relations does not involve a knowledge of all of its relations nor a knowledge of its 226 THE PROBLEMS OF PHILOSOPHY " nature " in the above sense.
- 
+If we use the word "nature" like this, then it means we can know something even if we don’t fully understand its "nature" or what it really is.
 
- 
-(Simplified)
- 
+There’s a mix-up when people use the word "nature" this way, between knowing about things and knowing the true facts about them. We can know something just by being familiar with it, even if we don’t know many facts about it — in fact, we don’t need to know any facts at all.
+
+So, just being familiar with something doesn’t mean we know its "nature" like described here. Also, even if we know one fact about something, that doesn’t mean we understand its full "nature."
+
+Therefore, (1) just knowing or being familiar with something doesn’t mean we know how it connects to other things, and (2) knowing some facts about it doesn’t mean we know all the facts or its full "nature" like explained here.

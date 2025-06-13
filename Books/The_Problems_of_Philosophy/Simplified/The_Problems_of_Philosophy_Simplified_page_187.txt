@@ -1,10 +1,7 @@
-is said to have at last believed that he was at the battle of Waterloo, because he had so often said that he was. In this case, what was immediately remembered was his repeated assertion ; the belief in what he was asserting (if it existed) would be produced by association with the remembered assertion, and would therefore not be a genuine case of memory. It would seem that cases of fallacious memory can probably all be dealt with in this way, i.e.
- 
- they can be shown to be not cases of memory in the strict sense at all.
- 
- One important point about self-evidence is made clear by the case of memory, and that is, that self-evidence has degrees: it is not a quality which is simply present or absent, but a quality which may be more or less present, in gradations ranging from absolute certainty down to an almost imperceptible faintness. Truths of perception and some of the principles of logic have the very highest 184 THE PROBLEMS OF PHILOSOPHY degree of self-evidence ; truths of immediate memory have an almost equally high degree.
- 
+He is said to have finally believed that he was at the Battle of Waterloo because he kept saying that he was. In this case, what people remembered was that he said it a lot; the belief in what he said (if he really believed it) came from hearing himself say it so much. So, it wasn’t a true memory. 
 
- 
-(Simplified)
- 
+It seems that all cases of false memory can probably be explained this way—they are not really memories in the true sense.
+
+One important thing about self-evidence is shown by the case of memory. Self-evidence isn’t just something you either have or don’t have. It can be stronger or weaker, from being 100% certain to just a tiny feeling that something is true. 
+
+Things we see or some logical rules have the strongest kind of self-evidence. Memories we remember right away are almost as certain.

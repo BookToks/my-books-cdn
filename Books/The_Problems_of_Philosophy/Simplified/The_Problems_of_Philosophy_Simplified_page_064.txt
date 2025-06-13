@@ -1,12 +1,7 @@
-The grounds on which ideahsm is advocated are generally grounds derived from the theory of knowledge, that is to say, from a discussion of the conditions which things must satisfy in order that we may be able to know them.
- 
- The first serious attempt to establish idealism on such grounds was that of Bishop Berkeley.
- 
- He proved first, by arguments which were largely valid, that our sense-data cannot be supposed to have an existence independent of us, but must be, in part at least, " in " the mind, in the sense that their existence would not continue if there were no seeing or hearing or touching or smelling or tasting.
- 
- So far, his contention was almost certainly valid, even if some of his arguments were not so. But he went on to argue that sense-data were the only things of whose existence our perceptions could assure us, and that to be known is to be " in " a mind, and therefore to be mental. Hence he concluded that nothing can ever be known except what is in some mind, and that whatever is known IDEALISM 61 without being in my mind must be in some other mind.
- 
+People who support idealism usually base their ideas on how we know things. They talk about what needs to be true for us to actually know something.
 
- 
-(Simplified)
- 
+The first person to seriously try to prove idealism this way was Bishop Berkeley.
+
+He showed, with mostly good reasons, that what we sense—like what we see, hear, touch, smell, or taste—can’t exist on its own. These things have to be at least partly “in” our minds, meaning they wouldn’t keep existing if no one was sensing them.
+
+This part of his idea was probably right, even if some of his reasons weren’t perfect. But then he said that the only things we can be sure exist are the things we sense. To know something means it has to be “in” a mind, so it has to be mental. Because of this, he thought that nothing can be known unless it’s in some mind. If something is known but not in my mind, it must be in someone else’s mind.

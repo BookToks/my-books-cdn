@@ -1,8 +1,5 @@
-For example, it is known that if we draw perpendiculars to the sides of a triangle from the opposite angles, all three perpendiculars meet in a point. It would be quite possible to be first led to this proposition by actually drawing perpendiculars in many cases, and finding that they always met in a point ; this experience might lead us to look for the general proof and find it. Such cases are common in the experience of every mathematician.
- 
- The other point is more interesting, and of more philosophical importance. It is, that we may sometimes know a general proposition in cases where we do not know a single instance ofi t. Take such a case as the following : We know that any two numbers can be multiplied together, and will give a third called their product. We know that all pairs of integers the product of which is less than 100 have been actually multiplied together, and the value of the product recorded in the multiplication table. But we also know that the number of integers is infinite, and that only a finite number of pairs of integers ever ON KNOWLEDGE OF UNIVERSALS 169 have been or ever will be thought of by human beings.
- 
+For example, if we draw lines straight down from each corner of a triangle to the opposite side, all three lines will meet at one point. You might discover this by drawing lots of triangles and noticing that the lines always meet in the same way. This could make you want to prove why it always happens. Many mathematicians have this kind of experience.
 
- 
-(Simplified)
- 
+There is another interesting idea that is more about how we think. Sometimes, we can know a rule is true even if we haven’t seen a single example of it. For example, we know any two numbers can be multiplied to get a new number called their product. We also know that for all pairs of whole numbers whose product is less than 100, people have already multiplied them and written them down in multiplication tables.
+
+But we also know there are infinitely many whole numbers, and only a limited number of pairs have ever been multiplied or imagined by humans.

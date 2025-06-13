@@ -1,14 +1,21 @@
-We can understand these facts, on the well-known principle of reversion to ancestral characters, if all the domestic breeds have descended from the rock-pigeon. But if we deny this, we must make one of the two following highly improbable suppositions. Either, firstly, that all the several imagined aboriginal stocks were coloured and marked like the rock-pigeon, although no other existing species is thus coloured and marked, so that in each separate breed there might be a tendency to revert to the very same colours and markings. Or, secondly, that each breed, even the purest, has within a dozen or, at most, within a score of generations, been crossed by the rock-pigeon: I say within a dozen or twenty generations, for we know of no fact countenancing the belief that the child ever reverts to some one ancestor, removed by a greater number of generations. In a breed which has been crossed only once with some distinct breed, the tendency to reversion to any character derived from such cross will naturally become less and less, as in each succeeding generation there will be less of the foreign blood; but when there has been no cross with a distinct breed, and there is a tendency in both parents to revert to a character, which has been lost during some former generation, this tendency, for all that we can see to the contrary, may be transmitted undiminished for an indefinite number of generations. These two distinct cases are often confounded in treatises on inheritance.
- 
- Lastly, the hybrids or mongrels from between all the domestic breeds of pigeons are perfectly fertile. I can state this from my own observations, purposely made on the most distinct breeds.
- 
- Now, it is difficult, perhaps impossible, to bring forward one case of the hybrid offspring of two animals clearly distinct being themselves perfectly fertile. Some authors believe that longcontinued domestication eliminates this strong tendency to sterility: from the history of the dog I think there is some probability in this hypothesis, if applied to species closely related together, though it is unsupported by a single experiment. But to extend the hypothesis so far as to suppose that species, aboriginally as distinct as carriers, tumblers, pouters, and fantails now are, should yield offspring perfectly fertile, inter se, seems to me rash in the extreme.
- 
- From these several reasons, namely, the improbability of man having formerly got seven or eight supposed species of pigeons to breed freely under domestication; these supposed species being quite unknown in a wild state, and their becoming nowhere feral; these species having very abnormal characters in certain respects, as compared with all other Columbidae, though so like in most other respects to the rock-pigeon; the blue colour and various marks occasionally appearing in all the breeds, both when kept pure and when crossed; the mongrel offspring being perfectly fertile;—from these several reasons, taken together, I can feel no doubt that all our domestic breeds have descended from the Columba livia with its geographical sub-species.
- 
- In favour of this view, I may add, firstly, that C. livia, or the rock-pigeon, has been found capable of domestication in Europe and in India; and that it agrees in habits and in a great number of points of structure with all the domestic breeds. Secondly, although an English carrier or short-faced tumbler differs immensely in certain characters from the rock-pigeon, yet by comparing the several sub-breeds of these breeds, more especially those brought from distant countries, we can make an almost perfect series between the extremes of structure. Thirdly, those characters which are mainly distinctive of each breed, for instance the wattle and length of beak of the carrier, the shortness of that of the tumbler, and the number of tail-feathers in the fantail, are in each breed eminently variable; and the explanation of this fact will be obvious when we come to treat of selection.
- 
+We can understand these facts based on the idea that animals often go back to traits from their ancestors, if all domestic pigeons come from the rock-pigeon. But if we don’t believe this, we have to accept one of two unlikely ideas. 
 
- 
-(Simplified)
- 
+First, all the original wild types of pigeons were colored and marked just like the rock-pigeon, even though no other wild species looks like that. So, each breed would have a natural habit of going back to those same colors and marks. 
+
+Or second, each breed, even the purest ones, must have mixed with rock-pigeons within the last 12 to 20 generations. This is because we don’t know of any cases where traits from much older ancestors suddenly show up again. 
+
+If a breed crosses with another breed only once, the traits from that crossing will slowly fade over generations. But if a breed hasn’t crossed with another type, and both parents tend to show a trait lost many generations ago, this trait can stay strong for many generations. People often mix up these two different cases when talking about inheritance.
+
+Also, hybrids (mixed pigeons) from all domestic breeds can have babies that can also have babies without any problems. I know this because I watched it happen with very different breeds.
+
+It’s hard, maybe impossible, to find an example where offspring from two very different animal species can have babies that are fully fertile. Some people think that domestic animals lose the problem of infertility over time. For example, with dogs, this might be true for closely related species, but no solid experiments prove it. 
+
+But to say that species as different as carriers, tumblers, pouters, and fantails can all have fully fertile babies together is, in my opinion, too risky to believe.
+
+For these reasons—like how unlikely it is that humans made seven or eight wild species breed freely, how these supposed species don’t exist in the wild, and how their traits are weird compared to other pigeons but very similar to rock-pigeons; how the blue color and marks show up in all breeds, even pure ones; and how mixed pigeons can have babies without problems—I am sure all domestic pigeons come from the rock-pigeon and its nearby types.
+
+Supporting this idea, first, the rock-pigeon has been tamed in Europe and India, and it behaves and looks like all domestic pigeons in many ways. 
+
+Second, even though some pigeons like the English carrier or short-faced tumbler look very different from the rock-pigeon, when we look at different sub-breeds, especially from far places, we can see a smooth range of features between the most different types.
+
+Third, the traits that mostly make each breed unique—like the wattle and beak length of the carrier, the short beak of the tumbler, or the number of tail feathers in the fantail—can change a lot within each breed. We will explain why this happens when we talk about selection.

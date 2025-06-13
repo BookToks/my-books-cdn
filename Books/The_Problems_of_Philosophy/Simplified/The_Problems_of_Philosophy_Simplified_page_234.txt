@@ -1,10 +1,5 @@
-By imagining worlds in which these axioms are false, the mathematicians have used logic to loosen the prejudices of common sense, and to show the possibility of spaces differing — some more, some less — from that in which we live. And some of these spaces differ so little from Euclidean space, where distances such as we can measure are concerned, that it is impossible to discover by observation whether our actual space is strictly Euclidean or of one of these other kinds.
- 
- Thus the position is completely reversed.
- 
- Formerly it appeared that experience left only one kind of space to logic, and logic showed this one kind to be impossible. Now, logic presents many kinds of space as possible apart from experience, and experience only partially decides between them. Thus, while our knowledge of what is has become less than it was formerly supposed to be, our knowledge of what may be is enormously increased. Instead of b eing shut in within narrow walls, of which every nook and cranny could be THE LIMITS OF KNOWLEDGE 281 explored, we find ourselves in an open world of free possibilities, where much remains unknown because there is so much to know.
- 
+By thinking about worlds where these basic rules aren’t true, mathematicians have used logic to challenge what we usually believe and show that different kinds of spaces can exist — some very different, some only a little different from the space we live in. Some of these spaces are so close to normal space, where we measure distances, that we can’t tell just by looking if our space is exactly like normal space or one of these other kinds.
 
- 
-(Simplified)
- 
+So, everything has changed.
+
+Before, it seemed like experience only allowed one kind of space, and logic said that kind was impossible. Now, logic says many kinds of space could exist beyond what we experience, and experience can only help us choose between them a little bit. This means we know less for sure about what really is, but we know a lot more about what could be. Instead of being stuck inside a small, limited space where everything was known, we are now in a big open world full of possibilities, where a lot is still unknown because there is so much to learn.

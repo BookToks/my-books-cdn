@@ -1,8 +1,5 @@
-The principles of i nference are apt to be overlooked because of their very obviousness — the assumption involved is assented to without our realising that it is an assumption. But it is very important to realise the use of principles of inference, if a correct theory of knowledge is to be obtained ; for our knowledge of them raises interesting and difficult questions.
- 
- In all our knowledge of general principles, what actually happens is that first of all we realise some particular application of the principle, and then we realise that the particularity isi rrelevant, andthatthere is a generality which may equally truly be affirmed. This is of course familiar in such matters as teaching arithmetic : " two and two are four " is first learnt in the case of some particular pair of couples, and then in some other particular case, and so on, until at last it becomes possible to see that it is true of any pair of couples.
- 
+The rules we use to figure things out are often ignored because they seem so obvious. We agree with them without even realizing they are assumptions. But it’s really important to understand these rules if we want to have a good idea of what knowledge is. Learning about them brings up interesting and hard questions.
 
- 
-(Simplified)
- 
+When we learn general ideas, what usually happens is that first we notice one specific example of the idea. Then we understand that the specific example doesn’t really matter, and that the general idea is true for many cases. 
+
+This happens a lot when learning math. For example, we first learn "two and two are four" using some specific pair of twos. Then we try other pairs, and eventually, we see that it’s true for any pair of twos.

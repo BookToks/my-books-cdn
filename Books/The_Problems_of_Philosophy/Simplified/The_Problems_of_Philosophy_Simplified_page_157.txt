@@ -1,8 +1,5 @@
-Cut we have already considered these reasons, nd decided that they are inadequate. We may therefore now assume it to be true that nothing mental is presupposed in the fact that Edinburgh is north of London. But this fact involves the relation " north of," which is a universal ; and it would be impossible for the whole fact to involve nothing mental if the relation " north of," which is a constituent part of the fact, did involve anything mental. Hence we must admit that the relation, like the terms it relates, is not dependent upon thought, but belongs to the independent world which thought apprehends but does not create.
- 
- This conclusion, however, is met by the difficulty that the relation " north of " does not seem to exist in the same sense in which Edinburgh and London exist. If we ask " Where and when does this relation exist ? " the answer must be " Nowhere and no when." There is no place or time where we can find the relation " north of." It does not exist in Edinburgh any more than in London, for it 154 THE PROBLEMS OF PHILOSOPHY relates the two and is neutral as between them.
- 
+We have already looked at these reasons and decided they are not good enough. So, we can now assume it is true that nothing about the mind is needed to say that Edinburgh is north of London.
 
- 
-(Simplified)
- 
+But this fact includes the idea of "north of," which is a general idea. It wouldn’t make sense if the whole fact had nothing to do with the mind, but the idea "north of," which is part of the fact, did depend on the mind. So, we have to accept that the idea, like the places it connects, doesn’t depend on thinking. Instead, it belongs to the real world, which our mind understands but does not make up.
+
+However, there is a problem. The idea "north of" does not seem to exist in the same way that Edinburgh and London do. If we ask, "Where and when does this idea exist?" the answer has to be "Nowhere and no time." There is no place or time where you can find the idea "north of." It isn’t in Edinburgh any more than it is in London because it connects the two and is neutral between them.

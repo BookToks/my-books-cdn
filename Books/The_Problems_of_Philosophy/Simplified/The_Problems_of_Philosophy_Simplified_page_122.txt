@@ -1,16 +1,11 @@
-118 THE PROBLEMS OF PHILOSOPHY and the only a priori knowledge concerning existence is hypothetical, giving connections among things that exist or may exist, but not giving actual existence.
- 
- A priori knowledge is not all of the logical kind we have been hitherto considering.
- 
- Perhaps the most important example of nonlogical a priori knowledge is knowledge as to ethical value. I am not speaking of judgments as t o what is useful or as to what is virtuous, for such judgments do require empirical premisses ; I am speaking of judgments as t o the intrinsic desirability of things.
- 
- If something is useful, it must be useful because it secures some end; the end must, if we have gone far enough, be valuable on its own account, and not merely because it is useful for some further end. Thus all judgments as to what is useful depend upon judgments as to what has value on its own account.
- 
- We judge, for example, that happiness is more desirable than misery, knowledge than ignorance, goodwill than hatred, and so on.
- 
- Such judgments must, in part at least, be immediate and a priori. Like our previous GENERAL PRINCIPLES 119 a priori judgments, they may be elicited by experience, and indeed they must be ; for it seems not possible to judge whether anything is intrinsically valuable unless we have experienced something of the same kind.
- 
+A priori knowledge about existence is just about how things that exist or might exist are connected. It doesn’t actually prove that something exists.
 
- 
-(Simplified)
- 
+A priori knowledge isn’t always about logic like we have talked about before.
+
+One important kind of a priori knowledge is about what is right or wrong, or ethical value. I’m not talking about what is useful or what seems good because of facts, but about what is valuable in itself.
+
+If something is useful, it is because it helps achieve a goal. That goal has to be valuable by itself, not just because it helps reach another goal. So, all ideas about what is useful depend on ideas about what is truly valuable.
+
+For example, we think that happiness is better than misery, knowledge is better than ignorance, and goodwill is better than hatred.
+
+These ideas must be partly immediate and a priori. Like other general principles, they come from experience, and they have to; because we can’t judge if something is really valuable unless we have experienced things like it before.

@@ -1,8 +1,9 @@
-CHAPTER VII ON OUR KNOWLEDGE OF GENERAL PRINCIPLES We saw in the preceding chapter that the principle of induction, while necessary to the validity of all arguments based on experience, is itself not capable of being proved by experience, and yet is unhesitatingly believed by every one, at least in all its concrete applications. In these characteristics the principle of induction does not stand alone. There are a number of other principles which cannot be proved or disproved by experience, but are used in arguments which start from what is experienced.
- 
- Some of these principles have even greater evidence than the principle of induction, and the knowledge of them has the same degree of certainty as the knowledge of the existence of sense-data. They constitute the 109 110 THE PROBLEMS OF PHILOSOPHY means of drawing inferences from what is given in sensation ; and if what we infer is to be true, it is just as necessary that our principles of inference should be true as it is that our data should be true.
- 
+CHAPTER VII ON OUR KNOWLEDGE OF GENERAL PRINCIPLES
 
- 
-(Simplified)
- 
+In the last chapter, we learned that the principle of induction is needed for all arguments based on experience. But this principle itself can’t be proved by experience. Still, everyone believes it, at least when they use it in real life.
+
+This principle isn’t the only one like this. There are many other principles that can’t be proved or disproved by experience, but we use them when we talk about things we have experienced.
+
+Some of these principles are even more certain than the principle of induction. Knowing them is as sure as knowing that we have sense-data (what we see, hear, and feel).
+
+These principles help us make guesses or conclusions from what we sense. If our conclusions are going to be true, then it’s just as important for our rules of thinking to be true as it is for our senses to give us true information.

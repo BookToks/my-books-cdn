@@ -1,8 +1,3 @@
-For no very good reason, three of these principles have been singled out by tradition under the name of " Laws of Thought." They are as follows : (1) The law of identity: "Whatever is, is." (2) The law of contradiction : " Nothing can both be and not be." (3) The law of excluded middle : " Everything must either be or not be." These three laws are samples of self-evident logical principles, but are not really more fundamental or more self-evident than various other similar principles : f or instance, the one we considered just now, which states that what follows from a true premiss is true.
- 
- The name " laws of thought " is also misleading, for w hat is important is not the fact that we think in accordance with these laws, but the fact that things behave in accordance with them ; i n other words, the fact that when we think in accordance with them we think 114 THE PROBLEMS OF PHILOSOPHY truly.
- 
+For no clear reason, three of these ideas have been called the "Laws of Thought." They are: (1) The law of identity: "Whatever is, is." (2) The law of contradiction: "Nothing can both be and not be." (3) The law of excluded middle: "Everything must either be or not be." These three laws are examples of obvious logical rules, but they are not really more basic or obvious than other similar rules. For example, the one we talked about earlier, which says that if something follows from a true statement, then it is also true.
 
- 
-(Simplified)
- 
+The name "laws of thought" can be confusing because what really matters is not that we think following these laws, but that things actually follow these laws. In other words, when we think using these laws, we are thinking correctly.

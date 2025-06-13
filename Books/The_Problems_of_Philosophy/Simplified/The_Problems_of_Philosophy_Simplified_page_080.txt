@@ -1,12 +1,7 @@
-" We have therefore to coni|ider acquaintance with other things besides sense-data if we are to obtain any tolerably adequate analysis of our knowledge.
- 
- The first extension beyond sense-data to be considered is acquaintance by memory.
- 
- It is obvious that we often remember what we have seen or heard or had otherwise present to our senses, and that in such cases we are still immediately aware of what we remember, in spite of the fact that it appears as past and not as present. This immediate knowledge by memory is the source of all our knowledge concerning the past : without it, there could be no knowledge of the past by inference, since we should never know that there was anything past to be inferred.
- 
- The next extension to be considered is acquaintance by introspection. We are not only aware of things, but we are often aware ACQUAINTANCE AND DESCRIPTION 77 of being aware of them.
- 
+We need to think about knowing things beyond just what we see or hear if we want to understand how we really know stuff.
 
- 
-(Simplified)
- 
+The first step beyond what we sense is knowing by memory.
+
+It's clear that we often remember things we have seen, heard, or experienced with our senses. Even though these memories are from the past, we are still directly aware of them. This kind of memory knowledge is how we know about the past. Without it, we wouldn't even realize the past existed to learn about.
+
+The next step is knowing by looking inside ourselves. Not only do we notice things around us, but we also notice that we are noticing them.

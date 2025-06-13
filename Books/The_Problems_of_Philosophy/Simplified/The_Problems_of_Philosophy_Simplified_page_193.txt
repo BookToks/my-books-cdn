@@ -1,8 +1,7 @@
-In fact, truth and falsehood are properties of beliefs and statements : hence a world of mere matter, since it would contain no beliefs or statements, would also contain no truth or falsehood.
- 
- (3) But, as against what we have just said, it is to be observed that the truth or falsehood of a belief always depends upon something which lies outside the belief itself. If I believe that Charles I. died on the scaffold, I believe truly, not because of any intrinsic quality of my belief, which could be discovered by m erely examining the belief, but because of an historical event which happened two and a half centuries ago. If I believe that Charles I. died in his bed, I believe falsely : no degree of vividness in my belief, or of care in arriving at it, prevents it from being false, again because of what happened long ago, and not because of any intrinsic property of my belief. Hence, although truth and falsehood are properties of beliefs, they 190 THE PROBLEMS OF PHILOSOPHY are properties dependent upon the relations of the behefs to other things, not upon any internal quality of the beliefs.
- 
+Truth and falsehood are about beliefs and statements. So, if the world was made of only stuff with no beliefs or statements, there would be no truth or falsehood.
 
- 
-(Simplified)
- 
+But, the truth or falsehood of a belief depends on something outside the belief itself. For example, if I believe that Charles I died on the scaffold, my belief is true, not because of anything inside my belief, but because of a real event that happened a long time ago. 
+
+If I believe that Charles I died in his bed, my belief is false. It doesn't matter how strongly I believe it or how carefully I thought about it; it’s still false because of what really happened long ago, not because of anything inside my belief. 
+
+So, even though truth and falsehood are about beliefs, they depend on how those beliefs connect to other things, not on anything inside the beliefs themselves.

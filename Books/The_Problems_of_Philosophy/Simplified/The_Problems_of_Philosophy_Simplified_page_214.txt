@@ -1,12 +1,9 @@
-A very precise definition, therefore, should not be sought, since any such definition must be more or less misleading.
- 
- The chief difficulty in regard to knowledge, however, does not arise over derivative knowledge, but over intuitive knowledge. So long as we are dealing with derivative knowledge, we have the test of intuitive knowledge to fall back upon. But in regard to intuitive beliefs, it is by no means easy to discover any criterion by which to distinguish some as true and others as erroneous. In this question it is scarcely possible to reach any very precise result : all our knowledge of truths is infected with some degree of doubt, and a theory which ignored this fact would be plainly wrong.
- 
- Something may be done, however, to mitigate the difficulties of the question.
- 
- Our theory of truth, to begin with, supplies the possibility of distinguishing certain truths as self-evident in a sense which ensures infallibility. When a belief is true, we said, there is a corresponding fact, in which the several objects of the belief form a single KNOWLEDGE AND ERROR 211 complex.
- 
+It's hard to give a super exact definition because any definition might be a bit confusing or wrong.
 
- 
-(Simplified)
- 
+The main problem with knowledge isn’t about things we learn from other things (derivative knowledge), but about knowledge we just know without proof (intuitive knowledge). When we have derivative knowledge, we can check it by comparing it to intuitive knowledge. But with intuitive beliefs, it’s really hard to tell which ones are true and which ones are false.
+
+Because of this, it’s almost impossible to get a perfect answer. All the truths we know have some doubt, and any idea that ignores this is definitely wrong.
+
+Still, we can try to make things a bit easier to understand.
+
+Our idea of truth helps us see that some truths are obvious and can’t be wrong. When a belief is true, there is a real fact behind it where all parts of the belief fit together perfectly.

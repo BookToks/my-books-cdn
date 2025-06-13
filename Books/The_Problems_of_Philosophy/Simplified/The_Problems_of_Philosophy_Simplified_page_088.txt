@@ -1,8 +1,9 @@
-The proposition " a is the so-andso " means that a has the property so-and-so, and nothing else has. " Mr. A. is the Unionist candidate for this constituency " means " Mr. A. is a Unionist candidate for this constituency, and no one else is." "The Unionist candidate for this constituency exists" means " some one is a Unionist candidate for this constituency, and no one else is." Thus, when we are acquainted with an object which is the so-and-so, we know that the so-and-so exists ; b ut we may know that the so-and-so exists when we are not acquainted with any object which we know to be the soand-so, and even when we are not acquainted with any object which, in fact, is the so-and-so.
- 
- Common words, even proper names, are usually really descriptions. That is to say, the thought in the mind of a person using a proper name correctly can generally only be expressed explicitly if we replace the proper name by a description. Moreover, the description required to express the thought will vary for different people, or for the same ACQUAINTANCE AND DESCRIPTION 85 person at different times.
- 
+The sentence "a is the so-and-so" means that a has a special quality called so-and-so, and no one else has it. For example, "Mr. A. is the Unionist candidate for this area" means "Mr. A. is the only Unionist candidate for this area."
 
- 
-(Simplified)
- 
+When we say "The Unionist candidate for this area exists," it means that there is someone who is the Unionist candidate, and no one else is.
+
+So, if we know an object that is the so-and-so, we know that the so-and-so exists. But we can also know the so-and-so exists even if we don’t know exactly who or what it is.
+
+Common words, even names, are usually descriptions. This means that when someone uses a name correctly, what they really mean can be explained by describing it instead of just using the name.
+
+Also, the description someone uses to explain a name can be different for different people or even for the same person at different times.

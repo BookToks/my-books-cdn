@@ -1,6 +1,7 @@
-, I f the above account is correct, all our know■ l edge of truths depends upon our intuitive kIf nowledge. It therefore becomes important to consider the nature and scope of intuitive knowledge, in much the same way as, at an earlier stage, we considered the nature and scope of knowledge by acquaintance. But knowledge of truths raises a further problem, which does not arise in regard to knowledge of things, namely the problem of error. Some of our beliefs turn out to be erroneous, and therefore it becomes necessary to consider how, if at all, we can distinguish knowledge from error. This problem does not arise with regard to knowledge by acquaintance, for, whatever may be the object of acquaintance, even in dreams and hallucinations, there is no error involved so long as we do not go beyond the immediate object : error can only arise when we regard the immediate object, i.e. the sense-datum, as the mark of some physical object. Thus the problems connected with knowledge of truths arc more ON KNOWLEDGE OF UNIVERSALS 173 difficult than those connected with knowledge of t hings.
- 
+If what was said before is right, then all the truths we know come from our intuitive knowledge. So, it’s important to think about what intuitive knowledge is and how far it goes, just like we did earlier with knowledge by acquaintance.
 
- 
-(Simplified)
- 
+But knowing truths brings up a new problem that doesn’t happen when we just know things. This problem is about mistakes. Sometimes, what we believe turns out to be wrong. So, we need to figure out how to tell the difference between what we really know and what is just an error.
+
+This problem doesn’t happen with knowledge by acquaintance. No matter what we are acquainted with, even in dreams or hallucinations, there’s no mistake as long as we stick to what we directly experience. Mistakes only happen when we think that what we directly experience (like a sense-datum) is a sign of a real physical object.
+
+So, the problems with knowing truths are harder than those with just knowing things.

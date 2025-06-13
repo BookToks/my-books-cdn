@@ -1,8 +1,9 @@
-It will serve to make the point clearer if we contrast our genuine a priori judgment with an empirical generalisation, such as " all men are mortals." Here as before, we can understand what the proposition means as soon as we understand the universals involved, namely man and mortal. It is obviously unnecessary to have an individual acquaintance with the whole human race in order to understand what our proposition means. Thus the difference between an a priori general proposition and an empirical generalisation does not come in the meaning of the proposition ; it comes in the nature of the evidence for it.
- 
- In the empirical case, the evidence consists in the particular instances. We believe that all men are mortal because we know that there are innumerable instances of men dying, and no instances of their living beyond a certain age. We do not believe it because we see a connection between the universal man and the universal mortal. It is true that if physiology can prove, assum- ON KNOWLEDGE OF UNIVERSALS 1G7 ing the general laws that govern living bodies, that no living organism can last for ever, that gives a connection between man and mortality which would enable us to assert our proposition without appealing to the special evidence of men dying.
- 
+Let's make this clearer by comparing a true a priori judgment with an example from experience, like "all men are mortal." 
 
- 
-(Simplified)
- 
+Just like before, we can understand what this sentence means once we know the general ideas involved, which are "man" and "mortal." We don't need to know every single person to get what the sentence means.
+
+So, the difference between an a priori general statement and one based on experience isn't about what the sentence means; it's about what kind of proof we have for it.
+
+For the experience-based case, the proof comes from specific examples. We believe all men die because we've seen many men die, and no one lives forever. We don't believe it because we see a direct connection between the idea of "man" and "mortal."
+
+However, if science like physiology can prove, by explaining how living bodies work, that no living thing can last forever, then we do have a connection between "man" and "mortal." This would let us say the sentence is true without just relying on seeing people die.

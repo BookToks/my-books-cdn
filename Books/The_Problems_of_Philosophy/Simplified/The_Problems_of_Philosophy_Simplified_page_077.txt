@@ -1,8 +1,7 @@
-But first of all we must make clear what we mean by " acquaintance " a nd what we mean by " description." We shall say that w^e have acquaintance with anything of which we are directly aware, without the intermediary of any process of inference or any knowledge of truths. Thus in the presence of my table I am acquainted with the sense-data that make up the appearance of m y table — its colour, shape, hardness, smoothness, etc. ; all these are things of which I am immediately conscious when I am seeing and touching my table. The particular shade of colour that I am seeing may have many things said about it — I may say that it is brown, that it is rather dark, and so on.
- 
- But such statements, though they make me know truths about the colour, do not make me know the colour itself any better than I did before : so far as concerns knowledge of the colour itself, as opposed to knowledge of truths about it, I know the colour perfectly and completely when I see it, and no further knowledge of it itself is even theoretically 74 THE PROBLEMS OF PHILOSOPHY possible.
- 
+First, we need to explain what we mean by "acquaintance" and "description." We say we have acquaintance with something when we are directly aware of it, without having to think or guess about it.
 
- 
-(Simplified)
- 
+For example, when I am near my table, I am acquainted with how it looks and feels—its color, shape, hardness, smoothness, and so on. I notice all these things right away when I see and touch my table.
+
+The exact color I see can be described in many ways—I might say it is brown or a bit dark.  
+
+But saying these things helps me know facts about the color, not the color itself. When I actually see the color, I already know it completely. No extra information can make me know the color itself any better than I do by just seeing it.

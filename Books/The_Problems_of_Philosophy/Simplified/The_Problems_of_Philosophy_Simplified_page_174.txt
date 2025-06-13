@@ -1,10 +1,7 @@
-Hence we can never know any proposition of the form " this is a physical object," where " this " is something immediately known. It follows that all our knowledge concerning physical objects is such that no actual instance can be given. We can give instances of the associated sense-data, but we cannot give instances of the actual physical objects. Hence our knowledge as to physical objects depends throughout upon this possibility of general knowledge where no instance can be given.
- 
- And the same applies to our knowledge of other people's minds, or of any other class of things of which no instance is known to us by acquaintance.
- 
- We may now take a survey of the sources of our knowledge, as they have appeared in the course of our analysis. We have first to distinguish knowledge of things and knowledge of truths. In each there are two kinds, one immediate and one derivative.
- 
+So, we can never really know for sure that something we see or touch is a physical object. This is because when we say "this," we are talking about something we directly experience, not the object itself. 
 
- 
-(Simplified)
- 
+That means all our knowledge about physical objects is based on ideas, but we can’t actually show a real example of the physical object. We can show examples of what we sense, like colors or shapes, but not the object itself. So, our knowledge about physical objects depends on general ideas, even though we can’t point to a real example.
+
+The same thing goes for knowing what other people are thinking or feeling, or anything else that we don’t directly experience.
+
+Now, let’s look at where our knowledge comes from, based on what we have studied. First, we need to separate knowledge about things from knowledge about truths. In both cases, there are two types: one we know right away and one we learn from other knowledge.

@@ -1,14 +1,19 @@
-Chapter X On the Geological Succession of Organic Beings On the slow and successive appearance of new species — On their different rates of change -Species once lost do not reappear — Groups of species follow the same general rules in their appearance and disappearance as do single species — On Extinction — On simultaneous changes in the forms of life throughout the world — On the affinities of extinct species to each other and to living species — On the state of development of ancient forms — On the succession of the same types within the same areas — Summary of preceding and present chapters.
- 
- Chapter XI Geographical Distribution Present distribution cannot be accounted for by differences in physical conditions — Importance of barriers — Affinity of the productions of the same continent — Centres of creation — Means of dispersal, by changes of climate and of the level of the land, and by occasional means — Dispersal during the Glacial period co-extensive with the world.
- 
- Chapter XII Geographical Distribution — continued Distribution of fresh-water productions — On the inhabitants of oceanic islands — Absence of Batrachians and of terrestrial Mammals — On the relation of the inhabitants of islands to those of the nearest mainland — On colonisation from the nearest source with subsequent modification -Summary of the last and present chapters.
- 
- Chapter XIII Mutual Affinities of Organic Beings: Morphology: Embryology: Rudimentary Organs Classification, groups subordinate to groups — Natural system — Rules and difficulties in classification, explained on the theory of descent with modification — Classification of varieties -Descent always used in classification — Analogical or adaptive characters — Affinities, general, complex and radiating — Extinction separates and defines groups — Morphology, between members of the same class, between parts of the same individual — Embryology, laws of, explained by variations not supervening at an early age, and being inherited at a corresponding age -Rudimentary Organs; their origin explained — Summary.
- 
- Chapter XIV Recapitulation and Conclusion Recapitulation of the difficulties on the theory of Natural Selection — Recapitulation of the general and special circumstances in its favour — Causes of the general belief in the immutability of species — How far the theory of natural selection may be extended — Effects of its adoption on the study of Natural history — Concluding remarks.
- 
+Chapter X: How Living Things Changed Over Time
 
- 
-(Simplified)
- 
+New species appeared slowly, one after another. Different species changed at different speeds. Once a species disappears, it never comes back. Groups of species appear and disappear following similar patterns as individual species. This is called extinction. At the same time, many living things around the world changed together. Extinct species are related to each other and to species still alive today. Ancient species were less developed than modern ones. The same types of species appeared again in the same places over time. This chapter sums up what we learned before and now.
+
+Chapter XI: Where Living Things Are Found
+
+Where animals and plants live today can’t be explained just by physical differences like weather or land. Barriers, like oceans or mountains, are important. Species on the same continent are usually related. New species start in special places called centers of creation. They spread by changes in climate, land levels, or by chance. During the Ice Age, species spread all over the world.
+
+Chapter XII: More About Where Living Things Live
+
+This chapter talks about animals and plants living in fresh water and on islands. Islands don’t have frogs or land mammals. The species on islands are related to those on the closest mainland. Species come from nearby places and then change over time. This chapter reviews what was said before and adds new ideas.
+
+Chapter XIII: How Living Things Are Related
+
+This chapter explains how species are grouped based on their shape, development, and leftover organs that don’t serve a purpose. Groups fit inside bigger groups in a natural system. Classifying species can be tricky but works better when we think about how they evolved. Varieties are also classified this way. Some features are for survival, not family ties. Extinction helps define groups. Embryos and body parts show connections. Leftover organs come from ancestors. This chapter sums up these ideas.
+
+Chapter XIV: Summary and Final Thoughts
+
+This chapter reviews the problems with the idea of natural selection and the reasons it makes sense. It explains why many people once thought species never changed. It talks about how far natural selection can explain life’s changes and how accepting it changes the way we study nature. The chapter ends with some final thoughts.

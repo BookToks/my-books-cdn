@@ -1,8 +1,5 @@
-PREFACE In the following pages, I have confined myself in the main to those problems of philosophy in regard to which I thought it possible to say something positive and constructive, since merely negative criticism seemed out of place. For this reason, theory of knowledge occupies a larger space than metaphysics in the present volume, and some topics much discussed by philosophers are treated very briefly, if at all.
- 
- I have derived valuable assistance from unpublished writings of Mr. G. E. Moore and Mr. J. M. Keynes : from the former, as regards the relations of sense-data to physical objects, and from the latter as regards probability and induction. I have also profited greatly by the criticisms and suggestions of Professor Gilbert Murray.
- 
+PREFACE
 
- 
-(Simplified)
- 
+In the pages ahead, I mostly focus on parts of philosophy where I thought I could say something useful and clear. I didn’t want to just criticize without offering ideas. Because of this, I talk more about how we know things (theory of knowledge) than about what really exists (metaphysics). Some popular topics in philosophy are only mentioned briefly or not at all.
+
+I got a lot of help from some unpublished work by Mr. G. E. Moore and Mr. J. M. Keynes. Mr. Moore helped me understand how our senses relate to physical objects, and Mr. Keynes helped with ideas about probability and reasoning. I also learned a lot from the advice and feedback of Professor Gilbert Murray.

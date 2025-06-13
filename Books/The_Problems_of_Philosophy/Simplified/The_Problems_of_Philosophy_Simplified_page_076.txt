@@ -1,6 +1,9 @@
-CHAPTER V KNOWLEDGE BY ACQUAINTANCE AND KNOWLEDGE BY DESCRIPTION In the preceding chapter we saw that there are two sorts of knowledge : knowledge of things, and knowledge of truths. In this chapter we shall be concerned exclusively with knowledge of things, of which in turn we shall have to distinguish two kinds. Knowledge of t hings, when it is of the kind we call knowledge by acquaintance, is essentially simpler than any knowledge of truths, and logically independent of knowledge of truths, though it would be rash to assume that human beings ever, in fact, have acquaintance with things without at the same time knowing some truth about them. Knowledge of things by description, on the contrary, always involves, as we shall find in the course of the 72 ACQUAINTANCE AND DESCRIPTION 78 present chapter, some knowledge of truths as its source and ground.
- 
+CHAPTER V KNOWLEDGE BY ACQUAINTANCE AND KNOWLEDGE BY DESCRIPTION
 
- 
-(Simplified)
- 
+In the last chapter, we learned that there are two kinds of knowledge: knowing things and knowing facts. 
+
+In this chapter, we will focus only on knowing things. There are two types of knowing things.
+
+The first type is called knowledge by acquaintance. This kind of knowledge is simpler than knowing facts and does not depend on knowing facts. But it’s probably true that people never really know things without also knowing some facts about them.
+
+The second type is knowledge by description. This kind always needs some knowledge of facts, which we will explain more in this chapter.

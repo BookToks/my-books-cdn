@@ -1,12 +1,17 @@
-..): (2) that the number 216 with its permutations would have been familiar to a Greek mathematician, though unfamiliar to us: (3) that 216 is the cube of 6, and also the sum of 3 cubed, 4 cubed, 5 cubed, the numbers 3,4,5representingthePythagoreantriangle,ofwhichthesideswhensquared equal the square of the hypotenuse (9 + 16 = 25): (4) that it is also the period of the Pythagorean Metempsychosis: (5) the three ultimate terms or bases (3, 4,5)ofwhich216iscomposedanswertothethird,fourth,fifthinthemusical scale: (6)thatthenumber216istheproductofthecubesof2and3,whichare the two last terms in the Platonic Tetractys: (7) that the Pythagorean triangle issaidbyPlutarch(deIs. etOsir.),Proclus(superprimaEucl.),andQuintilian (de Musica) to be contained in this passage, so that the tradition of the school seemstopointinthesamedirection: (8)thatthePythagoreantriangleiscalled alsothefigureofmarriage(Greek).
- 
- ButthoughagreeingwithDr.Donaldsonthusfar,Iseenoreasonforsupposing, ashedoes,thatthefirstorperfectnumberistheworld,thehumanorimperfect number the state; nor has he given any proof that the second harmony is a cube. NordoIthinkthat(Greek)canmean’twoincommensurables,’whichhe arbitrarily assumes to be 2 and 3, but rather, as the preceding clause implies, (Greek), i.e. two square numbers based upon irrational diameters of a figure thesideofwhichis5=50x2.
- 
- Thegreatestobjectiontothetranslationisthesensegiventothewords(Greek), ’a base of three with a third added to it, multiplied by 5.’ In this somewhat forcedmannerPlatointroducesoncemorethenumbersofthePythagoreantriangle. But the coincidences in the numbers which follow are in favour of the explanation. Thefirstharmonyof400,ashasbeenalreadyremarked,probably representstherulers;thesecondandoblongharmonyof7600,thepeople.
- 
- And here we take leave of the difficulty. The discovery of the riddle would be useless, and would throw no light on ancient mathematics. The point of interestisthatPlatoshouldhaveusedsuchasymbol,andthatsomuchofthe Pythagoreanspiritshouldhaveprevailedinhim. Hisgeneralmeaningisthat divine creation is perfect, and is represented or presided over by a perfect or cyclical number; human generation is imperfect, and represented or presided overbyanimperfectnumberorseriesofnumbers. Thenumber5040,whichis thenumberofthecitizensintheLaws,isexpresslybasedbyhimonutilitarian grounds,namely,theconvenienceofthenumberfordivision;itisalsomadeup of the first seven digits multiplied by one another. The contrast of the perfect andimperfectnumbermayhavebeeneasilysuggestedbythecorrectionsofthe cycle,whichweremadefirstbyMetonandsecondlybyCallippus;(thelatteris saidtohavebeenapupilofPlato). Ofthedegreeofimportanceorofexactness tobeattributedtotheproblem,thenumberofthetyrantinBookIX(729=365 x2), andtheslightcorrectionoftheerrorinthenumber5040/12(Laws), may http://www.idph.net IDPH 105 furnish a criterion.
- 
+(2) The number 216 and its different forms would have been familiar to a Greek mathematician, even if we don’t recognize it today.  
+(3) The number 216 is 6 cubed (6×6×6), and it’s also the sum of 3 cubed, 4 cubed, and 5 cubed. These numbers 3, 4, and 5 come from the Pythagorean triangle, where the sides squared add up correctly (9 + 16 = 25).  
+(4) It is also the length of the Pythagorean Metempsychosis cycle.  
+(5) The three main numbers (3, 4, and 5) that make up 216 also relate to the third, fourth, and fifth notes in the musical scale.  
+(6) The number 216 is the result of multiplying the cubes of 2 and 3, which are the last two numbers in the Platonic Tetractys.  
+(7) According to Plutarch, Proclus, and Quintilian, the Pythagorean triangle is mentioned in this passage, showing that their tradition points the same way.  
+(8) The Pythagorean triangle is also called the figure of marriage in Greek.
 
- 
-(Simplified)
- 
+But even though I agree with Dr. Donaldson so far, I don’t see why he thinks the first perfect number means the world, or the imperfect number means the state. He hasn’t proven that the second harmony is a cube. I also don’t think the Greek word means ‘two incommensurables’ (two numbers that can’t be measured by the same unit), which he assumes to be 2 and 3. Instead, it probably means two square numbers based on the irrational lengths of a figure with a side of 5, which is about 50 times the square root of 2.
+
+The biggest problem with the translation is how it interprets the Greek phrase as ‘a base of three with a third added to it, multiplied by 5.’ Plato seems to be forcing in another Pythagorean triangle number here. But the number coincidences that follow support this explanation. The first harmony of 400 likely represents rulers, while the second harmony of 7600 probably represents the people.
+
+And that’s where the difficulty ends. Solving this riddle wouldn’t help us understand ancient math better. The interesting part is that Plato used this symbol, and that so much of the Pythagorean spirit influenced him. His main idea is that divine creation is perfect and represented by a perfect or repeating number, while human creation is imperfect and represented by an imperfect number or series of numbers.  
+
+The number 5040, which is the number of citizens in Plato’s Laws, was chosen for practical reasons — it’s easy to divide. It’s also the product of the first seven digits multiplied together. The idea of perfect and imperfect numbers could have been inspired by corrections to the calendar cycle made by Meton and Callippus, the latter being Plato’s student.  
+
+If we want to judge how important or accurate this problem is, we can look at the number of the tyrant in Book IX (729 = 365 × 2), and the small correction of the error in the number 5040 divided by 12 in the Laws.

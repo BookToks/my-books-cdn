@@ -1,14 +1,21 @@
 On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life.
- 
- By Charles Darwin Contents Introduction Chapter I Variation under Domestication Causes of Variability — Effects of Habit — Correlation of Growth — Inheritance — Character of Domestic Varieties — Difficulty of distinguishing between Varieties and Species — Origin of Domestic Varieties from one or more Species — Domestic Pigeons, their Differences and Origin -Principle of Selection anciently followed, its Effects — Methodical and Unconscious Selection -Unknown Origin of our Domestic Productions — Circumstances favourable to Man's power of Selection.
- 
- Chapter II Variation under Nature Variability — Individual Differences — Doubtful species — Wide ranging, much diffused, and common species vary most — Species of the larger genera in any country vary more than the species of the smaller genera — Many of the species of the larger genera resemble varieties in being very closely, but unequally, related to each other, and in having restricted ranges.
- 
- Chapter III Struggle for Existence Bears on natural selection — The term used in a wide sense — Geometrical powers of increase -Rapid increase of naturalised animals and plants — Nature of the checks to increase — Competition universal — Effects of climate — Protection from the number of individuals — Complex relations of all animals and plants throughout nature — Struggle for life most severe between individuals and varieties of the same species; often severe between species of the same genus — The relation of organism to organism the most important of all relations.
- 
- Chapter IV Natural Selection Natural Selection — its power compared with man's selection — its power on characters of trifling importance — its power at all ages and on both sexes — Sexual Selection — On the generality of intercrosses between individuals of the same species — Circumstances favourable and unfavourable to Natural Selection, namely, intercrossing, isolation, number of individuals — Slow action -Extinction caused by Natural Selection — Divergence of Character, related to the diversity of inhabitants of any small area, and to naturalisation — Action of Natural Selection, through Divergence of Character and Extinction, on the descendants from a common parent — Explains the Grouping of all organic beings.
- 
 
- 
-(Simplified)
- 
+By Charles Darwin
+
+Introduction
+
+Chapter I Variation under Domestication
+
+Things can change when animals or plants are raised by people. Causes of change include habits, how growth is connected, passing traits to offspring, and the nature of domestic types. It’s hard to tell the difference between varieties and species. Domestic varieties may come from one or more species. Domestic pigeons show many differences and origins. People have been selecting animals and plants for a long time, which affects them. Selection can be done on purpose or without realizing it. We don’t always know how our domestic plants and animals started. Many things help people select what traits they want.
+
+Chapter II Variation under Nature
+
+In the wild, animals and plants also show differences. Individuals are not exactly the same. Some species are hard to identify. Species that live in many places or are common tend to change more. Species in larger groups in a country change more than those in smaller groups. Many species in big groups look like varieties because they are closely but unevenly related and live in limited areas.
+
+Chapter III Struggle for Existence
+
+Survival affects natural selection. This idea is used broadly. Populations can grow very fast. Animals and plants that are introduced to new places can increase quickly. Many things stop unlimited growth. Competition is everywhere. Climate affects survival. Living things protect themselves by their numbers. All animals and plants are connected in nature in complex ways. The hardest competition is between individuals and types of the same species and often between species of the same group. Relationships between living things are the most important.
+
+Chapter IV Natural Selection
+
+Natural selection works like how people choose traits but is more powerful. It can affect small details and works on all ages and both males and females. Sexual selection is part of this. Most breeding happens between members of the same species. Some things help natural selection, like breeding within a group, isolation, and population size. Natural selection works slowly. It can cause species to go extinct. Differences grow over time because of natural selection and extinction. This explains how all living things are grouped.

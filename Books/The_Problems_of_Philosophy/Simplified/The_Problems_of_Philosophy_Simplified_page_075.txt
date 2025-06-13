@@ -1,8 +1,5 @@
-What happens, in cases where I have true judgment without acquaintance, is that the thing is known to me by description, and that, in virtue of some general principle, the existence of a thing answering to this description can be inferred from the existence of something with which I am acquainted.
- 
- In order to understand this point fully, it will be well first to deal with the difference between knowledge by acquaintance and knowledge by description, and then to consider what knowledge of general principles, if any, has the same kind of certainty as our knowledge of the existence of our own experiences. These subjects will be dealt with m the following chapters.
- 
+Sometimes, I can make a true judgment about something even if I haven’t experienced it directly. This happens because I know about the thing from a description. Also, using a general rule, I can guess that something matching this description must exist because I know something related to it.
 
- 
-(Simplified)
- 
+To understand this better, it’s important to first learn the difference between knowing something by experience and knowing something by description. Then, we need to think about whether knowing general rules can be as certain as knowing things we have actually experienced.
+
+These ideas will be explained more in the next chapters.

@@ -1,8 +1,9 @@
-IDEALISM 65 Taking the word " idea " in Berkeley's sense, there are two quite distinct things to be considered whenever an idea is before the mind. There is on the one hand the thing of which we are av/are — say the colour of my table — and on the other hand the actual awareness itself, the mental act of apprehending the thing. The mental act is undoubtedly mental, but is there any reason to suppose that the thing apprehended is in any sense mental ? Our previous arguments concerning the colour did not prove it to be mental ; they only proved that its existence depends upon the relation of our sense organs to the physical object — in our case, the table. That is to say, they proved that a certain colour will exist, in a certain light, if a normal eye is placed at a certain point relatively to the table. They did not prove that the colour is in the mind of the percipient.
- 
- Berkeley's view, that obviously the colour must be in the mind, seems to depend for its plausibility upon confusing the thing apprehended with the act of apprehension. Either o 66 THE PROBLEMS OF PHILOSOPHY of these might be called an " idea " ; probably either would have been called an idea by Berkeley.
- 
+When we use the word "idea" like Berkeley does, there are two different things to think about whenever we have an idea in our mind. 
 
- 
-(Simplified)
- 
+First, there is the thing we are aware of — like the color of my table. Second, there is the actual mental action of noticing or understanding that thing. 
+
+The mental action is definitely happening in the mind, but is the thing we notice also in the mind? Our earlier points about color didn’t show that color is in the mind. They only showed that the color depends on how our eyes and the table work together. 
+
+This means a certain color will appear if the light is right and a normal eye looks at the table from the right spot. But this doesn’t prove the color is inside the person’s mind. 
+
+Berkeley’s idea, that the color has to be in the mind, seems believable because he mixes up the thing we notice with the act of noticing it. Both of these could be called an “idea,” and Berkeley probably called both ideas.

@@ -1,10 +1,7 @@
-Yet it would be absurd to saythat the reader does not know that the newspaper announces the King's death.
- 
- We must, therefore, admit as derivative knowledge whatever is the result of intuitive knowledge even if by mere association, provided there is a valid logical connection, and the person in question could become aware of this connection by reflection. There are in fact many ways, besides logical inference, by which we pass from one belief to another : the passage from the print to its meaning illustrates these ways. These ways may be called " psychological inference." We shall, then, admit such psychological inference as a means of obtaining derivative knowledge, provided there is a discoverable logical inference which runs parallel to the psychological inference.
- 
- This renders our definition of derivative knowledge less precise than we could wish, since the word " discoverable " is vague : it does not tell us how much reflection may be needed in order to make the discovery. But in fact " knowledge " is not a precise conception : it merges into " probable opinion," as we shall 210 THE PROBLEMS OF PHILOSOPHY see more fully in the course of the present chapter.
- 
+It would be silly to say that the reader doesn’t know the newspaper is telling them the King has died.
 
- 
-(Simplified)
- 
+So, we have to accept any knowledge that comes from something we understand right away, even if it’s just because we connect ideas in our mind, as long as there is a clear, logical link and the person can figure this out by thinking about it.
+
+There are actually many ways, besides straight logic, that we move from one belief to another. For example, reading printed words and understanding their meaning shows these ways. We can call these ways "psychological inference." We should accept psychological inference as a way to get new knowledge, as long as there is a logical reasoning that matches the psychological one.
+
+This makes our definition of new knowledge less exact than we want because the word "discoverable" is unclear—it doesn’t say how much thinking is needed to figure it out. But really, "knowledge" isn’t a perfect idea; it blends into "probable opinion," which we will explain more in this chapter.

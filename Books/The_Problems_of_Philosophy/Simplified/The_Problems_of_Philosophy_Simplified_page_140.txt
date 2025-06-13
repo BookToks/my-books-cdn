@@ -1,10 +1,5 @@
-186 THE PROBLEMS OF PHILOSOPHY Reflection, moreover, seems to make it clear that, if there is any truth in our arithmetical beliefs, they must apply to things equally whether we think of them or not. Two physical objects and two other physical objects must make four physical objects, even if physical objects cannot be experienced.
- 
- To assert this is certainly within the scope of what we mean when we state that two and two are four. Its truth is just as indubitable as the truth of the assertion that two phenomena and two other phenomena make four phenomena. Thus Kant's solution unduly limits the scope of a priori propositions, in addition to failing in the attempt at explaining their certainty.
- 
- Apart from the special doctrines advocated by Kant, it is very common among philosophers to r egard what is a priori as in some sense mental, as concerned rather with the way we must think than with any fact of the outer world. We noted in the preceding chapter the three principles commonly called *' l aws of thought." The view which led to their being so named is a natural one, but A PRIORI KNOWLEDGE 137 there are strong reasons for thinking that it is erroneous.
- 
+Thinking about it more shows that if our math ideas are true, they have to work the same way whether we think about things or not. For example, two objects plus two more objects always make four objects, even if we can’t see or touch them.
 
- 
-(Simplified)
- 
+Saying this is definitely what we mean when we say two plus two equals four. It’s just as true as saying two events plus two other events make four events. So, Kant’s idea limits these basic truths too much and doesn’t really explain why they are certain.
+
+Besides Kant’s ideas, many philosophers think that a priori knowledge is mostly about how we have to think, not about facts in the real world. We talked before about the three rules called the “laws of thought.” It makes sense to call them that, but there are good reasons to believe this idea is actually wrong.

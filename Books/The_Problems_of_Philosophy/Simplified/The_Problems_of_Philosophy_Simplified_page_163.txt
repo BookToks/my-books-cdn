@@ -1,8 +1,5 @@
-A similar process will make us acquainted with any other universal of the same sort, Universals of this sort may be called " sensible qualities." They can be apprehended with less effort of abstraction than any others, and they seem less removed from particulars than other universals are.
- 
- We come next to relations. The easiest relations to apprehend are those which hold between the different parts of a single complex sense-datum. For example, I can see at a glance the whole of the page on which I am writing ; thus the whole page is included in one sense-datum. But I perceive that some parts of the page are to the left of other parts, and some parts are above other parts. The process of abstraction in this case seems to proceed somewhat as follows : I see successively a number of sense-data in which one part is to the left of another ; I perceive, as in the case of different white patches, that all these sense-data have something in common, and by abstraction I find that what ICO THE PROBLEMS OF PHILOSOPHY they have in common is a certain relation between their parts, namely the relation which I call " being to the left of.
- 
+A similar process will help us understand other things like this, called "sensible qualities." These are easier to notice than other kinds of universals, and they seem more connected to actual things we see.
 
- 
-(Simplified)
- 
+Next, we look at relations. The easiest relations to notice are those between different parts of one thing we see. For example, I can see the whole page I’m writing on at once. The whole page is one thing I see.
+
+But I also notice that some parts of the page are to the left of other parts, and some parts are above others. The way I understand this is like this: I see many examples where one part is to the left of another. I realize that all these examples share something in common. By thinking about it carefully, I find that what they share is a certain relation between their parts, which I call "being to the left of."

@@ -1,10 +1,5 @@
-Thus space and time appear to be infinite in extent.
- 
- Again, if we take any two points on a line, it seems evident that there must be other points between them, however small the distance between them may be : every distance can be halved, and the halves can be halved again, and so on ad infinitum. In time, similarly, however little time may elapse between two moments, it seems evident that there will be other moments between them.
- 
- Thus space and time appear to be infinitely divisible. But as against these apparent facts — infinite extent and infiiiite divisibility — philosophers have advanced arguments tending to show that there could be no infinite collections of things, and that therefore the number of points in space, or of instants in time, must be finite. Thus a contradiction emerged between the apparent nature of space and time and the supposed impossibility of infinite collections.
- 
+So, space and time seem to go on forever.
 
- 
-(Simplified)
- 
+Also, if you pick any two points on a line, it looks like there are always other points between them, no matter how close those two points are. You can keep splitting the distance in half again and again, without end. The same goes for time: no matter how little time passes between two moments, there always seems to be another moment in between.
+
+This means space and time can be divided into smaller and smaller parts forever. But some philosophers argue that there can’t be infinite amounts of things. So, they say the number of points in space or moments in time must be limited. This creates a problem because space and time seem infinite, but infinite sets might not be possible.

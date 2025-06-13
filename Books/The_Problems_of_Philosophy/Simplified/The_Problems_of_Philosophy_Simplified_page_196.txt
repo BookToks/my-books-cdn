@@ -1,8 +1,7 @@
-Thus coherence as the definition of truth fails because there is no proof that there can be only one coherent system.
- 
- The other objection to this definition of truth is that it assumes the meaning of " coherence " k nown, whereas, in fact, " coherence " p resupposes the truth of the laws of logic. Two propositions are coherent when both may be true, and are incoherent when one at least must be false. Now in order to know whether two propositions can both be true, we must know such truths as the law of contradiction. For example, the two propositions " this tree is a beech " and " this tree is not a beech," are not coherent, because of the law of contradiction. But if the law of contradiction itself were subjected to t he test of coherence, we should find that, if we choose to suppose it false, nothing will any longer be incoherent with anything else. Thus the laws of logic supply the skeleton or framework within which the test of coherence applies, and they themselves cannot be established by this test.
- 
+So, using coherence to define truth doesn’t work because there’s no proof that only one coherent system can exist.
 
- 
-(Simplified)
- 
+Another problem with this idea is that it assumes we already understand what "coherence" means. But actually, "coherence" depends on the truth of the laws of logic. Two statements are coherent if they can both be true, and they’re incoherent if at least one must be false.
+
+To figure out if two statements can both be true, we have to know rules like the law of contradiction. For example, the statements "this tree is a beech" and "this tree is not a beech" can’t both be true because of this law.
+
+But if we try to test the law of contradiction itself using coherence, we’d see that if we pretend it’s false, then nothing would seem incoherent anymore. So, the laws of logic are like the basic framework that makes the test of coherence possible, and these laws can’t be proven just by using that test.

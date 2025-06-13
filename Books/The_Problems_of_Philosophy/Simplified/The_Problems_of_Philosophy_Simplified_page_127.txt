@@ -1,6 +1,7 @@
-The fact is that, in simple mathematical judgments such as " two and two are four," and also in many judgments of logic, we can know the general proposition without inferring it from instances, although some instance is usually necessary to make clear to us what the general proposition means. This is why there \ is real utility in the process of deduction, which " goes from the general to the general or from the general to the particular, as well as in the ' process of induction, which goes from the particular to t he particular, or from the particular f to the general. It is an old debate among philosophers whether deduction ever gives new knowledge. We can now see that in certain cases, at least, it does do so. If we already know that two and two always make four, and we know that Brown and Jones are two, and so are Robinson and Smith, we can deduce that Brown and Jones and Robinson and Smith are four. This is new knowledge, not contained in our premisses, because the general proposition, " two and two are four," 124 THE PROBLEMS OF PHILOSOPHY never told us there were such people as Brown and Jones and Robinson and Smith, and the particular premisses did not tell us that there were four of them, whereas the particular proposition deduced does tell us both these things.
- 
+Sometimes, we can understand simple facts like "two and two are four" or other logical ideas without needing to look at examples first. But usually, seeing an example helps us understand what the general idea means.
 
- 
-(Simplified)
- 
+This is why deduction is useful. Deduction means starting from a general idea and figuring out more general or specific ideas from it. Induction is the opposite—it starts from specific examples and moves to other specific cases or general ideas.
+
+Philosophers have long debated whether deduction can ever give us new information. Now, we can see that sometimes it does. For example, if we know that two and two always make four, and we know Brown and Jones are two people, and Robinson and Smith are also two people, we can figure out that Brown, Jones, Robinson, and Smith are four people.
+
+This is new information because the general idea "two and two are four" didn’t tell us about these people, and the specific facts didn’t say there were four of them. But the conclusion tells us both things.

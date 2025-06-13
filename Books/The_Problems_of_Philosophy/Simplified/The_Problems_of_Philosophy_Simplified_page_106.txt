@@ -1,10 +1,5 @@
-The most we can hope is that the oftener things are found together, the more probable it becomes that they will be found together another time, and that, if they have been found together often enough, the probability will amount almost to certainty. It can never quite reach certainty, because we know that in spite of frequent repetitions there sometimes is a failure at the last, as in the case of the chicken whose neck is wrung.
- 
- Thus probability is all we ought to seek.
- 
- It might be urged, as against the view we are advocating, that we know all natural phenomena to be subject to the reign of law, and that sometimes, on the basis of observation, we can see that only one law can possibly fit the facts of the case. Now to this view there are two answers. The first is that, even if some law which has no exceptions applies to our case, we can never, in practice, be sure that we have discovered that law and not one to which there are exceptions. The second is that the reign of law would seem to be itself only probable, and that our belief ON INDUCTION 103 that it will hold in the future, or in unexamined cases in the past, is itself based upon the very principle we are examining.
- 
+The most we can hope for is that the more often things happen together, the more likely it is they will happen together again. If they happen together enough times, it almost feels like a sure thing. But it can never be 100% sure, because sometimes, even after many times, it can still fail—like a chicken whose neck is wrung.
 
- 
-(Simplified)
- 
+So, all we should really try for is probability.
+
+Some people might say that all natural events follow strict laws, and sometimes from what we see, only one law can explain what’s happening. But there are two answers to this. First, even if there is a perfect law with no exceptions, we can never be completely sure we’ve found it and not a law that has exceptions. Second, the idea that everything follows laws is itself just a guess based on what we’ve seen before, and this guess is based on the same idea we’re trying to understand.

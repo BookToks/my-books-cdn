@@ -1,8 +1,9 @@
-Such reference is involved in any mention of past, present, and future (as opposed to definite dates), or of here and there, or of what others have told us. Thus it would seem that, in some way or other, a description known to be applicable to a particular must involve some reference to a particular with which we are acquainted, if our knowledge about the thing described is n ot to be merely what follows logically from the description. For example, "the most long-lived of men" is a description involving only universals, which must apply to some man, but we can make no judgments concerning this man which involve knowledge about him beyond what the description gives.
- 
- If, however, we say, " The first Chancellor of the German Empire was an astute diplomatist," we can only be assured of the truth of our judgment in virtue of something with which we are acquainted — usually a testimony heard or read. Apart from the information \ 88 THE PROBLEMS OF PHILOSOPHY we convey to others, apart from the fact about the actual Bismarck, which gives importance to our judgment, the thought we really have contains the one or more particulars involved, and otherwise consists wholly of concepts.
- 
+When we talk about the past, present, or future without using exact dates, or when we say here or there, or share what others have told us, we are making references. 
 
- 
-(Simplified)
- 
+It seems that when we describe something specific, we have to connect it to something we know about. Otherwise, what we know is just what logically comes from the description. 
+
+For example, "the longest-lived man" is a description that applies to some man, but we can't say anything more about him than what the description tells us. 
+
+But if we say, "The first Chancellor of the German Empire was a smart diplomat," we can only be sure this is true because we know something about that person—usually from what we’ve heard or read. 
+
+Besides sharing this information with others, the idea we have includes the specific person involved, and the rest is just general concepts.

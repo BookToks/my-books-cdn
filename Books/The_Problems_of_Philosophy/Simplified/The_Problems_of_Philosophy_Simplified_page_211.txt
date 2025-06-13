@@ -1,10 +1,5 @@
-This, however, is a circular definition : it assumes that we already know what is meant by " known premisses." It can, therefore, at best define one sort of knowledge, the sort we call derivative, as opposed to intuitive knowledge. We may say : " Derivative knowledge is what is validly deduced from premisses known intuitively." In this statement there is no formal defect, but it leaves the definition of intuitive knowledge still to seek.
- 
- Leaving on one side, for the moment, the question of intuitive knowledge, let us consider the above suggested definition of derivative knowledge. The chief objection to it is that it unduly limits knowledge. It constantly happens that people entertain a true belief, which has grown up in them because of s ome piece of intuitive knowledge from which it is capable of being validly inferred, but from which it has not, as a matter of fact, been inferred by any logical process.
- 
- Take, for example, the beliefs produced by 208 THE PROBLEMS OF PHILOSOPHY reading.
- 
+This is a circular definition because it assumes we already know what "known premisses" means. So, it can only explain one type of knowledge, which we call derivative knowledge, different from intuitive knowledge. We can say, "Derivative knowledge is what we can logically figure out from premisses we know intuitively." This sentence makes sense, but it doesn’t explain what intuitive knowledge actually is.
 
- 
-(Simplified)
- 
+Putting aside the idea of intuitive knowledge for now, let’s look at the definition of derivative knowledge. The main problem with it is that it limits what knowledge can be. Sometimes, people believe something true because of some intuitive knowledge, but they never actually figured it out through a logical process.
+
+For example, think about the beliefs you get from reading.

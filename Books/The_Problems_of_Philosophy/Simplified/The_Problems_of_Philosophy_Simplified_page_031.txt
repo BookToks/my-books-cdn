@@ -1,12 +1,7 @@
-This is an uncomfortable possibility ; but although it cannot be strictly proved to be false, there is not the slightest reason to suppose that it is true.
- 
- In this chapter we have to see why this is the case.
- 
- Before we embark upon doubtful matters, let us try to find some more or less fixed point from which to start. Although we are doubting the physical existence of the table, we are not doubting the existence of the sense-data which made us think there was a table ; we are not doubting that, while we look, a certain colour and shape appear to us, and while we press, a certain sensation of hardness is experienced by us. All this, which is psychological, we are not calling in question. In fact, whatever else may be doubtful, some at least of our immediate experiences seem absolutely certain.
- 
- Descartes (1596-1650), the founder of modern philosophy, invented a method which may still be used with profit — the method of 28 THE PROBLEMS OF PHILOSOPHY systematic doubt.
- 
+This idea might feel a little weird, but even though we can’t totally prove it’s wrong, there’s no good reason to think it’s true.
 
- 
-(Simplified)
- 
+In this chapter, we’ll look at why that is.
+
+Before we jump into uncertain stuff, let’s find something solid to start with. Even if we doubt that the table is really there, we don’t doubt the things our senses tell us. We know that when we look, we see certain colors and shapes, and when we touch, we feel hardness. These feelings and experiences are real to us. So, even if many things are unsure, some of what we experience right now seems totally sure.
+
+Descartes (1596-1650), who started modern philosophy, came up with a way to think called systematic doubt that we can still use today.

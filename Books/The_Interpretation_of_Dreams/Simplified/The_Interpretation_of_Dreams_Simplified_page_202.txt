@@ -1,54 +1,51 @@
-- "A Propos de l'activite de l'esprit dans le reve," Rev. philos., Vol. 38, 1894, pp. 546-548.
- 
- PFAFF, E. R., Dans Traumleben und seine Deutung nach den Prinzipien der Araber, Perser, Griechen, Indier und Agypter, Leipzig, 1868.
- 
- PICHON, Contribution a l'etude des delires oniriques ou delires de reve, These de Bordeaux, 1896.
- 
- PICK, A., "Uber pathologische Traumerei und ihre Beziehungen zur Hysterie," Jahrbuch fur Psychiatric, 1896.
- 
- PILCZ, "Uber eine gewisse Gesetzmassigkeit in den Traumen," Monattsschrift fur Psychologie und Neurologie, March, 1899.
- 
- PREVOST, "Quelques observations psychologiques sur le sommeil." Bibl. univ. des sc., belles-lettres et arts, 1834, Vol. I, Litterature, pp. 225248.
- 
- PURKINJE, "Wachen, Schlaf, Traum und verwandte Zustande" in Wagners Handworterbuch der Physiologie, 1846.
- 
- RADESTOCK, P., Schlaf and Traum, Leipzig, 1878.
- 
- RAMM, KONRAD, Diss, pertractans somnia, Vienna, 1889.
- 
- REGIS, "Les Reves," La Gironde (Varietes), Bordeaux, May 31, 1890.
- 
- - "Des Hallucinations oniriques des degeneres mystiques," C. R. du Congres des med. alienistes, etc., 5th sess., 1894, Paris, 1895, p. 260.
- 
- - "Reves et l'hypnotisme," Le Monde, August 25, .1890.
- 
- RICHARD, JEROME, La theorie des songes, Paris, 1766.
- 
- RICHARDSON, B. W., "The Psychology of Dreams," The Asclep., London, 1892, IX, 129, 160.
- 
- ROBERT, W., Der Traum als Naturnotwendigkeit erklart, Hamburg, 1886.
- 
- RICHIER, Oneirologie ou dissertation sur les songes consideres dans l'etat de maladie, These de Paris, 1816.
- 
- ROBINSON, L., "What Dreams are made of," N. Americ. Rev. New York, 1893, CI, VII, 687-697.
- 
- ROUSSET, Contribution a l'etude du cauchemar, These de Paris, 1876.
- 
- ROUX, J., "Les Reves et les delires oniriques," Province med., 1898, p. 212.
- 
- RYFF, WALTHER HERM, Traumbuchlein, Strassburg, 1554.
- 
- SANTE DE SANCTIS, Emozione e sogni, 1896.
- 
- - "I Sogni nei delinquenti," Arch. di psichiatr. e antrop. criminale, Turin, 1896, XVII, 488-498.
- 
- - I Sogni e il sonno nell' isterismo e nella epilessia, Rome, 1896.
- 
- - Les Maladies mentales at les reves, 1897, (Extract from Annales de la Societe de medecine de Gand.) - "Sui Rapporti d' ictentita, di somiglianza, di analogia e di equivilenza fra sogno e pazzia," Rivista quindicinale di Psicologia, Psichiatria, Neuropatologia, 15. Nov., 1897.
- 
- - "I sogni dei neuropatici e dei pazzi," Arch. di psichiatr. e. antrop. crim., 1898, 4 Vols.
- 
+- "About the activity of the mind in dreams," Rev. philos., Vol. 38, 1894, pp. 546-548.
 
- 
-(Simplified)
- 
+PFAFF, E. R., In Dream Life and Its Meaning According to the Principles of Arabs, Persians, Greeks, Indians, and Egyptians, Leipzig, 1868.
+
+PICHON, Contribution to the study of dream delusions or dream madness, Thesis of Bordeaux, 1896.
+
+PICK, A., "On pathological daydreaming and its links to hysteria," Yearbook for Psychiatry, 1896.
+
+PILCZ, "On a certain pattern in dreams," Monthly Journal for Psychology and Neurology, March, 1899.
+
+PREVOST, "Some psychological observations on sleep," Universal Library of Science, Literature and Arts, 1834, Vol. I, Literature, pp. 225-248.
+
+PURKINJE, "Waking, Sleep, Dreams, and Related States" in Wagner’s Dictionary of Physiology, 1846.
+
+RADESTOCK, P., Sleep and Dreams, Leipzig, 1878.
+
+RAMM, KONRAD, Dissertation about dreams, Vienna, 1889.
+
+REGIS, "Dreams," La Gironde (Varieties), Bordeaux, May 31, 1890.
+
+- "On dream hallucinations of mystical degenerates," Report of the Congress of Alienist Doctors, 5th session, 1894, Paris, 1895, p. 260.
+
+- "Dreams and hypnotism," Le Monde, August 25, 1890.
+
+RICHARD, JEROME, The theory of dreams, Paris, 1766.
+
+RICHARDSON, B. W., "The Psychology of Dreams," The Asclep., London, 1892, IX, 129, 160.
+
+ROBERT, W., The Dream explained as a natural necessity, Hamburg, 1886.
+
+RICHIER, Oneirology or dissertation on dreams seen in illness, Thesis of Paris, 1816.
+
+ROBINSON, L., "What Dreams are made of," North American Review, New York, 1893, CI, VII, 687-697.
+
+ROUSSET, Contribution to the study of nightmares, Thesis of Paris, 1876.
+
+ROUX, J., "Dreams and dream madness," Medical Province, 1898, p. 212.
+
+RYFF, WALTHER HERM, Little Book of Dreams, Strasbourg, 1554.
+
+SANTE DE SANCTIS, Emotion and dreams, 1896.
+
+- "Dreams in criminals," Archive of psychiatry and criminal anthropology, Turin, 1896, XVII, 488-498.
+
+- Dreams and sleep in hysteria and epilepsy, Rome, 1896.
+
+- Mental illnesses and dreams, 1897, (Extract from Annals of the Medical Society of Ghent.)
+
+- "On the relations of identity, similarity, analogy, and equivalence between dream and madness," Biweekly Review of Psychology, Psychiatry, Neuropathology, Nov. 15, 1897.
+
+- "Dreams of neurotics and the insane," Archive of psychiatry and criminal anthropology, 1898, 4 Vols.

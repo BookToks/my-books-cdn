@@ -1,10 +1,7 @@
-ON KNOWLEDGE OF UNIVERSALS 171 Our immediate knowledge of things, which we called acquaintance, consists of two sorts, according as the things known are particulars or universals. Among particulars, we have acquaintance with sense-data and (probably) with ourselves. Among universals, there seems to be no principle by which we can decide which can be known by acquaintance, but it is clear that among those that can be so known are sensible qualities, relations of space and time, similarity, and certain abstract logical universals. Our derivative knowledge of things, which we call knowledge by description, always involves both acquaintance with something and knowledge of truths.
- 
- Our immediate knowledge of truths may be called intuitive knowledge, and the truths so known may be called self-evident truths.
- 
- Among such truths are included those which merely state what is given in sense, and also certain abstract logical and arithmetical principles, and (though with less certainty) some ethical propositions. Our derivative knowledge of t ruths consists of everything that we can deduce from self-evident truths 172 THE PROBLEMS OF PHILOSOPHY by the use of self - evident principles of deduction.
- 
+When we know things right away, which we call acquaintance, there are two kinds depending on what we know: particular things or general ideas. For particular things, we are familiar with what we sense and probably with ourselves. For general ideas, there isn’t a clear rule about which ones we can know directly, but some we do know this way are things we can sense, like qualities, space and time relationships, similarity, and some logical ideas.
 
- 
-(Simplified)
- 
+When we know things by description, it always includes both direct acquaintance with something and knowing some facts or truths.
+
+Knowing truths right away is called intuitive knowledge, and these truths are called self-evident truths.
+
+These truths include what we get from our senses, some basic logic and math ideas, and maybe some moral ideas, though we are less sure about those. When we know truths by using reasoning, it means we figure them out from self-evident truths by following clear rules of deduction.

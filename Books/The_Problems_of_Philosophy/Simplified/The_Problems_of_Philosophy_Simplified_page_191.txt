@@ -1,8 +1,7 @@
-Since erroneous beliefs are often held just as strongly as true beliefs, it becomes a difficult question how they are to be distinguished from true beliefs. How are we to know, in a given case, that our belief is not erroneous ? This is a question of the very greatest difficulty, to which no completely satisfactory answer is possible. There is, however, a preliminary question which is rather less difficult, and that is : What do we viean by truth and falsehood ? It is this preliminary question which is to be considered in this chapter.
- 
- In this chapter we are not asking how we can know whether a belief is true or false : we are asking what is meant by the question whether a belief is true or false. It is to be hoped that a clear answer to this question may help us to obtain an answer to the question what beliefs are true, but for the present we ask only " What is truth ? " and " What is falsehood ? " not " What beliefs are true ? " and " What beliefs are false ? " It is very important to keep these different questions 188 THE PROBLEMS OF PHILOSOPHY entirely separate, since any confusion between them is sure to produce an answer which is not really applicable to either.
- 
+Sometimes people believe things that aren’t true just as strongly as things that are true. This makes it hard to figure out how to tell the difference between true and false beliefs. How can we know if what we believe is actually wrong? This is a very tough question, and there isn’t a perfect answer.
 
- 
-(Simplified)
- 
+But before we try to answer that, there’s an easier question to think about: What do we mean by truth and falsehood? This chapter will focus on that question.
+
+Here, we’re not trying to find out how to know if a belief is true or false. Instead, we want to understand what it means to say a belief is true or false. Hopefully, this will help us later to figure out which beliefs are true.
+
+For now, we only ask “What is truth?” and “What is falsehood?” — not “Which beliefs are true?” or “Which beliefs are false?” It’s very important to keep these questions separate because mixing them up will lead to answers that don’t really work for either one.

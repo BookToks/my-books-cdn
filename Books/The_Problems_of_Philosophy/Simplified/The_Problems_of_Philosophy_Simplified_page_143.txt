@@ -1,8 +1,3 @@
-The fact that our minds are so constituted as to believe that two and two are four, though it is true, is emphatically not what we assert when we assert that two and two are four. And no fact about the constitution of our minds could make it true that two and two are four. Thus our a priori knowledge, if it is not erroneous, is not merely knowledge about the constitution of our minds, but is applicable to whatever the world may contain, both what is mental and what is non-mental.
- 
- The fact seems to be that all our a priori knowledge is concerned with entities which do not, properly speaking, exist, either in the mental or in the physical world. These entities are such as can be named by parts of speech which are not substantives ; they are such entities as qualities and relations. Suppose, for i nstance, that I am in my room. I exist, and my room exists ; but does " in " exist ? Yet obviously the word " in " has a meaning ; i t denotes a relation which holds 140 THE PROBLEMS OF PHILOSOPHY between me and my room.
- 
+Our minds are made in a way that we believe two plus two equals four, and that’s true. But when we say two plus two equals four, we’re not just saying this because of how our minds work. Nothing about how our minds are made can make two plus two equal four true or false. So, if our knowledge before experience (a priori knowledge) isn’t wrong, it’s not just about how our minds are built. It applies to anything in the world, whether it’s about thoughts or real things.
 
- 
-(Simplified)
- 
+It seems that all our a priori knowledge deals with things that don’t really exist, either in our minds or in the physical world. These things can be named by words that aren’t objects, like qualities or relationships. For example, imagine I’m in my room. I exist, and my room exists, but does the word “in” exist? Of course, “in” has meaning; it shows a relationship between me and my room.

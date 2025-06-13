@@ -1,12 +1,7 @@
-In saying that the time-order which events seem to have is the same as the time-orier which they really have, it is necessary to guard against a possible misunderstanding.
- 
- It must not be supposed that the various states of different physical objects have the same time-order as the sense-data which constitute the perceptions of those objects.
- 
- Considered as physical objects, the thunder and lightning are simultaneous ; that is to say, the lightning is simultaneous with the disturbance of the air in the place where the disturbance begins, namely, where the lightning is. But the sense-datum which we call hearing the thunder does not take place until the disturbance of the air has travelled as far as to where we are.
- 
- Similarly, it takes about eight minutes for the sun's light to reach us ; thus, when we see the sun we are seeing the sun of eight minutes ago. So far as our sense-data afford evidence as to the physical sun they afford evidence as to the physical sun of THE NATURE OF MATTER 53 eight minutes ago ; if the physical sun had ceased to exist within the last eight minutes, that would make no difference to the sensedata which we call " seeing the sun.
- 
+When we say that the order in which events seem to happen is the same as the order they really happen in, we have to be careful not to get confused.
 
- 
-(Simplified)
- 
+We shouldn’t think that the order of different things happening to objects is the same as the order of what we actually see or hear.
+
+For example, thunder and lightning happen at the same time as physical things. The lightning and the air moving where the lightning is happen together. But we don’t hear the thunder until the sound travels to where we are.
+
+Also, it takes about eight minutes for sunlight to reach us. So when we see the sun, we’re actually seeing how it looked eight minutes ago. Our senses show us the sun from eight minutes earlier. If the sun had stopped existing in the last eight minutes, we wouldn’t know it yet because the light hasn’t reached us.

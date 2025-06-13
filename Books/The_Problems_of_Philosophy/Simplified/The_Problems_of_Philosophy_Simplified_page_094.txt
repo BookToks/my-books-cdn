@@ -1,10 +1,7 @@
-It will be seen that there are various stages in the removal from acquaintance with particulars : there is Bismarck to people who knew him, Bismarck to those who only know of him through history, the man with the iron mask, the longest -lived of men. These are progressively further removed from acquaintance with particulars ; the first comes as near to acquaintance as is possible in regard to another person ; i n the second, we shall still be said to know "who Bismarck was " ; i n the third, we do not know who was the man with the iron mask, though we can know many propositions about him which are not logically deducible from the fact that he wore an iron mask ; in the fourth, finally, we know nothing beyond what is logically deducible from the definition of the man.
- 
- There is a similar hierarchy in the region of universals. Many universals, like many particulars, are only known to us by description.
- 
- But here, as in the case of particulars, knowledge concerning what is known by descrip- ACiJUAINTANCE AND DESCRIPTION 91 tion is ultimately reducible to knowledge concerning what is known by acquaintance.
- 
+There are different levels of how well people know specific things or people. For example, some people actually met Bismarck and knew him personally. Others only know about Bismarck from history books. Then, there’s the man with the iron mask, whose real identity is unknown, but we know some facts about him. Finally, there’s the idea of the longest-lived man, where we only know what the definition tells us.
 
- 
-(Simplified)
- 
+Each level is less personal and less detailed than the one before. The first level is the closest to really knowing someone. The second level means we know who Bismarck was, but not personally. The third level means we don’t know who the man with the iron mask really was, but we have some information about him. The last level means we only know what the words mean, nothing more.
+
+There is a similar pattern when it comes to general ideas, called universals. Many general ideas, like specific things, are only known because someone described them.
+
+But just like with specific things, what we know from descriptions can always be traced back to what we know from actually experiencing or meeting something.

@@ -1,10 +1,7 @@
-Thus it is quite gratuitous to suppose that physical objects have colours, and therefore there is no justification for making such a supposition.
- 
- Exactly similar arguments will apply to other sense-data.
- 
- It remains to ask whether there are any general philosophical arguments enabling us to say that, if matter is real, it must be of such and such a nature. As explained above, , v ery many philosophers, perhaps most, have held that whatever is real must be in some sense mental, or at any rate that whatever we can know anything about must be in some ' sense mental. Such philosophers are called *' idealists." Idealists tell us that what appears as matter is really something mental ; namely, either (as Leibniz held) more or less rudimentary minds, or (as Berkeley contended) ideas in the minds which, as we should commonly say, " perceive " the matter. Thus idealists deny the existence of matter as something intrinsically different from mind, though they do not deny that our sense-data are signs of something which exists inde- THE NATURE OF MATTER 57 pendently of our private sensations.
- 
+So, it’s really unnecessary to think that physical things actually have colors, and there’s no good reason to believe they do.
 
- 
-(Simplified)
- 
+The same kind of thinking applies to other things we sense.
+
+Now, we need to ask if there are any big philosophical reasons to say that if matter is real, it has to be a certain way. Many philosophers, maybe most, have said that whatever is real must be mental in some way, or at least that we can only know things that are mental in some way. These philosophers are called *idealists.* Idealists say that what looks like matter is really something mental. For example, Leibniz thought matter was made of simple minds, and Berkeley said matter is just ideas in minds that notice or "perceive" it.
+
+So, idealists don’t believe matter is something totally different from the mind, but they do agree that what we sense points to something that exists outside of our own private feelings.

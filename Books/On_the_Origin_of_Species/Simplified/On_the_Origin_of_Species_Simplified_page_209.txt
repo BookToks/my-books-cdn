@@ -1,18 +1,16 @@
-On the principle of successive slight variations, not necessarily or generally supervening at a very early period of life, and being inherited at a corresponding period, we can understand the great leading facts in Embryology; namely, the resemblance in an individual embryo of the homologous parts, which when matured will become widely different from each other in structure and function; and the resemblance in different species of a class of the homologous parts or organs, though fitted in the adult members for purposes as different as possible. Larvae are active embryos, which have become specially modified in relation to their habits of life, through the principle of modifications being inherited at corresponding ages. On this same principle—and bearing in mind, that when organs are reduced in size, either from disuse or selection, it will generally be at that period of life when the being has to provide for its own wants, and bearing in mind how strong is the principle of inheritance—the occurrence of rudimentary organs and their final abortion, present to us no inexplicable difficulties; on the contrary, their presence might have been even anticipated. The importance of embryological characters and of rudimentary organs in classification is intelligible, on the view that an arrangement is only so far natural as it is genealogical.
- 
- Finally, the several classes of facts which have been considered in this chapter, seem to me to proclaim so plainly, that the innumerable species, genera, and families of organic beings, with which this world is peopled, have all descended, each within its own class or group, from common parents, and have all been modified in the course of descent, that I should without hesitation adopt this view, even if it were unsupported by other facts or arguments.
- 
- Chapter XIV Recapitulation and Conclusion Recapitulation of the difficulties on the theory of Natural Selection — Recapitulation of the general and special circumstances in its favour — Causes of the general belief in the immutability of species — How far the theory of natural selection may be extended — Effects of its adoption on the study of Natural history — Concluding remarks.
- 
- As this whole volume is one long argument, it may be convenient to the reader to have the leading facts and inferences briefly recapitulated.
- 
- That many and grave objections may be advanced against the theory of descent with modification through natural selection, I do not deny. I have endeavoured to give to them their full force.
- 
- Nothing at first can appear more difficult to believe than that the more complex organs and instincts should have been perfected, not by means superior to, though analogous with, human reason, but by the accumulation of innumerable slight variations, each good for the individual possessor.
- 
- Nevertheless, this difficulty, though appearing to our imagination insuperably great, cannot be considered real if we admit the following propositions, namely,—that gradations in the perfection of any organ or instinct, which we may consider, either do now exist or could have existed, each good of its kind,—that all organs and instincts are, in ever so slight a degree, variable,—and, lastly, that there is a struggle for existence leading to the preservation of each profitable deviation of structure or instinct. The truth of these propositions cannot, I think, be disputed.
- 
+Based on the idea that small changes happen one after another, not always early in life but at the right time and passed down through generations, we can understand some big facts about how embryos develop. For example, in an embryo, parts that will look very different when fully grown still look similar early on. Also, different species in the same group have body parts that are alike, even if they use those parts in very different ways when adults.
 
- 
-(Simplified)
- 
+Larvae are like embryos that are active and have changed to fit their way of living. This happens because changes are inherited at the right age. Using this idea, and knowing that when body parts get smaller because they’re not used or because of natural selection, it usually happens when the animal starts taking care of itself, we can explain why some animals have leftover or useless organs. These “leftover” organs might seem strange, but actually, we could expect them to be there. Knowing about embryos and these leftover organs helps scientists understand how to classify animals better because grouping animals makes the most sense when it reflects their family history.
+
+Finally, all the facts in this chapter show clearly to me that all the many species, groups, and families of living things on Earth have come from common ancestors within their groups. They have changed over time as they descended. I would believe this idea even if there were no other evidence or arguments to support it.
+
+  
+Chapter XIV Recap and Conclusion
+
+This whole book is one long argument, so it might help the reader to have the main facts and ideas summarized here.
+
+I admit that many serious objections can be made against the idea that species change over time through natural selection. I have tried to give those objections full attention.
+
+At first, it can be really hard to believe that complex body parts and instincts got so perfect, not by some special power like human thinking, but by lots of tiny improvements, each one helping the individual animal.
+
+Still, this problem, which seems impossible to our imagination, isn’t really a problem if we accept these ideas: that there are steps showing how any organ or instinct got better, which either exist now or could have existed; that all body parts and instincts can change a little; and that living things compete to survive, so helpful changes stick around. I don’t think anyone can reasonably argue against these ideas.

@@ -1,6 +1,5 @@
-But the newness of the knowledge is much less certain if we take the stock instance of deduction that is always given in books on logic, namely, " All men are mortal ; S ocrates is a man, therefore Socrates is mortal." In this case, what we really know beyond reasonable doubt is that certain men, A, B, C, were mortal, since, in fact, they have died. If Socrates is one of these men, it is foiolish to go the roundabout way through *' all men are mortal " to arrive at the conclusion that probably Socrates is mortal. If Socrates is not one of the men on whom our induction is based, we shall still do better to argue straight from our A, B, C, to Socrates, than to go round by the general proposition, " all men are mortal." For the probability that Socrates is mortal is greater, on our data, than the probability that all men are mortal.
- 
+The newness of the knowledge is less sure when we look at the common example of deduction in logic books: "All men are mortal; Socrates is a man, so Socrates is mortal."
 
- 
-(Simplified)
- 
+What we really know without much doubt is that some men, like A, B, and C, died. If Socrates is one of these men, it’s silly to use "all men are mortal" to say Socrates is mortal.
+
+If Socrates isn’t one of the men we already know about, it’s still better to think directly from A, B, and C to Socrates, instead of going through "all men are mortal." This is because the chance that Socrates is mortal is higher based on what we know about A, B, and C than on the idea that all men are mortal.

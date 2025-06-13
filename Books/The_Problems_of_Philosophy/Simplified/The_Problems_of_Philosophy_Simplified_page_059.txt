@@ -1,8 +1,5 @@
-Such a theory is perhaps not capable of being definitely refuted, but it can be shown to be groundless. To begin with, it is plain that the colour we see depends only upon the nature of the light-waves that strike the eye, and is therefore modified by the medium intervening between us and the object, as well as by the manner in which light is reflected from the object in the direction of the eye. The intervening air alters colours unless it is perfectly clear, and any strong reflection will alter them completely. Thus the colour we see is a result of the ray as it reaches the eye, and not simply a property of the object from which the ray comes.
- 
- Hence, also, provided certain waves reach the eye, we shall see a certain colour, whether the object from which the waves start has 56 THE PROBLEMS OF PHILOSOPHY any colour or not.
- 
+This idea might not be completely proven wrong, but it can be shown to have no real basis. First, the color we see depends only on the light waves that hit our eyes. This means the color can change because of the space between us and the object, and how light bounces off the object toward our eyes.
 
- 
-(Simplified)
- 
+The air between us and the object can change colors unless it is perfectly clear. Also, strong reflections can change colors a lot. So, the color we see comes from the light rays when they reach our eyes, not just from the object itself.
+
+Because of this, as long as certain light waves reach our eyes, we will see a certain color, even if the object doesn’t actually have that color.

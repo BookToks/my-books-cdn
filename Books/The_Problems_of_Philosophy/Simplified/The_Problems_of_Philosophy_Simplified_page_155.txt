@@ -1,12 +1,7 @@
-The relation of resemblance, therefore, must be a true universal.
- 
- And having been forced to admit this universal, we find that it is no longer worth while to invent difficult and unplausible theories to avoid the admission of such universals as whiteness and triangularity.
- 
- Berkeley and Hume failed to perceive this refutation of their rejection of " abstract ideas," because, like their adversaries, they only thought of qualities, and altogether ignored relations as universals. We have therefore here another respect in which the rationalists appear to have been in the right as against the empiricists, although, owing to the neglect or denial of relations, the deductions made by rationalists were, if anything, more apt to be mistaken than those made by empiricists.
- 
- Having now seen that there must be such entities as universals, the next point to be 152 THE PROBLEMS OF PHILOSOPHY proved is that their being is not merely mental.
- 
+The idea of things being alike is something that is true for everyone.
 
- 
-(Simplified)
- 
+Since we have to accept this idea, it doesn’t make sense to come up with hard or strange explanations to avoid accepting things like "whiteness" or "triangular shape."
+
+Berkeley and Hume didn’t realize this argument against their rejection of "abstract ideas." They only thought about qualities and ignored the idea that relationships can be universal too. Because of this, the rationalists were right in some ways compared to the empiricists, but their conclusions could still be more wrong because they didn’t pay attention to relationships.
+
+Now that we know universals must exist, the next step is to prove that they aren’t just ideas in our minds.

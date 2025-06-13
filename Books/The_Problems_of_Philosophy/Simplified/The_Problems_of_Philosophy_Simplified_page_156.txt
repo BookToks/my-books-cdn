@@ -1,10 +1,7 @@
-By this is meant that whatever being belongs to them is independent of their being thought of or or in any way apprehended by minds.
- 
- We have already touched on this subject at the end of the preceding chapter, but we must now consider more fully what sort of being it is that belongs to universals.
- 
- Consider such a proposition as " Edinburgh is north of London." Here we have a relation between two places, and it seems plain that the relation subsists independently of our knowledge of it. When we come to know that Edinburgh is north of London, we come to know something which has to do only with Edinburgh and London : we do not cause the truth of the proposition by coming to know it, on the contrary we merely apprehend a fact which was there before we knew it. The part of the earth's surface where Edinburgh stands would be north of the part where London stands, even if there were no human being to know about north and south, and even if there were no minds at all in the universe. This is, of course, denied by many THE WORLD OF UNIVERSALS 153 philosophers, either for Berkeley's reasons or for Kant's.
- 
+This means that whatever exists belongs to them even if no one is thinking about it or aware of it.
 
- 
-(Simplified)
- 
+We talked a little about this at the end of the last chapter, but now we need to understand better what kind of existence universals have.
+
+Think about the statement "Edinburgh is north of London." This shows a connection between two places, and it’s clear that this connection exists even if no one knows about it. When we learn that Edinburgh is north of London, we’re just finding out a fact about these two places. We don’t make it true by learning it; the fact was already true before we knew it.
+
+The spot on Earth where Edinburgh is would be north of where London is, even if no people existed to know about directions, or if there were no minds at all. Some philosophers disagree with this idea, for reasons like those Berkeley or Kant gave.

@@ -1,6 +1,7 @@
-So far, we are in agreement with Kant. But what is distinctive of Kant is the way in which he apportions the shares of ourselves and the physical object respectively. He considers that the crude material given in sensation — the colour, hardness, etc. — is due to the object, and that what we supply is the arrangement in space and time, and all the relations between sense -data which result from comparison or f rom considering one as the cause of the other or in any other way. His chief reason in favour of this view is that we seem to have a 'priori knowledge as to space and time and causality and comparison, but not as to the actual crude material of sensation. We can be sure, he says, that anything we shall ever experience must show the characteristics affirmed of it in our a priori knowledge, because these characteristics are due to our own nature, and therefore nothing can ever come into our experience without acquiring these characteristic*.
- 
+So far, we agree with Kant. But what makes Kant different is how he divides what comes from us and what comes from the physical object.
 
- 
-(Simplified)
- 
+He thinks that the basic stuff we get from our senses—like color and hardness—comes from the object itself. What we add is how we place things in space and time, and how we connect what we sense by comparing them or thinking about causes and effects.
+
+His main reason for this idea is that we seem to know about space, time, cause and effect, and comparison before we experience anything. But we don’t have this kind of knowledge about the basic sensory stuff.
+
+He says we can be sure that everything we ever experience will have these features from our own nature. So, nothing can enter our experience without having these characteristics.

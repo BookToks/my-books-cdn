@@ -1,10 +1,7 @@
-The belief in the law of contradiction is a belief about things, not only about thoughts. It is not, e.g., the belief that if we think a certain tree is a beech, we cannot at the same time think that it is not a beech ; it is the belief that if the tree is a beech, it cannot at the same time be not a beech. Thus the law of contradiction is about things, and not merely about thoughts ; and although belief in the law of contradiction is a thought, the law of contradiction itself is not a thought, but a fact concerning the things in the world.
- 
- If this, which we believe when we believe the law of contradiction, were not true of the things in the world, the fact that we were compelled to think it true would not save the law of contradiction from being false ; and this shows that the law is not a law of thought.
- 
- A similar argument applies to any other a priori judgment. When we judge that two and two are four, we are not making a A PRIORI KNOWLEDGE 139 judgment about our thoughts, but about all actual or possible couples.
- 
+Believing in the law of contradiction means believing something about real things, not just about what we think. For example, it’s not just believing that if we think a tree is a beech, we can’t think it’s not a beech at the same time. It means believing that if the tree really is a beech, it can’t also not be a beech at the same time. So, the law of contradiction is about things in the world, not just about our thoughts.
 
- 
-(Simplified)
- 
+Even though believing in this law is something we think about, the law itself isn’t just a thought. It’s a fact about how things actually are.
+
+If what we believe about the law of contradiction wasn’t true in the world, just feeling like it’s true wouldn’t make it true. This shows that the law isn’t just about how we think.
+
+The same idea works for other facts we know without needing experience. When we say two plus two equals four, we aren’t just talking about how we think. We’re talking about all real or possible pairs of things.

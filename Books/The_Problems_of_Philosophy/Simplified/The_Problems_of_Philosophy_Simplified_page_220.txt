@@ -1,10 +1,5 @@
-The same thing happens in tuning a musical instrument, or in any other case where there is a continuous gradation. Thus self-evidence of this sort is a matter of degree ; and it seems plain that the higher degrees are more to be trusted than the lower degrees.
- 
- In derivative knowledge our ultimate premisses must have some degree of selfevidence, and so must their connection with the conclusions deduced from them. Take for example a piece of reasoning in geometry.
- 
- It is not enough that the axioms from which we start should be self-evident : it is necessary also that, at each step in the reasoning, the connection of premiss and conclusion should be self-evident. In difficult reasoning, this connection has often only a very small degree of self -evidence ; hence errors of reasoning are not improbable where the difficulty is great.
- 
+The same thing happens when tuning a musical instrument or in any situation where things change little by little. So, being obvious or clear like this is a matter of how strong it is. It’s clear that stronger obviousness can be trusted more than weaker obviousness.  
 
- 
-(Simplified)
- 
+In knowledge that comes from other knowledge, our basic ideas must have some level of being obvious, and the way they connect to the conclusions must also be obvious. For example, think about a piece of reasoning in geometry.  
+
+It’s not enough that the starting points (axioms) are obvious. At every step in the reasoning, the link between the idea and the conclusion must also be obvious. In hard reasoning, this link is often only a little obvious. That’s why mistakes can happen when the reasoning is very hard.

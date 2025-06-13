@@ -1,10 +1,5 @@
-It has now become possible to decide with some confidence as to the truth or falsehood of these opposing schools. It must be admitted, for the reasons already stated, that logical principles are known to us, and cannot be themselves proved by experience, since all proof presupposes them. In this, therefore, which was the most important point of the controversy, the rationalists were in the right.
- 
- On the other hand, even that part of our knowledge which is logically independent of experience (in the sense that experience cannot prove it) is yet elicited and caused by experience. It is on occasion of particular experiences that we become aware of the general laws which their connections exemplify.
- 
- It would certainly be absurd to suppose that there are innate principles in the sense that babies are born with a knowledge of everything which men know and which cannot be deduced from what is experienced. For this reason, the word " innate " would not now be employed to describe our knowledge of 116 THE PROBLEMS OF PHILOSOPHY logical principles.
- 
+Now, we can be pretty sure about which ideas are true or false between these two groups. We have to admit, for the reasons already mentioned, that logical rules are something we know, but we can’t prove them by experience because all proof depends on them. So, in this important part of the argument, the rationalists were right.
 
- 
-(Simplified)
- 
+But, even the knowledge we have that doesn’t rely on experience (meaning experience can’t prove it) still comes from experience. It’s through certain experiences that we learn the general rules that those experiences show us.
+
+It would be silly to think that babies are born knowing everything adults know, and that this knowledge can’t come from experience. That’s why we don’t call our understanding of logical rules “innate” anymore.

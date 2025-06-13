@@ -1,12 +1,7 @@
-But this is a large question, to which we must return at a later stage.
- 
- In addition to the logical principles which enable us to prove from a given premiss that something is certainly true, there are other logical principles which enable us to prove, from a given premiss, that there is a greater or less probability that something is true.
- 
- An example of such principles — perhaps the most important example — is the inductive principle, which we considered in the preceding chapter.
- 
- One of the great historic controversies in philosophy is the controversy between the two schools called respectively "empiricists " and " rationalists." The empiricists — who are best represented by the British philosophers, Locke, Berkeley, and Hume — maintained that all our knowledge is derived from experience ; the rationalists — who are represented by t he Continental philosophers of the seventeenth century, especially Descartes and Leibniz — maintained that, in addition to what we know by experience, there are certain ** i nnate ideas " and " innate principles," GENERAL PRINCIPLES 115 which we know independently of experience.
- 
+This is a big question, and we will have to come back to it later.
 
- 
-(Simplified)
- 
+Besides the logical rules that help us prove something is definitely true from a given starting point, there are other logical rules that help us show that something is more or less likely to be true.
+
+One important example of these rules is the inductive principle, which we talked about in the last chapter.
+
+A major debate in philosophy has been between two groups called "empiricists" and "rationalists." The empiricists, like British philosophers Locke, Berkeley, and Hume, said all our knowledge comes from experience. The rationalists, like Continental philosophers Descartes and Leibniz, believed that besides what we learn from experience, there are some ideas and principles we know naturally, without needing experience.

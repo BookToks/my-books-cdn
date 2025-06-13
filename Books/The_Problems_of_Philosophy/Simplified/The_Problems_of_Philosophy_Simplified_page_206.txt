@@ -1,12 +1,7 @@
-A mind, which believes, believes truly when there is a corresponding complex not involving the mind, but only its objects. This correspondence ensures truth, and its absence entails falsehood.
- 
- Hence we account simultaneously for the two ' f acts that beliefs (o) depend on minds for their existence, (6) do not depend on minds for their truth.
- 
- We may restate our theory as follows ; If we take such a belief as " Othello believes that Desdemona loves Cassio," we will call Desdemona and Cassio the object-terms, and loving the object-relation. If there is a complex unity " Desdemona's love for Cassio," consisting of the object-terms related by the object-relation in the same order as they have in the belief, then this complex unity is called the fact corresponding to the belief. Thus a belief is true when there is a corresponding fact, and is false when there is no corresponding fact.
- 
- It will be seen that minds do not create truth or falsehood. They create beliefs, but when once the beliefs are created, the mind TRUTH AND FALSEHOOD 203 cannot make them true or false, except in the special case where they concern future things which are within the power of the person believing, such as catching trains.
- 
+A mind believes something when there is a real situation that matches what it believes. This real situation doesn’t depend on the mind but only on the things the belief is about. If this match is there, the belief is true. If not, it is false.
 
- 
-(Simplified)
- 
+So, beliefs need minds to exist, but their truth doesn’t depend on minds.
+
+For example, if we say "Othello believes that Desdemona loves Cassio," then Desdemona and Cassio are the things the belief is about, and loving is the relationship between them. If there really is a situation where Desdemona loves Cassio, then this situation matches the belief. That means the belief is true. If there isn’t, it is false.
+
+Minds don’t make beliefs true or false. They only create beliefs. Once a belief is made, the mind can’t change if it’s true or false, except when it’s about future things that the person can control, like catching a train.

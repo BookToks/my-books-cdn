@@ -1,8 +1,5 @@
-" If we can show that such statements as this really deal only with universals, our proposition may be regarded as proved.
- 
- One way of discovering what a proposition deals with is to ask ourselves what words we must understand — in other words, what objects we must be acquainted with — in order to see what the proposition means. As soon as we see what the proposition means, even if we do not yet know whether it is true or false, it is evident that we must have acquaintance with whatever is really dealt with by the proposition. By applying this test, it appears that many propositions which might seem to be concerned with particulars are really concerned only with universals. In t he special case of " two and two are four," even when we interpret it as meaning " a ny collection formed of two twos is a collection of four," it is plain that we can understand the proposition, i.e. we can 164 THE PROBLEMS OF PHILOSOPHY see what it is that it asserts, as soon as w« know what is meant by " collection " and " two " and " four.
- 
+If we can show that statements like this only talk about general ideas, then we can say the idea is proven.
 
- 
-(Simplified)
- 
+One way to figure out what a statement is about is to ask what words we need to understand — or what things we need to know about — to get the meaning. Once we understand what the statement means, even if we don’t know if it’s true or false yet, we can see what the statement really talks about. 
+
+By using this idea, it looks like many statements that seem to be about specific things are actually about general ideas. For example, the statement "two and two are four," even if we think it means "any group made of two twos is a group of four," is clear once we know what "group," "two," and "four" mean.

@@ -1,8 +1,5 @@
-KNOWLEDGE AND ERROR 217 From what has been said it is evident that, both as regards intuitive knowledge and as regards derivative knowledge, if we assume that intuitive knowledge is trustworthy in proportion to the degree of its self-evidence, there will be a gradation in trustworthiness, from the existence of noteworthy sense-data and the simpler truths of logic and arithmetic, which may be taken as quite certain, down to judgments which seem only just more probable than their opposites. What we firmly believe, if it is true, is called know- 1 ledge, provided it is either intuitive or in-| fe rred (logically or psychologically) from] intuitive knowledge from which it follows ' logically. What we firmly believe, if it is not] true, is called error. What we firmly believe, ' if it is neither knowledge nor error, and also what we believe hesitatingly, because it is, or is derived from, something which has not the highest degree of self -evidence, may be called probable opinion. Thus the greater part of what would commonly pass as knowledge is m ore or less probable opinion.
- 
- In regard to probable opinion, we can I 218 THE PROBLEMS OF PHILOSOPHY derive great assistance from coherence, which we rejected as the definition of truth, but may often use as a criterion.
- 
+From what has been said, it’s clear that both intuitive knowledge and knowledge we get from it can be trusted depending on how obvious they seem. There is a range of how much we can trust things, from definitely true stuff like clear sensory experiences and basic logic or math, to things that only seem a bit more likely than their opposite.
 
- 
-(Simplified)
- 
+When we strongly believe something and it’s true, we call that knowledge, as long as it comes directly or logically from intuitive knowledge. If we strongly believe something but it’s not true, that’s called an error. If we strongly believe something but it’s neither knowledge nor error, or if we believe something with some doubt because it’s not very obvious, we call that probable opinion. So, most things people call knowledge are actually just probable opinions.
+
+About probable opinion, we can get a lot of help from how well ideas fit together, which we don’t use as the main way to decide what’s true, but we often use it to help us figure things out.

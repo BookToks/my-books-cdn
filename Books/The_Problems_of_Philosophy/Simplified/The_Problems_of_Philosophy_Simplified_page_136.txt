@@ -1,12 +1,9 @@
-We do not know who will be the inhabitants of London a hundred years hence ; but we know that any two of them and any other two of them will make four of them. This apparent power of anticipating facts about things of which we have no experience is certainly surprising. Kant's solution of the problem, though not valid in my opinion, is interesting.
- 
- It is, however, very difficult, and is differently understood by different philosophers. We can, therefore, only give the merest outline of it, and even that will be thought misleading by m any exponents of Kant's system.
- 
- What Kant maintained was that in all our experience there are two elements to be distinguished, the one due to the object {i.e. to what we have called the " physical object"), the other due to our own nature.
- 
- We saw, in discussing matter and sensedata, that the physical object is different from the associated sense-data, and that the sense-data are to be regarded as resulting A PRIORI KNOWLEDGE 1S3 from an interaction between the physical object and ourselves.
- 
+We don’t know who will live in London 100 years from now, but we do know that if you take any two people and then any other two people, you will have four people in total. It’s surprising that we can figure out things like this without having seen them before.
 
- 
-(Simplified)
- 
+Kant tried to explain this, but I don’t think his answer is correct, even though it’s interesting.
+
+His idea is hard to understand and different philosophers explain it in different ways. So, we can only give a very simple summary, but even that might confuse some people who follow Kant’s ideas.
+
+Kant said that whenever we experience something, there are two parts: one part comes from the object itself (like a physical thing), and the other part comes from our own mind.
+
+Earlier, we talked about how the physical object is not the same as what we sense or see, and that what we sense happens because of how the object and our mind work together.

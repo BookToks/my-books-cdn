@@ -1,8 +1,5 @@
-What has happened in the case of space and time has happened, to some extent, in other directions as well. The attempt to prescribe to the universe by means of a priori principles has broken down ; logic, instead of being, as formerly, the bar to possibilities, has become the great liberator of the imagination, presenting innumerable alternatives which are closed to unrefiective common sense, and leaving to experience the task of deciding, where decision is possible, between the many worlds which logic offers for our choice. Thus knowledge as to what exists becomes limited to what v/e can learn from experience — not to what we can actually experience, for, as we have seen, there is much knowledge by description concerning things of which we have no direct experience.
- 
- But in all cases of knowledge by description, we need some connection of universals, enabling us, f rom such and such a datum, to infer an object of a certain sort as implied by our datum. Thus in regard to physical objects, 232 THE PROBLEMS OF PHILOSOPHY for example, the principle that sense-data are signs of physical objects is itself a connection of universals ; and it is only in virtue of this principle that experience enables us to acquire knowledge concerning physical objects.
- 
+What has happened with space and time has also happened in other areas to some degree. Trying to explain the universe using rules we think of before any experience has failed. Logic used to limit what we could imagine, but now it actually frees our imagination, showing many possibilities that common sense might miss. Experience then helps us choose between these many possible worlds that logic gives us.
 
- 
-(Simplified)
- 
+So, what we know about what exists depends on what we can learn from experience—not just what we have actually experienced. This is because we can know about things through descriptions even if we haven’t directly experienced them.
+
+But when we know something through descriptions, we need some universal connections. These connections let us figure out what kind of object is related to the information we have. For example, when it comes to physical objects, the idea that what we sense points to real objects is itself a universal connection. Only because of this idea can experience help us learn about physical objects.

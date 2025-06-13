@@ -1,6 +1,3 @@
-The existence and justification of such beliefs — for the inductive principle, as we shall see, is not the only example — raises some of the most difficult and most debated problems of philosophy. We will, in the next chapter, consider briefly what may be said to account for such knowledge, and what is its scope and its degree of certainty.
- 
+Believing in things like the inductive principle is a tricky topic in philosophy. It’s not the only example, but it’s one of the hardest ideas to understand and explain.
 
- 
-(Simplified)
- 
+In the next chapter, we will talk about why we believe these things. We will also look at how much we can know and how sure we can be about it.

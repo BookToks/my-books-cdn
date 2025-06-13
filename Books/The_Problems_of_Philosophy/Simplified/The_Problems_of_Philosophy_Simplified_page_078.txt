@@ -1,8 +1,7 @@
-Thus the sense-data which make up the appearance of my table are things with which I have acquaintance, things immediately known to me just as they are.
- 
- My knowledge of the table as a physical object, on the contrary, is not direct knowledge. Such as it is, it is obtained through acquaintance with the sense-data that make up the appearance of the table. We have seen that it is possible, without absurdity, to doubt whether there is a table at all, whereas it is not possible to doubt the sense-data. My knowledge of the table is of the kind which we shall call " knowledge by description." The table is " the physical object which causes such-and-such sense-data." This describes the table by means of the sense-data. In order to know anything at all about the table, we must know truths connecting it with things with which we have acquaintance : we must know that " such-and-such sense-data are caused by a physical object." There is no state of mind in which we are directly aware of the table ; all our knowledge of t he table is really knowledge of ACQUAINTANCE AND DESCRIPTION 75 truths, and the actual thing which is the table is not, strictly speaking, known to us at all.
- 
+The things I see and feel on my table are things I know directly, just as they are.
 
- 
-(Simplified)
- 
+But knowing the table itself as a real object is different. I don't know it directly. I learn about the table by knowing the things I see and feel on it.
+
+We can even doubt if the table is really there, but we can't doubt the things we see and feel. My knowledge of the table is called "knowledge by description." That means the table is described as "the real object that causes these things I see and feel."
+
+To know anything about the table, I have to understand that these things I see and feel come from a real object. We never directly experience the table itself; all we really know are facts connecting what we sense to the idea of a table. So, in a way, we don’t truly know the table itself.

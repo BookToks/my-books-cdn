@@ -1,6 +1,5 @@
-The answer of the pure empiricists, that our mathematical knowledge is d erived by induction from particular instances, we have already seen to be inadequate, for t wo reasons : f irst, that the validity of the inductive principle itself cannot be proved by induction ; secondly, that the general propositions of mathematics, such as " two and two always make four," can obviously be k nown with certainty by consideration of a single instance, and gain nothing by enumeration of other cases in which they have been found to be true. Thus our knowledge of the general propositions of mathematics (and the same applies to logic) must be accounted for otherwise than our (merely probable) knowledge of empirical generalisations such as " all men are mortal." The problem arises through the fact that such knowledge is general, whereas all experience isp articular. It seems strange that we should apparently be able to know some truths in advance about particular things of which we have as yet no experience ; b ut it 1S2 THE PROBLEMS OF PHILOSOPHY cannot easily be doubted that logic and arithmetic will apply to such things.
- 
+Pure empiricists say that we learn math by looking at many examples and noticing patterns. But this idea doesn’t work for two reasons. First, we can’t prove that this way of learning (called induction) is always true by using induction itself. Second, math statements like "two and two always make four" can be known for sure by just thinking about one example, and seeing more examples doesn’t make it more certain.
 
- 
-(Simplified)
- 
+So, our knowledge of math and logic must come from something different than just learning from experience, unlike ideas like "all men are mortal," which are based on what we see around us and are only probably true. The problem is that math and logic are about general ideas, but all our experiences are about specific things.
+
+It seems weird that we can know some truths about things before we have even seen them. But it’s hard to doubt that math and logic will work for those things too.

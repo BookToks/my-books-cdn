@@ -1,48 +1,41 @@
-[47] I am happy to be able to point to an author who has drawn from the study of dreams the same conclusion as regards the relation between consciousness and the unconscious.
- 
- [48] Cf. (chapter II.), the dream (Sa-Turos) of Alexander the Great at the siege of Tyre.
- 
- [49] Cf. here my remarks in the Proceedings of the Society for Psychical Research, vol. xxvi, in which the descriptive, dynamic and systematic meanings of the ambiguous word Unconscious are distinguished from one another.
- 
- BIBLIOGRAPHY BEFORE 1900 BEFORE THE PUBLICATION OF THE FIRST GERMAN EDITION OF THIS BOOK (1900) ACHMETIS, F. SERIM, Oneirocriticae, ed. Nik. Rigaltius, Paris, 1603.
- 
- ALBERTI, MICHAEL, Diss de insomniorum influxi in sanitatem et morbos, Resp. Titius Halae M., 1744 ALIX, "Les Reves," Rev. Scientif., 3e serie, Vol. VI (32e de la coll.), 3e annee, 2e sem., Nov., 1883, pp. 554-561.
- 
- Etude du reve, Mem. de l'acad. de sc., etc., de Toulouse, 9e serie, Vol. I, pp. 283-326, Toulouse, 1889.
- 
- ALMOLI, SALOMO, Pithron Chalomoth, Solkiew, 1848.
- 
- ARISTOTELES, Uber Traume und Traumdeutungen, trans. Bender (On Dreams).
- 
- - Von der Weissagung im Traume (On Prophecying by Dreams).
- 
- ARTEMIDOROS OF DALDIS, Symbolik der Traume, trans. Friedr. S. Krauss, Vienna, 1881.
- 
- - "Erotische Traume und ihre Symbolik," Anthropophyteia, Vol. IX, pp. 316-328.
- 
- ARTIGUES, Essai sur la valeur semeiologique du reve, These de Paris, 1884.
- 
- BACCI DOMENICO, Sui sogni e sul sonnombulismo, pensieri fisiologico-metafisici, Venice, 1857.
- 
- BALL, La Morphinomanie, les reves prolonges, Paris, 1885.
- 
- BENEZEE, EMIL, Das Traummotiv in der mittelhochdeutschen Dichtung bis 1250 und in allen deutschen Volksliedern, Halle, 1897. (Beneze, Sagengesch, und lit.-hist., Unters. I, Das Traummotiv.) BENINI, V., "La Memoria e la durata dei sogni," Rivista italiana di filosofia, March, April, 1898.
- 
- - "Nel moneto dei sogni," Il Pensiero nuovo, April, 1898.
- 
- BINZ, C., Uber den Traum, Bonn, 1878.
- 
- BIRKMAILER, HIERON, Licht im Finsternuss der nachtlichen Gesichte und Traume, Nurnberg, 1715.
- 
- BISLAND, E., "Dreams and their Mysteries," N. Ann. Rev., 1896, 152, pp. 716-726.
- 
- BORNER, J. Das Alpdrucken, seine Bergrundung und Verhutung, Wurzburg, 1855.
- 
- BRADLEY, J. H., "On the Failure of Movement in Dream," Mind, July, 1894.
- 
- BRANDER, R., Der Schlaf und das Traumleben, Leipzig, 1884.
- 
+I'm glad I can mention an author who reached the same idea about how our conscious mind and unconscious mind are connected by studying dreams.
 
- 
-(Simplified)
- 
+You can look at chapter II for the dream of Alexander the Great during the siege of Tyre.
+
+Also, see my notes in the Proceedings of the Society for Psychical Research, volume 26. There, I explain the different meanings of the word "Unconscious" clearly.
+
+Here is a list of important books and articles written before 1900, before the first German edition of this book came out.
+
+Achmetis, F. Serim wrote Oneirocriticae, edited by Nik. Rigaltius in Paris, 1603.
+
+Michael Alberti wrote about how sleeplessness affects health and sickness in 1744.
+
+Alix wrote "Les Reves" in a scientific review in 1883 and studied dreams in a report from Toulouse in 1889.
+
+Salomo Almoli wrote Pithron Chalomoth in 1848.
+
+Aristotle wrote about dreams and their meanings.
+
+Artemidoros of Daldos wrote about dream symbols, translated in 1881, and also about erotic dreams.
+
+Artigues wrote an essay on the meaning of dreams in Paris, 1884.
+
+Domenico Bacci wrote about dreams and sleepwalking in Venice, 1857.
+
+Ball wrote about morphine addiction and long dreams in Paris, 1885.
+
+Emil Benezee studied dream themes in German poetry and folk songs until 1250.
+
+Benini wrote about memory and how long dreams last, in Italian philosophy journals in 1898.
+
+Binz wrote about dreams in Bonn, 1878.
+
+Birkmailer wrote about light in the darkness of night visions and dreams in 1715.
+
+Bisland wrote "Dreams and their Mysteries" in a 1896 review.
+
+Borner wrote about nightmares, their causes and prevention, in 1855.
+
+Bradley wrote about why movement fails in dreams in 1894.
+
+Brander wrote about sleep and dream life in Leipzig, 1884.

@@ -1,8 +1,7 @@
-" This affords a fresh illustration of the necessity of distinguishing between sense-data and physical objects.
- 
- What we have found as regards space is much the same as what we find in relation to the correspondence of the sense-data with their physical counterparts. If one object looks blue and another red, we may reasonably presume that there is some corresponding difference between the physical objects ; if two objects both look blue, we may presume a corresponding similarity. But we cannot hope to be acquainted directly with the quality in the physical object which makes it look blue or red. Science tells us that this quality is a certain sort of wavemotion, and this sounds familiar, because we think of wave-motions in the space we see. But the wave-motions must really be in physical space, with which we have no direct acquaintance ; thus the real 54 THE PROBLEMS OF PHILOSOPHY wave - motions have not that f a miharity which we might have supposed them to have.
- 
+This shows why it’s important to understand the difference between what we see and the real objects themselves.
 
- 
-(Simplified)
- 
+When it comes to space, what we learn is similar to how we connect what we see with the actual physical things. If one thing looks blue and another looks red, it makes sense to think the real objects are different in some way. If two things both look blue, we can guess they are similar in some way.
+
+But we can’t directly know the exact thing in the real object that makes it look blue or red. Science explains that this is because of a certain kind of wave motion.
+
+This sounds familiar because we think of waves happening in the space we see. But actually, these waves happen in physical space, which we can’t directly experience. So, these real waves are not as familiar as we might think.

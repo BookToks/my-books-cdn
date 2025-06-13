@@ -1,10 +1,5 @@
-Let us revert to the proposition t" wo and two are four." It is fairly obvious, in view of what has been said, that this proposition states a relation between the universal " two " and the universal "four." This suggests a proposition which we shall now endeavour to establish ; n amely, All a priori knowledge deals exclusively with the relations of universals.
- 
- This proposition is of great importance, and goes a long way towards solving our previous difficulties concerning a priori knowledge.
- 
- The only case in which it might seem, at first sight, as if our proposition were untrue, is the case in which an a priori proposition states that all of one class of particulars belong to some other class, or (what comes to the same thing) that all particulars having some one property also have some other. In this case it might seem as though we were dealing with the particulars that have the property rather than with the property. The proposition " two and tv»o are four " is really ON KNOWLEDGE OF UNIVERSALS 163 a case in point, for this may be stated in the form " any two and any other two are four," or " any collection formed of two twos is a collection of four.
- 
+Let’s go back to the statement "two and two are four." It’s pretty clear that this sentence shows a connection between the idea of "two" and the idea of "four." This brings up a new idea we want to prove: all knowledge we get without experience (a priori knowledge) only deals with connections between these general ideas or universals.
 
- 
-(Simplified)
- 
+This idea is really important and helps us understand the problems we had before about knowledge that doesn’t come from experience.
+
+The only time it might seem like this idea is wrong is when a statement says that all things in one group belong to another group, or that everything with one quality also has another quality. At first, it might look like we’re talking about individual things instead of the qualities themselves. For example, "two and two are four" could also be said as "any two and any other two make four," or "any group made of two twos is a group of four."

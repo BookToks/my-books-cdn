@@ -1,12 +1,7 @@
-" (In this last description, Julius Cossar is a noise or shape with which we are acquainted.) Thus our statement does not mean quite what it seems to mean, but means something involving, instead of Julius Caesar, some description of him which is composed wholly of particulars and universals with which we are acquainted.
- 
- The chief importance of knowledge by description is that it enables us to pass beyond the limits of our private experience.
- 
- In spite of the fact that we can only know truths which are wholly composed of terms which we have experienced in acquaintance, we can yet have knowledge by description of things which we have never experienced.
- 
- In view of the very narrow range of our immediate experience, this result is vital, and until it is understood, much of our knowledge must remain mysterious and therefore doubtful.
- 
+When we talk about Julius Caesar, we're not just talking about the name itself. Instead, we're talking about a description of him made up of things we know and understand.
 
- 
-(Simplified)
- 
+The main point about knowing something by description is that it helps us learn about things beyond what we've personally seen or experienced.
+
+Even though we can only truly know things made up of stuff we've experienced, we can still understand things we've never directly experienced by using descriptions.
+
+Since our own experiences are pretty limited, being able to know things this way is really important. If we don’t get this, a lot of what we know might seem confusing or doubtful.

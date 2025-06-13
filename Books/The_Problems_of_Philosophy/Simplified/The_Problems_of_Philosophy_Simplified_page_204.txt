@@ -1,6 +1,7 @@
-Among the objects, as we saw in considering " Othello believes that Desdemona loves Cassio," one must be a relation — in this instance, the relation " loving." But this relation, as it occurs in the act of believing, is not the relation which creates the unity of the complex whole consisting of t he subject and the objects. The relation " loving," as it occurs in the act of believing, is one of the objects — it is a brick in the structure, not the cement. The cement is the relation " believing." When the belief is true, there is another complex unity, in which the relation which was one of the objects of the belief relates the other objects. Thus, e.g., if Othello believes truly that Desdemona loves Cassio, then there is a complex unity, " Desdemona's love for Cassio," which is composed exclusively of the objects of the belief, in the same order as they had in the belief, with the relation which was one of the objects occurring now as the cement that binds together the other objects of the belief. On the other hand, when a belief is false, there is no such complex unity TRUTH AND FALSEHOOD 201 composed only of the objects of the oelief.
- 
+When we look at things, like in the example "Othello believes that Desdemona loves Cassio," one part has to be a relationship—in this case, the relationship is "loving." But this "loving" in the belief isn’t what holds the whole idea together. The "loving" is just part of the idea, like a brick in a wall.
 
- 
-(Simplified)
- 
+The thing that actually holds the idea together is the act of "believing." When the belief is true, there is another connected idea where the relationship "loving" links the other parts.
+
+For example, if Othello truly believes that Desdemona loves Cassio, then there is a real connection called "Desdemona’s love for Cassio." This connection is made only of the parts of the belief, arranged the same way, but now "loving" is what holds them together.
+
+However, if the belief is false, there is no real connection made just from the parts of the belief.

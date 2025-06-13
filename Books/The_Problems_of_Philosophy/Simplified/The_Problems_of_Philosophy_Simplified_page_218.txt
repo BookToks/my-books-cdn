@@ -1,10 +1,5 @@
-Thus this sort of selfevidence is an absolute guarantee of truth.
- 
- But although this sort of self-evidence is an absolute guarantee of truth, it does not enable us to be absolutely certain, in the case of any given judgment, that the judgment in question is t rue. Suppose we first perceive the sun shining, which is a complex fact, and thence proceed to make the judgment " the sun is shining." In passing from the perception to t he judgment, it is necessary to analyse the given complex fact : we have to separate out " the sun " and " shining " as constituents of the fact. In this process it is possible to commit an error ; hence even where a fact has the first or absolute kind of self-evidence, a judgment believed to correspond to t he fact is not absolutely infallible, because it may not really correspond to the fact. But if it does correspond (in the sense explained in the preceding chapter), then it must be true.
- 
- The second sort of self -evidence will be that KNOWLEDGE AND ERROR 215 which belongs to judgments in the first instance, and is not derived from direct perception of a fact as a single complex whole.
- 
+So, this kind of obviousness is a sure way to know something is true.
 
- 
-(Simplified)
- 
+But even though this obviousness guarantees truth, it doesn’t mean we can be 100% sure that any specific judgment is true. For example, if we first see the sun shining, which is a complicated fact, and then say “the sun is shining,” we have to break down that fact. We have to separate “the sun” and “shining” as parts of the fact. When doing this, it’s possible to make a mistake. So, even when a fact is clearly true, the judgment we make about it might not be completely correct because it might not match the fact exactly. But if it does match the fact, then it has to be true.
+
+The second type of obviousness is about judgments made for the first time, not from directly seeing a fact as one complete thing.

@@ -1,8 +1,7 @@
-The reference to the future in this question is not essential. The same question arises when we apply the laws that work in our experience to past things of which we have no experience — as, for example, in geology, or in theories as to the origin of the Solar System. The question we really have to ask is : " When two things have been found to be often associated, and no instance is known of the one occurring without the other, does the occurrence of one of the two, in a fresh instance, give any good ground for expecting the other ? " On our answer to this question must depend the validity of the whole of our expectations as to the future, the whole of the results obtained by induction, and in fact practically all the beliefs upon which our daily life is based.
- 
- It must be conceded, to begin with, that the fact that two things have been found often together and never apart does not, by itself, suffice to prove demonstratively that they 102 THE PROBLEMS OF PHILOSOPHY will be found together in the next case we examine.
- 
+The mention of the future in this question isn’t really necessary. The same question comes up when we use the rules we learn from our experiences to understand past events we haven’t seen — like in geology or ideas about how the Solar System started.
 
- 
-(Simplified)
- 
+The real question we need to ask is: "If two things are often found together, and we never see one without the other, does seeing one now mean we can expect the other to be there too?"
+
+How we answer this question is very important. It affects how much we can trust our guesses about the future, all the conclusions we make based on experience, and almost everything we believe in daily life.
+
+We have to admit, at first, that just because two things are often found together and never apart doesn’t prove for sure they will always be found together the next time we check.

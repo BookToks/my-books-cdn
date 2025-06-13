@@ -1,8 +1,5 @@
-In this chapter we shall briefly consider the kind of way in which such reasoning is attempted, with a view to discovering whether we can hope that it may be valid.
- 
- The great representative, in modern times, of the kind of view which we wish to examine, was Hegel (1770-1831). Hegel's philosophy is very difficult, and commentators differ as to the true interpretation of it. According to t he interpretation I shall adopt, which is that of many, if not most of the commentators, and has the merit of giving an interesting and important type of philosophy, his m ain thesis is that everything short of the Whole is obviously fragmentary, and obviously incapable of existing without the complement supplied by the rest of the world. Just as a comparative anatomist, from a single bone, sees what kind of animal the whole must have been, so the metaphysician, according to Hegel, sees, from any one piece of reality, what the whole of reality must be — 222 THE PROBLEMS OF PHILOSOPHY at least in its large outlines.
- 
+In this chapter, we will quickly look at how this kind of thinking works to see if it can really be trusted. 
 
- 
-(Simplified)
- 
+The most famous person with this idea in modern times was Hegel (1770-1831). Hegel’s ideas are very hard to understand, and people don’t all agree about what he really meant. The way I will explain it is the one many people agree on, and it shows an interesting and important type of philosophy. 
+
+His main idea is that anything less than the whole picture is clearly just a part and can’t exist without the rest of the world. Just like a scientist studying animals can guess what the whole animal looked like from just one bone, Hegel says a philosopher can see, from one part of reality, what the whole reality must be like—at least in a rough way.

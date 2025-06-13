@@ -1,10 +1,5 @@
-GENERAL PRINCIPLES 125 (This is obvious, because if all men are mortal, so is Socrates ; but if Socrates is mortal, it does not follow that all men are mortal.) Hence we shall reach the conclusion that Socrates is mortal with a greater approach to certainty if we make our argument purely inductive than if we go by way of " all men are mortal " and then use deduction.
- 
- This illustrates the difference between general propositions known a priori, such as ' " two and two are four," and empirical generalisations such as " all men are mortal." In regard to the former, deduction is the right mode of argument, whereas in regard to the latter, induction is always theoretically preferable, and warrants a greater confidence in the truth of our conclusion, because all empirical generalisations are more uncertain than the instances of them.
- 
- We have now seen that there are propositions known a priori, and that among them are the propositions of logic and pure mathematics, as well as the fundamental propositions of ethics. The question which must next occupy us is this : How is it possible that there 126 THE PROBLEMS OF PHILOSOPHY should be such knowledge ?
- 
+If all men are mortal, then Socrates is mortal too. But just because Socrates is mortal, it doesn’t mean all men are mortal. So, we can be more sure that Socrates is mortal if we use examples and observations (induction) instead of starting with "all men are mortal" and using logic to figure it out (deduction).
 
- 
-(Simplified)
- 
+This shows the difference between things we know for sure without needing experience, like "two plus two is four," and things we learn from the world, like "all men are mortal." For the first kind, using logic is best. But for the second kind, using examples and experience is better and makes us more confident because general ideas from experience are less certain than the specific examples we see.
+
+We’ve now learned that some knowledge comes before experience, like logic, math, and basic ideas about right and wrong. The next question we need to ask is: How is it possible to have this kind of knowledge?

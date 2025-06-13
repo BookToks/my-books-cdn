@@ -1,6 +1,7 @@
-The thing that seemed mysterious, when we formerly considered such knowledge, was that it seemed to anticipate and control experience. This, however, we can now see to have been an error. No fact concerning anything capable of being experienced can be known independently of experience. We know a priori that two things and two other things together make four things, but we do not know a priori that if Brown and Jones are two, and Robinson and Smith are two, then Brown and Jones and Robinson and Smith are four. The reason is that this proposition cannot be understood at all unless we know that there are such people as Brown and Jones and Robinson and Smith, and this we can only know by experience. Hence, although our general proposition is a priori, all its applications to actual particulars involve experience and therefore contain an empirical element. In this way what seemed mysterious in our a 166 THE PROBLEMS OF PHILOSOPHY priori knowledge is seen to have been based upon an error.
- 
+What used to seem mysterious when we thought about this kind of knowledge was that it seemed to predict and control what we experience. But now, we can see that was a mistake.
 
- 
-(Simplified)
- 
+We can’t know anything about things we experience without actually experiencing them. For example, we know without needing to check that two things plus two other things make four things. But we don’t know without experience that if Brown and Jones are two people, and Robinson and Smith are two people, then all four of them together make four people.
+
+This is because we can’t understand the idea unless we know who Brown, Jones, Robinson, and Smith are—and we only know that by experiencing them. So, even though the general rule is known without experience, using it for real people always needs some experience, which means it has an element based on what we actually see or know.
+
+That’s why what seemed mysterious about this kind of knowledge turns out to be a mistake.

@@ -1,6 +1,9 @@
-The space ' of science, therefore, though connected with the spaces we see and feel, is not identical with them, and the manner of its connection, requires investigation. ' We agreed provisionally that physical objects cannot be quite like our sense-data, but may be regarded as causing our sensations. These physical objects are in the space of science, which we may call " physical " s pace. It is important to notice that, if our sensations are to be caused by physical objects, there must be a physical space containing these objects and our senseorgans and nerves and brain. We get a sensation of touch from an object when we are in contact with it ; that is to say, when some part of our body occupies a place in physical space quite close to the space occupied by the object. We see an object (roughly speaking) when no opaque body is between the object and our eyes in physical space. Similarly, we only hear or smell or taste an object when we are sufficiently near to it, or when it touches the tongue.
- 
+The space of science is connected to the spaces we see and feel, but it is not exactly the same. How exactly they are connected needs to be studied.
 
- 
-(Simplified)
- 
+We agreed that physical objects are not exactly like what we sense, but they might cause the sensations we have. These physical objects exist in the space of science, which we can call "physical" space.
+
+It’s important to understand that if physical objects cause our sensations, there must be a physical space that holds these objects, our sense organs, nerves, and brain.
+
+We feel touch from an object when our body is touching it, which means our body is very close to the object in physical space. We see an object when nothing solid is blocking the space between the object and our eyes.
+
+In the same way, we only hear, smell, or taste an object when we are close enough to it or when it touches our tongue.

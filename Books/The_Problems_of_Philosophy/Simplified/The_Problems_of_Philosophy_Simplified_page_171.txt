@@ -1,8 +1,5 @@
-But that only means that our generalisation has been subsumed under a wider generalisation, for which the evidence is still of the same kind, though more extensive. The progress of science is constantly producing such subsumptions, and therefore giving a constantly wider inductive basis for scientific generalisations. But although this gives a greater degree of certainty, it does not give a different kind : the ultimate ground remains inductive, i.e. derived from instances, and not an a priori connection of universals such as we have in logic and arithmetic.
- 
- Two opposite points are to be observed concerning a priori general propositions. The first is that, if many particular instances are known, our general proposition may be arrived at in the first instance by induction, and the connection of universals may be only sub- 168 THE PROBLEMS OF PHILOSOPHY sequently perceived.
- 
+But this just means that our general idea is now part of a bigger, more general idea. The evidence for this bigger idea is still the same kind, just more detailed. Science keeps doing this—combining smaller ideas into bigger ones—and this gives us a stronger base for scientific ideas.
 
- 
-(Simplified)
- 
+Even though this makes us more sure about what we know, it doesn’t change the kind of proof we have. The basic reason we believe something is still because we’ve seen many examples, not because the connection is obvious like in math or logic.
+
+There are two opposite things to notice about general statements that are known without needing examples first (a priori). First, if we know lots of examples, we might come up with a general idea by looking at those examples first. Later on, we might realize the general idea connects things in a way that’s true on its own.

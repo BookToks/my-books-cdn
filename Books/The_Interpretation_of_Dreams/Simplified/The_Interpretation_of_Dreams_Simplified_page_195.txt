@@ -1,34 +1,27 @@
-, Paris [1889]).
- 
- [32] A dream is the beginning of wakening.
- 
- [33] Is this the only function which we can attribute to dreams? I know of no other. A. Maeder, to be sure, has endeavoured to claim for the dream yet other secondary functions. He started from the just observation that many dreams contain attempts to provide solutions of conflicts, which are afterwards actually carried through. They thus behave like preparatory practice for waking activities. He therefore drew a parallel between dreaming and the play of animals and children, which is to be conceived as a training of the inherited instincts, and a preparation for their later serious activity, thus setting up a fonction ludique for the dream. A little while before Maeder, Alfred Adler likewise emphasized the function of thinking ahead in the dream. (An analysis which I published in 1905 contained a dream which may be conceived as a resolution-dream, which was repeated night after night until it was realized.) [34] General Introduction to Psycho-Analysis, p. 534 below.
- 
- [35] This material has since been provided in abundance by the literature of psycho-analysis.
- 
- [36] The emphasis [on 'parties'] is my own, though the meaning is plain enough without it.
- 
- [37] I did not dare admit it, but I continually felt tinglings and overexcitements of the parts; at the end, it wearied me so much that several times I thought to throw myself from the dormitory window.
- 
- [38] I will not do it again.
- 
- [39] Albert never did that.
- 
- [40] The italics ['very marked cerebral anaemia.'] are mine.
- 
- [41] We put this case in the file of apyretic delirias of inanition, for it is to cerebral anaemia that we attach this particular state.
- 
- [42] Here, as elsewhere, there are gaps in the treatment of the subject, which I have deliberately left, because to fill them up would, on the one hand, require excessive labour, and, on the other hand, I should have to depend on material which is foreign to the dream. Thus, for example, I have avoided stating whether I give the word suppressed a different meaning from that of the word repressed. No doubt, however, it will have become clear that the latter emphasizes more than the former the relation to the unconscious. I have not gone into the problem, which obviously arises, of why the dream-thoughts undergo distortion by the censorship even when they abandon the progressive path to consciousness, and choose the path of regression. And so with other similar omissions. I have, above all, sought to give some idea of the problems to which the further dissection of the dream-work leads, and to indicate the other themes with which these are connected. It was, however, not always easy to decide just where the pursuit should be discontinued. That I have not treated exhaustively the part which the psycho-sexual life plays in the dream, and have avoided the interpretation of dreams of an obviously sexual content, is due to a special reason - which may not perhaps be that which the reader would expect. It is absolutely alien to my views and my neuropathological doctrines to regard the sexual life as a pudendum with which neither the physician nor the scientific investigator should concern himself. To me, the moral indignation which prompted the translator of Artemidorus of Daldis to keep from the reader's knowledge the chapter on sexual dreams contained in the Symbolism of Dreams is merely ludicrous. For my own part, what decided my procedure was solely the knowledge that in the explanation of sexual dreams I should be bound to get deeply involved in the still unexplained problems of perversion and bisexuality; it was for this reason that I reserved this material for treatment elsewhere.
- 
- [43] If I cannot influence the gods, I will stir up Acheron.
- 
- [44] The dream is not the only phenomenon that permits us to base our psycho-pathology on psychology. In a short unfinished series of articles in the Monatsschrift fur Psychiatrie und Neurologie ("uber den psychischen Mechanismus der Vergesslichkeit," 1898, and "uber Deckerinnerungen," 1899) I attempted to interpret a number of psychic manifestations from everyday life in support of the same conception.
- 
- (These and other articles on "7forgetting," "Lapses of Speech," etc., have now been published in the Psycho-pathology of Everyday Life.) [45] This conception underwent elaboration and modification when it was recognized that the essential character of a preconscious idea was its connection with the residues of verbal ideas. See The Unconscious, p. 428 below.
- 
- [46] Der Begriff des Unbewussten in der Psychologie. Lecture delivered at the Third International Psychological Congress at Munich, 1897.
- 
+A dream is the start of waking up.
 
- 
-(Simplified)
- 
+Is this the only thing dreams do? I don’t know of any other. A. Maeder tried to say dreams have other jobs too. He noticed many dreams show attempts to solve problems, which later actually happen. So, dreams can be like practice for real life. He compared dreaming to how animals and kids play, which helps them get ready for serious things later. Alfred Adler also said dreams help us think ahead. (In 1905, I shared a dream that repeated every night until the problem was solved.)
+
+Since then, psycho-analysis books have given us lots of examples like this.
+
+I put extra focus on the word ‘parts,’ but you can understand it without that.
+
+I was scared to admit it, but I kept feeling strange sensations in parts of me; in the end, it tired me so much that I thought about jumping out of the dorm window several times.
+
+I won’t do that again.
+
+Albert never did that.
+
+I added italics to ‘very marked cerebral anaemia.’
+
+We put this case under ‘apyretic delirias of inanition’ because we think it’s caused by brain anemia.
+
+There are some gaps in my explanation because filling them would take too much work and involve stuff not about dreams. For example, I didn’t explain if ‘suppressed’ means something different than ‘repressed.’ Probably, repressed is more about the unconscious. I also didn’t explain why dream thoughts get changed by the brain’s censorship even when they don’t try to become conscious but instead go backward. I left out other similar things too. Mostly, I wanted to give an idea of the problems studying dreams brings up and show related topics. It wasn’t always easy to know where to stop. I didn’t fully talk about how sexual life affects dreams or explain clearly sexual dreams for a special reason—it might not be what you expect. I don’t think sexual life is shameful or something doctors or scientists should ignore. I find it silly that someone translated Artemidorus of Daldis left out the chapter on sexual dreams. For me, the real reason I skipped this is because explaining sexual dreams would force me to deal with confusing problems about perversion and bisexuality. So, I saved that for later.
+
+If I can’t change the gods, I’ll stir up Acheron.
+
+Dreams aren’t the only thing that help us base mental illness studies on psychology. In some short, unfinished articles in a psychiatry magazine from 1898 and 1899, I tried to explain everyday mental stuff with the same ideas.
+
+These and other articles about forgetting and slips of the tongue are now in the book Psycho-pathology of Everyday Life. This idea changed a bit when we learned that preconscious thoughts are connected to leftover words. See The Unconscious, page 428.
+
+The idea of the unconscious in psychology was a lecture I gave at the Third International Psychological Congress in Munich, 1897.

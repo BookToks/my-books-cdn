@@ -1,6 +1,5 @@
-As a matter of fact, if any one were anxious to deny altogether that there are such things as universals, we should find that we cannot strictly prove that there are such entities as qualities, i.e. the universals represented by adjectives and substantives, whereas we can prove that there must be relations, i.e. the sort of universals generally represented by verbs and prepositions. Let us take in illustration the u niversal whiteness. If we believe that there is such a universal, we shall say that things are white because they have the quality of whiteness. This view, however, was strenuously denied by Berkeley and Hume, who have been followed in this by later empiricists. The form which their denial took was to deny that there are such things as " abstract ideas." When we want to think of whiteness, they said, we form an image of some particular white thing, and reason concerning this particular, taking care not to deduce anything concerning it which we cannot see to be equally true of any other 150 THE PROBLEMS OF PHILOSOPHY white thing.
- 
+If someone really wanted to say that universals don’t exist at all, we would see that it’s hard to prove that qualities, like the ones described by adjectives and nouns, actually exist. But we can prove that relationships, which are usually shown by verbs and prepositions, must exist.
 
- 
-(Simplified)
- 
+Let’s use the example of whiteness. If we believe whiteness is a universal, we’d say things are white because they have the quality called whiteness. However, philosophers like Berkeley and Hume strongly disagreed with this idea, and many later thinkers agreed with them.
+
+They said there are no “abstract ideas.” When we think about whiteness, they explained, we picture a specific white thing. Then, we think about that thing carefully and only say things about it that are true for every other white thing too.

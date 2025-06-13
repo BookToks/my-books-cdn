@@ -1,10 +1,5 @@
-" A bald man is not bald " would assert and deny baldness of the same man, and would therefore contradict itself. Thus according to the philosophers before Kant, the law of contradiction, which asserts that nothing can at the same time have and not have a certain property, sufficed to establish the truth of all a priori knowledge.
- 
- Hume (1711-1776), who preceded Kant, accepting the usual view as to what makes knowledge a priori, discovered that, in many cases which had previously been supposed analytic, and notably in the case of cause and effect, the connection was really synthetic.
- 
- Before Hume, rationalists at least had supposed that the effect could be logically deduced from the cause, if only we had sufficient knowledge. Hume argued — correctly, as would now be generally admitted — that this could not be done. Hence he inferred the far more doubtful proposition that nothing could be known a priori about 130 THE PROBLEMS OF PHILOSOPHY the connection of cause and effect.
- 
+Saying "A bald man is not bald" is confusing because it both says the man is bald and not bald at the same time, which doesn’t make sense. So, before Kant, philosophers believed in the law of contradiction, which says something can’t both have and not have a certain quality at the same time. They thought this law was enough to prove all knowledge we have before experience.
 
- 
-(Simplified)
- 
+Hume (1711-1776), who lived before Kant, agreed with the usual idea about what counts as knowledge we have before experience. But he found that many things people thought were true by definition, especially cause and effect, actually needed experience to understand.
+
+Before Hume, rationalists thought that if we knew everything, we could figure out the effect just by knowing the cause. Hume argued—and most people now agree—that this isn’t true. Because of this, he believed we can’t really know anything about cause and effect without experience.

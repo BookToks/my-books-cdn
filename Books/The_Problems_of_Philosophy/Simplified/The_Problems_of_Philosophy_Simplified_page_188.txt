@@ -1,10 +1,5 @@
-The inductive principle has less self-evidence than some of the other principles oi logic, such as *' what follows from a true premiss must be true." Memories have a diminishing self-evidence as they become remoter and fainter ; the truths of logic and mathematics have (broadly speaking) less self-evidence as they become more complicated. Judgments of intrinsic ethical or aesthetic value are apt to have some self-evidence, but not much.
- 
- Degrees of self-evidence are important in the theory of knowledge, since, if propositions may (as seems likely) have some degree of self -evidence without being true, it will not be necessary to abandon all connection between self-evidence and truth, but merely to say that, where there is a conflict, the more self-evident proposition is to be retained and the less self-evident rejected.
- 
- It seems, however, highly probable that two different notions are combined in " selfevidence " as above explained ; that one of them, which corresponds to the highest ON INTUITIVE KNOWLEDGE 185 degree of self-evidence, is really an infallible guarantee of truth, while the other, which corresponds to all the other degrees, does not give an infallible guarantee, but only a greater or less presumption.
- 
+The inductive principle isn’t as obviously true as some other rules in logic, like "if something follows from a true statement, it must also be true." Memories become less clear and believable the older and weaker they get. The truths in logic and math are also less obvious when they get more complicated. Opinions about what’s right or beautiful might seem somewhat obvious, but not very much.
 
- 
-(Simplified)
- 
+How obvious something is matters in understanding knowledge. If some ideas seem obvious but might still be wrong, we don’t have to stop thinking obviousness and truth are connected. Instead, when two ideas clash, we should keep the one that seems more obvious and reject the one that seems less obvious.
+
+It’s very likely that “self-evidence” actually means two different things. One kind, which feels the most obvious, is a sure sign that something is true. The other kind, which covers all the less obvious cases, doesn’t guarantee truth but only makes something seem more or less likely to be true.

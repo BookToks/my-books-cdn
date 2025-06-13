@@ -1,8 +1,9 @@
-And in this belief we are usually justified.
- 
- But let us imagine some insistent Socrates, who, whatever reason we give him, continues to demand a reason for the reason. We must sooner or later, and probably before very long, be driven to a point where we cannot find any further reason, and where it becomes almost certain that no further reason is even theoretically discoverable. Starting with the common beliefs of daily life, we can be driven backfrom point to point, until we come to some general principle, or some instance of a general principle, which seems luminously evident, and is not itself capable of being deduced from anything more evident. In most questions of d aily life, such as whether our food is likely to be nourishing and not poisonous, we shall be driven back to the inductive principle, which we discussed in Chapter VI. But beyond that, there seems to be no further regress. The principle itself is constantly used in our reasoning, sometimes consciously, sometimes unconsciously ; b ut there is no reasoning which, starting from some simpler self-evident 176 THE PROBLEMwS OF PHILOSOPHY principle, leads us to the principle of induction as its conclusion.
- 
+Usually, believing something is okay.
 
- 
-(Simplified)
- 
+But imagine a very stubborn Socrates who keeps asking for a reason behind every reason we give. Sooner or later, we won’t be able to find any more reasons, and it’s almost sure that no more reasons can be found at all.
+
+Starting from everyday beliefs, we can keep going back from one reason to another until we reach a general idea that is really clear and obvious. This idea can’t be explained by anything even clearer.
+
+In most daily life questions, like whether our food is safe to eat, we end up relying on the idea of induction, which we talked about in Chapter VI. But after that, there’s no way to keep going back.
+
+We use this idea of induction all the time in our thinking, sometimes without even noticing. But there’s no simpler idea that proves the idea of induction.

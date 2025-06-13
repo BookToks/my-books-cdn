@@ -1,14 +1,19 @@
-Chapter V Laws of Variation Effects of external conditions — Use and disuse, combined with natural selection; organs of flight and of vision — Acclimatisation — Correlation of growth — Compensation and economy of growth - False correlations — Multiple, rudimentary, and lowly organised structures variable — Parts developed in an unusual manner are highly variable: specific characters more variable than generic: secondary sexual characters variable — Species of the same genus vary in an analogous manner — Reversions to long-lost characters — Summary.
- 
- Chapter VI Difficulties on Theory Difficulties on the theory of descent with modification — Transitions — Absence or rarity of transitional varieties — Transitions in habits of life — Diversified habits in the same species -Species with habits widely different from those of their allies — Organs of extreme perfection -Means of transition — Cases of difficulty — Natura non facit saltum — Organs of small importance - Organs not in all cases absolutely perfect — The law of Unity of Type and of the Conditions of Existence embraced by the theory of Natural Selection.
- 
- Chapter VII Instinct Instincts comparable with habits, but different in their origin — Instincts graduated — Aphides and ants — Instincts variable — Domestic instincts, their origin — Natural instincts of the cuckoo, ostrich, and parasitic bees — Slave-making ants — Hive-bee, its cell-making instinct - - Difficulties on the theory of the Natural Selection of instincts — Neuter or sterile insects — Summary.
- 
- Chapter VIII Hybridism Distinction between the sterility of first crosses and of hybrids — Sterility various in degree, not universal, affected by close interbreeding, removed by domestication — Laws governing the sterility of hybrids — Sterility not a special endowment, but incidental on other differences -Causes of the sterility of first crosses and of hybrids — Parallelism between the effects of changed conditions of life and crossing — Fertility of varieties when crossed and of their mongrel offspring not universal — Hybrids and mongrels compared independently of their fertility — Summary.
- 
- Chapter IX On the Imperfection of the Geological Record On the absence of intermediate varieties at the present day — On the nature of extinct intermediate varieties; on their number — On the vast lapse of time, as inferred from the rate of deposition and of denudation — On the poorness of our palaeontological collections — On the intermittence of geological formations — On the absence of intermediate varieties in any one formation — On the sudden appearance of groups of species — On their sudden appearance in the lowest known fossiliferous strata.
- 
+Chapter V Laws of Variation
 
- 
-(Simplified)
- 
+How outside conditions affect living things — Using or not using body parts, combined with natural selection — Body parts for flying and seeing — Getting used to new environments — How growth in one part can affect another — Balancing growth and saving energy — Mistaken connections — Simple and less developed body parts change more — Body parts that develop in unusual ways change a lot: traits specific to a species change more than traits shared by a group — Differences between males and females change — Species in the same group change in similar ways — Sometimes old traits come back — Summary.
+
+Chapter VI Difficulties on Theory
+
+Problems with the idea that species change over time — How one species changes into another — Missing or rare in-between forms — Changes in how animals live — Different habits in the same species — Species with very different habits than their relatives — Perfect body parts — How changes happen — Difficult examples — Nature does not make big jumps — Small body parts — Body parts aren’t always perfect — The idea that all animals share a basic plan and live under certain conditions fits with natural selection.
+
+Chapter VII Instinct
+
+Instincts are like habits but start differently — Instincts can be simple or complex — Aphids and ants — Instincts can change — Instincts in pets come from nature — Natural instincts in cuckoos, ostriches, and parasitic bees — Ants that make slaves — Honeybees and how they build cells — Problems with the idea that instincts come from natural selection — Worker insects that can’t have babies — Summary.
+
+Chapter VIII Hybridism
+
+Difference between babies from different species and hybrids — Sterility (not being able to have babies) can be different in degree, not always total, can be caused by close breeding, and can be fixed by breeding in captivity — Rules about hybrid sterility — Sterility is not a special feature but happens because of other differences — Causes of sterility in first crosses and hybrids — Similar effects from changing environment and crossing species — Varieties don’t always produce fertile babies when crossed — Comparing hybrids and mixed breeds without thinking about fertility — Summary.
+
+Chapter IX On the Imperfection of the Geological Record
+
+Why we don’t see many in-between species today — What extinct in-between species were like and how many there were — How long time has passed, based on how land changes and rocks form — How incomplete our fossil collections are — Gaps in rock layers — Why in-between species don’t appear in one rock layer — Why many new groups of species seem to appear suddenly — Why they also seem to appear suddenly in the oldest fossil layers we know.

@@ -1,8 +1,9 @@
-As an account of our actual mental processes, this is no doubt largely true. In geometry, for example, when we wash to prove something about all triangles, we draw a particular triangle and reason about it, taking care not to use any characteristic which it does not share with other triangles.
- 
- The beginner, in order to avoid error, often finds it useful to draw several triangles, as unlike each other as possible, in order to make sure that his reasoning is equally applicable to all of them. But a difficulty emerges as soon as we ask ourselves how we know that a thing is white or a triangle. If we wish to avoid the universals whiteness and triangularity, we shall choose some particular patch of white or some particular triangle, and say that anything is white or a triangle if it has the right sort of resemblance to our chosen particular. But then the resemblance required will have to be a universal. Since there are many white things, the resemblance must hold between many pairs of particular white things ; and this is the characteristic of a universal. It will be useless to say that THE WORLD OF UNIVERSALS 151 there is a different resemblance for each pair, for then we shall have to say that these resemblances resemble each other, and thus at last we shall be forced to admit resemblance as a universal.
- 
+When we think about how our minds work, this is mostly true. In geometry, for example, when we want to prove something about all triangles, we draw one triangle and think about it, making sure not to use anything special that only that triangle has.
 
- 
-(Simplified)
- 
+Beginners often find it helpful to draw many different triangles that look very different from each other. This helps them check that their thinking works for all triangles.
+
+But a problem comes up when we ask how we know if something is white or a triangle. If we don’t want to use the idea of “whiteness” or “triangularity” in general, we pick one white thing or one triangle and say that anything is white or a triangle if it looks like the one we chose.
+
+But then the “looking like” has to mean something that applies to many white things. This is what we call a universal. Since many things are white, the way they look alike has to be the same for many pairs of white things.
+
+It wouldn’t help to say there’s a different way they look alike for each pair, because then we would have to say that these ways of looking alike also look alike. So, in the end, we have to accept that resemblance itself is a universal.

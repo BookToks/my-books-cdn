@@ -1,10 +1,7 @@
-This second kind of self-evidence will have degrees, from the very highest degree down to a bare inclination in favour of the belief. Take, for example, the case of a horse trotting away from us along a hard road. At first our certainty that we hear the hoofs is complete ; gradually, if we listen intently, there comes a moment when we think perhaps it was imagination or the blind upstairs or our own heart-beats ; at last we become doubtful whether there was any noise at all ; then we think we no longer hear anything, and at last we know we no longer hear anything. In this process, there is a continual gradation of self-evidence, from the highest degree to the least, not in the sensedata themselves, but in the judgments based on them.
- 
- Or again: Suppose we are comparing two shades of colour, one blue and one green.
- 
- We can be quite sure they are different shades of colour ; but if the green colour is gradually 216 THE PROBLEMS OF PHILOSOPHY altered to be more and more like the blue, becoming first a blue-green, then a greenyblue, then blue, there will come a moment when we are doubtful whether we can see any difference, and then a moment when we know that we cannot see any difference.
- 
+This second kind of obviousness can have different levels, from very strong to just a little bit of belief. For example, imagine a horse running away from us on a hard road. At first, we are completely sure we hear the horse’s hooves. But if we listen carefully for a long time, we might start to wonder if we only imagined the sound, or if it was something inside the house or even our own heartbeat. Soon, we become unsure if there was any sound at all. Then, we think we don’t hear anything anymore, and finally, we know for sure that we don’t hear anything. 
 
- 
-(Simplified)
- 
+In this process, our feeling of certainty changes little by little, from very sure to not sure at all. This change happens not because the sounds themselves change, but because of how we judge what we hear.
+
+Or, imagine we are looking at two colors, one blue and one green.
+
+We can be sure they are different colors. But if the green slowly changes to look more like blue—first a mix of blue and green, then more blueish green, and finally blue—there will be a moment when we aren’t sure if there is any difference. Then, there will be a moment when we know for sure that we can’t see any difference at all.

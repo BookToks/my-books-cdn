@@ -1,8 +1,9 @@
-'* When what we believe is true, it might be supposed that we had achieved a knowledge of what we believe. But this would not accord with the way in which the word is commonly used. To take a very trivial instance : I f a man believes that the late Prime Minister's last name began with a B, he believes what is true, since the late Prime Minister was Sir Henry Campbell Bannerman.
- 
- But if he believes that Mr. Balfour was the late Prime Minister, he will still believe that the late Prime Minister's last name began with a B, yet this belief, though true, would not be thought to constitute knowledge. If a newspaper, by an intelligent anticipation, announces the result of a battle before any telegram giving the result has been received, it may by good fortune announce what afterwards turns out to be the right result, and it may produce belief in some of its less experienced readers. But in spite of the truth of their belief, they cannot be said to have knowledge. Thus it is clear that a true belief is not 206 THE PROBLEMS OF PHILOSOPHY knowledge when it is deduced from a false belief.
- 
+When what we believe is true, you might think that means we actually know what we believe. But that’s not how people usually use the word "know." 
 
- 
-(Simplified)
- 
+For example, if a guy thinks the last name of the late Prime Minister starts with a B, he believes something true because the late Prime Minister was Sir Henry Campbell Bannerman.
+
+But if he thinks Mr. Balfour was the late Prime Minister, he still believes the last name starts with B. Even though this belief is true, we wouldn’t say he truly knows it. 
+
+If a newspaper guesses the result of a battle before getting any official news, and it turns out they guessed right, some readers might believe it. But even though they believe something true, they don’t really know it. 
+
+So, it’s clear that just having a true belief doesn’t mean you have knowledge, especially if that belief comes from something false.

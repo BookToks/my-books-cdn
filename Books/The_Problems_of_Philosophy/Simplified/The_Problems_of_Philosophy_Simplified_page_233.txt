@@ -1,10 +1,7 @@
-THE LIMITS OF KNOWLEDGE 229 Kant, who first emphasised this contradiction, deduced the impossibihty of space and time, which he declared to be merely subjective ;a nd since his time very many philosophers have believed that space and time are mere appearance, not characteristic of the world as it really is. Now, however, owing to the labours of the mathematicians, notably Georg Cantor, it has appeared that the impossibility of i nfinite collections was a mistake.
- 
- They are not in fact self-contradictory, but only contradictory of certain rather obstinate mental prejudices. Hence the reasons for regarding space and time as unreal have become inoperative, and one of the great sources of metaphysical constructions is dried up.
- 
- The mathematicians, however, have not been content with showing that space as it is commonly supposed to be is possible ; they have shown also that many other forms of space are equally possible, so far as logic can show. Some of Euclid's axioms, which appear to common sense to be necessary, and were formerly supposed to be necessary by philosophers, are now known to derive their appear- 230 THE PROBLEMS OF PHILOSOPHY ance of necessity from our mere familiarity with actual space, and not from any a priori logical foundation.
- 
+Kant was the first to point out a problem with space and time. He said that space and time aren’t real things but just things we imagine in our minds. Since then, many philosophers have thought that space and time are only how things seem, not how the world actually is. 
 
- 
-(Simplified)
- 
+But thanks to mathematicians like Georg Cantor, we now know that thinking infinite collections are impossible was wrong. Infinite collections don’t actually contradict themselves; they just go against some common but stubborn ideas we have.
+
+Because of this, the reasons for thinking space and time aren’t real don’t work anymore. This idea was a big part of some deep philosophical theories, and now that idea is fading away.
+
+Mathematicians didn’t stop there. They showed that the usual way we think about space is just one way, and many other types of space are possible too, at least according to logic. Some rules from Euclid, which we used to think were absolutely true because they made sense to us, are now seen as true only because we are used to regular space, not because they are logically necessary.

@@ -1,8 +1,5 @@
-The subject and the objects together are called the constituents of the judgment. It will be observed that the relation of judging has what is called a " sense " or " direction." We may say, metaphorically, that it puts its objects in a certain order, which we may indicate by means of the order of the words in the sentence. (In an inflected language, the same thing will be indicated by inflections, e.g. by the difference between nominative and accusative.) Othello's judgment that Cassio loves Desdemona differs from his judgment that Desdemona loves Cassio, in spite of the fact that it consists of the same constituents, because the relation of judging places the constituents in a different order in the two cases. Similarly, if C assio judges that Desdemona loves Othello, the constituents of the judgment are still the same, but their order is different.
- 
- This property of having a "sense" or "direction "i s one which the relation of judging shares with all other relations. The " sense " of relations is the ultimate source of order TRUTH AND FALSEHOOD 199 and series and a host of mathematical concepts ; b ut we need not concern ourselves further with this aspect.
- 
+The subject and the objects together are called the parts of the judgment. The act of judging has what is called a "sense" or "direction." This means it puts its parts in a certain order, which we can show by the order of words in a sentence. (In languages that change word endings, this order is shown by those changes, like the difference between nominative and accusative cases.)  
 
- 
-(Simplified)
- 
+For example, Othello's judgment that Cassio loves Desdemona is different from his judgment that Desdemona loves Cassio, even though the parts are the same. This is because the judging puts the parts in a different order in each case. Similarly, if Cassio thinks Desdemona loves Othello, the parts are still the same, but their order changes.  
+
+This idea of having a "sense" or "direction" is something that judging shares with all other relations. The "sense" of relations is the main source of order and many math ideas. But we don’t need to think more about this right now.

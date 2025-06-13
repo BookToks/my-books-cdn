@@ -1,10 +1,7 @@
-THE WORLD OF UNIVERSALS 145 The word *' i dea " has acquired, in the course of time, many associations which are quite misleading when applied to Plato's " ideas." We shall therefore use the word "universal" instead of the word "idea," to describe what Plato meant. The essence of the sort of entity that Plato meant is that it is opposed to the particular things that are given in sensation. We speak of whatever is given in sensation, or is of the same nature as things given in sensation, as a particular ; by opposition to this, a universal will be anything which may be shared by many particulars, and has those characteristics which, as we saw, distinguish justice and whiteness from just acts and white things.
- 
- When we examine common words, we , find that, broadly speaking, proper names ; stand for particulars, while other substantives, adjectives, prepositions, and verbs ' stand for universals. Pronouns stand for • particulars, but are ambiguous : it is only by the context or the circumstances that we know what particulars they stand for.
- 
- The word " now " stands for a particular.
- 
+The word "idea" has picked up a lot of meanings over time that don’t really match what Plato meant. So, instead of "idea," we’ll use the word "universal" to explain Plato’s meaning.
 
- 
-(Simplified)
- 
+A universal is the opposite of particular things we can see or touch. Particulars are things we experience with our senses. Universals are qualities or features that many particulars can share, like justice or whiteness, which are different from just acts or white things.
+
+When we look at common words, proper names usually refer to particulars. Other types of words like adjectives, verbs, and prepositions usually refer to universals. Pronouns refer to particulars too, but they can be confusing because we only know which particulars they mean by the situation.
+
+The word "now" is an example of a particular.

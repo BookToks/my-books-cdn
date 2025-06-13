@@ -1,8 +1,5 @@
-The third of the above requisites leads us to adopt the view — which has on the whole been commonest among philosophers — that truth consists in some form of correspondence between belief and fact. It is, however, by no means an easy matter to discover a form of correspondence to which there are no irrefutable objections. By this partly — and partly by the feeling that, if truth consists in a correspondence of thought with something outside thought, thought can never know when truth has been attained — many philosophers have been led to try to find some definition of truth which shall not consist in relation to something wholly outside belief.
- 
- The most important attempt at a definition of this sort is the theory that truth consists in coherence. It is said that the mark of falsehood is failure to cohere in the body of our beliefs, and that it is the essence of a truth to form part of the completely rounded system which is The Truth.
- 
+The third idea mentioned before makes us think that truth means our beliefs match up with facts. This idea is popular among many philosophers. But it’s not easy to find a way to show this match without any problems.
 
- 
-(Simplified)
- 
+Also, some philosophers feel that if truth means matching something outside our thoughts, then we can never really know if we have found the truth. Because of this, many try to define truth without linking it to anything outside what we believe.
+
+One important idea like this is the theory of coherence. It says that something is false if it doesn’t fit with our other beliefs. Truth, then, is part of a complete and connected system of beliefs called The Truth.

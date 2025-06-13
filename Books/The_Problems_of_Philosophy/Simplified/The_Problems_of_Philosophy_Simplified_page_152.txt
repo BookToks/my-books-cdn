@@ -1,8 +1,3 @@
-Thus the neglect of prepositions and verbs led to the belief that every proposition can be regarded as attributing a property to a single thing, rather than as expressing a relation between two or more things. Hence it was supposed that, ultimately, there can be no such entities as relations between things. Hence either there can be only one thing in the universe, or, if there are many things, they cannot possibly interact in any way, since any interaction would be a relation, and relations are impossible.
- 
- The first of these views, which was advocated by S pinoza, and is held in our own day by Mr. Bradley and many other philosophers, is called monism ; the second, which was advocated by Leibniz, but is not very common nowadays, is called monadism, because each of the isolated things is called a monad. Both these opposing philosophies, interesting as they are, result, in my opinion, from an undue attention to one sort of universals, namely the sort represented by adjectives and substan- THE WORLD OF UNI VERS ALS 149 tives rather than by verbs and prepojitions.
- 
+Ignoring prepositions and verbs made people think that every statement just describes a quality of one thing, instead of showing a connection between two or more things. Because of this, it was believed that relationships between things don’t actually exist. So, either there is only one thing in the whole universe, or if there are many things, they can’t interact at all, since any interaction would be a kind of relationship, and relationships were thought to be impossible.
 
- 
-(Simplified)
- 
+The first idea, called monism, was supported by Spinoza and is still believed by Mr. Bradley and some other philosophers today. The second idea, called monadism, was supported by Leibniz but isn’t very popular now. It says that each separate thing, called a monad, exists alone without connections. Both ideas are interesting, but I think they come from focusing too much on certain types of general ideas, like those shown by adjectives and nouns, instead of paying attention to verbs and prepositions.

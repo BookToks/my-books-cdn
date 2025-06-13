@@ -1,14 +1,15 @@
-). The second is the number of generationsorbirths,andpresidesovertheminthesamemysteriousmannerinwhich the stars preside over them, or in which, according to the Pythagoreans, opportunity,justice,marriage,arerepresentedbysomenumberorfigure. Thisis probablythenumber216.
- 
- The explanation given in the text supposes the two harmonies to make up the number 8000. This explanation derives a certain plausibility from the circumstancethat8000istheancientnumberoftheSpartancitizens(Herod.),and would be what Plato might have called ’a number which nearly concerns the population of a city’; the mysterious disappearance of the Spartan population maypossiblyhavesuggestedtohimthefirstcauseofhisdeclineofStates. The lesserorsquare’harmony,’of400,mightbeasymboloftheguardians,–thelarger or oblong ’harmony,’ of the people, and the numbers 3, 4, 5 might refer respectivelytothethreeordersintheStateorpartsofthesoul, thefourvirtues, the five forms of government. The harmony of the musical scale, which is elsewhereusedasasymboloftheharmonyofthestate, isalsoindicated. For thenumbers3,4,5,whichrepresentthesidesofthePythagoreantriangle,also denotetheintervalsofthescale.
- 
- The terms used in the statement of the problem may be explained as follows.
- 
- A perfect number (Greek), as already stated, is one which is equal to the sum ofitsdivisors. Thus6,whichisthefirstperfectorcyclicalnumber,=1+2+3.
- 
- Thewords(Greek),’terms’or’notes,’and(Greek),’intervals,’areapplicableto musicaswellastonumberandfigure. (Greek)isthe’base’onwhichthewhole calculationdepends,orthe’lowestterm’fromwhichitcanbeworkedout. The words (Greek) have been variously translated–’squared and cubed’ (Donaldson),’equallingandequalledinpower’(Weber),’byinvolutionandevolution,’ i.e.byraisingthepowerandextractingtheroot(asinthetranslation).Numbers are called ’like and unlike’ (Greek) when the factors or the sides of the planes and cubes which they represent are or are not in the same ratio: e.g. 8 and 27 =2cubedand3cubed;andconversely. ’Waxing’(Greek)numbers,calledalso ’increasing’(Greek),arethosewhichareexceededbythesumoftheirdivisors: e.g. 12 and 18 are less than 16 and 21. ’Waning’ (Greek) numbers, called also ’decreasing’ (Greek) are those which succeed the sum of their divisors: e.g. 8 and 27 exceed 7 and 13. The words translated ’commensurable and agreeable tooneanother’(Greek)seemtobedifferentwaysofdescribingthesamerelation, with more or less precision. They are equivalent to ’expressible in terms having the same relation to one another,’ like the series 8, 12, 18, 27, each of http://www.idph.net IDPH 103 whichnumbersisintherelationof(1and1/2)tothepreceding.
- 
+The second idea is about the number of generations or births. It controls them in a mysterious way, kind of like how stars control things in the sky. According to the Pythagoreans, things like chance, justice, and marriage are also shown by certain numbers or shapes. This special number is probably 216.
 
- 
-(Simplified)
- 
+The text explains that two harmonies add up to the number 8000. This makes sense because 8000 was the old number of Spartan citizens. Plato might have thought of this number as one that almost represents the population of a city. The strange loss of Spartans might have made him think about why states fail. The smaller harmony, 400, could symbolize the guardians, and the bigger harmony could represent the people. The numbers 3, 4, and 5 might stand for the three parts of the state or the soul, the four virtues, and the five types of government. The harmony of the musical scale, which also shows the harmony of the state, is connected here. The numbers 3, 4, and 5 relate to the sides of a special triangle and also to the musical intervals.
+
+Here’s what some terms in the problem mean:
+
+A perfect number is a number that equals the sum of its divisors. For example, 6 is the first perfect number because 1 + 2 + 3 = 6.
+
+The words "terms" or "notes," and "intervals" can be used both for music and numbers or shapes. The "base" is the lowest term you start with to do calculations. Some words mean things like "squared and cubed," or "equaling and equalled in power," which means raising a number to a power or finding its root.
+
+Numbers are called "like" or "unlike" when their factors or the sides of the shapes they represent have the same or different ratios. For example, 8 and 27 are "unlike" because 8 = 2 cubed and 27 = 3 cubed. 
+
+"Waxing" or "increasing" numbers are those that are smaller than the sum of their divisors, like 12 and 18. "Waning" or "decreasing" numbers are bigger than the sum of their divisors, like 8 and 27.
+
+The terms "commensurable" and "agreeable to one another" are different ways of describing the same relationship. It means numbers can be expressed in terms that relate to each other, like the series 8, 12, 18, 27, where each number is 1.5 times the one before it.

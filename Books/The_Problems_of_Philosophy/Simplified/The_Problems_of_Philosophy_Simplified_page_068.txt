@@ -1,10 +1,9 @@
-Before taking up the general question of the nature of ideas, we must disentangle two entirely separate questions which arise concerning sense-data and physical objects. We saw that, for various reasons of detail, Berkeley was right in treating the sense-data which constitute our perception of the tree as more or less subjective, in the sense that they depend upon us as much as upon the tree, and would not exist if the tree were not being perceived. But this is an entirely different point from the one by which Berkeley seeks to prove that whatever can be immediately known must be in a mind. For this purpose arguments of detail as to the dependence of s ense-data upon us are useless.
- 
- It is necessary to prove, generally, that by being known, things are shown to be mental.
- 
- This is what Berkeley believes himself to have done. It is this question, and not our previous question as to the difference between sense-data and the physical object, that must now concern us.
- 
+Before talking about what ideas really are, we need to separate two different questions about what we see and the actual things out there. 
 
- 
-(Simplified)
- 
+We learned that Berkeley was right in saying that the things we see, like the tree, depend on us as much as on the tree itself. These things wouldn’t exist if no one was looking at the tree. But this idea is not the same as Berkeley’s main point that anything we know right away must exist in our minds. 
+
+To prove that, just showing how what we see depends on us isn’t enough. 
+
+We need to show, in general, that because we know things, those things must be mental or part of the mind. 
+
+Berkeley thinks he has already done this. This is the question we need to focus on now, not the difference between what we see and the real physical object.

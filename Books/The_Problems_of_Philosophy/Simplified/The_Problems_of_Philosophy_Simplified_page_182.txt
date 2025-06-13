@@ -1,8 +1,7 @@
-" But here a certain amount of care is required in getting at the precise nature of the truths that are self-evident. The actual sense-data are neither true nor false. A particular patch of colour which I see, for example, simply exists : it is not the sort of thing that is true or false. It is true that there is such a patch, true that it has a certain shape and degree of brightness, true that it is surrounded by certain other colours. But the patch itself, like everything else in the world of sense, is of a radically different kind from the things that are true or false, and therefore cannot properly be said to be true. Thus whatever self-evident truths may be obtained from our senses must be different from the sense-data from which they are obtained.
- 
- It would seem that there are two kinds of self-evident truths of perception, though perhaps in the last analysis the two kinds may coalesce. First, there is the kind which simply asserts the existence of the ON INTUITIVE KNOWLEDGE 179 sense-datum, without in any way analysing it.
- 
+We need to be careful when trying to understand what self-evident truths really are. The things we see or sense are not true or false by themselves. For example, a certain spot of color I see just exists; it’s not something that can be true or false.
 
- 
-(Simplified)
- 
+It is true that the spot is there, true that it has a certain shape and brightness, and true that it is surrounded by other colors. But the spot itself, like everything else we sense, is very different from things that can be true or false. So, we can’t really say the spot is true.
+
+This means that any self-evident truths we get from our senses must be different from the actual sense-data we get.
+
+It looks like there are two types of self-evident truths from what we perceive. Maybe in the end, these two types are really the same. The first type is simply stating that the sense-data exists, without trying to explain it.

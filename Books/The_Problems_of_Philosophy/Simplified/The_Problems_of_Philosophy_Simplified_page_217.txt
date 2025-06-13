@@ -1,8 +1,7 @@
-" This would be a fact with which no one could have acquaintance except Desdemona ; hence in the sense of self-evidence that we are considering, the truth that Desdemona loves Cassio (if it were a truth) could only be selfevident to Desdemona. All mental facts, and all facts concerning sense-data, have this same privacy : there is only one person to whom they can be self-evident in our present sense, since there is only one person who can be acquainted with the mental things or the sense-data concerned. Thus no fact about any particular existing thing can be selfevident to more than one person. On the other hand, facts about universals do not have this privacy. Many minds may be acquainted with the same universals ; hence a relation between universals may be known by acquaintance to many different people.
- 
- In all cases where we know by acquaintance a complex fact consisting of certain terms in a certain relation, we say that the truth that these terms are so related has the first or 214 THE PROBLEMS OF PHILOSOPHY absolute kind of self-evidence, and in these cases the judgment that the terms are so related must be true.
- 
+No one except Desdemona can really know for sure if she loves Cassio. So, if it’s true, only Desdemona herself can clearly see that truth without needing proof.
 
- 
-(Simplified)
- 
+All thoughts and feelings, and all things we notice with our senses, are private like this. Only one person can fully understand their own thoughts or what they sense. That means no fact about something personal can be obvious to more than one person.
+
+But facts about general ideas or concepts aren’t private like that. Lots of people can understand the same general ideas. So, many people can know the same fact about how these ideas connect.
+
+Whenever we understand a fact by directly knowing the parts and how they fit together, we say that fact is absolutely clear and must be true.

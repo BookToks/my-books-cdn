@@ -1,8 +1,5 @@
-The thing to be accounted for is our certainty that the facts must always conform to logic and arithmetic.
- 
- To say that logic and arithmetic are contributed by u s does not account for this. Our nature is as much a fact of the existing world as anything, and there can be no certainty that it will remain constant . It might happen, if Kant is right, that to-morrow our nature would so change as to make two and two become five. This possibility seems never to have occurred to him, yet it is one which utterly destroys the certainty and universality which he is anxious to vindicate for arithmetical propositions. It is true that this possibility, formally, is inconsistent with the Kantian view that time itself is a form imposed by the subject upon phenomena, so that our real Self is not in time and has no to-morrow. But he will still have to suppose that the time-order of phenomena is determined by characteristics of what is behind phenomena, and this suffices for the substance of our argument.
- 
+We are sure that facts always follow logic and math.
 
- 
-(Simplified)
- 
+Saying that logic and math come from us doesn’t explain this. Our nature is part of the world, and nothing guarantees it will always stay the same. If Kant is right, it could happen that tomorrow our nature changes so much that two plus two equals five.
+
+Kant never seems to think about this, but it completely destroys the surety and universal truth he wants to prove for math. It’s true this idea doesn’t fit with Kant’s view that time is something our mind adds to what we see, so our true self isn’t really inside time and has no tomorrow. But he still has to believe that the order of events depends on what’s behind those events, and that idea supports our main point.

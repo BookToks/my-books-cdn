@@ -1,12 +1,9 @@
-In like manner, a true belief cannot be called knowledge when it is deduced by a fallacious process of reasoning, even if the premisses from which it is deduced are true.
- 
- If I know that all Greeks are men and that Socrates was a man, and I infer that Socrates was a Greek, I cannot be said to know that Socrates was a Greek, because, although my premisses and my conclusion are true, the conclusion does not follow from the premisses.
- 
- But are we to say that nothing is knowledge except what is validly deduced from true premisses ? Obviously we cannot say this.
- 
- Such a definition is at once too wide and too narrow. In the first place, it is too wide, because it is not enough that our premisses should be true, they must also be known. The man who believes that Mr. Balfour was the late Prime Minister may proceed to draw valid deductions from the true premiss that the late Prime Minister's name began with a B, but he cannot be said to know the conclusions reached by these deductions. Thus we shall KNOWLEDGE AND ERROR 207 have to amend our definition by saying that knowledge is what is vaHdly deduced from known premisses.
- 
+A true belief isn’t real knowledge if it comes from bad reasoning, even if the starting facts are true.
 
- 
-(Simplified)
- 
+For example, if I know that all Greeks are men and that Socrates was a man, but I guess that Socrates was Greek, I don’t actually know that. Even though my facts and conclusion are true, the conclusion doesn’t logically follow from the facts.
+
+But should we say that knowledge only comes from correct reasoning based on true facts? Obviously, that’s not right.
+
+This idea is both too broad and too narrow. First, it’s too broad because it’s not enough for the facts to be true — we also have to actually know those facts. For example, if someone believes Mr. Balfour was the Prime Minister and uses the true fact that the Prime Minister’s name starts with B to make a conclusion, they still don’t really know the conclusion.
+
+So, we need to change the definition and say that knowledge is what you get from correct reasoning based on facts you actually know.

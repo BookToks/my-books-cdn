@@ -1,8 +1,7 @@
-A body of individually probable opinions, if they are mutually coherent, become more probable than any one of them would be individually. It is in this way that many scientific hypotheses acquire their probability. They fit into a coherent system of probable opinions, and thus become more probable than they would be in isolation. The same thing applies to general philosophical hypotheses. Often in a single case such hypotheses may seem highly doubtful, while yet, when we consider the order and coherence which they introduce into a mass of probable opinion, they become pretty nearly certain. This applies, in particular, to such matters as the distinction between dreams and waking life. If our dreams, night after night, were as coherent one with another as our days, we should hardly know whether to believe the dreams or the waking life.
- 
- As it is, the test of coherence condemns the dreams and confirms the waking life. But this test, though it increases probability KNOWLEDGE AND ERROR 219 wnere it is successful, never gives absolute certainty, unless there is certainty already at some point in the coherent system.
- 
+When a group of opinions all make sense together, they become more believable than if you just look at each opinion by itself. This is how many scientific ideas become more likely to be true. They fit well with other ideas that also seem likely, so they become more believable than if they stood alone.
 
- 
-(Simplified)
- 
+The same thing happens with big philosophical ideas. Sometimes, one idea might seem really doubtful on its own, but when you see how it helps explain a lot of other ideas that make sense together, it starts to seem almost definitely true. This is especially true for things like telling the difference between dreams and real life.
+
+If our dreams were as organized and connected as our days, it would be hard to know if we should trust the dreams or the real world. But since the test of how well things fit together shows that dreams are less connected, we trust waking life more.
+
+However, this test of fitting ideas together only makes something more likely to be true. It doesn’t give us 100% certainty unless we already have something we know for sure in the system.
