@@ -1,16 +1,11 @@
-This is not the first time I’ve encountered this formulaic conception of productivity.
- 
- It first came to my attention when I was researching my second book, How to Become a Straight-A Student, many years earlier. During that research process, I interviewed around fifty ultra-high-scoring college undergraduates from some of the country’s most competitive schools. Something I noticed in these interviews is that the very best students often studied less than the group of students right below them on the GPA rankings. One of the explanations for this phenomenon turned out to be the formula detailed earlier: The best students understood the role intensity plays in productivity and therefore went out of their way to maximize their concentration—radically reducing the time required to prepare for tests or write papers, without diminishing the quality of their results.
- 
- The example of Adam Grant implies that this intensity formula applies beyond just undergraduate GPA and is also relevant to other cognitively demanding tasks. But why would this be? An interesting explanation comes from Sophie Leroy, a business professor at the University of Minnesota. In a 2009 paper, titled, intriguingly, “Why Is It So Hard to Do My Work?,” Leroy introduced an effect she called attention residue.
- 
- In the introduction to this paper, she noted that other researchers have studied the effect of multitasking—trying to accomplish multiple tasks simultaneously—on performance, but that in the modern knowledge work office, once you got to a high enough level, it was more common to find people working on multiple projects sequentially: “Going from one meeting to the next, starting to work on one project and soon after having to transition to another is just part of life in organizations,” Leroy explains.
- 
- The problem this research identifies with this work strategy is that when you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task A before moving on, your attention remains divided for a while.
- 
- Leroy studied the effect of this attention residue on performance by forcing task switches in the laboratory. In one such experiment, for example, she started her subjects working on a set of word puzzles.
- 
+This isn’t the first time I’ve seen this idea of how productivity works.
 
- 
-(Simplified)
- 
+I first noticed it when I was researching my second book, How to Become a Straight-A Student, many years ago. I talked to about fifty top college students from some of the toughest schools. One thing I saw was that the very best students often studied less than the students just below them in grades. One reason for this was the formula I mentioned before: The best students knew how important focus is, so they worked hard to concentrate deeply. This helped them study or write papers faster without lowering their quality.
+
+The example of Adam Grant shows that this focus trick isn’t just for college grades but also helps with other hard thinking tasks. But why is that? A good answer comes from Sophie Leroy, a business professor at the University of Minnesota. In a 2009 paper called “Why Is It So Hard to Do My Work?,” she talked about something she named attention residue.
+
+At the start of her paper, she said other researchers looked at multitasking—doing many things at once—and how it affects work. But in today’s offices, especially for people in higher positions, it’s more common to work on several projects one after another. “Going from one meeting to the next, starting one project and soon switching to another is just part of life in organizations,” Leroy says.
+
+The problem with this way of working is that when you switch from Task A to Task B, your attention doesn’t follow right away. Some of your focus stays stuck on the first task. This leftover attention is worse if you didn’t work hard or set limits on Task A before switching, but even if you finish Task A, your focus is still split for a while.
+
+Leroy tested how this attention residue affects work by making people switch tasks in a lab. In one test, she had them start by doing word puzzles.

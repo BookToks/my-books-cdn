@@ -1,18 +1,13 @@
-And because these technologies change rapidly, this process of mastering hard things never ends: You must be able to do it quickly, again and again.
- 
- This ability to learn hard things quickly, of course, isn’t just necessary for working well with intelligent machines; it also plays a key role in the attempt to become a superstar in just about any field—even those that have little to do with technology. To become a world-class yoga instructor, for example, requires that you master an increasingly complex set of physical skills. To excel in a particular area of medicine, to give another example, requires that you be able to quickly master the latest research on relevant procedures. To summarize these observations more succinctly: If you can’t learn, you can’t thrive.
- 
- Now consider the second core ability from the list shown earlier: producing at an elite level. If you want to become a superstar, mastering the relevant skills is necessary, but not sufficient. You must then transform that latent potential into tangible results that people value. Many developers, for example, can program computers well, but David Hansson, our example superstar from earlier, leveraged this ability to produce Ruby on Rails, the project that made his reputation. Ruby on Rails required Hansson to push his current skills to their limit and produce unambiguously valuable and concrete results.
- 
- This ability to produce also applies to those looking to master intelligent machines.
- 
- It wasn’t enough for Nate Silver to learn how to manipulate large data sets and run statistical analyses; he needed to then show that he could use this skill to tease information from these machines that a large audience cared about. Silver worked with many stats geeks during his days at Baseball Prospectus, but it was Silver alone who put in the effort to adapt these skills to the new and more lucrative territory of election forecasting. This provides another general observation for joining the ranks of winners in our economy: If you don’t produce, you won’t thrive—no matter how skilled or talented you are.
- 
- Having established two abilities that are fundamental to getting ahead in our new, technology-disrupted world, we can now ask the obvious follow-up question: How does one cultivate these core abilities? It’s here that we arrive at a central thesis of this book: The two core abilities just described depend on your ability to perform deep work. If you haven’t mastered this foundational skill, you’ll struggle to learn hard things or produce at an elite level.
- 
- The dependence of these abilities on deep work isn’t immediately obvious; it requires a closer look at the science of learning, concentration, and productivity. The sections ahead provide this closer look, and by doing so will help this connection between deep work and economic success shift for you from unexpected to unimpeachable.
- 
+These technologies change really fast, so learning hard things is something you have to keep doing all the time. You need to be able to learn new stuff quickly, again and again.
 
- 
-(Simplified)
- 
+Being able to learn hard things fast isn’t just important for working with smart machines. It’s also key if you want to be amazing in almost any area—even ones not related to technology. For example, to be a top yoga teacher, you have to get really good at doing tricky physical moves. Or, if you want to be great in a certain medical field, you need to quickly learn the newest research and techniques. In short: If you can’t learn, you won’t do well.
+
+Now think about the second important skill: producing work at a top level. Just knowing the skills isn’t enough to be a superstar. You have to turn your skills into real results that people care about. Many programmers can code well, but David Hansson, a famous example, used his skills to create Ruby on Rails, a project that made him famous. To do this, Hansson had to push himself and make something clearly valuable.
+
+This skill of producing also matters when working with smart machines.
+
+Nate Silver didn’t just learn how to handle big data and do stats. He had to prove he could use those skills to find important information that lots of people wanted to know. At Baseball Prospectus, Silver worked with many stats experts, but he alone worked hard to use those skills to predict elections, which paid off more. This shows another important idea: If you don’t produce, you won’t succeed, no matter how good you are.
+
+Now that we know these two skills are super important in our tech-changed world, the next question is: How do you get better at them? This is the main idea of the book: Both skills depend on your ability to do “deep work.” If you can’t focus deeply, you’ll have a hard time learning hard things or doing great work.
+
+The link between deep work and these skills isn’t easy to see at first. To understand it, we need to look at how learning, focus, and productivity really work. The next parts will explain this, and they’ll help you see why deep work is so important for success.

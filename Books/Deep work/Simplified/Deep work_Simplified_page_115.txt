@@ -1,18 +1,15 @@
-), while “finish paper on broadcast lower bounds in time for upcoming conference submission” is too specific (it’s a onetime outcome). A good activity in this context would be something like: “regularly read and understand the cutting-edge results in my field.” The next step in this strategy is to consider the network tools you currently use. For each such tool, go through the key activities you identified and ask whether the use of the tool has a substantially positive impact, a substantially negative impact, or little impact on your regular and successful participation in the activity. Now comes the important decision: Keep using this tool only if you concluded that it has substantial positive impacts and that these outweigh the negative impacts.
- 
- To help illustrate this strategy in action, let’s consider a case study. For the purposes of this example, assume that Michael Lewis, if asked, would have produced the following goal and corresponding important activities for his writing career.
- 
- Professional Goal: To craft well-written, narrative-driven stories that change the way people understand the world.
- 
- Key Activities Supporting This Goal: • Research patiently and deeply.
- 
- • Write carefully and with purpose.
- 
- Now imagine that Lewis was using this goal to determine whether or not to use Twitter. Our strategy requires him to investigate Twitter’s impact on the key activities he listed that support his goal. There’s no convincing way to argue that Twitter would make Lewis substantially better at either of these activities. Deep research for Lewis, I assume, requires him to spend weeks and months getting to know a small number of sources (he’s a master of the long-form journalism skill of drawing out a source’s story over many sessions), and careful writing, of course, requires freedom from distraction. In both cases, Twitter at best has no real impact, and at worst could be substantially negative, depending on Lewis’s susceptibility to the service’s addictive attributes. The conclusion would therefore be that Lewis shouldn’t use Twitter.
- 
- You might argue at this point that confining our example to this single goal is artificial, as it ignores the areas where a service like Twitter has its best chance of contributing. For writers, in particular, Twitter is often presented as a tool to establish connections with your audience that ultimately lead to more sales. For a writer like Michael Lewis, however, marketing doesn’t likely merit its own goal when he assesses what’s important in his professional life.
- 
+Some goals are too specific, like “finish paper on broadcast lower bounds in time for upcoming conference submission,” because they only happen once. A better goal would be something like: “regularly read and understand the latest results in my field.” 
 
- 
-(Simplified)
- 
+The next step is to think about the tools you use, like apps or websites. For each tool, ask if it helps you a lot, hurts you a lot, or doesn’t really affect you when doing your important activities. Then decide: only keep using the tool if it helps you more than it hurts you.
+
+Let’s look at an example. Imagine Michael Lewis has this goal for his writing career: 
+
+Professional Goal: To write well-told stories that change how people see the world.
+
+Important Activities for This Goal:  
+• Research carefully and patiently.  
+• Write carefully and with purpose.
+
+Now, think about whether Twitter helps Michael with these activities. It’s hard to say Twitter makes him better at either one. Research for Michael means spending weeks or months talking to a few people and learning deeply. Writing carefully needs focus without distractions. Twitter probably doesn’t help, and might even hurt if he gets distracted by it. So, the conclusion is that Michael shouldn’t use Twitter.
+
+You might say this example is too narrow because it ignores other ways Twitter could help. For writers, Twitter is often seen as a way to connect with readers and sell more books. But for Michael Lewis, marketing isn’t an important enough goal to change his decision.

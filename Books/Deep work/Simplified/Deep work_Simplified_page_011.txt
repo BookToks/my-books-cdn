@@ -1,14 +1,9 @@
-The growing necessity of deep work is new. In an industrial economy, there was a small skilled labor and professional class for which deep work was crucial, but most workers could do just fine without ever cultivating an ability to concentrate without distraction. They were paid to crank widgets—and not much about their job would change in the decades they kept it. But as we shift to an information economy, more and more of our population are knowledge workers, and deep work is becoming a key currency—even if most haven’t yet recognized this reality.
- 
- Deep work is not, in other words, an old-fashioned skill falling into irrelevance.
- 
- It’s instead a crucial ability for anyone looking to move ahead in a globally competitive information economy that tends to chew up and spit out those who aren’t earning their keep. The real rewards are reserved not for those who are comfortable using Facebook (a shallow task, easily replicated), but instead for those who are comfortable building the innovative distributed systems that run the service (a decidedly deep task, hard to replicate). Deep work is so important that we might consider it, to use the phrasing of business writer Eric Barker, “the superpower of the 21st century.” We have now seen two strands of thought—one about the increasing scarcity of deep work and the other about its increasing value—which we can combine into the idea that provides the foundation for everything that follows in this book: The Deep Work Hypothesis: The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
- 
- This book has two goals, pursued in two parts. The first, tackled in Part 1, is to convince you that the deep work hypothesis is true. The second, tackled in Part 2, is to teach you how to take advantage of this reality by training your brain and transforming your work habits to place deep work at the core of your professional life. Before diving into these details, however, I’ll take a moment to explain how I became such a devotee of depth.
- 
- I’ve spent the past decade cultivating my own ability to concentrate on hard things. To understand the origins of this interest, it helps to know that I’m a theoretical computer scientist who performed my doctoral training in MIT’s famed Theory of Computation group—a professional setting where the ability to focus is considered a crucial occupational skill.
- 
+The need for deep work is something new. In the old industrial economy, only a small group of skilled workers really needed to focus deeply, while most people did okay without learning how to concentrate without distractions. They were paid to do simple tasks that didn’t change much over time. But now, as we move to an information economy, more people work with knowledge, and deep work is becoming super important—even if most don’t realize it yet.
 
- 
-(Simplified)
- 
+Deep work isn’t an old skill that’s no longer useful.
+
+It’s actually a very important skill for anyone who wants to succeed in today’s competitive world, where people who don’t work hard and focus can easily be left behind. The big rewards go to those who can create new and complex things, not just those who use easy, common tools like Facebook. Deep work is so valuable that some call it “the superpower of the 21st century.” We see two main ideas: deep work is becoming harder to find, but also more valuable. This leads to the Deep Work Hypothesis: being able to focus deeply is getting rarer and more important at the same time. So, people who learn this skill and make it a big part of their work will do really well.
+
+This book has two main goals. The first part will convince you that the Deep Work Hypothesis is true. The second part will teach you how to train your brain and change your work habits to make deep work a key part of your life. But before that, I want to share how I came to care so much about deep work.
+
+For the last ten years, I have worked on improving my ability to focus on difficult tasks. To explain why, you should know I’m a computer scientist who studied at MIT in a special group where being able to concentrate is super important.

@@ -1,18 +1,13 @@
-In more detail: The Any-Benefit Approach to Network Tool Selection: You’re justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you don’t use it.
- 
- The problem with this approach, of course, is that it ignores all the negatives that come along with the tools in question. These services are engineered to be addictive —robbing time and attention from activities that more directly support your professional and personal goals (such as deep work). Eventually, if you use these tools enough, you’ll arrive at the state of burned-out, hyperdistracted connectivity that plagued Baratunde Thurston and millions of others like him. It’s here that we encounter the true insidious nature of an any-benefit mind-set. The use of network tools can be harmful. If you don’t attempt to weigh pros against cons, but instead use any glimpse of some potential benefit as justification for unrestrained use of a tool, then you’re unwittingly crippling your ability to succeed in the world of knowledge work.
- 
- This conclusion, if considered objectively, shouldn’t be surprising. In the context of network tools, we’ve become comfortable with the any-benefit mind-set, but if we instead zoom out and consider this mind-set in the broader context of skilled labor, it suddenly seems a bizarre and ahistorical approach to choosing tools. In other words, once you put aside the revolutionary rhetoric surrounding all things Internet—the sense, summarized in Part 1, that you’re either fully committed to “the revolution” or a Luddite curmudgeon—you’ll soon realize that network tools are not exceptional; they’re tools, no different from a blacksmith’s hammer or an artist’s brush, used by skilled laborers to do their jobs better (and occasionally to enhance their leisure).
- 
- Throughout history, skilled laborers have applied sophistication and skepticism to their encounters with new tools and their decisions about whether to adopt them.
- 
- There’s no reason why knowledge workers cannot do the same when it comes to the Internet—the fact that the skilled labor here now involves digital bits doesn’t change this reality.
- 
- To help understand what this more careful tool curation might look like, it makes sense to start by talking to someone who makes a living working with (nondigital) tools and relies on a complex relationship with these tools to succeed. Fortunately for our purposes, I found just such an individual in a lanky English major turned successful sustainable farmer, named (almost too aptly), Forrest Pritchard.
- 
- Forrest Pritchard runs Smith Meadows, a family farm located an hour west of D.C.— one of many farms clustered in the valleys of the Blue Ridge Mountains. Soon after taking control of the land from his parents, as I learned, Pritchard moved the operation away from traditional monoculture crops and toward the then novel concept of grassfinished meat.
- 
+Here’s the deal: The Any-Benefit Approach to picking network tools means you’re okay using a tool if it might help you in any way or if you think you might lose out by not using it.
 
- 
-(Simplified)
- 
+The problem with this way of thinking is that it ignores the bad stuff that comes with these tools. They’re made to be addictive — stealing your time and focus from things that really help your goals, like deep work. If you use these tools too much, you might end up burned out and super distracted, like Baratunde Thurston and many others. This shows why the any-benefit mindset is dangerous. Using network tools can actually hurt you. If you only look for any small benefit and ignore the downsides, you could mess up your chances of doing well in knowledge work.
+
+If you think about it, this shouldn’t be surprising. We’re used to the any-benefit way when it comes to network tools, but if you step back and look at it like skilled workers do with their tools, it seems weird. Once you stop thinking about the internet as some big revolution where you’re either all in or totally against it, you’ll see that network tools are just tools. They’re no different from a blacksmith’s hammer or an artist’s brush—things skilled people use to do their jobs better or sometimes just for fun.
+
+Throughout history, skilled workers have been smart and careful about new tools before deciding to use them.
+
+There’s no reason why people working with knowledge can’t do the same with the internet—it’s still just a tool, even though it deals with digital stuff.
+
+To understand how to choose tools more carefully, it helps to talk to someone who works with regular tools every day and depends on them to succeed. Luckily, I found someone like that: Forrest Pritchard, a skinny English major who became a successful sustainable farmer.
+
+Forrest runs Smith Meadows, a family farm about an hour west of D.C., in the Blue Ridge Mountains. After taking over from his parents, he changed the farm from growing just one type of crop to focusing on grass-finished meat, which was a new idea back then.

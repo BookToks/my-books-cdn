@@ -1,14 +1,13 @@
-To simplify matters, when scheduling Internet use after work, you can allow timesensitive communication into your offline blocks (e.g., texting with a friend to agree on where you’ll meet for dinner), as well as time-sensitive information retrieval (e.g., looking up the location of the restaurant on your phone). Outside of these pragmatic exceptions, however, when in an offline block, put your phone away, ignore texts, and refrain from Internet usage. As in the workplace variation of this strategy, if the Internet plays a large and important role in your evening entertainment, that’s fine: Schedule lots of long Internet blocks. The key here isn’t to avoid or even to reduce the total amount of time you spend engaging in distracting behavior, but is instead to give yourself plenty of opportunities throughout your evening to resist switching to these distractions at the slightest hint of boredom.
- 
- One place where this strategy becomes particularly difficult outside work is when you’re forced to wait (for example, standing in line at a store). It’s crucial in these situations that if you’re in an offline block, you simply gird yourself for the temporary boredom, and fight through it with only the company of your thoughts. To simply wait and be bored has become a novel experience in modern life, but from the perspective of concentration training, it’s incredibly valuable.
- 
- To summarize, to succeed with deep work you must rewire your brain to be comfortable resisting distracting stimuli. This doesn’t mean that you have to eliminate distracting behaviors; it’s sufficient that you instead eliminate the ability of such behaviors to hijack your attention. The simple strategy proposed here of scheduling Internet blocks goes a long way toward helping you regain this attention autonomy.
- 
- Work Like Teddy Roosevelt If you attended Harvard College during the 1876–1877 school year, you would’ve likely noticed a wiry, mutton-chopped, brash, and impossibly energetic freshman named Theodore Roosevelt. If you then proceeded to befriend this young man, you would’ve soon noticed a paradox.
- 
- On the one hand, his attention might appear to be hopelessly scattered, spread over what one classmate called an “amazing array of interests”—a list that biographer Edmund Morris catalogs to contain boxing, wrestling, body building, dance lessons, poetry readings, and the continuation of a lifelong obsession with naturalism (Roosevelt’s landlord on Winthrop Street was not pleased with her young tenant’s tendency to dissect and stuff specimens in his rented room). This latter interest developed to the point that Roosevelt published his first book, The Summer Birds of the Adirondacks, in the summer after his freshman year.
- 
+To make things easier, when you plan your Internet time after work, it’s okay to use your phone for quick important stuff during your offline periods. For example, texting a friend to decide where to meet for dinner or looking up the restaurant’s location on your phone is fine. But besides these practical exceptions, when you’re supposed to be offline, put your phone away, don’t answer texts, and don’t use the Internet.
 
- 
-(Simplified)
- 
+Like at work, if the Internet is a big part of how you relax in the evening, that’s totally fine. Just make sure you plan long blocks of Internet time. The main idea isn’t to cut down how much time you spend on distractions but to give yourself lots of chances to practice not switching to them right away when you get bored.
+
+One time this can be really hard is when you have to wait, like standing in line at a store. If you’re in an offline block then, you need to get ready to feel a little bored and just sit with your thoughts. Waiting without doing anything is kind of a new thing these days, but it’s really good practice for training your focus.
+
+To wrap up, if you want to do deep work, you have to train your brain to handle distractions without always giving in. You don’t have to stop distractions completely; you just need to stop them from taking over your attention. Scheduling Internet time like this helps you get your focus back.
+
+Work Like Teddy Roosevelt
+
+If you went to Harvard College in 1876–1877, you probably would’ve noticed a skinny, loud, and super energetic freshman named Theodore Roosevelt. If you got to know him, you’d notice something surprising.
+
+On one hand, he seemed to be interested in everything. One classmate said he had an “amazing array of interests.” According to his biographer Edmund Morris, Roosevelt liked boxing, wrestling, working out, dance lessons, poetry readings, and was obsessed with studying nature. His landlord wasn’t happy that Roosevelt kept dissecting and stuffing animals in his room. Roosevelt was so into nature that he even published his first book, The Summer Birds of the Adirondacks, the summer after his freshman year.

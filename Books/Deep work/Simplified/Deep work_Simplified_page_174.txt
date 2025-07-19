@@ -1,6 +1,3 @@
-* In the United States, there are three ranks of professors: assistant, associate, and full. You’re typically hired as an assistant professor and promoted to associate professor when you receive tenure. Full professorship is something that usually requires many years to achieve after tenure, if you achieve it at all.
- 
+In the United States, there are three levels of professors: assistant, associate, and full. Usually, you start as an assistant professor.
 
- 
-(Simplified)
- 
+You get promoted to associate professor when you earn tenure. Becoming a full professor takes many years after tenure, and not everyone reaches it.
