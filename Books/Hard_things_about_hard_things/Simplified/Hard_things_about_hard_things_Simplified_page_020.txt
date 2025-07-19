@@ -1,9 +1,0 @@
-Making something work for millions of users was very different from making it work for just thousands. It was really complicated.
-
-I thought, there should be a company that does all this hard work for others.
-
-As we developed the idea, we came up with the idea of a computing cloud. The word "cloud" had been used before in phone systems to describe a smart system that handled all the tricky stuff like routing and billing. This way, you could just connect a simple device to the smart cloud and get all the smart features for free. We thought the same idea should be used in computing, so software developers wouldn’t have to worry about things like security, handling lots of users, or fixing problems. If you were going to build a cloud, it should be big and noticeable, and that’s how Loudcloud was created. The coolest thing about Loudcloud is the name itself because "cloud" wasn’t used before to describe a computing platform.
-
-We started the company and tried to get money to grow it. This was in 1999.
-
-My name is Sandeep Gautam.

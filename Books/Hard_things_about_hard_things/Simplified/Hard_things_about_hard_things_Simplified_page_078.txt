@@ -1,7 +1,0 @@
-When I first started working at Netscape, we found out that Microsoft’s new Web server had everything ours did, but it was five times faster and free. I quickly started working to change our server so we could still sell it. Mike Homer and I worked hard to make deals and buy other companies to add features to our server so we could compete.
-
-I was excited to share the plan with Bill Turpin, my engineering partner. But Bill looked at me like I was a kid who didn’t know much. He had fought Microsoft before at Borland and understood what I wanted to do, but he wasn’t convinced. He said, “Ben, those quick fixes you and Mike want are nice, but our server is five times slower. No quick fix will fix that. We’ll have to work hard and keep trying step by step.” That was a wake-up call.
-
-Because of Bill’s advice, we focused our engineers on making the server faster while also working on other improvements. We eventually made it faster than Microsoft’s and grew the server business to $400 million. We wouldn’t have done it without that steady hard work.
-
-I remembered that lesson for years. Six years later, when I was CEO of Opsware, our biggest rival, BladeLogic, kept winning big deals against us. We were a public company and losing was obvious to everyone. We had to win those deals to meet Wall Street’s expectations, so there was a lot of pressure. Many smart people suggested avoiding the tough fight: “Let’s make a simpler product for smaller customers.” “Let’s buy a company with easier tech.” “Let’s focus on service providers.”
